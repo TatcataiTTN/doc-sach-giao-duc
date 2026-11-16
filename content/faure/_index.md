@@ -8,8 +8,9 @@ edition: "UNESCO, xuất bản lần đầu 1972, tái bản 2013 (số trang th
 isbook: true
 color: "#245c7a"
 weight: 1
-blurb: "Báo cáo Faure của UNESCO: đề xuất giáo dục suốt đời làm khái niệm chủ đạo và hình dung một xã hội học tập. Đọc theo 9 chương và 2 phụ chương."
+blurb: "Báo cáo Faure của UNESCO: đề xuất giáo dục suốt đời làm khái niệm chủ đạo và hình dung một xã hội học tập. Đọc theo lời nói đầu, 9 chương và 2 phụ chương."
 plan:
+  - {part: "Mở đầu", key: preamble, title: "Lời nói đầu của Edgar Faure", pages: "xxi–xli"}
   - {part: "Phần I. Những phát hiện", key: ch01, title: "Chương 1. Vấn đề giáo dục", pages: "3–23"}
   - {key: ch02, title: "Chương 2. Tiến bộ và ngõ cụt", pages: "24–54"}
   - {key: ch03, title: "Chương 3. Giáo dục và xã hội", pages: "55–80"}
