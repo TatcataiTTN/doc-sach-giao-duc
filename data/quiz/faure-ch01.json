@@ -3,23 +3,23 @@
   "q": "Theo Faure, vì sao con người hiện đại sống được trong một môi trường ô nhiễm mà lẽ ra không thể giữ sức khoẻ?",
   "opts": [
    "Nhờ thuốc men và công nghệ y tế thay thế phần lớn vai trò của giáo dục trong việc bảo vệ con người khỏi các tác nhân có hại",
-   "Nhờ tri thức được truyền lại và làm giàu qua các thế hệ, tức nhờ giáo dục ngày càng rộng, chứ không phải nhờ khả năng thích nghi sinh học tăng lên",
    "Nhờ các chủng người đã có những thay đổi tiến hoá lớn từ thời tiền sử nên cơ thể hiện đại vốn bền bỉ hơn tổ tiên rất nhiều, cho nên ngày nay họ chịu được ô nhiễm mà tổ tiên xa xưa của họ chắc chắn không thể chịu nổi",
+   "Nhờ tri thức được truyền lại và làm giàu qua các thế hệ, tức nhờ giáo dục ngày càng rộng, chứ không phải nhờ khả năng thích nghi sinh học tăng lên",
    "Nhờ khả năng thích nghi sinh học của con người đã tăng đáng kể qua các thế hệ kể từ thời tiền sử, giúp cơ thể chống chịu tốt hơn, nhờ đó họ chịu đựng được các tác nhân độc hại trong không khí và nguồn nước ngày nay"
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Báo cáo gọi niềm tin vào sự thích nghi sinh học ngày càng tăng là \"ảo tưởng\" (mere illusion): các chủng người hầu như ít đổi về sinh học từ thời tiền sử. Con người tự bảo vệ được là nhờ tri thức truyền và làm giàu qua các thế hệ.",
   "src": "tr. 4"
  },
  {
   "q": "Theo báo cáo, điều gì gắn chặt với việc hình thành cấu trúc nhà trường?",
   "opts": [
-   "Việc hệ thống hoá và ngày càng dùng nhiều chữ viết, vì học đọc đòi hỏi một người thầy cùng nhóm học trò trong một lớp học",
    "Sự ra đời của nhà nước dân tộc hiện đại, vốn cần một bộ máy riêng để đào tạo công chức và quân nhân cho mình, nên ngay từ đầu nó gắn với bộ máy hành chính của nhà nước chứ không gắn với chữ viết",
    "Nhu cầu đào tạo công nhân cho các nhà máy trong cách mạng công nghiệp, khi sản xuất hàng loạt cần lao động có kỷ luật",
-   "Việc phát minh máy in ở châu Âu, vốn làm sách phổ biến đến mức bắt buộc phải lập trường để dạy mọi người đọc, nên nhà trường ra đời như một phản ứng trực tiếp trước những nhu cầu sản xuất đó"
+   "Việc phát minh máy in ở châu Âu, vốn làm sách phổ biến đến mức bắt buộc phải lập trường để dạy mọi người đọc, nên nhà trường ra đời như một phản ứng trực tiếp trước những nhu cầu sản xuất đó",
+   "Việc hệ thống hoá và ngày càng dùng nhiều chữ viết, vì học đọc đòi hỏi một người thầy cùng nhóm học trò trong một lớp học"
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Báo cáo nói nhà trường hình thành dần ở mọi loại xã hội, qua các giai đoạn tương tự, gắn với việc hệ thống hoá và dùng nhiều chữ viết. Máy in và công nghiệp hoá là các giai đoạn muộn hơn, chỉ làm giáo dục lan rộng.",
   "src": "tr. 6"
  },
@@ -38,12 +38,12 @@
  {
   "q": "\"Giáo dục đi trước\" (education precedes) trong báo cáo có nghĩa là gì?",
   "opts": [
-   "Giáo dục luôn phải hoàn thành trước thì nền kinh tế mới có thể bắt đầu phát triển, và điều này đã đúng từ hàng thế kỷ nay, điều mà lịch sử giáo dục của các nước công nghiệp đầu tiên đã luôn xác nhận",
    "Lần đầu tiên, phát triển giáo dục trên quy mô toàn thế giới có xu hướng đi trước phát triển kinh tế, thay vì theo sau tăng trưởng",
+   "Giáo dục luôn phải hoàn thành trước thì nền kinh tế mới có thể bắt đầu phát triển, và điều này đã đúng từ hàng thế kỷ nay, điều mà lịch sử giáo dục của các nước công nghiệp đầu tiên đã luôn xác nhận",
    "Giáo dục đại học của một nước phải được xây dựng xong trước khi nước đó có thể mở rộng hệ thống giáo dục tiểu học của mình, theo một trình tự mà người ta coi là quy luật chung của mọi hệ thống giáo dục",
    "Trẻ em ở các nước phát triển được bắt đầu đi học sớm hơn so với trẻ em ở các nước đang phát triển trong cùng một thời kỳ"
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Faure nói hàng thế kỷ giáo dục thường đi sau tăng trưởng kinh tế; nay lần đầu tiên xu hướng đảo ngược, xuất hiện trước ở Nhật, Liên Xô và Mỹ rồi nhiều nước đang phát triển theo.",
   "src": "tr. 12"
  },
@@ -86,12 +86,12 @@
  {
   "q": "Từ phần điểm lại lịch sử, Faure kết luận lịch sử giáo dục đề ra cho tương lai nhiệm vụ kép nào?",
   "opts": [
-   "Phục hồi những giá trị bị lãng quên hoặc bị phá huỷ, đồng thời đổi mới giáo dục, cả hai cùng một lúc",
    "Xoá bỏ hoàn toàn di sản thực dân, đồng thời thay mọi hệ thống giáo dục cũ bằng một mô hình duy nhất dùng chung toàn cầu",
    "Giữ nguyên các cấu trúc truyền thống đã được thử thách qua nhiều thế kỷ, đồng thời mở rộng quy mô cho số đông người học",
+   "Phục hồi những giá trị bị lãng quên hoặc bị phá huỷ, đồng thời đổi mới giáo dục, cả hai cùng một lúc",
    "Phổ cập giáo dục tiểu học cho mọi trẻ em, đồng thời rút ngắn giáo dục đại học để tập trung nguồn lực vào cấp thấp hơn"
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Câu kết phần Findings ở tr. 12: lịch sử giáo dục \"dường như đề ra nhiệm vụ kép cho tương lai: phục hồi và đổi mới, cùng một lúc\".",
   "src": "tr. 12"
  },
@@ -100,10 +100,10 @@
   "opts": [
    "Mức độ cần thiết của việc xoá bỏ nhà trường, khả năng thay thế giáo viên bằng máy móc, và cách xã hội thay giáo dục chính quy bằng tự học, cùng với những thay đổi cần có ở bậc đại học",
    "Vai trò của giáo hội trong giáo dục, ảnh hưởng của chủ nghĩa thực dân với chương trình, và cách đo tác động của phong trào sinh viên, cùng với việc xã hội phải điều chỉnh lại cách trả lương cho giáo viên",
-   "Khả năng của hệ thống trường đáp ứng nhu cầu toàn cầu, khả năng cấp nguồn lực khổng lồ, và khả năng tiếp tục phát triển theo đường lối và nhịp độ cũ",
-   "Sự khác nhau giữa nước giàu và nước nghèo về chương trình học, về trình độ giáo viên, và về cách trường học được quản lý hằng ngày"
+   "Sự khác nhau giữa nước giàu và nước nghèo về chương trình học, về trình độ giáo viên, và về cách trường học được quản lý hằng ngày",
+   "Khả năng của hệ thống trường đáp ứng nhu cầu toàn cầu, khả năng cấp nguồn lực khổng lồ, và khả năng tiếp tục phát triển theo đường lối và nhịp độ cũ"
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Tr. 22–23: ba câu hỏi là (1) hệ thống trường có đáp ứng nhu cầu giáo dục toàn thế giới không, (2) có thể cấp cho chúng nguồn lực khổng lồ cần thiết không, (3) có tiếp tục phát triển theo đường lối và nhịp độ đã theo được không.",
   "src": "tr. 22–23"
  }
