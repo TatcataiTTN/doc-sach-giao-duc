@@ -2,48 +2,48 @@
  {
   "q": "Theo Phụ chương I, vì sao nhiều nước kém phát triển tin rằng mục tiêu duy nhất của họ là \"đuổi kịp\" các nước phát triển?",
   "opts": [
-   "Vì các nước công nghiệp đã chứng minh bằng số liệu thống kê rằng con đường của họ là con đường duy nhất cho phép tăng thu nhập quốc dân một cách bền vững",
    "Vì các nước nghèo không còn lựa chọn nào khác sau khi đã thử nghiệm nhiều mô hình phát triển độc lập và đều thất bại hoàn toàn trong thập niên 1960, theo cách nhiều tài liệu giáo dục so sánh thời đó vẫn thường mô tả",
    "Vì cả nước giàu lẫn nước nghèo cùng tin rằng con đường tiến bộ tất yếu phải đi theo hướng các nước phát triển chính đã đi, chỉ khác là nhanh hơn một cách nhân tạo",
-   "Vì các tổ chức quốc tế đã buộc các nước nghèo phải ký cam kết theo đúng kế hoạch của các nước công nghiệp, và việc đi trệch khỏi kế hoạch bị coi là vi phạm"
+   "Vì các tổ chức quốc tế đã buộc các nước nghèo phải ký cam kết theo đúng kế hoạch của các nước công nghiệp, và việc đi trệch khỏi kế hoạch bị coi là vi phạm",
+   "Vì các nước công nghiệp đã chứng minh bằng số liệu thống kê rằng con đường của họ là con đường duy nhất cho phép tăng thu nhập quốc dân một cách bền vững"
   ],
-  "a": 2,
+  "a": 1,
   "exp": "Tr. 81: niềm tự hào của nước công nghiệp và sự ngưỡng mộ xen ghen tị của nước nghèo khiến cả hai tin rằng con đường tiến bộ phải theo hướng các nước phát triển đã đi, tức \"đuổi kịp\" bằng cách đi qua từng giai đoạn của họ một cách nhân tạo nhanh.",
   "src": "tr. 81"
  },
  {
   "q": "Báo cáo nói về niềm tin \"càng đào tạo kỹ thuật nhiều càng tốt\" như thế nào?",
   "opts": [
-   "Tình trạng thiếu nhân lực kỹ thuật đã giảm hoặc hết, trong khi số người có bằng cấp thất nghiệp thường không đổi hay còn tăng, nên cần đào tạo nghề không dựa vào nhu cầu tức thời",
    "Niềm tin ấy nên được thay bằng việc đào tạo hoàn toàn theo ngành nhân văn, vì ngành nhân văn mới bảo đảm được việc làm lâu dài cho người học sau khi tốt nghiệp",
+   "Tình trạng thiếu nhân lực kỹ thuật đã giảm hoặc hết, trong khi số người có bằng cấp thất nghiệp thường không đổi hay còn tăng, nên cần đào tạo nghề không dựa vào nhu cầu tức thời",
    "Niềm tin ấy hoàn toàn đúng, vì nhu cầu về nhân sự kỹ thuật là vô hạn và mọi dư thừa trên thị trường lao động sẽ được hấp thụ tự động khi nền kinh tế công nghiệp hoá",
    "Niềm tin ấy chỉ đúng ở các nước đang phát triển, còn ở các nước công nghiệp thì đào tạo kỹ thuật đã đạt mức bão hoà và nên giảm hẳn quy mô trong thập niên tới, như một số nhà bình luận về giáo dục thời bấy giờ từng lập luận"
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Tr. 82: sau mười năm thiếu nhân lực lành nghề, người ta kết luận cầu về nhân sự kỹ thuật là vô hạn; nhưng nay thiếu hụt đã giảm hoặc hết, thất nghiệp của người có bằng cấp thường không đổi hay tăng. Do đó cần hệ thống đào tạo nghề không chỉ dựa vào nhu cầu tức thời và nền chuẩn bị phổ thông để có tính cơ động nghề nghiệp.",
   "src": "tr. 82"
  },
  {
   "q": "\"Giáo điều ít bị nghi ngờ nhất trong giáo dục\" theo Faure là gì, và ông nhận định gì về nó?",
   "opts": [
-   "Giáo dục luôn cần bằng cấp để được công nhận; ông nhận định rằng bằng cấp sẽ trở thành thước đo duy nhất của năng lực trong mọi lĩnh vực nghề nghiệp",
    "Giáo dục luôn phải do nhà nước đảm nhận; ông nhận định rằng điều đó đúng và vai trò của nhà nước trong giáo dục sẽ ngày càng tăng trong những thập niên sắp tới",
-   "Giáo dục bằng nhà trường (Education equals School); nhà trường vẫn phát triển nhưng tầm quan trọng của nó so với các phương tiện giáo dục khác đang giảm, không tăng",
-   "Giáo dục chỉ dành cho tuổi trẻ; ông nhận định rằng điều này đúng và việc giáo dục người lớn chỉ nên là hoạt động phụ trợ không cần đầu tư đáng kể, điều mà nhiều người làm chính sách giáo dục khi ấy cũng thường nêu"
+   "Giáo dục luôn cần bằng cấp để được công nhận; ông nhận định rằng bằng cấp sẽ trở thành thước đo duy nhất của năng lực trong mọi lĩnh vực nghề nghiệp",
+   "Giáo dục chỉ dành cho tuổi trẻ; ông nhận định rằng điều này đúng và việc giáo dục người lớn chỉ nên là hoạt động phụ trợ không cần đầu tư đáng kể, điều mà nhiều người làm chính sách giáo dục khi ấy cũng thường nêu",
+   "Giáo dục bằng nhà trường (Education equals School); nhà trường vẫn phát triển nhưng tầm quan trọng của nó so với các phương tiện giáo dục khác đang giảm, không tăng"
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Tr. 82–83: \"Education equals School\" là giáo điều ít bị nghi ngờ nhất. Về tuyệt đối nhà trường vẫn phát triển, nhưng tầm quan trọng của nó so với các phương tiện giáo dục và giao tiếp giữa các thế hệ không tăng mà giảm.",
   "src": "tr. 82–83"
  },
  {
   "q": "Faure cho rằng nhà trường đồng thời có hai mặt: điều nào sau đây báo cáo nêu ra về nó?",
   "opts": [
-   "Nó vừa là nơi duy nhất truyền tri thức khoa học, vừa là nơi không thể dạy kỹ năng thực hành, nên cần được bổ sung bởi các cơ sở đào tạo nghề riêng biệt",
    "Nó vừa tạo thống nhất quốc gia và là con đường thoát nghèo, vừa tăng cường giới tinh hoa, ưu ái tầng lớp có đặc quyền và có thể nuôi cạnh tranh thiếu lành mạnh",
+   "Nó vừa giúp trẻ em phát triển tự do, vừa làm suy yếu vai trò của gia đình, hai điều này mâu thuẫn trực tiếp với nhau và không thể dung hoà được trong một hệ thống",
    "Nó vừa phổ cập cho mọi trẻ em ở mọi vùng, vừa luôn đảm bảo chất lượng ngang nhau, nên không cần có thêm chính sách hỗ trợ cho nhóm học sinh yếu thế",
-   "Nó vừa giúp trẻ em phát triển tự do, vừa làm suy yếu vai trò của gia đình, hai điều này mâu thuẫn trực tiếp với nhau và không thể dung hoà được trong một hệ thống"
+   "Nó vừa là nơi duy nhất truyền tri thức khoa học, vừa là nơi không thể dạy kỹ năng thực hành, nên cần được bổ sung bởi các cơ sở đào tạo nghề riêng biệt"
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Tr. 83: giáo dục chung tạo thống nhất quốc gia ở nhiều nước và nhà trường là con đường thoát khỏi thiếu thốn nông thôn; nhưng nó cũng củng cố tinh hoa, ưu ái tầng lớp có đặc quyền, và dạy đoàn kết trong khi phương pháp lại có thể nuôi cạnh tranh thiếu lành mạnh.",
   "src": "tr. 83"
  },
@@ -51,9 +51,9 @@
   "q": "Theo báo cáo, hai quan niệm hẹp nào về quá trình giáo dục bị thách thức bởi nghiên cứu tâm lý hiện đại và thay đổi nhanh?",
   "opts": [
    "Giáo dục chỉ giới hạn từ thơ ấu đến trưởng thành, và học xong là có đủ tri thức, kỹ năng dùng cho phần đời còn lại",
-   "Giáo dục phải miễn phí hoàn toàn ở mọi cấp, và người học chỉ nên chịu trách nhiệm về chi phí khi họ chọn học các môn chuyên sâu sau khi hết giáo dục bắt buộc",
    "Giáo dục luôn phải gắn với tôn giáo, và mọi tri thức quan trọng nhất đều do người lớn tuổi truyền lại cho người trẻ theo cách truyền khẩu thông thường",
-   "Giáo dục chỉ có thể diễn ra trong lớp học, và phương pháp thầy giảng trò nghe là phương pháp duy nhất cho phép bảo đảm kỷ luật và kết quả học tập tốt"
+   "Giáo dục chỉ có thể diễn ra trong lớp học, và phương pháp thầy giảng trò nghe là phương pháp duy nhất cho phép bảo đảm kỷ luật và kết quả học tập tốt",
+   "Giáo dục phải miễn phí hoàn toàn ở mọi cấp, và người học chỉ nên chịu trách nhiệm về chi phí khi họ chọn học các môn chuyên sâu sau khi hết giáo dục bắt buộc"
   ],
   "a": 0,
   "exp": "Tr. 83–84: người ta vẫn tin giáo dục giới hạn từ thơ ấu đến trưởng thành và nhằm cho tri thức đủ dùng cả đời. Nghiên cứu tâm lý đặt dấu hỏi về quan niệm thứ nhất; thay đổi gia tốc đang giết chết quan niệm thứ hai.",
