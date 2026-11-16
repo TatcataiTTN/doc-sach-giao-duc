@@ -1,0 +1,32 @@
+{{/* Cây mục lục kiểu Read the Docs, chạy theo .Params.plan của cuốn sách.
+     Mục đã viết = link; mục chưa viết = mờ "Sắp có" (không tạo link 404). Chỉ mở rộng chương đang đọc. */}}
+{{ $book := .book }}{{ $cur := .page }}
+<ul class="tree">
+  {{ $part := "" }}
+  {{ range $book.Params.plan }}
+    {{ with .part }}{{ if ne . $part }}<li class="caption">{{ . }}</li>{{ $part = . }}{{ end }}{{ end }}
+    {{ $p := site.GetPage (printf "/%s/%s" $book.Section .key) }}
+    {{ if not $p }}
+      <li class="lv1 soon"><span>{{ .title }} <em>· Sắp có</em></span></li>
+    {{ else if not $p.IsSection }}
+      <li class="lv1{{ if eq $p.Permalink $cur.Permalink }} current{{ end }}"><a href="{{ $p.RelPermalink }}" data-key="{{ $p.RelPermalink }}">{{ $p.Params.short | default $p.Title }}</a></li>
+    {{ else }}
+      {{ $ch := $p }}
+      {{ $open := or (eq $ch.Permalink $cur.Permalink) ($cur.IsDescendant $ch) }}
+      <li class="lv1{{ if $open }} open{{ end }}">
+        <a href="{{ $ch.RelPermalink }}" data-key="{{ $ch.RelPermalink }}">{{ $ch.Params.short | default $ch.Title }}</a>
+        {{ if $open }}
+        <ul>
+          <li class="lv2{{ if eq $ch.Permalink $cur.Permalink }} current{{ end }}"><a href="{{ $ch.RelPermalink }}" data-key="{{ $ch.RelPermalink }}">Vấn đề: {{ $ch.Params.problem }}</a></li>
+          {{ range $ch.RegularPages.ByWeight }}
+          <li class="lv2{{ if eq .Permalink $cur.Permalink }} current{{ end }}"><a href="{{ .RelPermalink }}" data-key="{{ .RelPermalink }}">{{ with .Params.num }}{{ . }} {{ end }}{{ .Params.short | default .Title }}</a>
+            {{ if eq .Permalink $cur.Permalink }}{{ $hs := slice }}{{ range .Fragments.Headings }}{{ range .Headings }}{{ $hs = $hs | append . }}{{ end }}{{ end }}
+            {{ if $hs }}<ul class="lv3">{{ range $hs }}<li><a href="#{{ .ID }}">{{ .Title | safeHTML }}</a></li>{{ end }}</ul>{{ end }}{{ end }}
+          </li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </li>
+    {{ end }}
+  {{ end }}
+</ul>

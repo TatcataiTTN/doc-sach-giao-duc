@@ -1,0 +1,10 @@
+{{ $p := .page }}{{ $book := $p.FirstSection }}
+{{ $list := partial "readorder.html" $book }}
+{{ $idx := -1 }}
+{{ range $i, $x := $list }}{{ if eq $x.Permalink $p.Permalink }}{{ $idx = $i }}{{ end }}{{ end }}
+{{ if ge $idx 0 }}
+<nav class="pn pn-{{ .where }}" aria-label="Điều hướng trang">
+  {{ if gt $idx 0 }}{{ with index $list (sub $idx 1) }}<a class="prev" href="{{ .RelPermalink }}" rel="prev"><span>← Trước</span><b>{{ .Params.short | default .Title }}</b></a>{{ end }}{{ else }}<span></span>{{ end }}
+  {{ if lt (add $idx 1) (len $list) }}{{ with index $list (add $idx 1) }}<a class="next" href="{{ .RelPermalink }}" rel="next"><span>Tiếp →</span><b>{{ .Params.short | default .Title }}</b></a>{{ end }}{{ end }}
+</nav>
+{{ end }}

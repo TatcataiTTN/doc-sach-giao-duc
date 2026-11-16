@@ -1,0 +1,21 @@
+baseURL = "/"
+locale = "vi"
+defaultContentLanguage = "vi"
+title = "Đọc sách Khoa học Giáo dục"
+relativeURLs = true
+enableRobotsTXT = true
+summaryLength = 40
+
+[params]
+  description = "Ghi chép đọc sách bằng tiếng Việt: ba cuốn kinh điển về khoa học giáo dục, đọc theo series và theo chương."
+
+[taxonomies]
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3

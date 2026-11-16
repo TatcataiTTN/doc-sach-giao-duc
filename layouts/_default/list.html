@@ -1,0 +1,43 @@
+{{ define "main" }}
+{{ if eq .Permalink .FirstSection.Permalink }}
+  {{/* Trang bìa của một cuốn sách */}}
+  <article class="bookhome">
+    <p class="eyebrow">{{ .Params.author }} · {{ .Params.year }}</p>
+    <h1>{{ .Title }}</h1>
+    <p class="title-en">{{ .Params.title_en }}</p>
+    {{ with .Params.edition }}<p class="edition">Ấn bản dùng để đọc: {{ . }}</p>{{ end }}
+    {{ .Content }}
+    <h2 id="muc-luc">Mục lục</h2>
+    <div class="toc-full">
+      {{ $book := . }}{{ $part := "" }}
+      {{ range .Params.plan }}
+        {{ with .part }}{{ if ne . $part }}<p class="caption">{{ . }}</p>{{ $part = . }}{{ end }}{{ end }}
+        {{ $p := site.GetPage (printf "/%s/%s" $book.Section .key) }}
+        <ul><li>
+        {{ if not $p }}<span class="soon">{{ .title }} · <em>Sắp có</em></span> {{ with .pages }}<span class="pg">tr. {{ . }}</span>{{ end }}
+        {{ else }}<a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a> {{ with $p.Params.pages }}<span class="pg">tr. {{ . }}</span>{{ end }}
+          {{ if $p.IsSection }}<ul>
+            <li><a href="{{ $p.RelPermalink }}">Vấn đề: {{ $p.Params.problem }}</a></li>
+            {{ range $p.RegularPages.ByWeight }}<li><a href="{{ .RelPermalink }}">{{ with .Params.num }}{{ . }} {{ end }}{{ .Params.short | default .Title }}</a></li>{{ end }}
+          </ul>{{ end }}
+        {{ end }}
+        </li></ul>
+      {{ end }}
+    </div>
+  </article>
+{{ else }}
+  {{/* Trang mở chương = "Vấn đề" */}}
+  <article class="chapter">
+    <p class="eyebrow">{{ with .Params.part }}{{ . }} · {{ end }}tr. {{ .Params.pages }}</p>
+    <h1>{{ .Title }}</h1>
+    <p class="title-en">{{ .Params.title_en }}</p>
+    <h2 class="problem-h">Vấn đề: {{ .Params.problem }}</h2>
+    {{ .Content }}
+    <h2>Trong chương này</h2>
+    <ul class="chapter-toc">
+      {{ range .RegularPages.ByWeight }}<li><a href="{{ .RelPermalink }}"><span class="num">{{ .Params.num | default "★" }}</span> {{ .Title }}</a>{{ with .Params.pages }} <span class="pg">tr. {{ . }}</span>{{ end }}</li>{{ end }}
+    </ul>
+  </article>
+{{ end }}
+<button class="mark" data-mark>Đánh dấu đã đọc trang này</button>
+{{ end }}

@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="shelf-wrap narrow">
+  <p class="eyebrow"><a href="{{ "/" | relURL }}">← Tủ sách</a></p>
+  <h1>{{ .Title }}</h1>
+  <form class="hero-search" id="searchForm" role="search"><input type="search" name="q" id="q" placeholder="Nhập từ khoá tiếng Việt hoặc tiếng Anh…" autofocus aria-label="Tìm kiếm"></form>
+  <p class="muted" id="searchInfo">Đang tải chỉ mục…</p>
+  <ol class="results" id="results"></ol>
+</div>
+{{ end }}

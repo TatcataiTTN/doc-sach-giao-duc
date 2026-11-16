@@ -1,0 +1,37 @@
+{{ define "main" }}
+<div class="shelf-wrap">
+<header class="hero">
+  <div class="tools"><button data-act="theme" title="Đổi giao diện sáng/tối">◐</button></div>
+  <p class="eyebrow">Tủ sách · Khoa học Giáo dục</p>
+  <h1>{{ site.Title }}</h1>
+  <p class="lede">{{ site.Params.description }} Mỗi cuốn được chia như một cuốn sách mở: chương bắt đầu bằng <em>Vấn đề</em>, đi qua từng mục có số trang gốc, và khép lại bằng <em>Góc nhìn</em> với thuật ngữ, trích dẫn và câu hỏi tự kiểm tra.</p>
+  <form class="hero-search" action="{{ "tim-kiem/" | relURL }}" method="get" role="search">
+    <input type="search" name="q" placeholder="Tìm khái niệm, tác giả, thuật ngữ… (tiếng Việt hoặc tiếng Anh)" aria-label="Tìm kiếm">
+  </form>
+</header>
+<section class="shelf">
+  {{ range where site.Sections.ByWeight "Params.isbook" true }}
+  {{ $book := . }}
+  {{ $list := partial "readorder.html" $book }}
+  <a class="bookcard" href="{{ .RelPermalink }}" style="--c: {{ .Params.color | default "#245c7a" }}" data-book="{{ .RelPermalink }}">
+    <div class="spine"><span>{{ .Params.year }}</span></div>
+    <div class="bc-body">
+      <h2>{{ .Params.short | default .Title }}</h2>
+      <p class="bc-en">{{ .Params.title_en }}</p>
+      <p class="bc-au">{{ .Params.author }}</p>
+      <p class="bc-desc">{{ .Params.blurb }}</p>
+      {{ $n := 0 }}{{ range .Params.plan }}{{ if site.GetPage (printf "/%s/%s" $book.Section .key) }}{{ $n = add $n 1 }}{{ end }}{{ end }}
+      <div class="bc-meta"><span>{{ len .Params.plan }} mục trong mục lục</span><span>{{ if $n }}đã viết {{ $n }}{{ else }}chưa viết mục nào{{ end }}</span></div>
+      <div class="bar" data-total="{{ len $list }}" data-keys="{{ range $list }}{{ .RelPermalink }} {{ end }}"><i></i></div>
+      <p class="bar-label">Chưa đọc trang nào</p>
+    </div>
+  </a>
+  {{ end }}
+</section>
+<section class="home-links">
+  <a href="{{ "thuat-ngu/" | relURL }}"><b>Bảng thuật ngữ EN–VI</b><span>Gom từ mọi chương, lọc theo cuốn, tìm bằng cả hai thứ tiếng.</span></a>
+  <a href="{{ "tim-kiem/" | relURL }}"><b>Tìm kiếm toàn văn</b><span>Tìm trong mọi trang ghi chép của cả ba cuốn.</span></a>
+</section>
+<footer class="foot center"><p>Ghi chép đọc sách bằng tiếng Việt, diễn giải lại theo từng mục; không phải bản dịch nguyên văn. Bản quyền nội dung gốc thuộc về tác giả và nhà xuất bản. Đây là trang ghi chép học tập phi thương mại; sách gốc là tác phẩm có bản quyền, nên hãy đọc bản gốc khi cần trích dẫn. Chủ sở hữu bản quyền muốn gỡ hoặc sửa nội dung có thể mở một <a href="https://github.com/TatcataiTTN/doc-sach-giao-duc/issues">issue</a> trên kho mã nguồn.</p></footer>
+</div>
+{{ end }}

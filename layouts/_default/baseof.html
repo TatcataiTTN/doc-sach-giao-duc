@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ with .FirstSection }}{{ if ne .Title $.Title }}{{ .Params.short | default .Title }} · {{ end }}{{ end }}{{ site.Title }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}{{ site.Params.description }}{{ end }}{{ end }}">
+<script>
+/* Đọc theme + cỡ chữ ngay đầu <head> để không bị "nháy" (pitfall 7.4) */
+try{var t=localStorage.getItem('dsgd-theme');if(t)document.documentElement.setAttribute('data-theme',t);
+var f=localStorage.getItem('dsgd-font');if(f)document.documentElement.style.setProperty('--fs',f+'px');}catch(e){}
+</script>
+<link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23245c7a'/%3E%3Cpath d='M14 18h16c3 0 4 2 4 4v26c0-2-1-3-4-3H14zM50 18H38c-3 0-4 2-4 4v26c0-2 1-3 4-3h12z' fill='%23fff'/%3E%3C/svg%3E">
+</head>
+<body class="{{ if or .IsHome .Params.standalone }}home{{ else }}book{{ end }}" data-key="{{ .RelPermalink }}">
+{{ if or .IsHome .Params.standalone }}
+  {{ block "main" . }}{{ end }}
+{{ else }}
+{{ $book := .FirstSection }}
+<div class="layout">
+  <nav class="side" id="side" aria-label="Mục lục">
+    <div class="side-head">
+      <a class="side-home" href="{{ "/" | relURL }}">← Tủ sách</a>
+      <a class="side-title" href="{{ $book.RelPermalink }}">{{ $book.Params.short | default $book.Title }}</a>
+      <div class="side-sub">{{ $book.Params.author }} · {{ $book.Params.year }}</div>
+      <form class="side-search" action="{{ "tim-kiem/" | relURL }}" method="get" role="search">
+        <input type="search" name="q" placeholder="Tìm trong cả tủ sách…" aria-label="Tìm kiếm">
+      </form>
+    </div>
+    {{ partial "booktree.html" (dict "book" $book "page" .) }}
+    <div class="side-foot">
+      <a href="{{ "thuat-ngu/" | relURL }}">Bảng thuật ngữ EN–VI</a>
+    </div>
+  </nav>
+  <div class="main">
+    <header class="topbar">
+      <button class="menu-btn" id="menuBtn" aria-label="Mở mục lục">☰</button>
+      <ol class="crumbs">
+        <li><a href="{{ "/" | relURL }}">Tủ sách</a></li>
+        {{ if and $book (ne $book.Permalink .Permalink) }}<li><a href="{{ $book.RelPermalink }}">{{ $book.Params.short | default $book.Title }}</a></li>{{ end }}
+        {{ with .Parent }}{{ if and (ne .Permalink $book.Permalink) (not .IsHome) }}<li><a href="{{ .RelPermalink }}">{{ .Params.short | default .Title }}</a></li>{{ end }}{{ end }}
+        <li aria-current="page">{{ .Params.short | default .Title }}</li>
+      </ol>
+      <div class="tools">
+        <button data-act="font-" title="Chữ nhỏ hơn">A−</button>
+        <button data-act="font+" title="Chữ lớn hơn">A+</button>
+        <button data-act="theme" title="Đổi giao diện sáng/tối">◐</button>
+      </div>
+    </header>
+    {{ partial "prevnext.html" (dict "page" . "where" "top") }}
+    <main class="doc">
+      {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "prevnext.html" (dict "page" . "where" "bottom") }}
+    <footer class="foot">
+      <p>Ghi chép đọc sách bằng tiếng Việt, diễn giải lại theo từng mục; không phải bản dịch nguyên văn. Bản quyền nội dung gốc thuộc về tác giả và nhà xuất bản. Số trang <code>[tr. N]</code> là số trang in của ấn bản ghi ở trang giới thiệu mỗi cuốn. Đây là trang ghi chép học tập phi thương mại; sách gốc là tác phẩm có bản quyền, nên hãy đọc bản gốc khi cần trích dẫn. Chủ sở hữu bản quyền muốn gỡ hoặc sửa nội dung có thể mở một <a href="https://github.com/TatcataiTTN/doc-sach-giao-duc/issues">issue</a> trên kho mã nguồn.</p>
+    </footer>
+  </div>
+</div>
+{{ end }}
+<script src="{{ "js/site.js" | relURL }}"></script>
+{{ block "scripts" . }}{{ end }}
+</body>
+</html>

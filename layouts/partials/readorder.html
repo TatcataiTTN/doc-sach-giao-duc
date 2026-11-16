@@ -1,0 +1,10 @@
+{{/* Danh sách trang theo thứ tự đọc tuyến tính, theo .Params.plan (bỏ qua mục chưa viết) */}}
+{{ $book := . }}
+{{ $list := slice $book }}
+{{ range $book.Params.plan }}
+  {{ with site.GetPage (printf "/%s/%s" $book.Section .key) }}
+    {{ $list = $list | append . }}
+    {{ if .IsSection }}{{ range .RegularPages.ByWeight }}{{ $list = $list | append . }}{{ end }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ return $list }}

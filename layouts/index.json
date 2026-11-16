@@ -1,0 +1,6 @@
+{{- $out := slice -}}
+{{- range site.Pages -}}{{- if and (not .IsHome) (not .Params.standalone) .Title -}}
+{{- $terms := slice -}}{{- range .Params.terms -}}{{- $terms = $terms | append (printf "%s %s" .en .vi) -}}{{- end -}}
+{{- $out = $out | append (dict "t" (printf "%s%s" (cond (isset .Params "num") (printf "%v " .Params.num) "") .Title) "en" (.Params.title_en | default "") "b" (.FirstSection.Params.short | default "") "c" (.Parent.Params.short | default "") "u" .RelPermalink "x" (printf "%s %s" (.Plain | replaceRE "\\s+" " ") (delimit $terms " ")) ) -}}
+{{- end -}}{{- end -}}
+{{- $out | jsonify -}}

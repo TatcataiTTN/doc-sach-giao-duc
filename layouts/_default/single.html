@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article class="section-page{{ if eq .Params.pagetype "perspective" }} perspective{{ end }}">
+  {{ with .Parent }}{{ if not (eq .Permalink $.FirstSection.Permalink) }}<p class="eyebrow">{{ .Params.short | default .Title }}{{ with $.Params.pages }} · tr. {{ . }}{{ end }}</p>{{ end }}{{ end }}
+  <h1>{{ with .Params.num }}<span class="num">{{ . }}</span> {{ end }}{{ .Title }}</h1>
+  {{ with .Params.title_en }}<p class="title-en">{{ . }}</p>{{ end }}
+  {{ with .Params.nomna }}<div class="box plain"><p class="box-t">Nói nôm na</p><p>{{ . | markdownify }}</p></div>{{ end }}
+  {{ if gt (len .Fragments.Headings) 0 }}{{ if ge (len .TableOfContents) 120 }}<details class="pagetoc"><summary>Mục trong trang</summary>{{ .TableOfContents }}</details>{{ end }}{{ end }}
+  {{ .Content }}
+  {{ with .Params.terms }}
+  <h2 id="thuat-ngu">Thuật ngữ</h2>
+  <div class="tbl"><table class="terms"><thead><tr><th>Tiếng Anh</th><th>Tiếng Việt</th><th>Giải thích</th></tr></thead><tbody>
+  {{ range . }}<tr><td lang="en"><b>{{ .en }}</b></td><td>{{ .vi }}</td><td>{{ .def | markdownify }}</td></tr>{{ end }}
+  </tbody></table></div>
+  {{ end }}
+  {{ with .Params.quotes }}
+  <h2 id="trich-dan">Trích dẫn đáng nhớ</h2>
+  {{ range . }}<figure class="quote"><blockquote lang="en">“{{ .en }}”</blockquote><figcaption><span class="vi">{{ .vi }}</span><span class="pg">tr. {{ .page }}</span></figcaption></figure>{{ end }}
+  {{ end }}
+  {{ with .Params.questions }}
+  <h2 id="cau-hoi-suy-ngam">Câu hỏi suy ngẫm</h2>
+  <ol class="questions">{{ range . }}<li>{{ . | markdownify }}</li>{{ end }}</ol>
+  {{ end }}
+  {{ with .Params.quiz }}{{ with index hugo.Data.quiz . }}
+  <h2 id="tu-kiem-tra">Tự kiểm tra</h2>
+  <p class="muted">Chọn một đáp án để xem ngay đúng/sai và lời giải thích. Kết quả chỉ lưu trong trình duyệt của bạn (localStorage), sẽ mất nếu xoá dữ liệu trình duyệt hoặc dùng chế độ ẩn danh.</p>
+  <div class="quiz" data-quiz="{{ $.Params.quiz }}"></div>
+  <script type="application/json" class="quiz-data">{{ . | jsonify | safeJS }}</script>
+  {{ end }}{{ end }}
+</article>
+<button class="mark" data-mark>Đánh dấu đã đọc trang này</button>
+{{ end }}

@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="shelf-wrap narrow">
+  <p class="eyebrow"><a href="{{ "/" | relURL }}">← Tủ sách</a></p>
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <div class="gl-tools">
+    <input type="search" id="glq" placeholder="Lọc thuật ngữ (Anh hoặc Việt)…" aria-label="Lọc thuật ngữ">
+    <select id="glbook" aria-label="Chọn cuốn"><option value="">Cả ba cuốn</option>
+      {{ range where site.Sections.ByWeight "Params.isbook" true }}<option value="{{ .Section }}">{{ .Params.short }}</option>{{ end }}
+    </select>
+  </div>
+  <p class="muted" id="glcount"></p>
+  <div class="tbl"><table class="terms" id="gl"><thead><tr><th>Tiếng Anh</th><th>Tiếng Việt</th><th>Giải thích</th><th>Nguồn</th></tr></thead><tbody>
+  {{ $rows := slice }}
+  {{ range site.RegularPages }}{{ $pg := . }}{{ range .Params.terms }}{{ $rows = $rows | append (dict "en" .en "vi" .vi "def" .def "page" $pg) }}{{ end }}{{ end }}
+  {{ range sort $rows "en" }}
+  <tr data-book="{{ .page.Section }}"><td lang="en"><b>{{ .en }}</b></td><td>{{ .vi }}</td><td>{{ .def | markdownify }}</td><td><a href="{{ .page.RelPermalink }}">{{ .page.FirstSection.Params.short }}, {{ .page.Parent.Params.short }}</a></td></tr>
+  {{ end }}
+  </tbody></table></div>
+</div>
+{{ end }}
