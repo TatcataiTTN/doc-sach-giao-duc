@@ -1,0 +1,98 @@
+[
+ {
+  "q": "Theo Faure, vì sao riêng áp lực bên trong hệ thống giáo dục không đủ để thúc đẩy thay đổi cấu trúc giáo dục?",
+  "opts": [
+   "Vì các nhà quản lý giáo dục thường từ chối công nhận những trục trặc có thật trong hệ thống, nên chúng không bao giờ được đưa ra bàn thảo trong các kỳ họp chính thức",
+   "Vì áp lực bên trong chỉ xuất hiện ở các nước công nghiệp phát triển, còn các nước đang phát triển thì hoàn toàn không có mâu thuẫn trong hệ thống giáo dục của họ",
+   "Vì kinh nghiệm cho thấy các áp lực và căng thẳng bên trong, dù có trục trặc và mâu thuẫn, tự chúng chưa đủ gây thay đổi; áp lực bên ngoài mới định hướng hành động tương lai",
+   "Vì mọi thay đổi cấu trúc giáo dục luôn phải được quyết định ở cấp quốc tế, nên áp lực bên trong của từng quốc gia riêng lẻ không có ý nghĩa gì đối với việc cải cách"
+  ],
+  "a": 2,
+  "exp": "Tr. 87: kinh nghiệm quá khứ cho thấy các áp lực và căng thẳng bên trong tự chúng chưa đủ thúc đẩy thay đổi; áp lực bên ngoài đặc biệt mạnh thời nay và hành động tương lai sẽ lấy định hướng chủ yếu từ các yếu tố bên ngoài.",
+  "src": "tr. 87"
+ },
+ {
+  "q": "Ví dụ nào được báo cáo dùng để minh hoạ khoảng cách giữa khám phá khoa học và ứng dụng ngày càng ngắn?",
+  "opts": [
+   "Truyền hình mất 112 năm từ lúc khám phá đến lúc ứng dụng, trong khi lò phản ứng hạt nhân đã được ứng dụng ngay trong cùng năm khám phá ra nguyên lý hoạt động",
+   "Điện thoại mất 12 năm từ khám phá đến ứng dụng thực tiễn, trong khi động cơ điện chỉ cách ba năm giữa lúc khám phá và lúc đưa vào sản xuất đại trà",
+   "Nhiếp ảnh chỉ mất 12 năm từ khám phá đến ứng dụng, trong khi pin mặt trời cần đến 112 năm vì sự phức tạp của công nghệ bán dẫn khi ấy khó vượt qua",
+   "Nhiếp ảnh mất 112 năm từ khám phá nguyên lý đến ứng dụng thực tiễn, trong khi pin mặt trời chỉ cách hai năm giữa khám phá và sản xuất"
+  ],
+  "a": 3,
+  "exp": "Tr. 87–88: nhiếp ảnh 112 năm; pin mặt trời 2 năm. Hình 8 liệt kê thêm các khoảng 3, 6, 10, 12, 15, 18, 33, 35, 56 và 65 năm cho các phát minh khác (transistor, bom nguyên tử, truyền hình, radar, điện thoại, động cơ điện...).",
+  "src": "tr. 87–88"
+ },
+ {
+  "q": "Về thái độ với khoa học và công nghệ, Faure đề nghị giáo dục điều gì?",
+  "opts": [
+   "Đưa khoa học và công nghệ vào mọi hoạt động giáo dục để giúp con người có đầu óc khoa học, thúc đẩy khoa học mà không bị nó nô dịch, vì đối tượng đích thực của chúng là con người",
+   "Hạn chế dần việc dạy khoa học và công nghệ ở nhà trường phổ thông để người học không bị lệ thuộc vào máy móc, và dành thời gian đó cho các môn nhân văn truyền thống",
+   "Chỉ dạy khoa học và công nghệ cho nhóm học sinh có năng khiếu, vì đại đa số người học không cần hiểu nguyên lý của chúng để sống và làm việc trong xã hội hiện đại",
+   "Dạy khoa học và công nghệ chủ yếu như phương tiện đạt mục tiêu vật chất ngắn hạn của quốc gia, vì đó là cách nhanh nhất để thu hẹp khoảng cách với các nước đi trước"
+  ],
+  "a": 0,
+  "exp": "Tr. 92: khoa học và công nghệ phải là thành phần thiết yếu của mọi hoạt động giáo dục cho trẻ em, thanh niên, người lớn, để giúp cá nhân kiểm soát các năng lượng xã hội, tự nhiên, sản xuất và có đầu óc khoa học; khoa học, kỹ thuật không phải mục đích tự thân mà đối tượng đích thực là con người.",
+  "src": "tr. 91–92"
+ },
+ {
+  "q": "Theo báo cáo, khoảng cách giữa nước giàu và nước nghèo sẽ ra sao đến năm 2000 dù các mục tiêu của Thập niên Phát triển thứ hai đạt được 100%?",
+  "opts": [
+   "Khoảng cách sẽ thu hẹp khoảng 15% vào năm 2000 nhờ tăng trưởng kinh tế đủ nhanh ở các nước đang phát triển và chuyển giao tài chính, kỹ thuật từ các nước công nghiệp",
+   "Khoảng cách sẽ biến mất hoàn toàn trước năm 2000 vì các nước đang phát triển có nguồn lao động dồi dào nên sẽ tăng trưởng nhanh hơn các nước công nghiệp",
+   "Khoảng cách sẽ giữ nguyên như năm 1970 vì tốc độ tăng của hai nhóm nước xấp xỉ bằng nhau, và chênh lệch thu nhập sẽ vẫn ở mức gấp mười hai lần như trước",
+   "Khoảng cách vẫn sẽ rộng thêm, lớn hơn khoảng 15% vào năm 2000 ngay cả với các giả định lạc quan về dân số và tăng trưởng"
+  ],
+  "a": 3,
+  "exp": "Tr. 96: dù giả định tăng dân số ổn định ở 1,8–2%/năm, GNP tăng 5–6% (bình quân đầu người 3%) và xu hướng 25 năm qua tiếp diễn, khoảng cách vẫn lớn hơn 15% vào năm 2000. Kịch bản thu hẹp chỉ xuất hiện nếu tăng trưởng lên 7%, 8% rồi 8,5% (tr. 97).",
+  "src": "tr. 96–97"
+ },
+ {
+  "q": "Báo cáo ghi dự báo gì về số người lần đầu vào thị trường lao động giai đoạn 1970–1980?",
+  "opts": [
+   "Khoảng 268 triệu người ở các nước đang phát triển, so với chỉ khoảng 56 triệu ở các nước công nghiệp",
+   "Khoảng 126 triệu người ở các nước đang phát triển và khoảng 126 triệu người ở các nước công nghiệp, tức số người mới vào thị trường lao động hai nhóm bằng nhau",
+   "Khoảng 56 triệu người ở các nước đang phát triển, so với khoảng 268 triệu người ở các nước công nghiệp, vì dân số các nước này đông hơn và già hơn",
+   "Khoảng 268 triệu người ở các nước công nghiệp, so với chỉ khoảng 56 triệu người ở các nước đang phát triển, vì tỉ lệ sinh ở nhóm nước sau đã giảm mạnh"
+  ],
+  "a": 0,
+  "exp": "Tr. 94: dự báo trong thập niên 1970–1980 sẽ có khoảng 268 triệu người lần đầu xuất hiện trên thị trường lao động ở các nước đang phát triển, so với 56 triệu ở nước công nghiệp. Số liệu đã đối chiếu hai lượt OCR.",
+  "src": "tr. 94"
+ },
+ {
+  "q": "Về thất nghiệp ở người trẻ, báo cáo nêu điều gì đáng lo?",
+  "opts": [
+   "Thất nghiệp ở người trẻ thấp hơn người lớn trên 25 tuổi, vì người trẻ có bằng cấp cao hơn nên dễ tìm việc hơn, nhất là những người có bằng đại học chuyên ngành",
+   "Thất nghiệp ở người trẻ chỉ xuất hiện ở các nước công nghiệp phát triển, còn ở các nước đang phát triển thì người trẻ có bằng cấp luôn được hấp thụ ngay vào thị trường lao động",
+   "Thất nghiệp ở người trẻ chủ yếu đánh vào người mù chữ nhiều hơn người có học, vì người mù chữ không thể thích ứng với các công việc mới của nền kinh tế công nghiệp",
+   "Thất nghiệp ở người trẻ, gồm cả người có bằng cấp, cao gấp hai đến ba lần người lớn trên 25 tuổi, và đánh vào người học sơ đẳng, trung học nhiều hơn người mù chữ"
+  ],
+  "a": 3,
+  "exp": "Tr. 94: thất nghiệp ở nhóm này cao gấp hai đến ba lần người lớn trên 25 tuổi, và đánh vào người đã học sơ đẳng hoặc trung học nhiều hơn người mù chữ (một mặt) và nhiều hơn người có bằng đại học (mặt khác).",
+  "src": "tr. 94"
+ },
+ {
+  "q": "Báo cáo nêu những số liệu nào về mất mát môi trường (trích ước tính của Liên Hợp Quốc)?",
+  "opts": [
+   "1.000 triệu héc-ta đất canh tác đã mất vì xói mòn và nhiễm mặn, ba phần tư rừng không còn dùng cho sản xuất, 1.500 loài chim thú tuyệt chủng, khoảng 150 loài nguy cấp",
+   "150 triệu héc-ta đất canh tác đã mất vì xói mòn và nhiễm mặn, một phần ba rừng không còn dùng cho sản xuất, 500 loài chim thú tuyệt chủng, khoảng 100 loài nguy cấp",
+   "500 triệu héc-ta đất canh tác đã mất vì xói mòn và nhiễm mặn, hai phần ba rừng không còn dùng cho sản xuất, 150 loài chim thú tuyệt chủng, khoảng 1.000 loài nguy cấp",
+   "500 nghìn héc-ta đất canh tác đã mất vì xói mòn, toàn bộ rừng nhiệt đới đã bị phá trụi, 15 loài chim thú tuyệt chủng, và khoảng 10.000 loài thực vật nguy cấp"
+  ],
+  "a": 2,
+  "exp": "Tr. 100, chú thích U Thant (1970): 500 triệu héc-ta đất canh tác mất vì xói mòn và nhiễm mặn; hai phần ba rừng không còn dùng cho sản xuất; 150 loài chim và thú tuyệt chủng; khoảng 1.000 loài hoặc nòi thú hoang nay hiếm hay nguy cấp.",
+  "src": "tr. 100"
+ },
+ {
+  "q": "Theo Faure, giáo dục có hai chiều trong bối cảnh thay đổi ồ ạt. Hai chiều đó là gì?",
+  "opts": [
+   "Truyền đạt tri thức truyền thống một cách nguyên vẹn và đồng thời huấn luyện kỹ năng nghề nghiệp ngắn hạn cho thị trường lao động, hai việc mà nhà trường hiện làm tốt nhất",
+   "Dạy cho người học biết nghe lời, tuân thủ quy tắc xã hội, và đồng thời dạy họ biết phản kháng chống lại mọi quy tắc đó khi thấy cần thiết trong cuộc sống",
+   "Chuẩn bị cho thay đổi (chấp nhận, hưởng lợi, đầu óc năng động) và làm liều thuốc giải cho những méo mó trong con người và xã hội như thất vọng, vô danh và bất an",
+   "Phục vụ mục tiêu tăng trưởng kinh tế quốc gia và đồng thời bảo vệ bản sắc văn hoá dân tộc khỏi ảnh hưởng của các nền văn hoá nước ngoài đang tràn vào xã hội"
+  ],
+  "a": 2,
+  "exp": "Tr. 104: giáo dục phải chuẩn bị cho thay đổi và đóng vai liều thuốc giải cho nhiều méo mó trong con người và xã hội; giáo dục dân chủ phải chữa nỗi thất vọng, phi cá nhân hoá, vô danh và qua giáo dục suốt đời giảm bất an, tăng tính cơ động nghề nghiệp.",
+  "src": "tr. 104"
+ }
+]
