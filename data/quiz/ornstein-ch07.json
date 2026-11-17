@@ -2,108 +2,108 @@
  {
   "q": "Vì sao bang, không phải liên bang, giữ trách nhiệm pháp lý chính về giáo dục công?",
   "opts": [
-   "Hiến pháp trao giáo dục cho liên bang, và Tu chính án thứ Mười chỉ chuyển nó xuống các thị trấn, như nhiều tài liệu thời đó vẫn mô tả.",
    "Hiến pháp cấm mọi chính quyền can thiệp giáo dục, nên các khu học chánh tự quyết hoàn toàn.",
    "Hiến pháp không nhắc giáo dục, và Tu chính án thứ Mười để quyền chưa trao cho liên bang cho bang.",
+   "Hiến pháp trao giáo dục cho liên bang, và Tu chính án thứ Mười chỉ chuyển nó xuống các thị trấn, như nhiều tài liệu thời đó vẫn mô tả.",
    "Hiến pháp liệt kê giáo dục là quyền của hội đồng trường, và các bang không có vai trò gì ở đây."
   ],
-  "a": 2,
+  "a": 1,
   "exp": "Bang giao việc vận hành hằng ngày cho các khu địa phương; vì thế Mỹ có năm mươi hệ thống bang.",
   "src": "tr. 200"
  },
  {
   "q": "Cách chọn thành viên hội đồng trường phổ biến nhất ở Mỹ là gì?",
   "opts": [
-   "Bầu cử, chiếm khoảng 95% thành viên toàn quốc.",
-   "Bốc thăm từ danh sách phụ huynh, chiếm khoảng 95% thành viên toàn quốc.",
    "Bổ nhiệm bởi thống đốc, chiếm khoảng 95% thành viên toàn quốc.",
-   "Bổ nhiệm bởi giám đốc khu, chiếm khoảng 95% thành viên toàn quốc."
+   "Bốc thăm từ danh sách phụ huynh, chiếm khoảng 95% thành viên toàn quốc.",
+   "Bổ nhiệm bởi giám đốc khu, chiếm khoảng 95% thành viên toàn quốc.",
+   "Bầu cử, chiếm khoảng 95% thành viên toàn quốc."
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Bầu cử được cho là có trách nhiệm hơn với công chúng; bổ nhiệm được cho là giỏi hơn, ít chính trị.",
   "src": "tr. 201"
  },
  {
   "q": "Hội đồng trường và giám đốc khu khác nhau thế nào?",
   "opts": [
-   "Hội đồng và giám đốc cùng quản trị từng lớp học và dạy thay cho giáo viên.",
    "Hội đồng chỉ lo kinh phí, còn giám đốc chỉ lo vệ sinh và an ninh trường.",
-   "Hội đồng là cơ quan lập chính sách; giám đốc là tổng giám đốc điều hành.",
-   "Hội đồng là tổng giám đốc điều hành; giám đốc là cơ quan lập chính sách."
+   "Hội đồng là tổng giám đốc điều hành; giám đốc là cơ quan lập chính sách.",
+   "Hội đồng và giám đốc cùng quản trị từng lớp học và dạy thay cho giáo viên.",
+   "Hội đồng là cơ quan lập chính sách; giám đốc là tổng giám đốc điều hành."
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Hội đồng nên tránh lấn quyền giám đốc; giám đốc trình dữ liệu và khuyến nghị để hội đồng quyết.",
   "src": "tr. 205"
  },
  {
   "q": "Lý do giám đốc khu thường mất việc theo chương là gì?",
   "opts": [
-   "Hội đồng từ chối mọi dữ liệu và giám đốc không có kinh nghiệm dạy học.",
+   "Giao tiếp đổ vỡ và hội đồng can thiệp vặt vào việc điều hành.",
    "Điểm thi của học sinh quá cao và hội đồng muốn thay người kém hơn.",
    "Giáo viên ngừng dạy và công đoàn yêu cầu thay giám đốc ngay lập tức.",
-   "Giao tiếp đổ vỡ và hội đồng can thiệp vặt vào việc điều hành."
+   "Hội đồng từ chối mọi dữ liệu và giám đốc không có kinh nghiệm dạy học."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Nhiệm kỳ trung bình 3–4 năm; ở khu đô thị lớn dưới 3 năm. Chìa khóa thành công là giao tiếp.",
   "src": "tr. 205–206"
  },
  {
   "q": "Hiệu trưởng trung học và tiểu học tự coi vai trò của mình khác nhau thế nào?",
   "opts": [
-   "Trung học tự coi là lãnh đạo chương trình; tiểu học tự coi là tổng quản lý.",
-   "Trung học tự coi là tổng quản lý; tiểu học tự coi là lãnh đạo chương trình, giảng dạy.",
+   "Cả hai tự coi là người dạy toàn thời gian và không có việc quản lý nào.",
    "Cả hai tự coi là người đại diện của hội đồng và không có quyền với giáo viên, theo cách nhìn khá phổ biến lúc ấy.",
-   "Cả hai tự coi là người dạy toàn thời gian và không có việc quản lý nào."
+   "Trung học tự coi là tổng quản lý; tiểu học tự coi là lãnh đạo chương trình, giảng dạy.",
+   "Trung học tự coi là lãnh đạo chương trình; tiểu học tự coi là tổng quản lý."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Trung học có chủ nhiệm bộ môn lo chương trình, nên hiệu trưởng thiên về quản lý; tiểu học ít có hỗ trợ này.",
   "src": "tr. 208"
  },
  {
   "q": "Nghiên cứu về sự tham gia của phụ huynh cho thấy điều gì?",
   "opts": [
-   "Tham gia làm giảm điểm vì phụ huynh can thiệp quá nhiều vào việc dạy học.",
    "Tham gia nâng điểm và thái độ học, nhưng chỉ ít phụ huynh thực sự tham gia.",
+   "Tham gia chỉ có ích với học sinh khá giả và gần như mọi phụ huynh đều tham gia.",
    "Tham gia không ảnh hưởng gì đến điểm học và phần lớn phụ huynh đều tham gia.",
-   "Tham gia chỉ có ích với học sinh khá giả và gần như mọi phụ huynh đều tham gia."
+   "Tham gia làm giảm điểm vì phụ huynh can thiệp quá nhiều vào việc dạy học."
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Chỉ 32% phụ huynh lớp tám thuộc tổ chức phụ huynh–giáo viên; nhiều người ngại vì thấy mình kém năng lực hoặc nhớ trải nghiệm xấu.",
   "src": "tr. 209–210"
  },
  {
   "q": "Cải cách kiểm soát cộng đồng ở Chicago (1990) cho kết quả gì?",
   "opts": [
-   "Mọi chỉ báo đều tăng rõ rệt và cộng đồng rộng hơn hoàn toàn ủng hộ cải cách, trong bối cảnh nước Anh thập niên 1980.",
-   "Cải cách bị bãi bỏ ngay trong năm đầu vì hội đồng cộng đồng không được bầu.",
    "Giáo viên và hội đồng địa phương tích cực, nhưng thành tích, chuyên cần, bỏ học không cải thiện.",
-   "Chỉ nhóm học sinh khá giả hưởng lợi, còn nhóm nghèo bỏ học nhiều hơn trước."
+   "Chỉ nhóm học sinh khá giả hưởng lợi, còn nhóm nghèo bỏ học nhiều hơn trước.",
+   "Cải cách bị bãi bỏ ngay trong năm đầu vì hội đồng cộng đồng không được bầu.",
+   "Mọi chỉ báo đều tăng rõ rệt và cộng đồng rộng hơn hoàn toàn ủng hộ cải cách, trong bối cảnh nước Anh thập niên 1980."
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Phụ huynh và cộng đồng có tiếng nói về tuyển hiệu trưởng, chương trình, ngân sách.",
   "src": "tr. 210–211"
  },
  {
   "q": "Trường hiến chương hoạt động theo cơ chế nào?",
   "opts": [
-   "Chính phủ liên bang cấp hiến chương và quyết toàn bộ chương trình từng trường.",
-   "Nhóm doanh nghiệp mua đứt trường công và điều hành vĩnh viễn, không ai kiểm soát, như một số nhà bình luận đương thời nhận định.",
    "Hội đồng trường chỉ định giám đốc khu cũ làm hiệu trưởng cho mọi trường mới.",
-   "Nhóm cộng đồng được cấp hợp đồng lập trường công; nếu không đạt chuẩn trách nhiệm thì bị thu hồi."
+   "Nhóm doanh nghiệp mua đứt trường công và điều hành vĩnh viễn, không ai kiểm soát, như một số nhà bình luận đương thời nhận định.",
+   "Nhóm cộng đồng được cấp hợp đồng lập trường công; nếu không đạt chuẩn trách nhiệm thì bị thu hồi.",
+   "Chính phủ liên bang cấp hiến chương và quyết toàn bộ chương trình từng trường."
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Ưu: tự chủ, quy mô nhỏ, tham gia bằng lựa chọn; nhược: thiếu kinh phí, cơ sở vật chất, khó tìm nhân sự.",
   "src": "tr. 211–212"
  },
  {
   "q": "Nghiên cứu mới về quy mô trường trung học cho thấy điều gì?",
   "opts": [
+   "Học tốt nhất ở trường 600–900 học sinh, giảm ở trường trên 2.100; vùng nghèo cần trường nhỏ.",
    "Học tốt nhất ở trường trên 2.100 học sinh, và trường nhỏ luôn kém ở mọi vùng.",
    "Quy mô trường không liên quan đến kết quả học tập ở bất kỳ loại cộng đồng nào.",
-   "Học tốt nhất ở trường dưới 100 học sinh, và quy mô không ảnh hưởng ở vùng nghèo, theo lối giải thích thường gặp ở các văn bản chính sách.",
-   "Học tốt nhất ở trường 600–900 học sinh, giảm ở trường trên 2.100; vùng nghèo cần trường nhỏ."
+   "Học tốt nhất ở trường dưới 100 học sinh, và quy mô không ảnh hưởng ở vùng nghèo, theo lối giải thích thường gặp ở các văn bản chính sách."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Cộng đồng khá giả học tốt ngay cả ở trường lớn; năm 1987 hai nhà nghiên cứu đề xuất không quá 250 học sinh.",
   "src": "tr. 212–213"
  },
@@ -111,9 +111,9 @@
   "q": "Điều gì làm số khu học chánh giảm từ hơn 130.000 (1930) còn dưới 14.400 (2004)?",
   "opts": [
    "Sáp nhập các khu nhỏ để có chương trình rộng, dịch vụ nhiều hơn và tiết kiệm chi phí.",
-   "Các bang bãi bỏ hội đồng trường và giao toàn bộ cho trường hiến chương.",
    "Chia các khu lớn thành khu nhỏ để quản lý chặt hơn và gần với phụ huynh.",
-   "Quốc hội liên bang xóa các khu và lập một hệ thống trường quốc gia thống nhất, ở một số trường và khu vực khi đó."
+   "Quốc hội liên bang xóa các khu và lập một hệ thống trường quốc gia thống nhất, ở một số trường và khu vực khi đó.",
+   "Các bang bãi bỏ hội đồng trường và giao toàn bộ cho trường hiến chương."
   ],
   "a": 0,
   "exp": "Cách nhẹ hơn là chia sẻ nhân sự, chương trình giữa các khu (như ở Iowa); ở khu lớn có xu hướng phi tập trung.",
@@ -122,10 +122,10 @@
  {
   "q": "Đơn vị trung gian (RESA) làm gì?",
   "opts": [
+   "Đứng giữa liên bang và bang, chỉ lo việc phân bổ tiền cho trường tư thục.",
    "Đứng giữa trường và phụ huynh, chỉ lo việc thu học phí và điều phối xe đưa đón.",
-   "Thay thế hoàn toàn hội đồng trường và quyết định mọi việc nhân sự ở trường.",
    "Đứng giữa sở bang và các khu, cung cấp dịch vụ bổ sung mà khu nhỏ khó tự lo.",
-   "Đứng giữa liên bang và bang, chỉ lo việc phân bổ tiền cho trường tư thục."
+   "Thay thế hoàn toàn hội đồng trường và quyết định mọi việc nhân sự ở trường."
   ],
   "a": 2,
   "exp": "32 bang, khoảng 1.445 cơ quan; dịch vụ: chương trình, bồi dưỡng, song ngữ, trẻ khuyết tật, tin học.",
@@ -134,12 +134,12 @@
  {
   "q": "Vai trò của liên bang trong giáo dục thay đổi thế nào theo chương?",
   "opts": [
-   "Không đổi suốt lịch sử vì Hiến pháp cấm Quốc hội ban hành luật giáo dục nào.",
-   "Chỉ tăng ở thời lập quốc và không còn đáng kể sau khi Bộ Giáo dục được lập.",
    "Tăng mạnh từ thập niên 1930, và NCLB đẩy ảnh hưởng liên bang lên cao nhất trong ba mươi năm.",
+   "Chỉ tăng ở thời lập quốc và không còn đáng kể sau khi Bộ Giáo dục được lập.",
+   "Không đổi suốt lịch sử vì Hiến pháp cấm Quốc hội ban hành luật giáo dục nào.",
    "Giảm liên tục từ thập niên 1930 và NCLB trả mọi quyền cho các khu địa phương, như nhiều tài liệu thời đó vẫn mô tả."
   ],
-  "a": 2,
+  "a": 0,
   "exp": "14 đạo luật quan trọng (1787–1937) so với hơn 170 đạo luật sau đó; phê phán: NCLB là 'mệnh lệnh không kinh phí'.",
   "src": "tr. 218–220"
  }
