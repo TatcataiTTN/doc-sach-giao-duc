@@ -2,36 +2,36 @@
  {
   "q": "Xã hội hóa (socialization) có vai trò gì theo chương?",
   "opts": [
-   "Dạy trẻ riêng các môn học thuật như đọc, viết và tính toán ở trường tiểu học.",
    "Chuẩn bị trẻ hoạt động như thanh niên rồi người lớn, truyền văn hóa để xã hội vận hành.",
    "Loại bỏ mọi khác biệt văn hóa để mọi người trong xã hội có chung một khuôn mẫu, như nhiều tài liệu thời đó vẫn mô tả.",
-   "Giúp trẻ tách khỏi gia đình càng sớm càng tốt để trở nên độc lập hoàn toàn."
+   "Giúp trẻ tách khỏi gia đình càng sớm càng tốt để trở nên độc lập hoàn toàn.",
+   "Dạy trẻ riêng các môn học thuật như đọc, viết và tính toán ở trường tiểu học."
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Trường là thể chế chính (ngoài gia đình) do người lớn lập để duy trì văn hóa, truyền giá trị cả qua cấu trúc và vận hành.",
   "src": "tr. 291"
  },
  {
   "q": "Nghiên cứu về gia đình đơn thân và học tập của trẻ khó kết luận vì sao?",
   "opts": [
-   "Vì phần lớn trẻ trong gia đình đơn thân từ chối tham gia các cuộc khảo sát của trường, theo cách nhìn khá phổ biến lúc ấy.",
-   "Vì luật cấm nhà trường thu thập thông tin về hoàn cảnh gia đình của học sinh.",
    "Khó tách ảnh hưởng của việc mất cha khỏi ảnh hưởng của sự tụt xuống tầng lớp xã hội thấp hơn.",
-   "Vì mọi nghiên cứu đều chứng minh rằng gia đình đơn thân không có ảnh hưởng nào."
+   "Vì phần lớn trẻ trong gia đình đơn thân từ chối tham gia các cuộc khảo sát của trường, theo cách nhìn khá phổ biến lúc ấy.",
+   "Vì mọi nghiên cứu đều chứng minh rằng gia đình đơn thân không có ảnh hưởng nào.",
+   "Vì luật cấm nhà trường thu thập thông tin về hoàn cảnh gia đình của học sinh."
   ],
-  "a": 2,
+  "a": 0,
   "exp": "31% hộ có con dưới 18 tuổi là hộ đơn thân; khoảng 40% hộ do phụ nữ đứng đầu dưới ngưỡng nghèo, so với 10% ở hộ hai cha mẹ.",
   "src": "tr. 293"
  },
  {
   "q": "Popenoe mô tả gia đình 'hậu hạt nhân' khác gia đình hạt nhân thế nào?",
   "opts": [
-   "Có nhiều thế hệ sống chung trong một nhà, nên cha mẹ có nhiều thời gian hơn cho con.",
-   "Nhấn chủ nghĩa gia đình lấy trẻ làm trung tâm thay vì chủ nghĩa cá nhân của người lớn, trong bối cảnh nước Anh thập niên 1980.",
    "Do nhà nước nuôi dạy trẻ, nên cha mẹ không còn trách nhiệm kinh tế nào với con.",
-   "Nhấn chủ nghĩa cá nhân (tự thỏa mãn, tự biểu đạt) thay vì chủ nghĩa gia đình lấy trẻ làm trung tâm."
+   "Nhấn chủ nghĩa gia đình lấy trẻ làm trung tâm thay vì chủ nghĩa cá nhân của người lớn, trong bối cảnh nước Anh thập niên 1980.",
+   "Nhấn chủ nghĩa cá nhân (tự thỏa mãn, tự biểu đạt) thay vì chủ nghĩa gia đình lấy trẻ làm trung tâm.",
+   "Có nhiều thế hệ sống chung trong một nhà, nên cha mẹ có nhiều thời gian hơn cho con."
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Ông lập luận người lớn không cần con về kinh tế nhưng trẻ vẫn cần người lớn có thời gian, kiên nhẫn, tình thương; thời gian tiếp xúc giảm tới 40%.",
   "src": "tr. 296"
  },
@@ -52,8 +52,8 @@
   "opts": [
    "Tham gia ngoại khóa dễ thay đổi hơn môi trường gia đình, mà vẫn liên quan khát vọng và sức khỏe.",
    "Ngoại khóa chỉ có ích ở trường lớn và tốn kém, nên nhà trường nên tránh dùng.",
-   "Ngoại khóa làm giảm điểm số của học sinh, nên nhà trường cần hạn chế để tập trung.",
-   "Ngoại khóa thay thế hoàn toàn chương trình học thuật, nên nhà trường không cần dạy môn, theo lối giải thích thường gặp ở các văn bản chính sách."
+   "Ngoại khóa thay thế hoàn toàn chương trình học thuật, nên nhà trường không cần dạy môn, theo lối giải thích thường gặp ở các văn bản chính sách.",
+   "Ngoại khóa làm giảm điểm số của học sinh, nên nhà trường cần hạn chế để tập trung."
   ],
   "a": 0,
   "exp": "Tác dụng tích cực nhiều hơn ở trường nhỏ; nhà giáo dục hiếm khi đổi được môi trường gia đình.",
@@ -62,10 +62,10 @@
  {
   "q": "'Chương trình ẩn' (hidden curriculum) là gì?",
   "opts": [
-   "Phần nội dung môn học mà giáo viên cố tình giấu không cho học sinh biết trước.",
    "Chương trình bí mật do chính phủ soạn và gửi tới các hiệu trưởng ở trường học.",
+   "Chương trình học thêm riêng của học sinh giỏi, được tổ chức ngoài giờ ở trường, ở một số trường và khu vực khi đó.",
    "Điều học sinh học ngoài nội dung học thuật, từ việc các em làm hoặc được kỳ vọng làm ở trường.",
-   "Chương trình học thêm riêng của học sinh giỏi, được tổ chức ngoài giờ ở trường, ở một số trường và khu vực khi đó."
+   "Phần nội dung môn học mà giáo viên cố tình giấu không cho học sinh biết trước."
   ],
   "a": 2,
   "exp": "Ví dụ: dạy trẻ thụ động tuân thủ, truyền định kiến giới và chủng tộc, hoặc coi 'qua mặt hệ thống' quan trọng nhất.",
@@ -74,12 +74,12 @@
  {
   "q": "Goodlad mô tả lớp học điển hình thế nào trong 'A Study of Schooling'?",
   "opts": [
-   "Giáo viên chia lớp thành nhóm nhỏ làm dự án nghiên cứu độc lập trong nhiều tuần, như nhiều tài liệu thời đó vẫn mô tả.",
    "Học sinh chọn môn và nhịp học, còn giáo viên chỉ ghi nhận kết quả vào cuối kỳ.",
-   "Thầy dạy cả lớp như một khối; không khí 'phẳng'; học sinh nghe, viết đáp án, làm bài thi.",
-   "Học sinh tự lập kế hoạch, thảo luận sôi nổi và tạo sản phẩm của riêng mình."
+   "Giáo viên chia lớp thành nhóm nhỏ làm dự án nghiên cứu độc lập trong nhiều tuần, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Học sinh tự lập kế hoạch, thảo luận sôi nổi và tạo sản phẩm của riêng mình.",
+   "Thầy dạy cả lớp như một khối; không khí 'phẳng'; học sinh nghe, viết đáp án, làm bài thi."
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Goodlad: học sinh 'hiếm khi tự khởi xướng, đọc hay viết điều gì dài, hay suy đoán về ý nghĩa'; Anyon: trường lao động dạy kỹ năng máy móc, trường trung lưu dạy tư duy độc lập.",
   "src": "tr. 303"
  },
@@ -98,21 +98,21 @@
  {
   "q": "Tapscott kỳ vọng gì về 'thế hệ mạng' và lo ngại gì?",
   "opts": [
-   "Internet khiến trẻ tuyệt đối tin mọi thông tin, nên quyền uy của thầy cô càng tăng lên.",
-   "Internet làm trẻ thụ động hơn truyền hình, nhưng sẽ xóa hết mọi khoảng cách giàu nghèo, theo cách nhìn khá phổ biến lúc ấy.",
    "Internet không ảnh hưởng gì tới trẻ, nên nhà giáo dục không cần chú ý đến nó.",
-   "Internet kích thích tương tác và tư duy phê phán, nhưng có thể làm sâu khoảng cách giàu nghèo."
+   "Internet làm trẻ thụ động hơn truyền hình, nhưng sẽ xóa hết mọi khoảng cách giàu nghèo, theo cách nhìn khá phổ biến lúc ấy.",
+   "Internet kích thích tương tác và tư duy phê phán, nhưng có thể làm sâu khoảng cách giàu nghèo.",
+   "Internet khiến trẻ tuyệt đối tin mọi thông tin, nên quyền uy của thầy cô càng tăng lên."
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Ông dự đoán 'sự rã dần của quan niệm quyền uy'; giáo viên cần dạy hiểu biết truyền thông.",
   "src": "tr. 309"
  },
  {
   "q": "Nghiên cứu về sự khác biệt giới trong thành tích cho thấy gì?",
   "opts": [
+   "Nữ kém hơn nam ở mọi môn, và chỉ có nam mới thật sự đạt thành tích cao.",
    "Khác biệt rất lớn và ngày càng tăng, và đã được xác nhận chắc chắn là bẩm sinh, trong bối cảnh nước Anh thập niên 1980.",
    "Không có bất kỳ khác biệt nào giữa nam và nữ ở mọi môn học và mọi độ tuổi.",
-   "Nữ kém hơn nam ở mọi môn, và chỉ có nam mới thật sự đạt thành tích cao.",
    "Khác biệt khá nhỏ và đang thu hẹp; còn tranh cãi về khác biệt bẩm sinh, nam biến thiên nhiều hơn."
   ],
   "a": 3,
@@ -122,24 +122,24 @@
  {
   "q": "Dấu hiệu cảnh báo nguy cơ tự sát ở học sinh gồm điều gì?",
   "opts": [
-   "Rút lui khỏi bạn bè và hoạt động, thay đổi tính cách, học sa sút, dùng ma túy hoặc rượu.",
    "Không có dấu hiệu nào có thể nhận ra, nên giáo viên không cần chú ý quan sát.",
-   "Luôn đạt điểm cao, tham gia mọi hoạt động ngoại khóa và rất vui vẻ ở trường.",
-   "Chỉ có biểu hiện duy nhất là xin nghỉ học vào đúng các ngày thứ Hai hằng tuần, như một số nhà bình luận đương thời nhận định."
+   "Rút lui khỏi bạn bè và hoạt động, thay đổi tính cách, học sa sút, dùng ma túy hoặc rượu.",
+   "Chỉ có biểu hiện duy nhất là xin nghỉ học vào đúng các ngày thứ Hai hằng tuần, như một số nhà bình luận đương thời nhận định.",
+   "Luôn đạt điểm cao, tham gia mọi hoạt động ngoại khóa và rất vui vẻ ở trường."
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Tỉ lệ tự sát ở trẻ và thanh niên tăng gần bốn lần từ 1950; một tòa từng cho viên chức trường chịu một phần trách nhiệm khi không chăm sóc hợp lý.",
   "src": "tr. 315"
  },
  {
   "q": "Trường đã đáp ứng các vấn đề của tuổi trẻ (ma túy, bạo lực, mang thai) bằng cách nào?",
   "opts": [
-   "Chỉ lắp thêm máy dò kim loại ở cổng và không có thêm bất kỳ chương trình nào.",
+   "Giao hoàn toàn các vấn đề này cho gia đình và không còn quan tâm đến nữa.",
    "Cắt giảm toàn bộ dịch vụ ngoài giờ học và đuổi học mọi học sinh có hành vi sai, theo lối giải thích thường gặp ở các văn bản chính sách.",
-   "Thuê nhiều cố vấn, nhân viên xã hội hơn, mở phòng khám trong trường, dạy giải quyết xung đột.",
-   "Giao hoàn toàn các vấn đề này cho gia đình và không còn quan tâm đến nữa."
+   "Chỉ lắp thêm máy dò kim loại ở cổng và không có thêm bất kỳ chương trình nào.",
+   "Thuê nhiều cố vấn, nhân viên xã hội hơn, mở phòng khám trong trường, dạy giải quyết xung đột."
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Gần 200 học sinh bị giết trong hoặc quanh trường trong mười năm; trường đặt kế hoạch an ninh, 'không khoan nhượng', chương trình giảm bắt nạt.",
   "src": "tr. 317–318"
  }
