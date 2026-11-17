@@ -2,12 +2,12 @@
  {
   "q": "Theo Phụ chương I, vì sao nhiều nước kém phát triển tin rằng mục tiêu duy nhất của họ là \"đuổi kịp\" các nước phát triển?",
   "opts": [
+   "Vì các tổ chức quốc tế đã buộc các nước nghèo phải ký cam kết theo đúng kế hoạch của các nước công nghiệp, và việc đi trệch khỏi kế hoạch bị coi là vi phạm",
    "Vì cả nước giàu lẫn nước nghèo cùng tin rằng con đường tiến bộ tất yếu phải đi theo hướng các nước phát triển chính đã đi, chỉ khác là nhanh hơn một cách nhân tạo",
    "Vì các nước công nghiệp đã chứng minh bằng số liệu thống kê rằng con đường của họ là con đường duy nhất cho phép tăng thu nhập quốc dân một cách bền vững",
-   "Vì các tổ chức quốc tế đã buộc các nước nghèo phải ký cam kết theo đúng kế hoạch của các nước công nghiệp, và việc đi trệch khỏi kế hoạch bị coi là vi phạm",
    "Vì các nước nghèo không còn lựa chọn nào khác sau khi đã thử nghiệm nhiều mô hình phát triển độc lập và đều thất bại hoàn toàn trong thập niên 1960, theo cách nhiều tài liệu giáo dục so sánh thời đó vẫn thường mô tả"
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Tr. 81: niềm tự hào của nước công nghiệp và sự ngưỡng mộ xen ghen tị của nước nghèo khiến cả hai tin rằng con đường tiến bộ phải theo hướng các nước phát triển đã đi, tức \"đuổi kịp\" bằng cách đi qua từng giai đoạn của họ một cách nhân tạo nhanh.",
   "src": "tr. 81"
  },
@@ -26,12 +26,12 @@
  {
   "q": "\"Giáo điều ít bị nghi ngờ nhất trong giáo dục\" theo Faure là gì, và ông nhận định gì về nó?",
   "opts": [
-   "Giáo dục bằng nhà trường (Education equals School); nhà trường vẫn phát triển nhưng tầm quan trọng của nó so với các phương tiện giáo dục khác đang giảm, không tăng",
    "Giáo dục chỉ dành cho tuổi trẻ; ông nhận định rằng điều này đúng và việc giáo dục người lớn chỉ nên là hoạt động phụ trợ không cần đầu tư đáng kể, điều mà nhiều người làm chính sách giáo dục khi ấy cũng thường nêu",
    "Giáo dục luôn phải do nhà nước đảm nhận; ông nhận định rằng điều đó đúng và vai trò của nhà nước trong giáo dục sẽ ngày càng tăng trong những thập niên sắp tới",
+   "Giáo dục bằng nhà trường (Education equals School); nhà trường vẫn phát triển nhưng tầm quan trọng của nó so với các phương tiện giáo dục khác đang giảm, không tăng",
    "Giáo dục luôn cần bằng cấp để được công nhận; ông nhận định rằng bằng cấp sẽ trở thành thước đo duy nhất của năng lực trong mọi lĩnh vực nghề nghiệp"
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Tr. 82–83: \"Education equals School\" là giáo điều ít bị nghi ngờ nhất. Về tuyệt đối nhà trường vẫn phát triển, nhưng tầm quan trọng của nó so với các phương tiện giáo dục và giao tiếp giữa các thế hệ không tăng mà giảm.",
   "src": "tr. 82–83"
  },
@@ -51,8 +51,8 @@
   "q": "Theo báo cáo, hai quan niệm hẹp nào về quá trình giáo dục bị thách thức bởi nghiên cứu tâm lý hiện đại và thay đổi nhanh?",
   "opts": [
    "Giáo dục chỉ giới hạn từ thơ ấu đến trưởng thành, và học xong là có đủ tri thức, kỹ năng dùng cho phần đời còn lại",
-   "Giáo dục phải miễn phí hoàn toàn ở mọi cấp, và người học chỉ nên chịu trách nhiệm về chi phí khi họ chọn học các môn chuyên sâu sau khi hết giáo dục bắt buộc",
    "Giáo dục chỉ có thể diễn ra trong lớp học, và phương pháp thầy giảng trò nghe là phương pháp duy nhất cho phép bảo đảm kỷ luật và kết quả học tập tốt",
+   "Giáo dục phải miễn phí hoàn toàn ở mọi cấp, và người học chỉ nên chịu trách nhiệm về chi phí khi họ chọn học các môn chuyên sâu sau khi hết giáo dục bắt buộc",
    "Giáo dục luôn phải gắn với tôn giáo, và mọi tri thức quan trọng nhất đều do người lớn tuổi truyền lại cho người trẻ theo cách truyền khẩu thông thường"
   ],
   "a": 0,
