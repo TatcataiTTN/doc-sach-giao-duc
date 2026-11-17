@@ -2,12 +2,12 @@
  {
   "q": "Câu nói 'hộp Pandora' của Duncan Graham (Chủ tịch NCC) về Chương trình Quốc gia có nghĩa gì?",
   "opts": [
+   "Chương trình là kết quả của một kế hoạch chiến lược chặt chẽ, trong đó mọi chi tiết đều được dự tính trước khi Đạo luật ban hành.",
    "Chương trình quá đắt để thực hiện, nên chính phủ phải rút lại phần lớn các yêu cầu về nội dung và kiểm tra quốc gia.",
    "Chương trình được các giáo viên và công đoàn soạn ra từ đầu, và Bộ trưởng chỉ ký ban hành mà không thay đổi điều gì.",
-   "Chương trình do người muốn 'quay ngược đồng hồ' lập nhưng việc thực thi rơi vào tay nhóm khác với quan niệm khác về giáo dục.",
-   "Chương trình là kết quả của một kế hoạch chiến lược chặt chẽ, trong đó mọi chi tiết đều được dự tính trước khi Đạo luật ban hành."
+   "Chương trình do người muốn 'quay ngược đồng hồ' lập nhưng việc thực thi rơi vào tay nhóm khác với quan niệm khác về giáo dục."
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Graham nói Chương trình do những người 'có lẽ muốn quay ngược đồng hồ' lập ra nhưng 'mở ra một hộp Pandora khác hẳn'. Ball diễn giải: việc thực thi phần nào chuyển sang nhóm khác, và Đạo luật còn có chỗ không nhất quán (như Chương trình Quốc gia với LMS).",
   "src": "tr. 133–134"
  },
@@ -15,9 +15,9 @@
   "q": "Bốn tầng tranh chấp trong giai đoạn đầu thực thi Chương trình Quốc gia (NCC, SEAC) gồm những gì?",
   "opts": [
    "Khung và việc gồm/loại môn; bản chất từng môn; nội dung cụ thể (mục tiêu, chương trình học); thời gian và khả năng tiếp cận.",
-   "Quyền chọn trường của phụ huynh; việc thoát khỏi LEA; mức tài trợ theo đầu học sinh; và số lượng học sinh tối đa mỗi lớp.",
    "Việc giáo dục đại học có được miễn học phí không; chương trình đào tạo giáo viên; kỳ thi vào đại học; và học bổng quốc gia.",
-   "Học phí của các trường tư; lương của giáo viên mới; tiêu chuẩn xây dựng cơ sở vật chất; và quy chế bầu cử hội đồng quản trị, như nhiều tài liệu thời đó vẫn mô tả."
+   "Học phí của các trường tư; lương của giáo viên mới; tiêu chuẩn xây dựng cơ sở vật chất; và quy chế bầu cử hội đồng quản trị, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Quyền chọn trường của phụ huynh; việc thoát khỏi LEA; mức tài trợ theo đầu học sinh; và số lượng học sinh tối đa mỗi lớp."
   ],
   "a": 0,
   "exp": "Ball liệt kê: (1) khung và việc gồm/loại môn (khảo cổ, múa, kịch); (2) khái niệm 'lịch sử', 'toán'; (3) nội dung cụ thể và Mục tiêu Đạt được; (4) thời gian từng môn và tiếp cận, kể cả công bằng, cung giáo viên và chủ đề liên môn.",
@@ -26,9 +26,9 @@
  {
   "q": "Vì sao Paul Black được Ball coi là có ý nghĩa với 'chủ nghĩa cấp tiến mới'?",
   "opts": [
-   "Là giám đốc Schools Council, người đã phản đối việc cải tổ hội đồng này vào năm 1978 và bị buộc phải từ chức.",
-   "Là Chủ tịch TGAT, Phó Chủ tịch NCC, người có nền tảng về đánh giá theo bậc, và là 'người hợp thức hóa' quan điểm cấp tiến mới.",
    "Là lãnh đạo nhóm Hillgate, người đề xuất phiếu học và thoát LEA, và phản đối mọi hình thức đánh giá của giáo viên.",
+   "Là Chủ tịch TGAT, Phó Chủ tịch NCC, người có nền tảng về đánh giá theo bậc, và là 'người hợp thức hóa' quan điểm cấp tiến mới.",
+   "Là giám đốc Schools Council, người đã phản đối việc cải tổ hội đồng này vào năm 1978 và bị buộc phải từ chức.",
    "Là bộ trưởng giáo dục đã ban hành đạo luật 1988, người quyết định cuối cùng về mọi chi tiết của Chương trình Quốc gia, theo cách nhìn khá phổ biến lúc ấy."
   ],
   "a": 1,
@@ -38,57 +38,57 @@
  {
   "q": "Chủ nghĩa cấp tiến mới theo Ball có đặc điểm nào?",
   "opts": [
-   "Nhấn học thuộc lòng, thi cuối kỳ hàng loạt, dạy cả lớp theo môn riêng rẽ, và đánh giá tổng kết bằng kỳ thi cạnh tranh.",
-   "Nhấn phục tùng, kỷ luật truyền thống và vai trò của giáo viên như người truyền tri thức, kèm sự tách bạch nghiêm ngặt giữa các môn.",
    "Nhấn bãi bỏ mọi hình thức đánh giá, bởi chủ nghĩa cấp tiến mới coi mọi phép đo thành tích đều làm hại động lực của trẻ.",
-   "Nhấn kỹ năng, quá trình, kiến tạo luận và đánh giá theo bậc; thách thức chương trình theo môn; nhưng hướng tới thành tích cá nhân."
+   "Nhấn phục tùng, kỷ luật truyền thống và vai trò của giáo viên như người truyền tri thức, kèm sự tách bạch nghiêm ngặt giữa các môn.",
+   "Nhấn kỹ năng, quá trình, kiến tạo luận và đánh giá theo bậc; thách thức chương trình theo môn; nhưng hướng tới thành tích cá nhân.",
+   "Nhấn học thuộc lòng, thi cuối kỳ hàng loạt, dạy cả lớp theo môn riêng rẽ, và đánh giá tổng kết bằng kỳ thi cạnh tranh."
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Ball mô tả: giáo viên là người hỗ trợ; người học là trung tâm; kiến tạo luận; đánh giá theo bậc gắn động lực; điều tra và ứng dụng (Dewey); thách thức môn riêng rẽ; song song với hậu-Ford nhưng thiên về thành tích và phần thưởng cá nhân.",
   "src": "tr. 136"
  },
  {
   "q": "'Hội chứng không phải chúng tôi' (the 'not us' syndrome) mô tả thái độ nào của DES trước 1976?",
   "opts": [
-   "DES đổ lỗi cho công đoàn giáo viên về mọi vấn đề, và yêu cầu bãi bỏ ngay các cơ quan chương trình như Schools Council.",
-   "DES đáp 'đó là việc của LEA hoặc cơ quan thẩm định' trước câu hỏi về chương trình, chỉ lo cấu trúc trường học.",
+   "DES luôn nhận trách nhiệm về mọi chi tiết chương trình, và gửi thanh tra đến từng lớp học để kiểm tra việc thực hiện.",
    "DES từ chối mọi quan hệ với Bộ trưởng và chỉ làm việc trực tiếp với phụ huynh, qua các hội đồng trường địa phương.",
-   "DES luôn nhận trách nhiệm về mọi chi tiết chương trình, và gửi thanh tra đến từng lớp học để kiểm tra việc thực hiện."
+   "DES đáp 'đó là việc của LEA hoặc cơ quan thẩm định' trước câu hỏi về chương trình, chỉ lo cấu trúc trường học.",
+   "DES đổ lỗi cho công đoàn giáo viên về mọi vấn đề, và yêu cầu bãi bỏ ngay các cơ quan chương trình như Schools Council."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Perry: DES khi đó 'rất thụ động'; chỉ quan tâm cấu trúc (trường tổng hợp 1965, bách khoa). Bài Ruskin chấm dứt điều đó vì điều dân chúng quan tâm là chuyện xảy ra với con em họ ở trường; câu hỏi Bộ trưởng nay hỏi là loại HMI trả lời được.",
   "src": "tr. 140–141"
  },
  {
   "q": "Theo Ball, vì sao quan điểm 'công cụ' (giáo dục chỉ để làm việc) không thắng thế trong DES?",
   "opts": [
-   "Vì các chủ thuê nhỏ ủng hộ mạnh mẽ chương trình nghề nên DES buộc phải bỏ nó để giữ cân bằng với các tập đoàn lớn.",
    "Vì chính phủ không quan tâm đến mối quan hệ giữa giáo dục và kinh tế, và đã bỏ hoàn toàn mọi sáng kiến trường–công nghiệp, trong bối cảnh nước Anh thập niên 1980, ở một số trường và khu vực khi đó.",
    "Vì Sách Xanh 1977 đã chính thức bác bỏ ý tưởng chuẩn bị việc làm, và quy định giáo dục chỉ gồm phát triển cá nhân.",
-   "Joseph và Baker là 'nhà nhân văn rộng' và công nghiệp lớn muốn người thích nghi, biết tính, giao tiếp; ba mục tiêu trong *Better Schools* đặt cá nhân trước công việc."
+   "Joseph và Baker là 'nhà nhân văn rộng' và công nghiệp lớn muốn người thích nghi, biết tính, giao tiếp; ba mục tiêu trong *Better Schools* đặt cá nhân trước công việc.",
+   "Vì các chủ thuê nhỏ ủng hộ mạnh mẽ chương trình nghề nên DES buộc phải bỏ nó để giữ cân bằng với các tập đoàn lớn."
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Quan chức DES B: ba mục tiêu (tiềm năng cá nhân, công dân, việc làm) 'cả ba đều có nhưng theo thứ tự đó'; công nghiệp lớn muốn 'mọi đức tính vườn trẻ'. CCCS lại nói Sách Xanh đóng dấu mối liên hệ trường–việc làm; Ball cho rằng trong DES nhiệt huyết ấy ít.",
   "src": "tr. 143–145"
  },
  {
   "q": "Ball mô tả đặc điểm gì của giai đoạn 1976–86 và bước ngoặt khoảng 1986 trong chính sách chương trình?",
   "opts": [
+   "1976–86: chỉ có LEA quyết định chương trình; ~1986: các trường tư thay LEA trong việc xác định nội dung giảng dạy quốc gia.",
    "1976–86: DES áp luật chương trình ngay lập tức; ~1986: DES quay lại khung đối tác và trao quyền lại cho LEA và công đoàn.",
    "1976–86: can thiệp tăng dần trong khung 'đối tác'; ~1986: chuyển từ nói về ảnh hưởng sang can thiệp và cần luật, áp Chương trình Quốc gia.",
-   "1976–86: chỉ có LEA quyết định chương trình; ~1986: các trường tư thay LEA trong việc xác định nội dung giảng dạy quốc gia.",
    "1976–86: chính sách chương trình hoàn toàn đứng yên; ~1986: Quốc hội lần đầu bàn về chương trình và quyết định không can thiệp, theo lối giải thích thường gặp ở các văn bản chính sách."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Ball nói 1976–86 DES và HMI ngày càng can thiệp nhưng vẫn trong diễn ngôn đối tác (nấc cào cào); khoảng 1986 diễn ngôn chuyển 'từ ảnh hưởng sang can thiệp', thay quá trình dựng đồng thuận gián tiếp bằng cam kết áp Chương trình Quốc gia lên trường.",
   "src": "tr. 146–147"
  },
  {
   "q": "Theo Ball (dẫn Campbell, Maw), vai trò diễn ngôn của HMI trong loạt văn bản từ 1977 là gì?",
   "opts": [
+   "Là đại diện của công đoàn giáo viên trong DES, chống lại mọi nỗ lực tập trung hóa của Bộ trưởng và các quan chức.",
    "Là cơ quan trung lập chỉ ghi chép thực hành trong trường và không bao giờ đưa ra khuyến nghị hay đòi chuẩn hóa chương trình, ở một số trường và khu vực khi đó.",
    "Là tiếng nói của Cánh hữu mới trong DES, trực tiếp đề xuất phiếu học và thị trường hóa giáo dục ngay từ giữa thập niên 1970.",
-   "Là đại diện của công đoàn giáo viên trong DES, chống lại mọi nỗ lực tập trung hóa của Bộ trưởng và các quan chức.",
    "Là tiếng nói có thẩm quyền về chương trình: ngôn ngữ ôn hòa và duy lý nhưng thực thi quyền lực, thành 'trí thức hữu cơ' của DES."
   ],
   "a": 3,
@@ -98,36 +98,36 @@
  {
   "q": "Sự dịch chuyển nào về trọng tâm diễn ngôn được Ball gắn với Keith Joseph (1981–86)?",
   "opts": [
-   "Từ trách nhiệm giải trình sang tự chủ của giáo viên; từ kiểm tra quốc gia sang đánh giá hoàn toàn do giáo viên thiết kế.",
-   "Từ quyền hưởng và phạm vi sang chuẩn mực và chất lượng; từ thay đổi dẫn dắt bằng nội dung sang dẫn dắt bằng đánh giá.",
    "Từ giáo dục công lập sang giáo dục tư nhân hoàn toàn; từ vai trò Bộ trưởng sang vai trò của các hội đồng địa phương.",
-   "Từ chuẩn mực và chất lượng sang quyền hưởng và phạm vi; từ đánh giá sang nội dung chương trình học trong từng môn học."
+   "Từ trách nhiệm giải trình sang tự chủ của giáo viên; từ kiểm tra quốc gia sang đánh giá hoàn toàn do giáo viên thiết kế.",
+   "Từ chuẩn mực và chất lượng sang quyền hưởng và phạm vi; từ đánh giá sang nội dung chương trình học trong từng môn học.",
+   "Từ quyền hưởng và phạm vi sang chuẩn mực và chất lượng; từ thay đổi dẫn dắt bằng nội dung sang dẫn dắt bằng đánh giá."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Joseph (North of England 1984, *Better Schools* 1985) nêu mục tiêu nâng chuẩn mực và 'lợi nhuận tốt nhất từ nguồn lực', kế hoạch mức thành tích cho học sinh 11–16, thi 16+ theo tiêu chí. Ông chưa hình dung Chương trình Quốc gia theo luật; Baker mới trao đèn xanh.",
   "src": "tr. 157–159"
  },
  {
   "q": "Việc Schools Council bị bãi bỏ (1984) và SCDC được lập có đặc điểm gì?",
   "opts": [
-   "Hội đồng bị DES chê 'tầm thường', bị giảm ảnh hưởng công đoàn (1978), rồi bãi bỏ; SCDC và SEC có thành viên do Bộ trưởng bổ nhiệm.",
-   "Hội đồng tự giải thể vì cạn quỹ; SCDC được các tập đoàn tư nhân tài trợ và quản lý, không liên quan gì tới chính phủ.",
    "Hội đồng được DES khen ngợi và mở rộng; SCDC do công đoàn giáo viên bầu ra và độc lập hoàn toàn khỏi Bộ trưởng và LEA, như nhiều tài liệu thời đó vẫn mô tả.",
-   "Hội đồng được sáp nhập vào HMI; SCDC được giao nhiệm vụ soạn toàn bộ Chương trình Quốc gia thay cho các Nhóm công tác."
+   "Hội đồng tự giải thể vì cạn quỹ; SCDC được các tập đoàn tư nhân tài trợ và quản lý, không liên quan gì tới chính phủ.",
+   "Hội đồng được sáp nhập vào HMI; SCDC được giao nhiệm vụ soạn toàn bộ Chương trình Quốc gia thay cho các Nhóm công tác.",
+   "Hội đồng bị DES chê 'tầm thường', bị giảm ảnh hưởng công đoàn (1978), rồi bãi bỏ; SCDC và SEC có thành viên do Bộ trưởng bổ nhiệm."
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Sách Vàng 1976 gọi công việc Hội đồng là 'tầm thường'; 1978 Shirley Williams giảm ảnh hưởng công đoàn; một cuộc điều tra khuyến nghị giữ nhưng Joseph không chấp nhận; 1984 bãi bỏ. SCDC được giao 'lấp khoảng trống' và tránh chương trình rộng.",
   "src": "tr. 162–165"
  },
  {
   "q": "Ball diễn giải thế nào về cuộc hành động công nghiệp của giáo viên 1984–86 trong con đường tới ERA?",
   "opts": [
-   "Nó thúc đẩy chuyển giáo viên từ đối tác sang người thực thi: quản lý lực lượng lao động và quản lý chương trình đi song song, giảm tính bất định.",
-   "Nó làm chính phủ nhượng bộ hoàn toàn và trao thêm quyền tự chủ cho giáo viên trong việc quyết định chương trình học, theo cách nhìn khá phổ biến lúc ấy.",
+   "Nó chỉ là tranh chấp về lương, không liên quan đến chương trình hay quan hệ giữa nhà nước và giáo viên trong ERA.",
    "Nó khiến Cánh hữu mới từ bỏ ý tưởng cải cách, và chính phủ quay lại mô hình đối tác với LEA như trước kia.",
-   "Nó chỉ là tranh chấp về lương, không liên quan đến chương trình hay quan hệ giữa nhà nước và giáo viên trong ERA."
+   "Nó thúc đẩy chuyển giáo viên từ đối tác sang người thực thi: quản lý lực lượng lao động và quản lý chương trình đi song song, giảm tính bất định.",
+   "Nó làm chính phủ nhượng bộ hoàn toàn và trao thêm quyền tự chủ cho giáo viên trong việc quyết định chương trình học, theo cách nhìn khá phổ biến lúc ấy."
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Ball (và Merridale): hành động không chỉ về lương; đề xuất 'thỏa thuận năng suất' liên quan quản lý chương trình; địa vị giáo viên gắn với mức bất định trong chương trình (Jamous, Peloille); Chương trình Quốc gia giảm bất định. Giáo viên thành 'người thực thi chính sách quyết định nơi khác'.",
   "src": "tr. 170–171"
  }

@@ -3,9 +3,9 @@
   "q": "Luật 'Old Deluder Satan' (1647) của Massachusetts quy định điều gì?",
   "opts": [
    "Thị trấn từ 50 hộ phải có thầy dạy đọc viết, từ 100 hộ phải có thầy Latin.",
-   "Thị trấn từ 50 hộ phải có thầy Latin, từ 100 hộ phải có thầy đọc viết.",
+   "Mọi thị trấn phải mở một trường Latin miễn phí cho cả con trai lẫn con gái.",
    "Mọi gia đình phải gửi con đến trường giáo xứ ít nhất ba năm đầu tiên.",
-   "Mọi thị trấn phải mở một trường Latin miễn phí cho cả con trai lẫn con gái."
+   "Thị trấn từ 50 hộ phải có thầy Latin, từ 100 hộ phải có thầy đọc viết."
   ],
   "a": 0,
   "exp": "Mục đích là 'đánh lừa Satan', kẻ lừa người dốt phạm tội; trước đó, luật 1642 đã bắt cha mẹ lo cho con biết đọc và hiểu nguyên lý tôn giáo.",
@@ -15,11 +15,11 @@
   "q": "Vì sao trường Quaker ở Pennsylvania khác các trường thuộc địa khác?",
   "opts": [
    "Do chính quyền liên bang quản lý và theo một chương trình thống nhất, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Chỉ mở cho con trai thượng lưu và dạy Latin, Hy Lạp để vào Harvard.",
    "Mở cho mọi trẻ, gồm người da đen và dân bản địa, dạy nghề và dùng thuyết phục nhẹ nhàng.",
-   "Dùng roi và kỷ luật nghiêm để trừ khuynh hướng ác bẩm sinh của trẻ.",
-   "Chỉ mở cho con trai thượng lưu và dạy Latin, Hy Lạp để vào Harvard."
+   "Dùng roi và kỷ luật nghiêm để trừ khuynh hướng ác bẩm sinh của trẻ."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Họ bác thuyết trẻ bản chất xấu và roi vọt; trường dạy cả thủ công, nông nghiệp.",
   "src": "tr. 127"
  },
@@ -27,57 +27,57 @@
   "q": "Tu chính án thứ Mười có ý nghĩa gì với giáo dục Mỹ?",
   "opts": [
    "Giáo dục được giao cho giáo hội nên trường do tôn giáo kiểm soát ở mọi bang.",
-   "Giáo dục không được giao cho liên bang nên là trách nhiệm của từng bang.",
    "Giáo dục bị cấm ở trường công nên phải dùng các trường tư thục miễn phí.",
-   "Giáo dục được giao cho liên bang nên mọi trường theo một chương trình quốc gia."
+   "Giáo dục được giao cho liên bang nên mọi trường theo một chương trình quốc gia.",
+   "Giáo dục không được giao cho liên bang nên là trách nhiệm của từng bang."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Cùng với truyền thống kiểm soát trường tại địa phương ở New England, nó tạo ra hệ thống theo bang thay vì quốc gia.",
   "src": "tr. 128"
  },
  {
   "q": "Jefferson và Rush bất đồng ở điểm nào?",
   "opts": [
-   "Jefferson chỉ muốn giáo dục tư thục; Rush muốn giáo dục toàn bộ do liên bang, theo cách nhìn khá phổ biến lúc ấy.",
+   "Jefferson chủ trương tách giáo hội khỏi nhà nước; Rush muốn dạy Kinh Thánh và trường theo giáo phái.",
    "Jefferson muốn trường theo giáo phái; Rush muốn tách giáo hội khỏi nhà nước.",
    "Jefferson phản đối giáo dục phụ nữ; Rush muốn mọi trẻ em đều học cùng nhau.",
-   "Jefferson chủ trương tách giáo hội khỏi nhà nước; Rush muốn dạy Kinh Thánh và trường theo giáo phái."
+   "Jefferson chỉ muốn giáo dục tư thục; Rush muốn giáo dục toàn bộ do liên bang, theo cách nhìn khá phổ biến lúc ấy."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Rush còn bênh vực giáo dục phụ nữ; dự luật Jefferson (1779) không được thông qua nhưng nêu vấn đề công bằng và xuất sắc.",
   "src": "tr. 129–131"
  },
  {
   "q": "Horace Mann dùng những lập luận nào để vận động cho trường công?",
   "opts": [
-   "Lợi ích kinh tế cho người nộp thuế và giới kinh doanh, và trường là 'bộ cân bằng xã hội' cho dân lao động.",
-   "Chỉ lập luận quân sự rằng nước Mỹ cần lính tinh nhuệ vào nội chiến.",
    "Chỉ lập luận nghệ thuật rằng trường là nơi dạy hội họa, âm nhạc cho thượng lưu, trong bối cảnh nước Anh thập niên 1980.",
-   "Chỉ lập luận tôn giáo rằng giáo hội phải kiểm soát mọi trường học."
+   "Chỉ lập luận tôn giáo rằng giáo hội phải kiểm soát mọi trường học.",
+   "Lợi ích kinh tế cho người nộp thuế và giới kinh doanh, và trường là 'bộ cân bằng xã hội' cho dân lao động.",
+   "Chỉ lập luận quân sự rằng nước Mỹ cần lính tinh nhuệ vào nội chiến."
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Ông còn nói công dân cần biết chữ để bầu cử; triết lý của ông: hệ thống toàn bang, hội đồng trường dân cử, giáo viên được đào tạo, không do giáo hội kiểm soát.",
   "src": "tr. 133"
  },
  {
   "q": "Phong trào trường phổ thông có hai hệ quả bổ sung nào?",
   "opts": [
+   "Lập hệ thống trường quốc gia và cấm trường tư thục hoạt động ở mọi bang.",
    "Lập trường sư phạm và biến dạy tiểu học thành con đường nghề của phụ nữ.",
-   "Lập các trường nội trú cho dân bản địa và mở trường Latin cho mọi người, như một số nhà bình luận đương thời nhận định.",
    "Lập hệ thi quốc gia kiểu Trung Hoa và bãi bỏ nghề của thầy giáo nam.",
-   "Lập hệ thống trường quốc gia và cấm trường tư thục hoạt động ở mọi bang."
+   "Lập các trường nội trú cho dân bản địa và mở trường Latin cho mọi người, như một số nhà bình luận đương thời nhận định."
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Đến 1900, 71% giáo viên nông thôn là nữ; Catharine Beecher lập luận cần 90.000 giáo viên cho miền Tây.",
   "src": "tr. 134"
  },
  {
   "q": "Cardinal Principles of Secondary Education (1918) định nghĩa trường trung học là gì?",
   "opts": [
+   "Một trường chỉ dành cho học sinh giỏi, chọn qua kỳ thi tuyển cạnh tranh.",
    "Một trường chỉ đào tạo nghề, tách hẳn khỏi môn học thuật và đại học.",
-   "Một trường chỉ chuẩn bị cho đại học, theo chương trình cổ điển duy nhất.",
    "Một thể chế tổng hợp phục vụ mọi nhóm xã hội với chương trình phân hóa.",
-   "Một trường chỉ dành cho học sinh giỏi, chọn qua kỳ thi tuyển cạnh tranh."
+   "Một trường chỉ chuẩn bị cho đại học, theo chương trình cổ điển duy nhất."
   ],
   "a": 2,
   "exp": "Ủy ban Mười người (1892) trước đó nghiêng về chuẩn bị đại học; 1918 phản ánh sự đa dạng hóa học sinh và ý tưởng của Spencer.",
@@ -86,22 +86,22 @@
  {
   "q": "G.I. Bill (1944) có tác động gì đến giáo dục đại học?",
   "opts": [
-   "Cấm các trường tư thục nhận sinh viên nam để dành chỗ cho phụ nữ trở lại.",
    "Cấp đất cho mỗi bang lập trường nông nghiệp và cơ khí mà không cần học phí.",
+   "Trợ cấp học phí, sách, sinh hoạt cho cựu binh, mở đầu đà tăng trưởng nhanh số sinh viên.",
    "Lập trường đại học nghiên cứu sau đại học đầu tiên theo mẫu seminar của Đức, theo lối giải thích thường gặp ở các văn bản chính sách.",
-   "Trợ cấp học phí, sách, sinh hoạt cho cựu binh, mở đầu đà tăng trưởng nhanh số sinh viên."
+   "Cấm các trường tư thục nhận sinh viên nam để dành chỗ cho phụ nữ trở lại."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Từ 1944 đến 1951, 7,8 triệu cựu binh dùng hỗ trợ đi học ở trường kỹ thuật, cao đẳng, đại học.",
   "src": "tr. 142"
  },
  {
   "q": "Trong tranh luận giữa Booker T. Washington và W. E. B. Du Bois, điểm khác biệt chính là gì?",
   "opts": [
-   "Washington đòi quyền dân sự ngay lập tức; Du Bois ủng hộ chỉ học nghề thủ công, ở một số trường và khu vực khi đó, trong bối cảnh nước Anh thập niên 1980.",
-   "Washington thỏa hiệp, nhấn mạnh giáo dục công nghiệp; Du Bois đòi quyền dân sự và học cao cho 'thập phân tài năng'.",
    "Washington phản đối mọi giáo dục; Du Bois chủ trương giáo dục chỉ cho nam giới.",
-   "Cả hai cùng ủng hộ tách biệt chủng tộc và đều phản đối việc lập NAACP năm 1909."
+   "Washington thỏa hiệp, nhấn mạnh giáo dục công nghiệp; Du Bois đòi quyền dân sự và học cao cho 'thập phân tài năng'.",
+   "Cả hai cùng ủng hộ tách biệt chủng tộc và đều phản đối việc lập NAACP năm 1909.",
+   "Washington đòi quyền dân sự ngay lập tức; Du Bois ủng hộ chỉ học nghề thủ công, ở một số trường và khu vực khi đó, trong bối cảnh nước Anh thập niên 1980."
   ],
   "a": 1,
   "exp": "Tuskegee (1881) dạy nông nghiệp và nghề; Du Bois chống phân biệt trường và giúp lập NAACP.",
@@ -111,11 +111,11 @@
   "q": "Trường nội trú của BIA (1890 đến thập niên 1930) hoạt động ra sao?",
   "opts": [
    "Cho trẻ bản địa chọn học hay không, và không có kỷ luật hay quy tắc nào.",
+   "Chỉ dạy kỹ năng sinh tồn truyền thống, không dạy đọc, viết hay số học.",
    "Đồng hóa trẻ bản địa dưới kỷ luật quân sự, cấm nói tiếng bản địa và ép dùng tiếng Anh.",
-   "Bảo tồn văn hóa bộ tộc bằng cách dạy hoàn toàn bằng tiếng bản địa cho trẻ, theo cách nhìn khá phổ biến lúc ấy.",
-   "Chỉ dạy kỹ năng sinh tồn truyền thống, không dạy đọc, viết hay số học."
+   "Bảo tồn văn hóa bộ tộc bằng cách dạy hoàn toàn bằng tiếng bản địa cho trẻ, theo cách nhìn khá phổ biến lúc ấy."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Nhiều trẻ mất bản sắc văn hóa; Đạo luật Tự quyết 1975 thay chính sách đồng hóa.",
   "src": "tr. 145–146"
  },
@@ -123,11 +123,11 @@
   "q": "Chính sách 'Mỹ hóa' đối với trẻ gốc Mexico dẫn đến điều gì?",
   "opts": [
    "Dạy hoàn toàn bằng tiếng Tây Ban Nha, giúp trẻ giữ trọn bản sắc văn hóa.",
-   "Dạy bằng tiếng Anh, bỏ qua di sản Latinh, tạo hình ảnh tự ti về nguồn gốc của mình.",
+   "Cho trẻ chọn ngôn ngữ giảng dạy, nên tỉ lệ vào đại học cao hơn trung bình, trong bối cảnh nước Anh thập niên 1980.",
    "Giao cho gia đình tự dạy ở nhà, nên không có xung đột nào với trường công.",
-   "Cho trẻ chọn ngôn ngữ giảng dạy, nên tỉ lệ vào đại học cao hơn trung bình, trong bối cảnh nước Anh thập niên 1980."
+   "Dạy bằng tiếng Anh, bỏ qua di sản Latinh, tạo hình ảnh tự ti về nguồn gốc của mình."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Sau này Đạo luật Song ngữ (1968) và Lau v. Nichols (1974) thay chính sách này; nhưng song ngữ gây tranh cãi, California 1998 chấm dứt.",
   "src": "tr. 147"
  },

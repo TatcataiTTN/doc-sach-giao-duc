@@ -2,9 +2,9 @@
  {
   "q": "Tổng Giám đốc UNESCO đã trao cho Ủy ban quyền hạn như thế nào khi thực hiện nhiệm vụ?",
   "opts": [
-   "Quyền tự chủ về nội dung nhưng không về phương pháp: mọi chuyến khảo sát thực địa đều do ban thư ký UNESCO quyết định và dẫn dắt thay cho các ủy viên, như một số báo cáo chuyên ngành lúc đó từng nêu ra",
    "Quyền chỉ định nội dung báo cáo: Tổng Giám đốc xác định trước các khuyến nghị chính, còn Ủy ban chỉ chịu trách nhiệm thu thập số liệu và soạn thảo văn bản",
    "Quyền tự chủ có điều kiện: mọi kết luận của báo cáo phải được Hội đồng Chấp hành UNESCO duyệt trước khi chính thức công bố cho các nước thành viên và công chúng",
+   "Quyền tự chủ về nội dung nhưng không về phương pháp: mọi chuyến khảo sát thực địa đều do ban thư ký UNESCO quyết định và dẫn dắt thay cho các ủy viên, như một số báo cáo chuyên ngành lúc đó từng nêu ra",
    "Đầy đủ quyền tự chủ về trí tuệ: ông đề xuất điều khoản tham chiếu chung nhưng Ủy ban hoàn toàn tự do quyết định nội dung báo cáo, tổ chức và cách thực hiện công việc"
   ],
   "a": 3,
@@ -14,12 +14,12 @@
  {
   "q": "Ủy ban đã làm việc bằng những hoạt động chính nào?",
   "opts": [
-   "Chủ yếu tổ chức các cuộc thi ý tưởng cho học sinh và sinh viên ở nhiều nước, rồi chọn những ý tưởng hay nhất đưa trực tiếp vào các khuyến nghị cuối cùng của báo cáo",
    "Chỉ tiến hành khảo sát bằng bảng hỏi gửi cho các trường học, rồi tổng hợp kết quả thành các bảng thống kê mà không trao đổi trực tiếp với bất kỳ lãnh đạo chính trị nào",
-   "Chỉ họp ở Paris và đọc các báo cáo quốc gia do các chính phủ gửi tới, vì ngân sách của UNESCO không cho phép các ủy viên đi thực địa tới nhiều nước khác nhau, theo cách nhiều nhà quan sát ngành giáo dục thời ấy vẫn nhắc đến",
-   "Khảo sát thực địa ở mọi khu vực, thăm các tổ chức quốc tế, dự các cuộc họp quốc tế và khu vực, phân tích tài liệu chuyên đề soạn riêng, và tham vấn chuyên gia trong phiên họp chuyên trách"
+   "Khảo sát thực địa ở mọi khu vực, thăm các tổ chức quốc tế, dự các cuộc họp quốc tế và khu vực, phân tích tài liệu chuyên đề soạn riêng, và tham vấn chuyên gia trong phiên họp chuyên trách",
+   "Chủ yếu tổ chức các cuộc thi ý tưởng cho học sinh và sinh viên ở nhiều nước, rồi chọn những ý tưởng hay nhất đưa trực tiếp vào các khuyến nghị cuối cùng của báo cáo",
+   "Chỉ họp ở Paris và đọc các báo cáo quốc gia do các chính phủ gửi tới, vì ngân sách của UNESCO không cho phép các ủy viên đi thực địa tới nhiều nước khác nhau, theo cách nhiều nhà quan sát ngành giáo dục thời ấy vẫn nhắc đến"
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Tr. 268: năm hoạt động là khảo sát thực địa (đi các khu vực, trao đổi với lãnh đạo chính trị và bàn tròn với nhà chức trách giáo dục), thăm tổ chức, dự cuộc họp, phân tích tài liệu chuyên gia soạn riêng, và tham vấn chuyên gia trong phiên họp chuyên trách.",
   "src": "tr. 268"
  },
@@ -38,48 +38,48 @@
  {
   "q": "Số người học thế giới thay đổi thế nào từ 1960 đến 1968 theo Bảng 3 và 4 của phụ lục thống kê?",
   "opts": [
-   "Tăng từ khoảng 324 triệu lên khoảng 460 triệu, nhưng đều như nhau ở cả ba cấp, khoảng 4,5% mỗi năm cho cả cấp I, cấp II và cấp III trong suốt tám năm",
-   "Tăng từ khoảng 324 triệu lên khoảng 460 triệu, trung bình 4,5% mỗi năm, và nhanh nhất ở cấp III (9,5% mỗi năm), chậm nhất ở cấp I (3,9% mỗi năm)",
+   "Giảm từ khoảng 460 triệu xuống khoảng 324 triệu, trung bình 4,5% mỗi năm, và giảm nhanh nhất ở cấp III vì nhiều sinh viên bỏ học trước khi tốt nghiệp đại học",
    "Hầu như không đổi, chỉ dao động quanh 324 triệu người, vì mọi nước đều đã bão hoà nhu cầu nhập học từ năm 1960 và không còn mở rộng thêm nữa sau đó",
-   "Giảm từ khoảng 460 triệu xuống khoảng 324 triệu, trung bình 4,5% mỗi năm, và giảm nhanh nhất ở cấp III vì nhiều sinh viên bỏ học trước khi tốt nghiệp đại học"
+   "Tăng từ khoảng 324 triệu lên khoảng 460 triệu, trung bình 4,5% mỗi năm, và nhanh nhất ở cấp III (9,5% mỗi năm), chậm nhất ở cấp I (3,9% mỗi năm)",
+   "Tăng từ khoảng 324 triệu lên khoảng 460 triệu, nhưng đều như nhau ở cả ba cấp, khoảng 4,5% mỗi năm cho cả cấp I, cấp II và cấp III trong suốt tám năm"
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Tr. 281–282: tổng nhập học 323.587 nghìn (1960) lên 459.599 nghìn (1968); tốc độ tăng bình quân năm 1960–68: tổng 4,5%, cấp I 3,9%, cấp II 5,5%, cấp III 9,5%.",
   "src": "tr. 281–282"
  },
  {
   "q": "So sánh chi quân sự và chi công cho giáo dục năm 1967 (Bảng 15) cho thấy điều gì?",
   "opts": [
-   "Nước đang phát triển chi quân sự nhiều hơn giáo dục (3,6% so với 3,4% GNP), còn nước phát triển chi giáo dục nhiều hơn hẳn quân sự (7,7% so với 5,2% GNP), như một vài nghiên cứu so sánh của thập niên trước từng gợi ý",
    "Thế giới chi cho quân sự (172.582 triệu USD, 7,2% GNP) nhiều hơn chi công cho giáo dục (119.090 triệu USD, 5,0% GNP); chênh lệch này do các nước phát triển, còn nước đang phát triển chi giáo dục hơn quân sự",
-   "Chi quân sự và chi giáo dục gần như bằng nhau ở mọi khu vực, cả hai đều khoảng 5% GNP, và không có khác biệt đáng kể nào giữa nước phát triển với nước đang phát triển",
-   "Thế giới chi cho giáo dục (172.582 triệu USD, 7,2% GNP) nhiều hơn chi cho quân sự (119.090 triệu USD, 5,0% GNP), và điều này đúng cho cả nước phát triển lẫn đang phát triển"
+   "Nước đang phát triển chi quân sự nhiều hơn giáo dục (3,6% so với 3,4% GNP), còn nước phát triển chi giáo dục nhiều hơn hẳn quân sự (7,7% so với 5,2% GNP), như một vài nghiên cứu so sánh của thập niên trước từng gợi ý",
+   "Thế giới chi cho giáo dục (172.582 triệu USD, 7,2% GNP) nhiều hơn chi cho quân sự (119.090 triệu USD, 5,0% GNP), và điều này đúng cho cả nước phát triển lẫn đang phát triển",
+   "Chi quân sự và chi giáo dục gần như bằng nhau ở mọi khu vực, cả hai đều khoảng 5% GNP, và không có khác biệt đáng kể nào giữa nước phát triển với nước đang phát triển"
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Tr. 289: thế giới chi quân sự 172.582 triệu USD (7,2% GNP) và chi công cho giáo dục 119.090 triệu (5,0%); nước phát triển quân sự 7,7% và giáo dục 5,2% GNP; nước đang phát triển giáo dục 3,6% và quân sự 3,4% GNP. Lưu ý các tỉ lệ không hoàn toàn so sánh được vì cách quy đổi tiền tệ.",
   "src": "tr. 289"
  },
  {
   "q": "Phụ lục 10 nói gì về mù chữ người lớn trên thế giới giữa 1950 và 1970?",
   "opts": [
+   "Tỉ lệ mù chữ tăng từ 34,2% lên 44,3% vì dân số tăng, trong khi số người mù chữ tuyệt đối giảm do một số nước chuyển sang đếm theo tiêu chuẩn khác của thống kê",
    "Cả tỉ lệ lẫn số người mù chữ đều giảm mạnh (từ 700 triệu xuống còn dưới 500 triệu) nên đến 1970 vấn đề đã gần như được giải quyết ở mọi khu vực trên thế giới",
    "Tỉ lệ mù chữ giảm khoảng 5 điểm phần trăm mỗi thập niên (44,3% xuống 34,2%), nhưng số người mù chữ vẫn tăng (700 triệu lên 783 triệu) vì dân số người lớn tăng rất nhanh",
-   "Tỉ lệ mù chữ giữ nguyên khoảng 40% trong suốt hai thập niên, vì mọi chương trình xoá mù chữ chỉ giúp những người đã biết chữ nâng cao thêm trình độ của mình, theo nhận định quen thuộc của nhiều cơ quan quản lý giáo dục",
-   "Tỉ lệ mù chữ tăng từ 34,2% lên 44,3% vì dân số tăng, trong khi số người mù chữ tuyệt đối giảm do một số nước chuyển sang đếm theo tiêu chuẩn khác của thống kê"
+   "Tỉ lệ mù chữ giữ nguyên khoảng 40% trong suốt hai thập niên, vì mọi chương trình xoá mù chữ chỉ giúp những người đã biết chữ nâng cao thêm trình độ của mình, theo nhận định quen thuộc của nhiều cơ quan quản lý giáo dục"
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Tr. 296–297: tỉ lệ mù chữ người lớn 44,3% (1950) → 39,3% (1960) → 34,2% (1970); số người mù chữ 700 → 735 → 783 triệu vì dân số người lớn tăng khoảng 700 triệu; số người biết chữ tăng hơn 600 triệu.",
   "src": "tr. 296–297"
  },
  {
   "q": "Dự báo 1980 của Phụ lục 10 về mù chữ người lớn thế giới là gì?",
   "opts": [
-   "Khoảng 820 triệu người mù chữ nhưng tỉ lệ tăng lên 44%, vì chiến dịch xoá mù chữ trong thập niên 1970 hầu như không đạt được kết quả nào đáng kể",
    "Khoảng 783 triệu người mù chữ như năm 1970, vì các tác giả cho rằng dân số người lớn sẽ ngừng tăng trong thập niên 1970 trên toàn thế giới",
    "Khoảng 820 triệu người mù chữ trên 2.823 triệu người lớn, tỉ lệ 29%: tỉ lệ vẫn giảm nhưng số tuyệt đối còn tăng 37 triệu, vì dân số người lớn tăng quá nhanh",
+   "Khoảng 820 triệu người mù chữ nhưng tỉ lệ tăng lên 44%, vì chiến dịch xoá mù chữ trong thập niên 1970 hầu như không đạt được kết quả nào đáng kể",
    "Khoảng 400 triệu người mù chữ trên 2.823 triệu người lớn, tỉ lệ 14%: nhờ chiến dịch xoá mù, số người mù chữ sẽ giảm gần một nửa so với năm 1970"
   ],
-  "a": 2,
+  "a": 1,
   "exp": "Tr. 297: dân số người lớn 1980 ước 2.823 triệu, còn khoảng 820 triệu người mù chữ (tỉ lệ 29%), tức thêm khoảng 500 triệu người biết chữ và 37 triệu người mù chữ; dân số người lớn tăng 536 triệu trong thập niên 1970 làm suy yếu nỗ lực xoá mù.",
   "src": "tr. 297"
  }

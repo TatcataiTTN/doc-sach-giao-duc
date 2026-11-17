@@ -2,24 +2,24 @@
  {
   "q": "'Thấm nhuần văn hóa' (enculturation) ở xã hội chưa có chữ viết nghĩa là gì?",
   "opts": [
-   "Trẻ được gửi vào trường chính thức để học đọc, viết và số học cơ bản, như nhiều tài liệu thời đó vẫn mô tả.",
-   "Trẻ tự khám phá thế giới riêng mà không cần người lớn truyền dạy gì.",
+   "Trẻ học ngôn ngữ, kỹ năng và hấp thụ giá trị đạo đức, tôn giáo của nhóm.",
    "Trẻ học bằng cách đọc các sách viết sẵn về lịch sử của nhóm mình.",
-   "Trẻ học ngôn ngữ, kỹ năng và hấp thụ giá trị đạo đức, tôn giáo của nhóm."
+   "Trẻ được gửi vào trường chính thức để học đọc, viết và số học cơ bản, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Trẻ tự khám phá thế giới riêng mà không cần người lớn truyền dạy gì."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Sách dùng ví dụ kể chuyện, nghi lễ múa nhạc kịch để trẻ biết điều được làm và điều cấm kỵ.",
   "src": "tr. 55"
  },
  {
   "q": "Khổng Tử xây giáo dục trên nền tảng nào?",
   "opts": [
-   "Quyền lực tuyệt đối của chiếu chỉ hoàng đế và kiểm duyệt nghiêm ngặt.",
-   "Quyền tự do tuyệt đối của từng cá nhân, không có thứ bậc hay bổn phận, theo cách nhìn khá phổ biến lúc ấy.",
    "Sự thuận theo dòng đời và tránh mọi nỗ lực kiểm soát người khác.",
-   "Một thang bậc đạo đức, trong đó mọi người biết rõ vai trò và hành xử đúng với vai trò ấy."
+   "Quyền tự do tuyệt đối của từng cá nhân, không có thứ bậc hay bổn phận, theo cách nhìn khá phổ biến lúc ấy.",
+   "Một thang bậc đạo đức, trong đó mọi người biết rõ vai trò và hành xử đúng với vai trò ấy.",
+   "Quyền lực tuyệt đối của chiếu chỉ hoàng đế và kiểm duyệt nghiêm ngặt."
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Khác Đạo gia (thuận tự nhiên) và Pháp gia (độc đoán), Khổng giáo nhấn lễ độ, nghi lễ, làm gương và duy trì truyền thống.",
   "src": "tr. 60"
  },
@@ -28,8 +28,8 @@
   "opts": [
    "Bài thi đòi nhớ văn bản học thuộc nên giáo viên bám sát kinh điển và không bàn lệch.",
    "Bài thi đòi giải quyết vấn đề thực tế nên giáo viên bỏ hẳn kinh điển cổ.",
-   "Bài thi mở cho mọi người dân nên giáo viên phải dạy cả phụ nữ và nông dân, trong bối cảnh nước Anh thập niên 1980.",
-   "Bài thi do giáo viên tự soạn nên họ tự chọn nội dung theo ý thích riêng."
+   "Bài thi do giáo viên tự soạn nên họ tự chọn nội dung theo ý thích riêng.",
+   "Bài thi mở cho mọi người dân nên giáo viên phải dạy cả phụ nữ và nông dân, trong bối cảnh nước Anh thập niên 1980."
   ],
   "a": 0,
   "exp": "Hệ thống chọn lọc theo thứ bậc, trượt là bị loại, và chỉ dành cho nam giới tầng lớp trên.",
@@ -38,36 +38,36 @@
  {
   "q": "Tranh luận về Martin Bernal gắn với điều gì?",
   "opts": [
-   "Ông cho rằng Ai Cập vay hầu hết ý tưởng từ Hy Lạp, và Athens là cái nôi duy nhất, như một số nhà bình luận đương thời nhận định.",
-   "Ông cho rằng Hy Lạp vay nhiều ý tưởng từ Ai Cập, nên cội nguồn phương Tây có phần châu Phi.",
    "Ông cho rằng chữ tượng hình Ai Cập được người La Mã phát minh ra rồi truyền đi.",
-   "Ông cho rằng Ai Cập và Hy Lạp không có tiếp xúc, nên mỗi nơi phát triển riêng."
+   "Ông cho rằng Ai Cập và Hy Lạp không có tiếp xúc, nên mỗi nơi phát triển riêng.",
+   "Ông cho rằng Ai Cập vay hầu hết ý tưởng từ Hy Lạp, và Athens là cái nôi duy nhất, như một số nhà bình luận đương thời nhận định.",
+   "Ông cho rằng Hy Lạp vay nhiều ý tưởng từ Ai Cập, nên cội nguồn phương Tây có phần châu Phi."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Người phê phán cho là phóng đại; sách kết luận có tiếp xúc Ai Cập–Hy Lạp (nhất là ở Crete) và chỉ ra ý nghĩa tư tưởng của việc ai diễn giải quá khứ.",
   "src": "tr. 63"
  },
  {
   "q": "Điểm chung của Do Thái giáo, Kitô giáo và Hồi giáo đối với giáo dục là gì?",
   "opts": [
-   "Đều độc thần và coi trọng sách thiêng nên đề cao biết chữ và học nội dung của nó.",
    "Đều đa thần và coi trọng nghi lễ nên dạy trẻ qua múa, nhạc, kịch.",
-   "Đều cấm giáo dục chính quy và chỉ cho học bằng truyền khẩu trong gia đình.",
-   "Đều coi giáo dục là công việc riêng của nhà nước, không liên quan tôn giáo, theo lối giải thích thường gặp ở các văn bản chính sách."
+   "Đều độc thần và coi trọng sách thiêng nên đề cao biết chữ và học nội dung của nó.",
+   "Đều coi giáo dục là công việc riêng của nhà nước, không liên quan tôn giáo, theo lối giải thích thường gặp ở các văn bản chính sách.",
+   "Đều cấm giáo dục chính quy và chỉ cho học bằng truyền khẩu trong gia đình."
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Torah, Kinh Thánh, Koran: học đọc để đọc sách, học nội dung để sống theo.",
   "src": "tr. 63–64"
  },
  {
   "q": "Sparta và Athens khác nhau ở điểm nào về giáo dục?",
   "opts": [
-   "Cả hai đều cấm mọi phụ nữ đi học và không dạy thể dục hay âm nhạc cho ai.",
    "Athens dân chủ, nhiều lựa chọn trường; Sparta độc tài quân sự, nhà nước kiểm soát để đào tạo lính.",
+   "Cả hai đều chỉ có trường tư, không có sự can thiệp nào của nhà nước vào giáo dục.",
    "Athens do nhà nước kiểm soát chặt để đào tạo lính; Sparta dân chủ với nhiều trường, ở một số trường và khu vực khi đó.",
-   "Cả hai đều chỉ có trường tư, không có sự can thiệp nào của nhà nước vào giáo dục."
+   "Cả hai đều cấm mọi phụ nữ đi học và không dạy thể dục hay âm nhạc cho ai."
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Ở Sparta, đứa trẻ được coi là tài sản của nhà nước; phụ nữ Sparta được huấn luyện thể chất để làm mẹ của lính.",
   "src": "tr. 66"
  },
@@ -75,23 +75,23 @@
   "q": "Sophist bị Socrates và Plato phê phán vì điều gì?",
   "opts": [
    "Dạy chân lý bất biến rất nghiêm khắc, không cho học trò đặt câu hỏi nào.",
-   "Dạy tranh luận cho bất cứ phía nào để thắng, không cam kết với chân lý.",
    "Từ chối nhận học trò thuộc tầng lớp thương mại mới giàu lên ở Athens.",
-   "Dạy học trò bỏ hẳn nói và viết để chỉ tập trung vào suy nghĩ thầm lặng."
+   "Dạy học trò bỏ hẳn nói và viết để chỉ tập trung vào suy nghĩ thầm lặng.",
+   "Dạy tranh luận cho bất cứ phía nào để thắng, không cam kết với chân lý."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Sophist dạy logic, ngữ pháp, tu từ để thuyết phục; họ là những người tương đối luận đạo đức.",
   "src": "tr. 67–68"
  },
  {
   "q": "Theo Plato, học là gì?",
   "opts": [
-   "Quan sát và phân loại các đối tượng thực tế bằng giác quan (hiện thực).",
-   "Chép lại chính xác văn bản do thầy đọc chép lên giấy cói (Ai Cập).",
    "Nhớ lại các ý niệm hoàn hảo mà linh hồn đã biết trước khi sinh (hồi tưởng).",
-   "Rèn kỹ năng hùng biện để thắng mọi cuộc tranh luận trước đám đông (Sophist)."
+   "Rèn kỹ năng hùng biện để thắng mọi cuộc tranh luận trước đám đông (Sophist).",
+   "Quan sát và phân loại các đối tượng thực tế bằng giác quan (hiện thực).",
+   "Chép lại chính xác văn bản do thầy đọc chép lên giấy cói (Ai Cập)."
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Plato là nhà duy tâm: thực tại ở thế giới ý niệm bất biến; những gì ta thấy chỉ là bản sao không hoàn hảo.",
   "src": "tr. 70"
  },
@@ -99,11 +99,11 @@
   "q": "Aristotle khác Plato ở điểm nào?",
   "opts": [
    "Aristotle cho chân lý hoàn toàn tương đối và tùy theo hoàn cảnh từng nhóm.",
+   "Aristotle cho giáo dục chỉ dành cho phụ nữ và chỉ để dạy việc nhà.",
    "Aristotle cho thực tại tồn tại khách quan và tri thức bắt đầu từ cảm giác về sự vật.",
-   "Aristotle cho thực tại chỉ có trong thế giới ý niệm và tri thức là nhớ lại, như nhiều tài liệu thời đó vẫn mô tả.",
-   "Aristotle cho giáo dục chỉ dành cho phụ nữ và chỉ để dạy việc nhà."
+   "Aristotle cho thực tại chỉ có trong thế giới ý niệm và tri thức là nhớ lại, như nhiều tài liệu thời đó vẫn mô tả."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Plato lập chủ nghĩa duy tâm, Aristotle lập chủ nghĩa hiện thực; Aristotle đề xuất giáo dục bắt buộc và phân biệt khai phóng với dạy nghề.",
   "src": "tr. 71–72"
  },
@@ -122,12 +122,12 @@
  {
   "q": "Đóng góp nào của thế giới Ả Rập được chương nhấn mạnh?",
   "opts": [
-   "Xây dựng hệ thi quốc gia gồm nhiều cấp để chọn công chức cho đế quốc.",
-   "Lập đại học đầu tiên ở Paris và Oxford để dạy thần học và luật.",
+   "Phát minh máy in và in Kinh Thánh đầu tiên bằng chữ kim loại ở Baghdad, trong bối cảnh nước Anh thập niên 1980.",
    "Dịch và giữ tri thức Hy Lạp, thêm số không vào hệ số Ấn Độ, đóng góp thiên văn, toán, y học.",
-   "Phát minh máy in và in Kinh Thánh đầu tiên bằng chữ kim loại ở Baghdad, trong bối cảnh nước Anh thập niên 1980."
+   "Xây dựng hệ thi quốc gia gồm nhiều cấp để chọn công chức cho đế quốc.",
+   "Lập đại học đầu tiên ở Paris và Oxford để dạy thần học và luật."
   ],
-  "a": 2,
+  "a": 1,
   "exp": "Averroës (Ibn-Rushd) viết bình luận về Aristotle ảnh hưởng nhà Kinh viện châu Âu; Baghdad và Cordoba là trung tâm học thuật lớn.",
   "src": "tr. 76–77"
  },
@@ -135,11 +135,11 @@
   "q": "Cải cách Tin lành tác động thế nào đến giáo dục?",
   "opts": [
    "Xóa bỏ trường cổ điển Latin và Hy Lạp, dành toàn bộ ngân sách cho dạy nghề.",
+   "Thúc đẩy trường tiểu học bản ngữ và biết chữ để đọc Kinh Thánh, nhưng giữ hệ hai nhánh trường.",
    "Cấm phụ nữ biết chữ và chỉ cho con trai đến trường dưới sự giám sát nhà nước, như một số nhà bình luận đương thời nhận định.",
-   "Bãi bỏ mọi trường tiểu học và chuyển hoàn toàn việc dạy về cho các gia đình.",
-   "Thúc đẩy trường tiểu học bản ngữ và biết chữ để đọc Kinh Thánh, nhưng giữ hệ hai nhánh trường."
+   "Bãi bỏ mọi trường tiểu học và chuyển hoàn toàn việc dạy về cho các gia đình."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Họ cũng dùng vấn đáp giáo lý để nhồi niềm tin đúng, giám sát và cấp phép giáo viên; biết chữ ở Anh tăng từ 10% (1500) lên khoảng 40% đàn ông (1700).",
   "src": "tr. 85–87"
  }
