@@ -4,10 +4,10 @@
   "opts": [
    "Chỉ tóm tắt số liệu thống kê về việc làm của học sinh ra trường, mà không đưa ra bất kỳ đánh giá hay khuyến nghị nào.",
    "Giao quyền quyết định chương trình lại cho giáo viên và công đoàn, đồng thời giảm quyền lực của chính phủ trung ương.",
-   "Củng cố đồng thuận dân chủ-xã hội cũ bằng cách giải thích vì sao trường tổng hợp cần được mở rộng thêm trong thập niên 1980.",
-   "Góp phần tạo và áp đặt một 'dàn xếp mới' thay đồng thuận cũ trong giáo dục, bằng một tường thuật lẽ thường về trường học."
+   "Góp phần tạo và áp đặt một 'dàn xếp mới' thay đồng thuận cũ trong giáo dục, bằng một tường thuật lẽ thường về trường học.",
+   "Củng cố đồng thuận dân chủ-xã hội cũ bằng cách giải thích vì sao trường tổng hợp cần được mở rộng thêm trong thập niên 1980."
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Donald: các văn bản dựng 'tường thuật lẽ thường và có thật' về trường học, mục đích 'hợp thức hóa tri thức hiện có qua chủ nghĩa kinh nghiệm dân túy'. Sách Xanh mang vẻ trung lập, nhưng là 'thao tác chính trị và nhận thức luận tao nhã' tạo lý lẽ cho thay đổi cơ bản.",
   "src": "tr. 71"
  },
@@ -26,21 +26,21 @@
  {
   "q": "Vì sao Ball nói tính đa nghĩa của diễn ngôn 'trường–công nghiệp' là một thế mạnh?",
   "opts": [
-   "Nó chỉ nhắm đến một vấn đề duy nhất là thiếu kỹ sư, nên các giải pháp luôn rõ ràng và không có mâu thuẫn trong nội bộ, trong bối cảnh nước Anh thập niên 1980.",
-   "Nó chỉ tồn tại trong các sách học thuật mà không đi vào chính sách, nên không bị các nhóm lợi ích phản đối công khai.",
    "Nó được tất cả chủ thuê và công đoàn đồng thuận hoàn toàn, nên chính phủ không phải xử lý bất kỳ xung đột lợi ích nào.",
-   "Nó đáp ứng nhiều mặt khủng hoảng công nghiệp cùng lúc: quản lý yếu, bất ổn lao động, năng suất thấp, thất nghiệp thanh niên."
+   "Nó chỉ tồn tại trong các sách học thuật mà không đi vào chính sách, nên không bị các nhóm lợi ích phản đối công khai.",
+   "Nó đáp ứng nhiều mặt khủng hoảng công nghiệp cùng lúc: quản lý yếu, bất ổn lao động, năng suất thấp, thất nghiệp thanh niên.",
+   "Nó chỉ nhắm đến một vấn đề duy nhất là thiếu kỹ sư, nên các giải pháp luôn rõ ràng và không có mâu thuẫn trong nội bộ, trong bối cảnh nước Anh thập niên 1980."
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Ball liệt kê: thất bại của quản lý công nghiệp, niềm tin của Thatcher vào doanh nghiệp nhỏ, bất ổn 'ba ngày/tuần' và 'mùa đông bất mãn', năng suất thấp, than phiền của chủ thuê, và quản lý xã hội nạn thất nghiệp thanh niên.",
   "src": "tr. 73"
  },
  {
   "q": "Stronach hiểu chủ nghĩa nghề nghiệp mới như thế nào?",
   "opts": [
+   "Như một kế hoạch tổng thể do giới công nghiệp soạn ra, có tính hệ thống và nhất quán trong mọi chi tiết thực thi chính sách.",
    "Như một giải pháp kinh tế đã được chứng minh hiệu quả, vì nó liên hệ trực tiếp động lực cá nhân với phúc lợi kinh tế quốc gia.",
    "Như một cuộc cách mạng sư phạm giải phóng học sinh nghèo, giúp họ thoát khỏi sự áp đặt của chương trình học hàn lâm.",
-   "Như một kế hoạch tổng thể do giới công nghiệp soạn ra, có tính hệ thống và nhất quán trong mọi chi tiết thực thi chính sách.",
    "Như nghi lễ: sáng kiến là phản ứng chứ không phải giải pháp, trấn an kẻ có quyền lực và làm mê muội kẻ không có quyền lực."
   ],
   "a": 3,
@@ -50,22 +50,22 @@
  {
   "q": "Điều gì làm TVEI khác với ba mô hình thay đổi giáo dục có sẵn ở Anh (theo Dale)?",
   "opts": [
-   "Nó theo mô hình Plowden, nơi đại diện nhiều lợi ích cùng 'các vị tai to mặt lớn' xem xét và đề xuất các thay đổi quy mô lớn.",
-   "Theo mô hình kinh doanh: chuyển nguồn lực sang 'dòng sản phẩm' mới, nhắm nhóm khách hàng cụ thể, vận hành theo lối hành pháp.",
+   "Nó theo mô hình Schools Council: chương trình do nhà giáo dục thực hành soạn và được đưa ra tham vấn rộng rãi trong giáo viên.",
    "Nó theo mô hình lập pháp, được Quốc hội thông qua như luật nâng tuổi rời trường, áp dụng đồng đều cho mọi trường học.",
-   "Nó theo mô hình Schools Council: chương trình do nhà giáo dục thực hành soạn và được đưa ra tham vấn rộng rãi trong giáo viên."
+   "Nó theo mô hình Plowden, nơi đại diện nhiều lợi ích cùng 'các vị tai to mặt lớn' xem xét và đề xuất các thay đổi quy mô lớn.",
+   "Theo mô hình kinh doanh: chuyển nguồn lực sang 'dòng sản phẩm' mới, nhắm nhóm khách hàng cụ thể, vận hành theo lối hành pháp."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Dale: TVEI không theo ba lối (Schools Council, Plowden/ủy ban tư vấn, lập pháp) mà theo mô hình kinh doanh/thương mại. Nó là tiền thân của kinh phí theo mục đích bỏ qua LEA, và cho thấy cải cách 'nhanh, từ trên xuống'.",
   "src": "tr. 76"
  },
  {
   "q": "Theo 'kịch bản cấu trúc', vì sao nhà nước dân chủ-xã hội thời tăng trưởng giữ giáo dục thuộc lĩnh vực 'tái sản xuất'?",
   "opts": [
-   "Vì tư bản không có nhu cầu gì về lao động có học, nên việc đào tạo giáo dục hoàn toàn không liên quan đến nhu cầu kinh tế.",
+   "Vì chính phủ Bảo thủ đã tư nhân hóa phần lớn trường học từ thập niên 1960, nên giáo dục thuộc về khu vực sản xuất ngay từ đầu.",
    "Vì giáo dục luôn là việc riêng của gia đình và thị trường, nên nhà nước không bao giờ chịu trách nhiệm tài chính cho hệ thống nhà trường.",
    "Thuế từ lợi nhuận cho nhà nước gánh chi phí tái sản xuất và 'mua' ổn định bằng lương xã hội; sản xuất và tái sản xuất tách rõ.",
-   "Vì chính phủ Bảo thủ đã tư nhân hóa phần lớn trường học từ thập niên 1960, nên giáo dục thuộc về khu vực sản xuất ngay từ đầu."
+   "Vì tư bản không có nhu cầu gì về lao động có học, nên việc đào tạo giáo dục hoàn toàn không liên quan đến nhu cầu kinh tế."
   ],
   "a": 2,
   "exp": "Khi tăng trưởng, thuế đánh vào lợi nhuận cho phép nhà nước phát triển phúc lợi: giữ ổn định, giảm áp lực lương, gánh chi phí tái sản xuất. Lĩnh vực sản xuất và tái sản xuất (phúc lợi, giáo dục) được tách mạnh.",
@@ -86,58 +86,58 @@
  {
   "q": "'Tương ứng dương' và 'tương ứng âm' của Fritzell khác nhau thế nào?",
   "opts": [
-   "Dương: giáo dục dành cho học sinh giỏi. Âm: giáo dục dành cho học sinh yếu, do chính phủ tài trợ riêng theo mục đích cụ thể, trong bối cảnh nước Anh thập niên 1980.",
-   "Dương: trường hoàn toàn độc lập khỏi kinh tế. Âm: trường bị kinh tế điều khiển trực tiếp qua các hợp đồng với doanh nghiệp.",
+   "Dương: trường bắt chước kinh tế (cạnh tranh, thi, thứ bậc). Âm: trường có vẻ tự chủ, nhấn phát triển cá nhân, vẫn phục vụ kinh tế.",
    "Dương: giáo dục tư thục. Âm: giáo dục công lập; cả hai đều phục vụ kinh tế theo cùng một cách giống nhau về mặt cấu trúc.",
-   "Dương: trường bắt chước kinh tế (cạnh tranh, thi, thứ bậc). Âm: trường có vẻ tự chủ, nhấn phát triển cá nhân, vẫn phục vụ kinh tế."
+   "Dương: giáo dục dành cho học sinh giỏi. Âm: giáo dục dành cho học sinh yếu, do chính phủ tài trợ riêng theo mục đích cụ thể, trong bối cảnh nước Anh thập niên 1980.",
+   "Dương: trường hoàn toàn độc lập khỏi kinh tế. Âm: trường bị kinh tế điều khiển trực tiếp qua các hợp đồng với doanh nghiệp."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Fritzell: dương là gắn hài hòa về cấu trúc và chức năng với tích lũy và hợp thức hóa; âm là đóng góp chức năng bằng cách loại trừ khuynh hướng phê phán, với trường có vẻ xa dạng hàng hóa. Ball cho rằng chủ nghĩa nghề nghiệp mới là tương ứng âm.",
   "src": "tr. 81–83"
  },
  {
   "q": "Việc kinh phí theo đầu học sinh gắn với tuyển sinh mở được Ball diễn giải thế nào qua khái niệm của Marx?",
   "opts": [
-   "'Bái vật hàng hóa': quan hệ giáo viên–phụ huynh–học sinh hiện ra như quan hệ giữa số tuyển, tiền theo đầu và kết quả thi.",
    "Là 'giá trị thặng dư': trường tạo lợi nhuận trực tiếp cho nhà nước nên học sinh trở thành chủ sở hữu của cải của trường.",
    "Là 'đấu tranh giai cấp': giáo viên và phụ huynh liên minh chống chính phủ để giành lại quyền kiểm soát hoàn toàn nhà trường.",
-   "Là 'xã hội hóa': nhà nước chuyển giao hoàn toàn quyền sở hữu trường học cho cộng đồng địa phương và công đoàn giáo viên."
+   "Là 'xã hội hóa': nhà nước chuyển giao hoàn toàn quyền sở hữu trường học cho cộng đồng địa phương và công đoàn giáo viên.",
+   "'Bái vật hàng hóa': quan hệ giáo viên–phụ huynh–học sinh hiện ra như quan hệ giữa số tuyển, tiền theo đầu và kết quả thi."
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Ball: pupils bị rút thành một dạng trao đổi giữa phụ huynh và trường; quá trình giáo dục bị che. Phụ huynh được củng cố là người tiêu dùng, giáo viên gần lao động làm thuê hơn.",
   "src": "tr. 86–87"
  },
  {
   "q": "Về 'nghiên cứu hiệu quả trường', Ball cho rằng nó làm công việc ý thức hệ nào?",
   "opts": [
-   "Chỉ làm việc kỹ thuật thuần túy về thống kê, không có hàm ý gì về chính trị hay kiểm soát giáo viên trong nhà trường.",
    "Chứng minh bằng thực nghiệm rằng giáo viên có quyền tự chủ cao luôn tạo ra trường học hiệu quả nhất cho mọi nhóm học sinh, trong bối cảnh nước Anh thập niên 1980.",
-   "Bảo vệ vai trò của chính quyền địa phương trước các cải cách thị trường, và đề xuất tăng thêm kinh phí cho các LEA.",
-   "Dựng trường 'ốm' và cơ chế thú tội tự kỷ luật, mượn ngôn ngữ công nghiệp, đẩy lùi các tiêu chí đánh giá khác của giáo dục."
+   "Dựng trường 'ốm' và cơ chế thú tội tự kỷ luật, mượn ngôn ngữ công nghiệp, đẩy lùi các tiêu chí đánh giá khác của giáo dục.",
+   "Chỉ làm việc kỹ thuật thuần túy về thống kê, không có hàm ý gì về chính trị hay kiểm soát giáo viên trong nhà trường.",
+   "Bảo vệ vai trò của chính quyền địa phương trước các cải cách thị trường, và đề xuất tăng thêm kinh phí cho các LEA."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Ball: nghiên cứu này dựng trường 'kém hiệu quả/ốm' và dùng kỹ thuật thú tội (theo Foucault) như cơ chế quay về 'khỏe'; chuẩn hóa so sánh các trường; coi kiểm soát giáo viên là vấn đề chính ('trường cần chống giáo viên').",
   "src": "tr. 88–90"
  },
  {
   "q": "Hệ thứ bậc trường học 'đa dạng' mà ERA và các chính sách trước đó góp phần tạo ra, theo Ball, gồm những tầng nào?",
   "opts": [
-   "Chỉ gồm trường tổng hợp và trường ngữ pháp, được phân bổ đều theo vùng, và không có bất kỳ khác biệt nào về kinh phí.",
-   "Trường tư (kể cả suất hỗ trợ), trường tự quản, trường 'sao' và 'chìm' trong LEA, trường nam châm, CTC, và các lộ trình tách sớm.",
    "Gồm các trường do công đoàn giáo viên quản lý và các trường do LEA quản lý, cạnh tranh về chương trình thay vì về học sinh.",
-   "Chỉ gồm trường tiểu học và trung học, phân theo độ tuổi học sinh, và mọi trường đều nhận cùng mức kinh phí cho mỗi học sinh, trong bối cảnh nước Anh thập niên 1980."
+   "Chỉ gồm trường tiểu học và trung học, phân theo độ tuổi học sinh, và mọi trường đều nhận cùng mức kinh phí cho mỗi học sinh, trong bối cảnh nước Anh thập niên 1980.",
+   "Trường tư (kể cả suất hỗ trợ), trường tự quản, trường 'sao' và 'chìm' trong LEA, trường nam châm, CTC, và các lộ trình tách sớm.",
+   "Chỉ gồm trường tổng hợp và trường ngữ pháp, được phân bổ đều theo vùng, và không có bất kỳ khác biệt nào về kinh phí."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Ball mô tả sự phân tầng: khu vực tư nhận hỗ trợ; trường tự quản được trợ cấp xây dựng gấp năm lần; trường sao và trường chìm; trường nam châm theo mô hình Mỹ; CTC (126,6 triệu bảng cho 1989–92). Đây là nền cho cạnh tranh giữa cả trường lẫn học sinh.",
   "src": "tr. 90–93"
  },
  {
   "q": "Ball dùng khái niệm 'vô sản hóa' (proletarianisation) để chỉ thay đổi nào ở nghề dạy học?",
   "opts": [
-   "Giáo viên chuyển sang làm việc cho các công ty nước ngoài, và LEA không còn quản lý đội ngũ giáo viên của mình.",
    "Giáo viên được nâng cao vị thế chuyên nghiệp nhờ đào tạo đại học bắt buộc dài hơn và quyền thương lượng tập thể rộng hơn, trong bối cảnh nước Anh thập niên 1980.",
+   "Giáo viên thành chủ doanh nghiệp độc lập, tự quyết toàn bộ chương trình, học phí và các điều kiện làm việc của mình.",
    "Giáo viên thành lao động làm thuê: hợp đồng, lương gắn hiệu suất, quản lý công nghiệp, bớt quyền quyết định về dạy gì và thế nào.",
-   "Giáo viên thành chủ doanh nghiệp độc lập, tự quyết toàn bộ chương trình, học phí và các điều kiện làm việc của mình."
+   "Giáo viên chuyển sang làm việc cho các công ty nước ngoài, và LEA không còn quản lý đội ngũ giáo viên của mình."
   ],
   "a": 2,
   "exp": "Ball: quản lý kiểu công nghiệp tách chính sách khỏi thực thi, tuyển dụng chuyển từ LEA sang trường (LMS), hợp đồng dịch vụ có giờ cố định, lương theo hiệu suất, Chương trình và Kiểm tra Quốc gia giảm quyền quyết định: thay đổi lớn về quá trình lao động và điều kiện làm việc.",

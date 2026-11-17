@@ -1,0 +1,158 @@
+[
+ {
+  "q": "Khác biệt giữa 'xóa phân biệt' (desegregation) và 'hòa nhập' (integration) là gì?",
+  "opts": [
+   "Xóa phân biệt là xếp các nhóm chủng tộc học cùng trường; hòa nhập đòi thêm hiệu quả giáo dục và quan hệ tích cực.",
+   "Xóa phân biệt đòi thêm hiệu quả giáo dục; hòa nhập chỉ là xếp các nhóm học cùng trường, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Xóa phân biệt chỉ dành cho học sinh da đen; hòa nhập chỉ dành cho học sinh Latinh.",
+   "Hai khái niệm giống hệt nhau và không có khác biệt nào trong cách dùng ở chương."
+  ],
+  "a": 0,
+  "exp": "Hai mục đích nền tảng: vượt thiếu hụt thành tích của học sinh thiểu số và phát triển quan hệ giữa các chủng tộc.",
+  "src": "tr. 354"
+ },
+ {
+  "q": "Brown v. Board of Education (1954) phán điều gì?",
+  "opts": [
+   "Trường công phải dùng xe buýt chở học sinh ngay lập tức, bất kể chi phí hay khoảng cách, theo cách nhìn khá phổ biến lúc ấy.",
+   "Học thuyết 'tách biệt nhưng bình đẳng' không có chỗ trong giáo dục công vì tước quyền bảo vệ bình đẳng.",
+   "Mỗi bang tự quyết hoàn toàn về việc tách biệt trường học và liên bang không can thiệp.",
+   "Trường tách biệt hợp hiến nếu chi tiêu mỗi học sinh bằng nhau giữa các nhóm chủng tộc."
+  ],
+  "a": 1,
+  "exp": "Kháng cự ồ ạt sau Brown II (1955); Little Rock 1957; đến 1963 chỉ 2% học sinh da đen miền Nam học chung trường với người da trắng.",
+  "src": "tr. 355–356"
+ },
+ {
+  "q": "Xu hướng xóa phân biệt khác nhau thế nào giữa học sinh da đen và Latinh?",
+  "opts": [
+   "Học sinh da đen học trường tách biệt tăng, còn học sinh Latinh giảm hẳn.",
+   "Cả hai nhóm đều giảm mạnh học ở trường chủ yếu thiểu số trong 1969–2004.",
+   "Cả hai nhóm đều giữ nguyên tỉ lệ ở trường chủ yếu thiểu số suốt thời gian này, trong bối cảnh nước Anh thập niên 1980, ở một số trường và khu vực khi đó.",
+   "Học sinh da đen giảm học trường từ 90% thiểu số (64% còn 38%); học sinh Latinh học trường chủ yếu thiểu số tăng (55% lên 77%)."
+  ],
+  "a": 3,
+  "exp": "Tiến bộ ở thị trấn nhỏ và miền Nam, nhưng phân biệt ở vùng đô thị lớn tăng vì phân biệt nhà ở.",
+  "src": "tr. 356–357"
+ },
+ {
+  "q": "Trường chuyên (magnet school) là gì và tranh cãi quanh nó ra sao?",
+  "opts": [
+   "Trường có chương trình chuyên biệt thu hút học sinh khắp khu; bị phê phán là 'hút' học sinh giỏi và có tuyển chọn.",
+   "Trường chỉ dành cho học sinh khuyết tật; bị phê phán vì tách biệt các em khỏi lớp thường, theo lối giải thích thường gặp ở các văn bản chính sách.",
+   "Trường nhận mọi học sinh trong vùng không chọn lọc; bị phê phán vì quá rẻ và đơn giản.",
+   "Trường tư thục không nhận tiền công; bị phê phán vì không có chương trình đặc biệt nào."
+  ],
+  "a": 0,
+  "exp": "Ví dụ Milwaukee tăng trường xóa phân biệt từ 14 (1976) lên 101 (1978) nhờ trường chuyên, chuyển tự nguyện và vẽ lại ranh giới.",
+  "src": "tr. 359–360"
+ },
+ {
+  "q": "Title 1 (ESEA 1965) là gì?",
+  "opts": [
+   "Quỹ của bang cấp riêng cho đại học công, tổng cộng dưới 1 tỉ đô-la mỗi năm.",
+   "Quỹ của doanh nghiệp tài trợ trường tư thục, tổng cộng hàng nghìn tỉ đô-la hằng năm.",
+   "Quỹ liên bang nâng giáo dục trẻ nghèo, hơn 170 tỉ đô-la từ 1965 đến 2007.",
+   "Quỹ của địa phương lấy từ thuế bất động sản, không liên quan đến liên bang."
+  ],
+  "a": 2,
+  "exp": "Dịch vụ gồm phụ huynh tham gia, giáo dục mầm non (Head Start), đọc, ngôn ngữ, toán, song ngữ, tư vấn, phòng bỏ học, đào tạo, sau giờ học, máy tính.",
+  "src": "tr. 363–364"
+ },
+ {
+  "q": "Nghiên cứu về chương trình mầm non xuất sắc (Ypsilanti, Syracuse) cho thấy điều gì?",
+  "opts": [
+   "Chỉ chương trình tư thục đắt tiền có tác dụng, còn chương trình công thì hoàn toàn không, ở một số trường và khu vực khi đó.",
+   "Chương trình mầm non không có tác dụng gì và nên ngừng tài trợ cho toàn bộ chương trình.",
+   "Mọi chương trình mầm non đều có tác dụng lâu dài và không cần chú ý đến cách thực hiện.",
+   "Nếu thiết kế và thực hiện tốt thì có tác dụng lâu dài, nhưng đa số chương trình ít hiệu quả hơn."
+  ],
+  "a": 3,
+  "exp": "Trẻ tham gia ít bị xếp giáo dục đặc biệt hay lưu ban, nhiều khả năng tốt nghiệp trung học; can thiệp sinh thái nên bắt đầu trước hai, ba tuổi.",
+  "src": "tr. 364–365"
+ },
+ {
+  "q": "'Tiến bộ hằng năm đủ' (AYP) trong NCLB nghĩa là gì và vì sao gây rối?",
+  "opts": [
+   "Trường chỉ cần tiến bộ một lần duy nhất trong năm 2013 và sau đó không cần theo dõi.",
+   "Chỉ điểm trung bình toàn trường mới quan trọng, nên nhóm nhỏ không bao giờ ảnh hưởng, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Mọi trường và từng nhóm nhỏ phải tiến tới mục tiêu 2013–2014, nên dễ bị gắn nhãn 'cần cải thiện'.",
+   "Mọi bang phải dùng đúng một định nghĩa 'thành thạo' thống nhất toàn quốc để so sánh."
+  ],
+  "a": 2,
+  "exp": "Bang tự định nghĩa 'thành thạo' (cùng kỹ năng ở phân vị 36 ở Montana, 89 ở Wyoming); một số trường 'lách hệ thống'.",
+  "src": "tr. 366–368"
+ },
+ {
+  "q": "Cách tiếp cận 'rút ra khỏi lớp' (pullout) của Title 1 có vấn đề gì?",
+  "opts": [
+   "Gây xáo trộn trong trường và nhấn quá mức kỹ năng máy móc hơn kỹ năng chức năng.",
+   "Cho học sinh yếu học nhiều giờ hơn, nên làm tăng thành tích của mọi nhóm học sinh.",
+   "Chỉ có tác dụng với học sinh khuyết tật nặng và không cần dùng cho học sinh khác.",
+   "Giữ mọi học sinh yếu trong lớp thường và dạy bằng một chương trình hoàn toàn thống nhất."
+  ],
+  "a": 0,
+  "exp": "Luật gần đây giúp thay bằng cách tiếp cận toàn trường, hỗ trợ trong lớp; các câu hỏi còn lại: dạy sớm kiểu nào, làm gì ở trung học, chi phí.",
+  "src": "tr. 369"
+ },
+ {
+  "q": "Cái gì thay thế ẩn dụ 'nồi hầm' trong đa nguyên văn hóa?",
+  "opts": [
+   "Ẩn dụ 'chiếc thang' để xếp các nhóm theo thứ bậc cao thấp về văn hóa.",
+   "Ẩn dụ 'bức tường' để giữ các nhóm tách biệt hoàn toàn khỏi nhau về mọi mặt.",
+   "Ẩn dụ 'lò nung' để hòa tan mọi nhóm thành một bản sắc duy nhất và đồng nhất, theo cách nhìn khá phổ biến lúc ấy.",
+   "Các ẩn dụ như 'đĩa salad' và 'bức khảm' cho phép đặc điểm riêng trong tổng thể."
+  ],
+  "a": 3,
+  "exp": "AACTE: 'không có một mẫu người Mỹ duy nhất'; đa nguyên nằm giữa đồng hóa hoàn toàn và tách biệt nghiêm ngặt.",
+  "src": "tr. 371"
+ },
+ {
+  "q": "Các cách dạy học sinh học tiếng Anh (ELL) so sánh thế nào trong Tổng quan 12.1?",
+  "opts": [
+   "Chỉ 'dìm' được liên bang ủng hộ, còn các cách song ngữ đều bị Tòa án Tối cao cấm.",
+   "Duy trì ngôn ngữ thứ nhất chuyển nhanh nhất; chuyển tiếp giữ bản sắc; 'dìm' có kết quả tốt nhất, trong bối cảnh nước Anh thập niên 1980.",
+   "Duy trì ngôn ngữ thứ nhất giữ bản sắc; chuyển tiếp đưa vào lớp thường nhanh; 'dìm' không hỗ trợ thường thất bại.",
+   "Mọi cách đều có kết quả giống hệt nhau, và không cách nào có ưu hay nhược điểm."
+  ],
+  "a": 2,
+  "exp": "Lau v. Nichols (1974) không chỉ định song ngữ là cách duy nhất; California, Arizona, Massachusetts giới hạn song ngữ còn một năm.",
+  "src": "tr. 372, 374–376"
+ },
+ {
+  "q": "Tranh cãi về chương trình Afrocentric xoay quanh điều gì?",
+  "opts": [
+   "Tranh cãi chỉ về giá tiền sách giáo khoa và không liên quan đến nội dung gì.",
+   "Người phê phán sợ nó bỏ văn hóa phương Tây và gây chia rẽ; người ủng hộ nói nó chỉ thêm tài liệu để bớt thiên lệch.",
+   "Người phê phán sợ nó dạy quá nhiều văn hóa châu Âu; người ủng hộ muốn bỏ hẳn lịch sử da đen, như một số nhà bình luận đương thời nhận định.",
+   "Mọi người đều đồng ý nó không có vấn đề nào và đã được dạy ở mọi trường học."
+  ],
+  "a": 1,
+  "exp": "Asante: phong trào 'bỏ thiên lệch' chương trình bằng thêm tài liệu, không bỏ kinh điển phương Tây; một số báo cáo thấy tăng động cơ, chuyên cần.",
+  "src": "tr. 378–379"
+ },
+ {
+  "q": "IEP (kế hoạch giáo dục cá nhân hóa) và 'môi trường ít hạn chế nhất' nghĩa là gì?",
+  "opts": [
+   "IEP do hiệu trưởng soạn không cần cha mẹ; học sinh khuyết tật luôn học ở trường riêng.",
+   "IEP chỉ dành cho học sinh giỏi; học sinh khuyết tật không được tham gia lớp thường.",
+   "IEP là bài thi chung cho mọi học sinh; môi trường ít hạn chế nhất là lớp riêng toàn thời gian, theo lối giải thích thường gặp ở các văn bản chính sách.",
+   "IEP là thỏa thuận bằng văn bản về mục tiêu, dịch vụ cho từng em; em nên học lớp thường đến mức có thể."
+  ],
+  "a": 3,
+  "exp": "IEP lập trong 30 ngày bởi ủy ban có giáo viên, cha mẹ, đại diện quản lý; 'inclusion' là nỗ lực mạnh hơn 'mainstreaming'.",
+  "src": "tr. 380–381"
+ },
+ {
+  "q": "Vì sao có lo ngại về việc xếp học sinh thiểu số vào lớp thiểu năng trí tuệ?",
+  "opts": [
+   "Học sinh da đen bị xếp gần gấp ba học sinh da trắng, phụ thuộc bài thi IQ dựng cho người da trắng trung lưu.",
+   "Không có chênh lệch nào về tỉ lệ xếp giữa các nhóm chủng tộc trong giáo dục đặc biệt, ở một số trường và khu vực khi đó.",
+   "Học sinh thiểu số hầu như không bao giờ được xếp vào giáo dục đặc biệt ở Mỹ.",
+   "Học sinh da trắng bị xếp gần gấp ba học sinh da đen, vì bài thi IQ thiên lệch về họ."
+  ],
+  "a": 0,
+  "exp": "Diana v. Board (1970) và Larry P. v. Riles buộc kiểm tra bằng ngôn ngữ chính và hạn chế dùng IQ để xếp lớp.",
+  "src": "tr. 385–386"
+ }
+]
