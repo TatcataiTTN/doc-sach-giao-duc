@@ -189,3 +189,17 @@ button{font:inherit;cursor:pointer}
 }
 .tree .soon span{display:block;padding:6px 16px;color:var(--side-muted);font-size:14px}
 .tree .soon em{font-style:normal;font-size:12px;opacity:.8}
+
+/* ---- trang có khóa mật khẩu ---- */
+[hidden]{display:none!important}
+.gate{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px}
+.gate-card{max-width:30rem;width:100%;background:var(--surface);border:1px solid var(--line);border-top:4px solid var(--accent);border-radius:10px;padding:28px 28px 22px;font-family:var(--sans)}
+.gate-card h1{font-size:1.5rem;line-height:1.3;margin:.3em 0 .1em}
+.gate-card .title-en{margin:0 0 1em;color:var(--muted);font-style:italic}
+.gate-card form{display:flex;gap:8px;margin:1.1em 0 .4em}
+.gate-card input{flex:1;min-width:0;padding:10px 14px;border:1px solid var(--line);border-radius:8px;font:inherit;background:var(--bg);color:var(--ink)}
+.gate-card button{padding:10px 20px;border:0;border-radius:8px;background:var(--accent);color:var(--accent-ink);font:inherit;font-weight:700;cursor:pointer}
+.gate-card button:disabled{opacity:.6;cursor:wait}
+.gate-msg{min-height:1.4em;margin:.2em 0 .8em;color:var(--bad);font-size:.9rem}
+#reader .doc{max-width:46rem}
+#reader .tbl{max-width:100%}

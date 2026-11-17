@@ -1,0 +1,45 @@
+{{ define "main" }}
+<div id="gate" class="gate">
+  <div class="gate-card">
+    <p class="eyebrow">Tủ sách · có khóa</p>
+    <h1>Địa chính trị của Trí tuệ nhân tạo</h1>
+    <p class="title-en">Geopolitics of Artificial Intelligence</p>
+    <p>Nội dung của cuốn này được mã hóa và chỉ mở được bằng mật khẩu. Nhập mật khẩu để đọc.</p>
+    <form id="gateForm" autocomplete="off">
+      <input type="password" id="pw" placeholder="Mật khẩu" aria-label="Mật khẩu" required autofocus>
+      <button type="submit" id="gateBtn">Mở</button>
+    </form>
+    <p id="gateMsg" class="gate-msg" role="status" aria-live="polite"></p>
+    <p class="muted"><a href="{{ "/" | relURL }}">← Về tủ sách</a></p>
+  </div>
+</div>
+<div id="reader" class="layout" hidden>
+  <nav class="side" id="side" aria-label="Mục lục">
+    <div class="side-head">
+      <a class="side-home" href="{{ "/" | relURL }}">← Tủ sách</a>
+      <span class="side-title" id="gTitle">Địa chính trị của AI</span>
+      <div class="side-sub" id="gSub"></div>
+    </div>
+    <ul class="tree" id="gTree"></ul>
+    <div class="side-foot"><a href="#" id="gLock">Khóa lại</a></div>
+  </nav>
+  <div class="main">
+    <header class="topbar">
+      <button class="menu-btn" id="menuBtn" aria-label="Mở mục lục">☰</button>
+      <ol class="crumbs"><li><a href="{{ "/" | relURL }}">Tủ sách</a></li><li aria-current="page" id="gCrumb">Địa chính trị của AI</li></ol>
+      <div class="tools">
+        <button data-act="font-" title="Chữ nhỏ hơn">A−</button>
+        <button data-act="font+" title="Chữ lớn hơn">A+</button>
+        <button data-act="theme" title="Đổi giao diện sáng/tối">◐</button>
+      </div>
+    </header>
+    <nav class="pn pn-top" id="pnTop" aria-label="Điều hướng trang"></nav>
+    <main class="doc" id="gDoc"></main>
+    <nav class="pn pn-bottom" id="pnBottom" aria-label="Điều hướng trang"></nav>
+    <footer class="foot">
+      <p>Bản ghi chép tiếng Việt diễn giải theo từng mục cuốn <em>Geopolitics of Artificial Intelligence</em> (Boris Babic và Brian Wong Yue Shun, Cambridge University Press, 2026; DOI 10.1017/9781009731904; bản gốc theo giấy phép CC BY-NC-ND 4.0). Đây là bản chuyển thể nên được khóa mật khẩu, chỉ dùng học tập phi thương mại và không sao chép lại. Hãy đọc bản gốc miễn phí tại Cambridge Core khi cần trích dẫn.</p>
+    </footer>
+  </div>
+</div>
+{{ end }}
+{{ define "scripts" }}<script src="{{ "js/geo.js" | relURL }}"></script>{{ end }}
