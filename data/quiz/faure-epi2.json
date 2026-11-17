@@ -2,36 +2,36 @@
  {
   "q": "Phụ chương II nói gì về khác biệt giữa \"hệ thống\" giáo dục và điều vượt lên trên nó?",
   "opts": [
-   "Giáo dục đang vượt khỏi ranh giới truyền thống để vươn tới toàn xã hội và toàn bộ vòng đời cá nhân, nên chỉ nhân và đa dạng hoá toà nhà giáo dục hệ thống là chưa đủ",
    "Giáo dục sẽ hoàn thành khi mọi nước thiết lập được một hệ thống trường tập trung, thống nhất và có tính phổ quát, vì đó là kết luận tất yếu của mọi lịch sử giáo dục trước đây",
    "Giáo dục ngoài trường sẽ dần thay thế hoàn toàn nhà trường chính quy trong vài thập niên tới, vì hệ thống trường quá cứng nhắc nên sẽ bị xoá bỏ trong mọi xã hội hiện đại",
+   "Giáo dục đang vượt khỏi ranh giới truyền thống để vươn tới toàn xã hội và toàn bộ vòng đời cá nhân, nên chỉ nhân và đa dạng hoá toà nhà giáo dục hệ thống là chưa đủ",
    "Giáo dục nên trở lại là đặc quyền của một giới tinh hoa được tuyển chọn kỹ, vì chỉ như vậy chất lượng mới được bảo đảm trong thời đại có quá nhiều nhu cầu học tập"
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Tr. 160–161: hệ thống trường vững chắc, tập trung; rồi ngoài trường mọc lên; rồi hợp nhất hai bên; nhưng triển vọng nay không dừng ở việc dựng hệ thống gom mọi loại giáo dục mà phải hình dung sơ đồ vượt quan niệm thuần hệ thống; giáo dục vươn tới toàn xã hội và toàn vòng đời.",
   "src": "tr. 160–161"
  },
  {
   "q": "Theo phụ chương, vai trò của người học thay đổi như thế nào trong giáo dục tương lai?",
   "opts": [
-   "Người học tiếp tục là đối tượng tiếp nhận giáo dục, nhưng được chăm sóc tốt hơn bởi đội ngũ giáo viên chuyên nghiệp và thiết bị hiện đại do nhà nước cung cấp miễn phí",
    "Người học trở thành người quản lý toàn bộ hệ thống giáo dục, thay thế hoàn toàn nhà giáo dục, vì chỉ người học mới biết rõ nhu cầu và nguyện vọng thật của mình",
    "Người học bớt là đối tượng, thêm là chủ thể: không nhận giáo dục như món quà trao cho mà đồng hoá nó bằng cách chinh phục tri thức và chinh phục chính mình",
+   "Người học tiếp tục là đối tượng tiếp nhận giáo dục, nhưng được chăm sóc tốt hơn bởi đội ngũ giáo viên chuyên nghiệp và thiết bị hiện đại do nhà nước cung cấp miễn phí",
    "Người học chỉ cần chọn lựa những môn học yêu thích, còn việc xây dựng nội dung chương trình và phương pháp vẫn do các chuyên gia ở cơ quan trung ương quyết định"
   ],
-  "a": 2,
+  "a": 1,
   "exp": "Tr. 161: ở địa hạt của giáo dục toàn diện, hành vi dạy nhường chỗ cho hành vi học; cá nhân bớt là đối tượng và thêm là chủ thể, đồng hoá giáo dục bằng cách chinh phục tri thức và chính mình, thành chủ nhân tối cao chứ không phải người nhận.",
   "src": "tr. 161"
  },
  {
   "q": "Câu \"thành bang là người thầy tốt nhất\" (Plutarch) được báo cáo dùng để nói điều gì?",
   "opts": [
-   "Giáo viên nên được tuyển từ cư dân của thành phố, vì chỉ người bản địa mới hiểu được văn hoá địa phương và có thể truyền lại nó cho người học một cách đúng đắn",
    "Chỉ các thành phố lớn mới đủ điều kiện làm môi trường giáo dục, còn nông thôn thì không thể có tiềm năng giáo dục vì thiếu cấu trúc hành chính và mạng văn hoá",
-   "Nhà trường nên được đặt ở trung tâm thành phố và có quyền quyết định thay cho cơ quan hành chính, vì nhà trường là thiết chế quan trọng nhất trong mọi thành bang",
-   "Cộng đồng địa phương và quốc gia tự bản thân là thiết chế giáo dục xuất sắc, nhất là khi thành phố giữ được tỉ lệ con người, vì qua cấu trúc và mạng văn hoá nó là trường dạy tình cảm công dân"
+   "Giáo viên nên được tuyển từ cư dân của thành phố, vì chỉ người bản địa mới hiểu được văn hoá địa phương và có thể truyền lại nó cho người học một cách đúng đắn",
+   "Cộng đồng địa phương và quốc gia tự bản thân là thiết chế giáo dục xuất sắc, nhất là khi thành phố giữ được tỉ lệ con người, vì qua cấu trúc và mạng văn hoá nó là trường dạy tình cảm công dân",
+   "Nhà trường nên được đặt ở trung tâm thành phố và có quyền quyết định thay cho cơ quan hành chính, vì nhà trường là thiết chế quan trọng nhất trong mọi thành bang"
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Tr. 162: cộng đồng địa phương, quốc gia là thiết chế giáo dục xuất sắc; thành phố, nhất là khi giữ được tỉ lệ con người, chứa tiềm năng giáo dục lớn qua cấu trúc xã hội, hành chính, mạng văn hoá; nó là trường dạy tình cảm công dân và tình đồng loại.",
   "src": "tr. 162"
  },
@@ -39,23 +39,23 @@
   "q": "Theo báo cáo, \"xã hội học tập\" có đặc điểm cốt lõi nào?",
   "opts": [
    "Mọi người bắt buộc đến trường cho tới tuổi trưởng thành và phải qua một chuỗi kỳ thi quốc gia để được công nhận là thành viên đầy đủ của xã hội theo tiêu chuẩn thống nhất",
+   "Giáo dục đan chặt vào toàn bộ mạng xã hội, chính trị, kinh tế, mọi công dân có phương tiện tự học, tự đào tạo tự do trong mọi hoàn cảnh, và trách nhiệm thay cho nghĩa vụ",
    "Chính phủ trung ương nắm toàn bộ quyền giáo dục thay cho các tổ chức trung gian, để tránh sự rối loạn do quá nhiều nhóm cùng tham gia vào việc dạy học trong xã hội",
-   "Giáo dục chỉ còn do doanh nghiệp tư nhân đảm nhận theo thị trường, vì cạnh tranh giữa các nhà cung cấp là cách duy nhất bảo đảm chất lượng và sự đa dạng của việc học",
-   "Giáo dục đan chặt vào toàn bộ mạng xã hội, chính trị, kinh tế, mọi công dân có phương tiện tự học, tự đào tạo tự do trong mọi hoàn cảnh, và trách nhiệm thay cho nghĩa vụ"
+   "Giáo dục chỉ còn do doanh nghiệp tư nhân đảm nhận theo thị trường, vì cạnh tranh giữa các nhà cung cấp là cách duy nhất bảo đảm chất lượng và sự đa dạng của việc học"
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Tr. 163: xã hội học tập là cấu hình xã hội trong đó giáo dục đan chặt với mạng xã hội, chính trị, kinh tế, gồm gia đình và đời sống công dân; mọi công dân có phương tiện học, tự đào tạo tự do trong mọi hoàn cảnh; trách nhiệm thay nghĩa vụ.",
   "src": "tr. 163"
  },
  {
   "q": "Báo cáo trả lời thế nào cho câu hỏi \"xã hội học tập có phải không tưởng không\"?",
   "opts": [
-   "Hoàn toàn không tưởng và không thể thực hiện ở bất kỳ nước nào trong tương lai gần, nên báo cáo khuyên các chính phủ bỏ qua khái niệm này và tập trung vào cải thiện hệ thống trường",
-   "Hoàn toàn khả thi ngay lập tức ở mọi nước nếu chính phủ ban hành đủ luật và chương trình, vì các điều kiện vật chất và phương tiện đã đầy đủ ở mọi nơi trên thế giới",
    "Không tưởng chỉ ở các nước công nghiệp có nhiều nguồn lực, còn ở các nước đang phát triển thì nó đã được thực hiện đầy đủ nhờ vào truyền thống học tập suốt đời của cộng đồng",
-   "Có phần không tưởng, như mọi nỗ lực thay đổi điều kiện căn bản của thân phận con người, nhưng không không tưởng vì phù hợp nhu cầu và hướng tiến hoá của thế giới; muốn đi xa thì phải nhắm xa"
+   "Hoàn toàn khả thi ngay lập tức ở mọi nước nếu chính phủ ban hành đủ luật và chương trình, vì các điều kiện vật chất và phương tiện đã đầy đủ ở mọi nơi trên thế giới",
+   "Có phần không tưởng, như mọi nỗ lực thay đổi điều kiện căn bản của thân phận con người, nhưng không không tưởng vì phù hợp nhu cầu và hướng tiến hoá của thế giới; muốn đi xa thì phải nhắm xa",
+   "Hoàn toàn không tưởng và không thể thực hiện ở bất kỳ nước nào trong tương lai gần, nên báo cáo khuyên các chính phủ bỏ qua khái niệm này và tập trung vào cải thiện hệ thống trường"
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Tr. 163–164: không tưởng ở mức mọi nỗ lực thay đổi điều kiện căn bản của thân phận con người đều chứa yếu tố không tưởng và không thể xảy ra trong một ngày; nhưng không không tưởng vì nó khớp nhu cầu và xu hướng tiến hoá; không có chiến lược tốt nào thiếu dự báo không tưởng.",
   "src": "tr. 163–164"
  }

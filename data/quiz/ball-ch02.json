@@ -2,10 +2,10 @@
  {
   "q": "Vì sao Ball dùng cặp 'khởi đầu' thay vì 'nguồn gốc' (theo Foucault) khi chọn 1969 và 1976?",
   "opts": [
-   "Nguồn gốc luôn do các nhà sử học trước đó xác định rõ ràng, nên ông phải chọn thuật ngữ khác để tránh nhắc lại kết luận cũ.",
+   "Khởi đầu là điểm mà chính sách được ban hành thành luật, còn nguồn gốc là nơi chính sách bắt đầu được thảo luận trong nội các.",
    "Nguồn gốc chỉ là một điểm thời gian duy nhất còn khởi đầu là chuỗi sự kiện, nên Ball cần hai năm để mô tả một quá trình dài hơn.",
    "Nguồn gốc dùng để dựng nhân quả và hay bị coi là đã giải thích mọi thứ; khởi đầu làm quá khứ dễ hiểu hơn, không tái dựng nó.",
-   "Khởi đầu là điểm mà chính sách được ban hành thành luật, còn nguồn gốc là nơi chính sách bắt đầu được thảo luận trong nội các."
+   "Nguồn gốc luôn do các nhà sử học trước đó xác định rõ ràng, nên ông phải chọn thuật ngữ khác để tránh nhắc lại kết luận cũ."
   ],
   "a": 2,
   "exp": "Ball dẫn Foucault: nguồn gốc cung cấp nền cho nhân quả và tường thuật, còn khởi đầu không tái dựng quá khứ mà làm nó dễ hiểu. Vì thế ông chọn hai khởi đầu: Sách Đen 1969 và bài Ruskin 1976.",
@@ -14,10 +14,10 @@
  {
   "q": "Ba chủ đề lặp đi lặp lại của Sách Đen đối với trường tổng hợp và giáo dục cấp tiến là gì?",
   "opts": [
-   "Quyền lực quá lớn của chính quyền địa phương, các kỳ thi bị bãi bỏ, và chương trình học không còn dạy nghề cho học sinh.",
+   "Học phí tăng quá cao, thiếu giáo viên có trình độ, và cơ sở vật chất xuống cấp trầm trọng tại các trường ở khu vực nghèo.",
    "Chuẩn mực học thuật xuống cấp, giáo viên nguy hiểm có động cơ chính trị, và vô kỷ luật trong các loại trường mới như trường tổng hợp.",
    "Bất bình đẳng giới trong lớp học, thiếu tài trợ cho đại học, và việc phụ huynh quá ít được tham gia vào quản lý trường học.",
-   "Học phí tăng quá cao, thiếu giáo viên có trình độ, và cơ sở vật chất xuống cấp trầm trọng tại các trường ở khu vực nghèo."
+   "Quyền lực quá lớn của chính quyền địa phương, các kỳ thi bị bãi bỏ, và chương trình học không còn dạy nghề cho học sinh."
   ],
   "a": 1,
   "exp": "Ball nêu ba chủ đề: (1) chuẩn mực học thuật, nhất là biết đọc biết tính, xuống cấp; (2) giáo viên nguy hiểm, có động cơ chính trị; (3) vô kỷ luật. Cả ba đều phê phán trực tiếp trường tổng hợp và giáo dục cấp tiến.",
@@ -62,12 +62,12 @@
  {
   "q": "Về mặt diễn ngôn, bài phát biểu Ruskin năm 1976 của Callaghan có ý nghĩa gì theo Ball?",
   "opts": [
-   "Nó chỉ mang ý nghĩa biểu tượng đối với Đảng Lao động, nhưng không tác động gì tới diễn ngôn của Cánh hữu mới.",
-   "Thêm tính chính danh cho diễn ngôn khinh miệt, chấm dứt phản đối công khai nghiêm túc và cho phép chuyển sang tái cấu trúc.",
    "Nó bác bỏ các phê phán của Sách Đen và khôi phục niềm tin của công chúng vào trường tổng hợp trong thập niên 1980.",
-   "Nó khởi động chương trình Quốc gia ngay lập tức bằng một đạo luật, và buộc mọi trường phải theo một chương trình thống nhất."
+   "Nó khởi động chương trình Quốc gia ngay lập tức bằng một đạo luật, và buộc mọi trường phải theo một chương trình thống nhất.",
+   "Nó chỉ mang ý nghĩa biểu tượng đối với Đảng Lao động, nhưng không tác động gì tới diễn ngôn của Cánh hữu mới.",
+   "Thêm tính chính danh cho diễn ngôn khinh miệt, chấm dứt phản đối công khai nghiêm túc và cho phép chuyển sang tái cấu trúc."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Ball nói dù ý định của Callaghan là gì, bài phát biểu tiếp sức và hợp thức hóa diễn ngôn của Sách Đen. Dù vậy Stuart Sexton lại cho rằng nó chỉ là nỗ lực giành lại thế chủ động; phần lớn người được phỏng vấn vẫn coi nó có ý nghĩa diễn ngôn lớn.",
   "src": "tr. 23–24, 31–32"
  },
@@ -75,11 +75,11 @@
   "q": "Ai bị loại ra, và ai được lắng nghe, trong phòng ra chính sách từ 1976 theo Ball?",
   "opts": [
    "Chỉ phụ huynh bị loại ra khỏi quá trình, còn giáo viên, công đoàn và học giả vẫn giữ nguyên ảnh hưởng như trước.",
+   "Giáo viên, công đoàn, người đào tạo giáo viên và học giả bị gạt ra; tiếng nói công nghiệp và Cánh hữu mới được nghe.",
    "Công nghiệp và nhà tuyển dụng bị gạt ra khỏi quá trình, trong khi giáo viên và các LEA được tăng cường vai trò quyết định.",
-   "Mọi nhóm lợi ích đều bị loại trừ để chính phủ trung ương tự quyết định, không còn tham vấn ai bên ngoài Bộ Giáo dục.",
-   "Giáo viên, công đoàn, người đào tạo giáo viên và học giả bị gạt ra; tiếng nói công nghiệp và Cánh hữu mới được nghe."
+   "Mọi nhóm lợi ích đều bị loại trừ để chính phủ trung ương tự quyết định, không còn tham vấn ai bên ngoài Bộ Giáo dục."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Ball nói các lợi ích cũ như giáo viên 'ác quỷ dân gian' và công đoàn, người đào tạo giáo viên, học giả bị loại; LEA sẽ sớm bị loại. Tiếng nói của công nghiệp (được Đại tranh luận đặc biệt tin cậy) và Cánh hữu mới được lắng nghe.",
   "src": "tr. 32"
  },
@@ -87,35 +87,35 @@
   "q": "Diễn ngôn Cánh hữu mới đã kiến tạo chủ thể xã hội mới nào trong chính sách giáo dục, và nó làm điều gì?",
   "opts": [
    "Giáo viên chuyên nghiệp có quyền tự chủ cao; nó củng cố vai trò của công đoàn và chuyên gia trong việc quyết định chương trình.",
+   "Nhà quản lý trường học thân thiện với thị trường; nó trao quyền cho hiệu trưởng thay thế hoàn toàn vai trò của phụ huynh.",
    "Học sinh tự chủ trong học tập; nó giảm vai trò của cả giáo viên lẫn phụ huynh trong việc định hướng quá trình học.",
-   "Phụ huynh quan tâm, người tiêu dùng giáo dục; giáo dục thành cạnh tranh cá nhân và tách khỏi bối cảnh chính trị, tập thể.",
-   "Nhà quản lý trường học thân thiện với thị trường; nó trao quyền cho hiệu trưởng thay thế hoàn toàn vai trò của phụ huynh."
+   "Phụ huynh quan tâm, người tiêu dùng giáo dục; giáo dục thành cạnh tranh cá nhân và tách khỏi bối cảnh chính trị, tập thể."
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Phụ huynh quan tâm gắn với chủ nghĩa cá nhân chiếm hữu: chọn tốt nhất cho con, kể cả khi con người khác nhận ít hơn; 'xuất sắc' là thứ giành được cạnh tranh. Trường đại chúng không còn chỗ hợp lý, và nếu chọn tồi thì 'đó là vấn đề của họ'.",
   "src": "tr. 33–34"
  },
  {
   "q": "Quan niệm 'tự do' của Hayek (theo Ball) có điểm đặc trưng nào?",
   "opts": [
-   "Là tự do dựa trên quyền công dân hậu chiến, trong đó nhà nước phải bảo đảm cho mỗi người một mức sống tối thiểu cơ bản.",
-   "Là tự do dựa trên bổn phận với quốc gia, trong đó cá nhân phải phục tùng thẩm quyền của chính phủ đã thiết lập.",
    "Tự do 'khỏi' cưỡng chế, không phải tự do 'để' làm điều gì; chọn giữa chết đói và lao động bị bóc lột cũng là tự do.",
-   "Là tự do chỉ dành cho người có tài sản, vì người nghèo cần được bảo vệ bởi các chính sách an sinh của nhà nước ta."
+   "Là tự do chỉ dành cho người có tài sản, vì người nghèo cần được bảo vệ bởi các chính sách an sinh của nhà nước ta.",
+   "Là tự do dựa trên bổn phận với quốc gia, trong đó cá nhân phải phục tùng thẩm quyền của chính phủ đã thiết lập.",
+   "Là tự do dựa trên quyền công dân hậu chiến, trong đó nhà nước phải bảo đảm cho mỗi người một mức sống tối thiểu cơ bản."
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Ball tóm: tự do của Hayek chính xác và hẹp, là tự do 'khỏi' (không bị cưỡng chế) chứ không phải tự do 'để'. Đó khác cơ bản với quan niệm hậu chiến dựa trên quyền công dân. Phương án cuối là quan niệm tân bảo thủ (Scruton), không phải Hayek.",
   "src": "tr. 37"
  },
  {
   "q": "Tân bảo thủ khác tân tự do ở điểm nào về cộng đồng và chủ thể xã hội?",
   "opts": [
-   "Tân bảo thủ coi cộng đồng chỉ dựa trên quan hệ kinh tế, và chủ thể lý tưởng là người tiêu dùng tự do chọn lựa.",
    "Tân bảo thủ coi cộng đồng dựa trên văn hóa và bản sắc quốc gia, chủ thể lý tưởng là người có bổn phận, tuân luật.",
+   "Tân bảo thủ phản đối mọi hình thức thẩm quyền chính phủ, và chủ thể lý tưởng là cá nhân hoàn toàn độc lập với quốc gia.",
    "Tân bảo thủ ủng hộ đa văn hóa và chủ nghĩa quốc tế, và chủ thể lý tưởng là công dân thế giới không gắn với truyền thống.",
-   "Tân bảo thủ phản đối mọi hình thức thẩm quyền chính phủ, và chủ thể lý tưởng là cá nhân hoàn toàn độc lập với quốc gia."
+   "Tân bảo thủ coi cộng đồng chỉ dựa trên quan hệ kinh tế, và chủ thể lý tưởng là người tiêu dùng tự do chọn lựa."
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Tân tự do nhìn cộng đồng dựa trên quan hệ kinh tế; tân bảo thủ dựa trên ràng buộc xã hội từ văn hóa chung và bản sắc quốc gia, giữ bởi chính quyền mạnh. Chủ thể là người có bổn phận, đối lập với 'kẻ thù bên trong'.",
   "src": "tr. 39–40"
  },
@@ -123,11 +123,11 @@
   "q": "Ball đưa ra những lời cảnh báo nào về việc coi Cánh hữu mới và chủ nghĩa Thatcher là một khối thống nhất?",
   "opts": [
    "Chính sách chỉ do các bộ trưởng quyết định mà không chịu ảnh hưởng của công chức, cố vấn hay phản ứng của công chúng.",
+   "Đừng bám chặt vào khái niệm lỏng 'Cánh hữu mới' và đừng dịch thẳng từ triết học sang chính sách vì Thatcher pha trộn, chọn lọc ý tưởng.",
    "Cánh hữu mới luôn thống nhất về mọi chính sách, nên mọi khác biệt chỉ là bề ngoài và không ảnh hưởng đến kết quả cuối cùng.",
-   "Chủ nghĩa Thatcher hoàn toàn đồng nhất với chủ nghĩa Bảo thủ truyền thống, nên có thể suy ra chính sách trực tiếp từ triết học.",
-   "Đừng bám chặt vào khái niệm lỏng 'Cánh hữu mới' và đừng dịch thẳng từ triết học sang chính sách vì Thatcher pha trộn, chọn lọc ý tưởng."
+   "Chủ nghĩa Thatcher hoàn toàn đồng nhất với chủ nghĩa Bảo thủ truyền thống, nên có thể suy ra chính sách trực tiếp từ triết học."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Ball cảnh báo: Cánh hữu mới là tập hợp lỏng; chính sách là hỗn hợp và chọn lọc; thực dụng, bất đồng của bộ trưởng và công chức làm trung gian; và Thatcher không đồng nghĩa với Bảo thủ (Coryton, Hazlehurst). Jessop gọi đó là 'liên minh các lực lượng rời rạc quanh một chương trình tự mâu thuẫn'.",
   "src": "tr. 41–42"
  }

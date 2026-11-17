@@ -2,9 +2,9 @@
  {
   "q": "Theo Faure, vì sao phải thận trọng khi dùng thống kê giáo dục để so sánh giữa các nước?",
   "opts": [
-   "Thống kê chỉ phản ánh được mức chi tiêu tài chính cho giáo dục, còn các chỉ số về số lượng học sinh hay giáo viên thì không bao giờ đo được một cách đáng tin cậy, đúng như cách các số liệu này thường được công bố hằng năm",
-   "Định nghĩa, kỹ thuật thống kê và cấu trúc hệ thống giáo dục khác nhau theo nước, cộng với sai số của nguồn dữ liệu, nên các dãy số nhiều khi chưa so sánh được trực tiếp",
    "Số liệu thống kê giáo dục chỉ do các cơ quan nhà nước thu thập, mà cơ quan nhà nước thì luôn thổi phồng kết quả để lấy lòng dư luận quốc tế và trong nước",
+   "Định nghĩa, kỹ thuật thống kê và cấu trúc hệ thống giáo dục khác nhau theo nước, cộng với sai số của nguồn dữ liệu, nên các dãy số nhiều khi chưa so sánh được trực tiếp",
+   "Thống kê chỉ phản ánh được mức chi tiêu tài chính cho giáo dục, còn các chỉ số về số lượng học sinh hay giáo viên thì không bao giờ đo được một cách đáng tin cậy, đúng như cách các số liệu này thường được công bố hằng năm",
    "Các nước đang phát triển cố ý không công bố số liệu thật của mình cho các tổ chức quốc tế, nên mọi so sánh đều không có giá trị gì cả về mặt khoa học"
   ],
   "a": 1,
@@ -14,8 +14,8 @@
  {
   "q": "Faure phân biệt \"nhu cầu giáo dục\" và \"cầu về giáo dục\" như thế nào?",
   "opts": [
-   "Nhu cầu chỉ có ở các nước đang phát triển, nơi thiếu người có học, còn cầu chỉ có ở các nước công nghiệp, nơi người dân có điều kiện chi trả cho việc học",
    "Nhu cầu là mong muốn của người học muốn đi học vì lợi ích cá nhân, còn cầu chỉ là số tiền mà Nhà nước đã chi cho giáo dục trong một năm tài chính nhất định",
+   "Nhu cầu chỉ có ở các nước đang phát triển, nơi thiếu người có học, còn cầu chỉ có ở các nước công nghiệp, nơi người dân có điều kiện chi trả cho việc học",
    "Nhu cầu là số người có học mà xã hội cần, xuất phát trước hết từ kinh tế; cầu là nguyện vọng đi học của cá nhân, kể cả cha mẹ, trở thành hiện tượng tập thể, và hai thứ không luôn khớp nhau",
    "Nhu cầu là số trường học mà Nhà nước đã xây dựng được, còn cầu là số học sinh thực tế đang ngồi học trong các lớp ở một thời điểm nhất định của năm học"
   ],
@@ -26,48 +26,48 @@
  {
   "q": "Trong tám năm 1960–1968, tổng số người đi học trên thế giới (không tính Trung Quốc, CHDCND Triều Tiên và VNDCCH) tăng từ khoảng bao nhiêu lên bao nhiêu?",
   "opts": [
+   "Từ khoảng 325 triệu lên khoảng 460 triệu, tức tăng 135 triệu hay hơn 40%, trung bình khoảng 4,5% mỗi năm trong suốt tám năm của giai đoạn này",
    "Từ khoảng 525 triệu lên khoảng 660 triệu, tức tăng 135 triệu nhưng chỉ khoảng 25% tính theo tỉ lệ phần trăm so với đầu kỳ, tính theo số liệu UNESCO công bố hằng năm cho giai đoạn đó",
    "Từ khoảng 225 triệu lên khoảng 460 triệu, tức tăng 235 triệu và gấp hơn hai lần so với số học sinh có mặt ở đầu kỳ",
-   "Từ khoảng 325 triệu lên khoảng 460 triệu, tức tăng 135 triệu hay hơn 40%, trung bình khoảng 4,5% mỗi năm trong suốt tám năm của giai đoạn này",
    "Từ khoảng 325 triệu lên khoảng 560 triệu, tức tăng 235 triệu và hơn 70% tính theo tỉ lệ phần trăm so với đầu kỳ"
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Tr. 35–36: 325 triệu → 460 triệu, tăng 135 triệu (hơn 40%, trung bình 4,5%/năm); số liệu này không gồm Trung Quốc, CHDCND Triều Tiên và Việt Nam Dân chủ Cộng hoà, nơi báo cáo ước tính thêm khoảng một phần ba.",
   "src": "tr. 35–36"
  },
  {
   "q": "Về nạn mù chữ người lớn, điều gì được Faure coi là \"bước ngoặt\" tích cực dù thoạt nhìn đáng nản?",
   "opts": [
-   "Phụ nữ đã đạt tỉ lệ biết chữ bằng nam giới trong năm 1970, nên khoảng cách giới trong giáo dục đã được xoá bỏ hoàn toàn ở mọi vùng của thế giới",
-   "Các chiến dịch xoá mù chữ đã đạt được mục tiêu thật là giúp người dân hoà nhập vào môi trường và có phẩm giá tốt hơn, nên chúng có thể được nhân rộng nguyên mẫu",
    "Tỉ lệ mù chữ giảm và số người mù chữ năm 1970 (783 triệu) thấp hơn 27 triệu so với mức dự báo nếu giữ tốc độ cũ, lần đầu xu hướng trước đó bị đảo ngược",
-   "Số người mù chữ tuyệt đối đã giảm mạnh so với năm 1960 ở mọi khu vực, nên nạn mù chữ về cơ bản đã được giải quyết xong ở các nước đang phát triển"
+   "Phụ nữ đã đạt tỉ lệ biết chữ bằng nam giới trong năm 1970, nên khoảng cách giới trong giáo dục đã được xoá bỏ hoàn toàn ở mọi vùng của thế giới",
+   "Số người mù chữ tuyệt đối đã giảm mạnh so với năm 1960 ở mọi khu vực, nên nạn mù chữ về cơ bản đã được giải quyết xong ở các nước đang phát triển",
+   "Các chiến dịch xoá mù chữ đã đạt được mục tiêu thật là giúp người dân hoà nhập vào môi trường và có phẩm giá tốt hơn, nên chúng có thể được nhân rộng nguyên mẫu"
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Tr. 38: tỉ lệ mù chữ giảm nhưng số người mù chữ vẫn tăng (700 → 735 → 783 triệu); tuy vậy năm 1970 là 783 triệu, thấp hơn 27 triệu so với 810 triệu nếu giữ tốc độ cũ. Ngay sau đó báo cáo cảnh báo nhiều chiến dịch chỉ đạt về hình thức.",
   "src": "tr. 38"
  },
  {
   "q": "Theo báo cáo, ở một nửa số nước trên thế giới, điều gì xảy ra với trẻ nhập học tiểu học?",
   "opts": [
+   "Một phần ba số trẻ nhập học phải học lại ít nhất hai lần trước khi chuyển lên được lớp cao hơn của cấp tiểu học theo đúng độ tuổi quy định, theo kết quả một cuộc điều tra của UNESCO năm 1969",
    "Phần lớn số trẻ nhập học chuyển sang các hình thức học nghề ngoài nhà trường ngay sau năm học đầu tiên vì gia đình cần thêm lao động",
-   "Một nửa số trẻ nhập học không hoàn thành chu kỳ tiểu học, và ở nhiều nước tiền chi cho những em bỏ học sớm ngốn từ 20% đến 40% ngân sách giáo dục nhà nước",
    "Toàn bộ số trẻ nhập học hoàn thành tiểu học nhưng chỉ một nửa trong số đó có thể tiếp tục học lên cấp trung học cơ sở do thiếu chỗ học",
-   "Một phần ba số trẻ nhập học phải học lại ít nhất hai lần trước khi chuyển lên được lớp cao hơn của cấp tiểu học theo đúng độ tuổi quy định, theo kết quả một cuộc điều tra của UNESCO năm 1969"
+   "Một nửa số trẻ nhập học không hoàn thành chu kỳ tiểu học, và ở nhiều nước tiền chi cho những em bỏ học sớm ngốn từ 20% đến 40% ngân sách giáo dục nhà nước"
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Tr. 43: ở một nửa số nước, một nửa số trẻ nhập học không hoàn thành chu kỳ tiểu học; và ở nhiều nước, tiền chi cho những em bỏ học sau năm học thứ nhất, hai hoặc ba ngốn 20–40% tổng ngân sách giáo dục nhà nước.",
   "src": "tr. 43"
  },
  {
   "q": "Cách phân bổ chi tiêu công cho giáo dục hiện nay bị Faure phê phán là \"về căn bản bất công\" vì sao?",
   "opts": [
+   "Các nước giàu tự quyết định mức chi cho giáo dục của các nước nghèo thông qua các khoản viện trợ có điều kiện, làm các nước nghèo mất quyền tự chủ về ngân sách",
    "Phần lớn công quỹ bị chi cho giáo dục đại học và nghiên cứu khoa học mà bỏ rơi hoàn toàn giáo dục tiểu học và giáo dục mầm non ở khắp các nước trên thế giới",
    "Chi tiêu công cho giáo dục tăng chậm hơn tốc độ tăng của GNP toàn cầu, nên giáo dục ngày càng chiếm tỉ lệ nhỏ hơn trong các ngân sách quốc gia",
-   "Phần lớn công quỹ dồn vào nhà trường chính quy, trong khi hàng trăm triệu người mù chữ và nhiều trẻ chưa bao giờ vào lớp không được nhà trường giúp gì",
-   "Các nước giàu tự quyết định mức chi cho giáo dục của các nước nghèo thông qua các khoản viện trợ có điều kiện, làm các nước nghèo mất quyền tự chủ về ngân sách"
+   "Phần lớn công quỹ dồn vào nhà trường chính quy, trong khi hàng trăm triệu người mù chữ và nhiều trẻ chưa bao giờ vào lớp không được nhà trường giúp gì"
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Tr. 44–45: chi công tập trung vào dạy học có thể chế cho trẻ em và thanh thiếu niên đang đi học; ở nước đang phát triển gần một nửa trẻ tuổi tiểu học không bao giờ đến lớp. Báo cáo cũng nói chi giáo dục tăng nhanh hơn GNP (3,02% lên 4,24%), nên phương án nói nó tăng chậm hơn GNP là sai.",
   "src": "tr. 44–45"
  },
@@ -75,35 +75,35 @@
   "q": "Với câu hỏi \"có tỉ lệ chi giáo dục hợp lý cố định cho mọi nước không\", Faure trả lời thế nào?",
   "opts": [
    "Có: báo cáo đề nghị tỉ lệ chi giáo dục tối ưu bằng 4,24% GNP, mức bình quân thế giới năm 1968, như một chuẩn chung mà mọi nước phải tuân theo ngay",
+   "Có: báo cáo đề nghị mọi nước nên dành ít nhất một phần tư ngân sách cho giáo dục để tránh tụt hậu so với các nước công nghiệp phát triển trên thế giới, với lý do đã được các chuyên gia kinh tế trình bày",
    "Không: nhưng vì tăng chi giáo dục luôn làm giảm hiệu quả của nền kinh tế, báo cáo đề nghị các nước nên đóng băng ngân sách giáo dục ở mức hiện tại",
-   "Không: mỗi nước có \"ngưỡng không chịu nổi\" riêng, và không tổ chức quốc tế nào, kể cả chính Ủy ban này, có thể đặt ra quy tắc và chuẩn mực chung cho mọi hoàn cảnh",
-   "Có: báo cáo đề nghị mọi nước nên dành ít nhất một phần tư ngân sách cho giáo dục để tránh tụt hậu so với các nước công nghiệp phát triển trên thế giới, với lý do đã được các chuyên gia kinh tế trình bày"
+   "Không: mỗi nước có \"ngưỡng không chịu nổi\" riêng, và không tổ chức quốc tế nào, kể cả chính Ủy ban này, có thể đặt ra quy tắc và chuẩn mực chung cho mọi hoàn cảnh"
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Tr. 46–47: không có \"trần\" hay \"sàn\" lý thuyết tuyệt đối; mức tối ưu tuỳ lựa chọn chính trị–kinh tế của từng nước, và có nước chi một phần tư ngân sách vẫn hợp lý nếu vì tiến bộ công nghệ, trong khi nước khác chi ít hơn mà tăng ồ ạt lại là rủi ro.",
   "src": "tr. 46–47"
  },
  {
   "q": "Khoảng cách chi giáo dục giữa nước công nghiệp và nước đang phát triển thay đổi thế nào giai đoạn 1960–1968?",
   "opts": [
-   "Cả hai nhóm đều tăng chi tuyệt đối, nhưng chi của nước công nghiệp tăng 145% so với 130% của nước đang phát triển, nên khoảng cách vốn đã lớn lại rộng thêm",
    "Chi giáo dục của các nước đang phát triển giữ nguyên, trong khi các nước công nghiệp tăng gấp đôi, nên phần của nước đang phát triển giảm xuống bằng không",
    "Cả hai nhóm nước đều tăng chi giáo dục với tốc độ gần như bằng nhau, nên khoảng cách tuyệt đối và tương đối đều giữ nguyên như đầu thập niên 1960",
-   "Các nước đang phát triển tăng chi nhanh hơn nước công nghiệp nên khoảng cách đã thu hẹp đáng kể, từ gấp mười lần xuống còn gấp hai lần vào năm 1968"
+   "Các nước đang phát triển tăng chi nhanh hơn nước công nghiệp nên khoảng cách đã thu hẹp đáng kể, từ gấp mười lần xuống còn gấp hai lần vào năm 1968",
+   "Cả hai nhóm đều tăng chi tuyệt đối, nhưng chi của nước công nghiệp tăng 145% so với 130% của nước đang phát triển, nên khoảng cách vốn đã lớn lại rộng thêm"
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Tr. 50: các nước công nghiệp chi hơn 120.000 triệu USD, các nước đang phát triển dưới 12.000 triệu USD (gấp mười lần); chi tăng 145% và 130%; phần của nước đang phát triển trong chi giáo dục thế giới giảm từ 9% xuống 8,6%.",
   "src": "tr. 50"
  },
  {
   "q": "Năm 1968, ở châu Phi, trẻ tuổi tiểu học thực sự có mặt trong lớp học chiếm khoảng bao nhiêu (theo tỉ lệ tính riêng nhóm tuổi quy định)?",
   "opts": [
-   "Khoảng bốn trên mười trẻ ở trong lớp, trong khi ở các nước Ả Rập là một nửa số trẻ tuổi tiểu học, theo số liệu tính riêng nhóm tuổi quy định",
    "Khoảng bảy trên mười trẻ, một con số đã gần đạt mục tiêu 71% mà Hội nghị Addis Ababa 1961 đặt ra cho riêng năm 1970 của châu Phi",
+   "Khoảng bốn trên mười trẻ ở trong lớp, trong khi ở các nước Ả Rập là một nửa số trẻ tuổi tiểu học, theo số liệu tính riêng nhóm tuổi quy định",
    "Khoảng chín trên mười trẻ, tương đương mức trung bình của các nước Ả Rập mà báo cáo dùng làm đối chiếu trong cùng đoạn văn bản này",
    "Khoảng một trên mười trẻ, thấp hơn nhiều so với Mỹ Latinh, nơi tỉ lệ này đã đạt 100% từ năm 1962 theo mục tiêu của Hội nghị Santiago"
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Tr. 54: chỉ bốn trên mười trẻ tuổi tiểu học ở châu Phi thực sự ở trong lớp; các nước Ả Rập một nửa; 45% trẻ châu Á và 25% trẻ Mỹ Latinh cũng chưa nhập học.",
   "src": "tr. 54"
  }
