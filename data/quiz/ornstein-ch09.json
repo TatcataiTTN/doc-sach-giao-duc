@@ -3,11 +3,11 @@
   "q": "Phán quyết nào của tòa có hiệu lực trên toàn quốc?",
   "opts": [
    "Phán quyết của mọi tòa phúc thẩm vòng liên bang trên khắp các bang.",
+   "Phán quyết của tòa quận liên bang đã xét xử vụ việc ở lần đầu.",
    "Phán quyết của tòa tối cao của mỗi bang trong toàn bộ nước Mỹ.",
-   "Chỉ phán quyết của Tòa án Tối cao Hoa Kỳ.",
-   "Phán quyết của tòa quận liên bang đã xét xử vụ việc ở lần đầu."
+   "Chỉ phán quyết của Tòa án Tối cao Hoa Kỳ."
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Tòa dưới chỉ có hiệu lực trong vùng địa lý của mình nên có thể có phán quyết mâu thuẫn giữa các vòng.",
   "src": "tr. 249"
  },
@@ -26,44 +26,44 @@
  {
   "q": "Quy trình hợp lệ (due process) được kích hoạt khi nào?",
   "opts": [
-   "Khi có một lợi ích 'tự do' hoặc 'tài sản' bị đe dọa, ví dụ biên chế của giáo viên hay quyền học của học sinh.",
    "Khi chính quyền địa phương đề xuất thuế mới để tài trợ cho trường học trong khu.",
+   "Khi giáo viên nộp đơn xin nghỉ phép và hiệu trưởng cần ký duyệt đơn nghỉ đó.",
    "Khi bất kỳ ai bất đồng với một quyết định hành chính nhỏ, dù không liên quan quyền gì, theo cách nhìn khá phổ biến lúc ấy.",
-   "Khi giáo viên nộp đơn xin nghỉ phép và hiệu trưởng cần ký duyệt đơn nghỉ đó."
+   "Khi có một lợi ích 'tự do' hoặc 'tài sản' bị đe dọa, ví dụ biên chế của giáo viên hay quyền học của học sinh."
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Giáo viên qua thời gian thử việc và học sinh đều có lợi ích tài sản; điều trần phải công bằng, vô tư và có cơ hội trình chứng cứ.",
   "src": "tr. 250–251"
  },
  {
   "q": "Một lý lẽ ủng hộ biên chế (tenure) của giáo viên là gì?",
   "opts": [
+   "Biên chế đã lỗi thời vì tổ chức nghề của giáo viên không còn khả năng bảo vệ họ.",
    "Giáo viên chịu nhiều áp lực và cần được bảo vệ để dạy tự do, chống lạm dụng chính trị, hành chính.",
    "Biên chế giúp sa thải giáo viên bất tài nhanh hơn, vì không cần thủ tục điều trần nào, trong bối cảnh nước Anh thập niên 1980.",
-   "Biên chế đã lỗi thời vì tổ chức nghề của giáo viên không còn khả năng bảo vệ họ.",
    "Biên chế làm giáo viên cạnh tranh gay gắt, nên chất lượng dạy tự động tăng lên."
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Phía phản đối nói thủ tục sa thải phức tạp, bảo vệ nhầm người bất tài, và tổ chức nghề nay đã đủ mạnh.",
   "src": "tr. 253"
  },
  {
   "q": "Vụ Pickering v. Board of Education (1968) phán gì?",
   "opts": [
-   "Giáo viên chỉ được nói khi có sự đồng ý trước bằng văn bản của hiệu trưởng.",
-   "Giáo viên được nói bất cứ điều gì, kể cả cáo buộc sai, mà không chịu hậu quả nào.",
    "Giáo viên không bao giờ được nói công khai về chính sách của hội đồng và giám đốc, như một số nhà bình luận đương thời nhận định.",
-   "Giáo viên được phê bình hội đồng trên báo nếu thư không cản hoạt động thường ngày của trường."
+   "Giáo viên chỉ được nói khi có sự đồng ý trước bằng văn bản của hiệu trưởng.",
+   "Giáo viên được phê bình hội đồng trên báo nếu thư không cản hoạt động thường ngày của trường.",
+   "Giáo viên được nói bất cứ điều gì, kể cả cáo buộc sai, mà không chịu hậu quả nào."
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Tòa dùng phân tích ba bước (vấn đề công, cân bằng lợi ích, động cơ sa thải); Alaska: hai thầy bị sa thải vì thư có nhiều cáo buộc sai.",
   "src": "tr. 255–256"
  },
  {
   "q": "Tự do học thuật của giáo viên bị tòa giới hạn thế nào?",
   "opts": [
-   "Giáo viên được dùng bất kỳ tài liệu nào mà không chịu giới hạn nào trong mọi hoàn cảnh, theo lối giải thích thường gặp ở các văn bản chính sách.",
    "Giáo viên chỉ được dùng sách giáo khoa do hội đồng chọn, không bao giờ được thay thế.",
+   "Giáo viên được dùng bất kỳ tài liệu nào mà không chịu giới hạn nào trong mọi hoàn cảnh, theo lối giải thích thường gặp ở các văn bản chính sách.",
    "Tài liệu có thể bị loại bất cứ lúc nào chỉ vì có phụ huynh phản đối ý tưởng.",
    "Tài liệu có thể bị loại vì thô tục nhưng không để kiểm duyệt ý tưởng; tòa xét tuổi học sinh, mức liên quan, v.v."
   ],
@@ -74,12 +74,12 @@
  {
   "q": "Nguyên tắc then chốt để xác định giáo viên có sơ suất khi học sinh bị thương là gì?",
   "opts": [
-   "Giáo viên có mặt trong lớp mọi lúc mà không bao giờ rời mắt khỏi một học sinh nào, ở một số trường và khu vực khi đó.",
-   "Tổn hại có thể thấy trước và ngăn được hay không, theo chuẩn của người hợp lý và thận trọng.",
    "Khu học chánh có bảo hiểm hay không, và số tiền bồi thường tối đa là bao nhiêu.",
-   "Học sinh có tự nguyện tham gia hay không, và phụ huynh đã ký giấy đồng ý chưa."
+   "Học sinh có tự nguyện tham gia hay không, và phụ huynh đã ký giấy đồng ý chưa.",
+   "Giáo viên có mặt trong lớp mọi lúc mà không bao giờ rời mắt khỏi một học sinh nào, ở một số trường và khu vực khi đó.",
+   "Tổn hại có thể thấy trước và ngăn được hay không, theo chuẩn của người hợp lý và thận trọng."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Giấy đồng ý của phụ huynh chủ yếu có tác dụng thông báo, không giải phóng nghĩa vụ bảo vệ.",
   "src": "tr. 259–260"
  },
@@ -87,35 +87,35 @@
   "q": "Vụ Tinker v. Des Moines (1969) đặt chuẩn gì cho tự do biểu đạt của học sinh?",
   "opts": [
    "Mọi biểu đạt của học sinh đều tuyệt đối, kể cả khi gây rối hay xâm phạm quyền người khác, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Chỉ cấm khi hành vi gây rối đáng kể việc học, gây hỗn loạn lớn hay xâm phạm quyền người khác.",
    "Chỉ cho phép biểu đạt có sự duyệt trước của hiệu trưởng và cha mẹ học sinh.",
-   "Cấm được bất cứ biểu đạt nào mà nhà trường thấy khó chịu hay không được ưa.",
-   "Chỉ cấm khi hành vi gây rối đáng kể việc học, gây hỗn loạn lớn hay xâm phạm quyền người khác."
+   "Cấm được bất cứ biểu đạt nào mà nhà trường thấy khó chịu hay không được ưa."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Vụ băng tay đen phản đối chiến tranh Việt Nam; sau đó Fraser và Hazelwood nới quyền nhà trường.",
   "src": "tr. 265–267"
  },
  {
   "q": "Goss v. Lopez (1975) quy định gì về đình chỉ học sinh?",
   "opts": [
-   "Học sinh chỉ có quyền điều trần khi bị đuổi học nhưng không phải khi đình chỉ, theo cách nhìn khá phổ biến lúc ấy.",
-   "Học sinh không có quyền gì nên có thể bị đình chỉ mà không cần thông báo.",
+   "Học sinh có lợi ích tài sản trong việc học, nên cần thông báo và một dạng điều trần trước khi đình chỉ.",
    "Học sinh chỉ có quyền kháng cáo sau khi đã chịu xong mọi ngày đình chỉ.",
-   "Học sinh có lợi ích tài sản trong việc học, nên cần thông báo và một dạng điều trần trước khi đình chỉ."
+   "Học sinh không có quyền gì nên có thể bị đình chỉ mà không cần thông báo.",
+   "Học sinh chỉ có quyền điều trần khi bị đuổi học nhưng không phải khi đình chỉ, theo cách nhìn khá phổ biến lúc ấy."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Với đình chỉ đến mười ngày, thông báo và điều trần thường trước khi loại khỏi trường; đình chỉ dài, đuổi học cần quy trình đầy đủ hơn.",
   "src": "tr. 268–269"
  },
  {
   "q": "Chuẩn hai mũi của New Jersey v. T.L.O. (1985) cho khám xét học sinh là gì?",
   "opts": [
-   "Cần lệnh khám xét của thẩm phán và có cơ sở khả dĩ như khi cảnh sát khám xét.",
-   "Chỉ cần hiệu trưởng cho phép và không cần bất kỳ lý do nào để khám xét.",
    "Khám xét luôn vi hiến trong trường công, vì Tu chính án thứ Tư bảo vệ tuyệt đối, trong bối cảnh nước Anh thập niên 1980.",
-   "Khám xét chính đáng từ đầu và khi tiến hành liên quan hợp lý về phạm vi với hoàn cảnh đó."
+   "Khám xét chính đáng từ đầu và khi tiến hành liên quan hợp lý về phạm vi với hoàn cảnh đó.",
+   "Cần lệnh khám xét của thẩm phán và có cơ sở khả dĩ như khi cảnh sát khám xét.",
+   "Chỉ cần hiệu trưởng cho phép và không cần bất kỳ lý do nào để khám xét."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Hướng dẫn gồm: khám xét cụ thể, khám lột đồ là vi hiến, chó đánh hơi tủ, xe được nhưng không chạm học sinh.",
   "src": "tr. 272–273"
  },
@@ -123,8 +123,8 @@
   "q": "Vụ Gebser v. Lago Vista (1998) quy định điều gì về quấy rối của giáo viên với học sinh?",
   "opts": [
    "Khu chỉ có trách nhiệm pháp lý nếu biết quấy rối và 'thờ ơ có chủ ý' trong việc ngăn chặn.",
-   "Chỉ cá nhân giáo viên bị kiện; khu và hiệu trưởng được miễn mọi trách nhiệm, như một số nhà bình luận đương thời nhận định.",
    "Khu luôn có trách nhiệm pháp lý, dù không biết gì về việc quấy rối đó.",
+   "Chỉ cá nhân giáo viên bị kiện; khu và hiệu trưởng được miễn mọi trách nhiệm, như một số nhà bình luận đương thời nhận định.",
    "Khu không bao giờ có trách nhiệm, dù biết rõ và cố tình bỏ mặc việc đó."
   ],
   "a": 0,
@@ -134,12 +134,12 @@
  {
   "q": "Vì sao tòa phán lời cầu nguyện ở Engel v. Vitale (1962) vi hiến dù phi giáo phái và tự nguyện?",
   "opts": [
-   "Vì học sinh không đọc đủ to, nên bài cầu nguyện không có giá trị tôn giáo.",
+   "Vì bài cầu nguyện quá dài và làm mất thời gian dạy các môn học chính.",
    "Vì bài cầu nguyện thiên về một giáo phái và bắt buộc mọi học sinh đều phải đọc, theo lối giải thích thường gặp ở các văn bản chính sách.",
-   "Điều khoản thiết lập vẫn áp dụng: trung lập giữa giáo phái hay tự nguyện không thoát khỏi hạn chế.",
-   "Vì bài cầu nguyện quá dài và làm mất thời gian dạy các môn học chính."
+   "Vì học sinh không đọc đủ to, nên bài cầu nguyện không có giá trị tôn giáo.",
+   "Điều khoản thiết lập vẫn áp dụng: trung lập giữa giáo phái hay tự nguyện không thoát khỏi hạn chế."
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Thẩm phán Taft: chính phủ phải trung lập; nhưng nhóm tôn giáo của học sinh được họp như nhóm khác (Mergens, 1990).",
   "src": "tr. 278–280"
  }

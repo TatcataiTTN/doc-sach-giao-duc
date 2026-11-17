@@ -4,8 +4,8 @@
   "opts": [
    "Sexton (1987, Viện Kinh tế IEA) cho tân tự do, và nhóm Hillgate (1987, kèm Baroness Cox) cho tân bảo thủ.",
    "Báo cáo Plowden (1967) cho tân tự do, và báo cáo Bullock (1975) cho tân bảo thủ, cả hai do chính phủ Lao động đặt hàng.",
-   "Báo cáo Cockcroft (1982) cho tân tự do, và các số Sách Đen (1969–1977) cho tân bảo thủ, cùng được xuất bản trong thập niên 1980.",
-   "Hiến chương Phụ huynh của St John Stevas cho tân tự do, và bài phát biểu Ruskin của Callaghan cho tân bảo thủ."
+   "Hiến chương Phụ huynh của St John Stevas cho tân tự do, và bài phát biểu Ruskin của Callaghan cho tân bảo thủ.",
+   "Báo cáo Cockcroft (1982) cho tân tự do, và các số Sách Đen (1969–1977) cho tân bảo thủ, cùng được xuất bản trong thập niên 1980."
   ],
   "a": 0,
   "exp": "Ball lấy tập sách nhỏ của Sexton (IEA, Our Schools: A Radical Policy) và của Hillgate Group (The Reform of British Education). Cả hai đều xoay quanh 'quyền sở hữu' nhà trường và đều trả lời là phụ huynh/người tiêu dùng.",
@@ -15,8 +15,8 @@
   "q": "Khác biệt chính giữa Sexton và Hillgate về chương trình và tổ chức trong trường là gì?",
   "opts": [
    "Sexton và Hillgate hoàn toàn đồng ý về mọi điểm, và chỉ khác nhau về cách trình bày trong hai tập sách nhỏ của họ.",
-   "Sexton phản đối mọi hình thức kiểm tra, còn Hillgate ủng hộ kiểm tra nhưng chỉ ở bậc đại học và các trường tư thục.",
    "Sexton muốn nhà nước quy định chi tiết chương trình, còn Hillgate muốn để thị trường quyết định mọi nội dung học tập.",
+   "Sexton phản đối mọi hình thức kiểm tra, còn Hillgate ủng hộ kiểm tra nhưng chỉ ở bậc đại học và các trường tư thục.",
    "Sexton theo Hayek chính thống về thị trường; Hillgate còn muốn ràng buộc lựa chọn bằng nội dung chương trình."
   ],
   "a": 3,
@@ -27,8 +27,8 @@
   "q": "Cách nhìn của Cánh hữu mới về môn học 'mới' và môn học 'truyền thống' có đặc điểm gì?",
   "opts": [
    "Môn truyền thống bị coi là thiên kiến vì chỉ phục vụ giai cấp trên, còn môn mới được coi là công bằng và trung lập.",
-   "Cả hai loại môn đều bị coi là chính trị hóa như nhau, nên Cánh hữu mới đòi giảm số môn học bắt buộc trong mọi trường.",
    "Môn mới được ưa chuộng vì phù hợp thị trường lao động, còn môn truyền thống bị coi là lạc hậu và nên được loại bỏ.",
+   "Cả hai loại môn đều bị coi là chính trị hóa như nhau, nên Cánh hữu mới đòi giảm số môn học bắt buộc trong mọi trường.",
    "Môn mới (hòa bình, đa văn hóa) bị coi là chính trị hóa, thiên kiến; môn truyền thống là trung lập, khách quan."
   ],
   "a": 3,
@@ -38,36 +38,36 @@
  {
   "q": "Hillgate và Sexton cùng đề xuất điều gì về cách tuyển và trả lương giáo viên?",
   "opts": [
-   "Giao việc tuyển giáo viên cho các LEA, chuẩn hóa lương trên toàn quốc và yêu cầu tất cả giáo viên phải có bằng thạc sĩ.",
    "Trao quyền cho công đoàn quyết định mức lương, bỏ mọi bài kiểm tra quốc gia và bảo đảm quyền đình công cho giáo viên.",
-   "Bổ nhiệm người không có bằng sư phạm, trả lương theo thị trường (vùng, môn, hiệu quả) và dùng hợp đồng nghề nghiệp.",
-   "Tăng thời gian đào tạo tại đại học lên bốn năm, giữ nguyên thang lương quốc gia và duy trì vai trò của Ủy ban Burnham."
+   "Giao việc tuyển giáo viên cho các LEA, chuẩn hóa lương trên toàn quốc và yêu cầu tất cả giáo viên phải có bằng thạc sĩ.",
+   "Tăng thời gian đào tạo tại đại học lên bốn năm, giữ nguyên thang lương quốc gia và duy trì vai trò của Ủy ban Burnham.",
+   "Bổ nhiệm người không có bằng sư phạm, trả lương theo thị trường (vùng, môn, hiệu quả) và dùng hợp đồng nghề nghiệp."
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Hillgate gợi ý nhân viên chưa có bằng chính thức có thể được bổ nhiệm; Sexton đề xuất 'thị trường tự do' thay lương quốc gia và hợp đồng nghề nghiệp mà giáo viên nhận thì không đình công. Ball nối với Licensed Teacher Scheme 1989.",
   "src": "tr. 50–51"
  },
  {
   "q": "Vì sao kiểm tra quốc gia vừa được Cánh hữu mới cần, vừa gây mâu thuẫn trong nội bộ họ?",
   "opts": [
-   "Nó bị cả hai cánh phản đối hoàn toàn từ đầu, và vì vậy chưa bao giờ được đưa vào bất kỳ văn bản chính sách nào.",
    "Nó chỉ phục vụ giáo viên, vì kết quả kiểm tra không bao giờ được công bố, nên phụ huynh không dùng được để so sánh trường.",
    "Nó phục vụ phụ huynh chọn trường và kiểm soát giáo viên, nhưng áp đồng nhất, trái với giá trị đa dạng.",
+   "Nó bị cả hai cánh phản đối hoàn toàn từ đầu, và vì vậy chưa bao giờ được đưa vào bất kỳ văn bản chính sách nào.",
    "Nó chỉ mâu thuẫn với phe Lao động, còn trong Cánh hữu mới mọi người đều đồng ý về hình thức và phạm vi của kiểm tra."
   ],
-  "a": 2,
+  "a": 1,
   "exp": "Ball nói kiểm tra bắc cầu giữa mối quan tâm so sánh để phụ huynh chọn có thông tin và sự bất tín nhiệm với giáo viên. Nhưng tân tự do thuần túy coi kiểm tra quốc gia là áp đồng nhất, như Sexton thừa nhận với TGAT.",
   "src": "tr. 52–53"
  },
  {
   "q": "Với ILEA, Ball nêu vai trò diễn ngôn nào?",
   "opts": [
+   "Biểu tượng của điên rồ và 'phàm', một văn bản đối lập đại diện cho lựa chọn mà diễn ngôn Cánh hữu mới không nghĩ tới.",
    "Là mô hình mẫu về hiệu quả mà Cánh hữu mới muốn nhân rộng sang các khu vực khác trên cả nước, nhờ chi tiêu thấp.",
-   "Là cơ quan trung lập chỉ chịu chỉ trích vì lý do kỹ thuật, không liên quan gì đến ý thức hệ hay đối lập chính trị, như nhiều người đã nhận định vào thập niên 1980.",
    "Là đồng minh của Hillgate trong việc thúc đẩy trường ngữ pháp, vì nó cũng ủng hộ chương trình truyền thống.",
-   "Biểu tượng của điên rồ và 'phàm', một văn bản đối lập đại diện cho lựa chọn mà diễn ngôn Cánh hữu mới không nghĩ tới."
+   "Là cơ quan trung lập chỉ chịu chỉ trích vì lý do kỹ thuật, không liên quan gì đến ý thức hệ hay đối lập chính trị, như nhiều người đã nhận định vào thập niên 1980."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "ILEA, cơ quan dân cử do Lao động kiểm soát và chi nhiều nhất, là tiêu điểm cho các 'sự cố' và là 'chất ngưng tụ của mọi thứ sai ở giáo dục Anh': phản đối nó là đứng về phía tỉnh táo.",
   "src": "tr. 55–56"
  },
@@ -75,11 +75,11 @@
   "q": "Hillgate phản ứng thế nào với Chương trình Quốc gia, và vì sao Ball cho là mâu thuẫn?",
   "opts": [
    "Không có quan điểm gì, vì họ coi chương trình học là việc riêng của nhà trường, không liên quan đến chính phủ.",
-   "Nghi ngờ vì tập trung quyền vào trung ương, nhưng muốn chính phủ chịu trách nhiệm, nên kẹt giữa nhà nước tối thiểu và mạnh.",
    "Ủng hộ trọn vẹn không điều kiện, vì chương trình chung phù hợp với thị trường tự do và việc giảm quyền lực của phụ huynh, như nhiều người đã nhận định vào thập niên 1980.",
+   "Nghi ngờ vì tập trung quyền vào trung ương, nhưng muốn chính phủ chịu trách nhiệm, nên kẹt giữa nhà nước tối thiểu và mạnh.",
    "Phản đối hoàn toàn và đề xuất bãi bỏ mọi chương trình chung, giao toàn bộ nội dung học cho giáo viên quyết định."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Hillgate gọi chương trình quốc gia là 'xa lạ với truyền thống giáo dục Anh' nhưng nói biện pháp là làm chính phủ chịu trách nhiệm. Ball nói họ kẹt giữa lựa chọn của phụ huynh và 'bổn phận của nhà nước'.",
   "src": "tr. 56"
  },
@@ -88,8 +88,8 @@
   "opts": [
    "Sexton bác theo Hayek: chương trình nên tiến hóa theo lựa chọn khách hàng; ủy ban trung ương làm kém và làm nó hóa thạch.",
    "Sexton bác vì muốn thay bằng một chương trình do công đoàn giáo viên soạn, thể hiện đầy đủ lợi ích của người sản xuất.",
-   "Sexton ủng hộ chương trình quốc gia vì nó giúp loại bỏ tính đa dạng giữa các trường và ngăn thị trường làm méo tri thức.",
-   "Sexton bác vì cho rằng chương trình quốc gia quá tự do, không bảo vệ đủ truyền thống và di sản văn hóa dân tộc."
+   "Sexton bác vì cho rằng chương trình quốc gia quá tự do, không bảo vệ đủ truyền thống và di sản văn hóa dân tộc.",
+   "Sexton ủng hộ chương trình quốc gia vì nó giúp loại bỏ tính đa dạng giữa các trường và ngăn thị trường làm méo tri thức."
   ],
   "a": 0,
   "exp": "Sexton coi đây là sai lầm: trong thị trường tự do, chương trình sẽ tiến hóa theo nhu cầu (như trường tư); ủy ban mười lăm người quyết định kém hơn thị trường; nó sẽ làm chương trình hóa thạch và là 'tập trung hóa ám ảnh'. Ball gọi là lập luận Hayek kinh điển.",
@@ -99,8 +99,8 @@
   "q": "Theo Ball, đặc điểm nào của diễn ngôn Cánh hữu mới khiến việc chất vấn tính nhất quán logic của nó ít có ý nghĩa?",
   "opts": [
    "Phép thử của diễn ngôn là hiệu quả chứ không phải tính nhất quán: nó khai thác lý thuyết nhưng không bị lý thuyết cấu thành.",
-   "Diễn ngôn này chỉ tồn tại trong các sách vở học thuật, nên không có tác động nào đáng kể đến chính sách giáo dục.",
    "Diễn ngôn này chỉ dùng số liệu thống kê chặt chẽ và bằng chứng thực nghiệm, nên mọi chất vấn về logic đều đã được giải đáp, như nhiều người đã nhận định vào thập niên 1980.",
+   "Diễn ngôn này chỉ tồn tại trong các sách vở học thuật, nên không có tác động nào đáng kể đến chính sách giáo dục.",
    "Diễn ngôn này hoàn toàn nhất quán về lý thuyết, nên không có mâu thuẫn logic nào đáng bàn trong các văn bản của họ."
   ],
   "a": 0,
@@ -122,21 +122,21 @@
  {
   "q": "Vì sao ERA không đưa phiếu học (vouchers) vào luật, và thay bằng cơ chế nào?",
   "opts": [
-   "Công chức DES thuyết phục Joseph rằng không khả thi, quá đắt, quá cấp tiến; thay bằng kinh phí theo đầu học sinh.",
    "Vì phiếu học bị Quốc hội bác ngay từ đầu bằng một cuộc bỏ phiếu, nên không có phương án thay thế nào được xem xét.",
    "Vì Keith Joseph phản đối phiếu học từ đầu, và đề xuất thay bằng việc tăng thêm ngân sách cho các LEA tự phân phối.",
-   "Vì phiếu học đã được thử thành công trên toàn quốc, nên không cần luật mới và chỉ giữ nguyên chế độ hiện hành."
+   "Vì phiếu học đã được thử thành công trên toàn quốc, nên không cần luật mới và chỉ giữ nguyên chế độ hiện hành.",
+   "Công chức DES thuyết phục Joseph rằng không khả thi, quá đắt, quá cấp tiến; thay bằng kinh phí theo đầu học sinh."
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Joseph nói mình là 'người nhiệt thành bực bội' về phiếu, bị buộc chấp nhận không thực tế vì lý do chính trị: 'không như áp trường tổng hợp. Đây là áp tự do'. Thay vào đó có per-capita funding: từ 4/1990 phần lớn kinh phí trường theo số và loại học sinh (75% trợ cấp khối của LEA).",
   "src": "tr. 63–64"
  },
  {
   "q": "Nghiên cứu ở Dundee và Edinburgh (Adler và Raab 1988) về chọn trường mở cho thấy điều gì?",
   "opts": [
+   "Chọn trường mở không làm thay đổi phân bố học sinh giữa các trường, và không ảnh hưởng gì đến mức thu nhập của trường.",
    "Các trường tuyển chọn trước kia mất nhiều học sinh nhất, vì phụ huynh chuyển sang trường tổng hợp mới thành lập.",
    "Các trường ở khu kém thịnh vượng nhất thu hút nhiều học sinh nhất, vì phụ huynh nghèo ưu tiên trường gần nhà.",
-   "Chọn trường mở không làm thay đổi phân bố học sinh giữa các trường, và không ảnh hưởng gì đến mức thu nhập của trường.",
    "Trường mất học sinh ở khu nhà ở kém thịnh vượng nhất, còn trường được nhiều nhất đều là trường tuyển chọn trước kia."
   ],
   "a": 3,
@@ -146,12 +146,12 @@
  {
   "q": "Mô hình tổ chức trường mà ERA hàm ý, theo Ball, là gì?",
   "opts": [
+   "Hội đồng quản trị như Ban giám đốc, hiệu trưởng như Tổng giám đốc, tự quản ngân sách như một doanh nghiệp.",
    "Giáo viên cùng bầu ra ban điều hành theo kiểu hợp tác xã, và công đoàn nắm quyền quyết định về ngân sách.",
    "Hiệu trưởng do LEA bổ nhiệm và chịu sự giám sát trực tiếp của chính quyền địa phương, còn ngân sách do LEA quyết định toàn bộ.",
-   "Bộ trưởng điều hành trực tiếp từng trường qua một mạng lưới công chức, và hội đồng quản trị chỉ mang tính nghi lễ.",
-   "Hội đồng quản trị như Ban giám đốc, hiệu trưởng như Tổng giám đốc, tự quản ngân sách như một doanh nghiệp."
+   "Bộ trưởng điều hành trực tiếp từng trường qua một mạng lưới công chức, và hội đồng quản trị chỉ mang tính nghi lễ."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Từ 4/1990 ngày càng nhiều trường tự kiểm soát ngân sách: tuyển, thuê, sa thải, mua sắm, tự cân đối. Báo cáo Coopers và Lybrand nói cần 'văn hóa và triết lý tổ chức nhà trường mới'; Hargreaves gọi là 'Kentucky Fried Schooling'.",
   "src": "tr. 67–68"
  }

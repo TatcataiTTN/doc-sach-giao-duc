@@ -1,0 +1,158 @@
+[
+ {
+  "q": "Hai cách nhìn chương trình mà chương nêu là gì?",
+  "opts": [
+   "Một nhấn môn học cần dạy; một nhấn người học (nhu cầu, thái độ, quá trình).",
+   "Một do giáo viên soạn tự do; một do bộ giáo dục soạn bắt buộc cho mọi trường.",
+   "Một dành cho tiểu học; một dành cho trung học, đại học và các trường nghề.",
+   "Một nhấn chi phí của chương trình; một nhấn số giờ học cho mỗi môn trong tuần."
+  ],
+  "a": 0,
+  "exp": "Ít trường dùng thuần một cách; đa số giáo viên nghiêng một bên nhưng dùng cả hai.",
+  "src": "tr. 414"
+ },
+ {
+  "q": "Cách tiếp cận 'theo môn học' bắt nguồn từ đâu và phổ biến vì sao?",
+  "opts": [
+   "Từ phong trào tiến bộ thập niên 1960; tiện vì học sinh tự chọn mọi môn theo ý thích.",
+   "Từ bảy môn khai phóng Hy Lạp, La Mã; tiện vì khoa, sách và giáo viên đều theo môn.",
+   "Từ báo cáo A Nation at Risk (1983); tiện vì nó rẻ hơn mọi cách tổ chức khác.",
+   "Từ các trường tư giáo xứ thế kỷ XX; tiện vì không phải theo luật của bang nào."
+  ],
+  "a": 1,
+  "exp": "William Harris (St. Louis, thập niên 1870); Ủy ban Mười lăm (1895); có thêm 'môn khám phá' ở trung học cơ sở.",
+  "src": "tr. 414–415"
+ },
+ {
+  "q": "Thuyết thường hằng và thiết yếu giống nhau ở điểm nào về chương trình?",
+  "opts": [
+   "Đều theo trải nghiệm cá nhân và chủ trương mỗi học sinh tự đặt mục tiêu riêng.",
+   "Đều theo vấn đề xã hội và chủ trương lấy dự án làm cách học chính trong cả năm học.",
+   "Đều theo hứng thú của trẻ và chủ trương bỏ chấm điểm để giảm cạnh tranh giữa học sinh, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Đều theo môn học và chủ trương chuẩn cao, chấm điểm và kiểm tra nghiêm để phân loại học sinh."
+  ],
+  "a": 3,
+  "exp": "Thường hằng: ba R, Latin, logic, kinh điển. Thiết yếu: ba R và năm, sáu ngành; nhiều trường giáo xứ nhấn các mặt này.",
+  "src": "tr. 415–417"
+ },
+ {
+  "q": "'Quay về cơ bản' (back-to-basics) liên quan thế nào đến kiểm tra toàn bang?",
+  "opts": [
+   "Nhấn đọc, viết, toán; 49 bang đòi học sinh qua kỳ thi toàn bang mới nhận bằng trung học.",
+   "Chỉ nhấn nghề nghiệp; mọi bang đã bỏ yêu cầu kỳ thi toàn bang từ thập niên 1990.",
+   "Phản đối mọi kiểm tra; không bang nào đòi học sinh qua kỳ thi toàn bang để tốt nghiệp, theo cách nhìn khá phổ biến lúc ấy.",
+   "Chỉ nhấn nghệ thuật và âm nhạc; chỉ vài bang đòi kỳ thi toàn bang cho học sinh."
+  ],
+  "a": 0,
+  "exp": "Phê phán: làm trường bỏ giải quyết vấn đề, sáng tạo, thiên lệch với thiểu số và người nghèo, và dẫn tới 'dạy để thi'.",
+  "src": "tr. 417–418"
+ },
+ {
+  "q": "Hai nghĩa của 'chương trình cốt lõi' (core) khác nhau thế nào?",
+  "opts": [
+   "Cổ điển: khối môn bắt buộc chung cho mọi học sinh; mới: hai môn liên quan và xếp khối giờ, trong bối cảnh nước Anh thập niên 1980.",
+   "Cả hai nghĩa đều chỉ chương trình nghề và không dạy môn học thuật nào cho học sinh.",
+   "Cổ điển: hai môn liên quan, liên ngành, xếp khối giờ; mới: khối môn bắt buộc chung cho mọi học sinh.",
+   "Cả hai nghĩa đều chỉ chương trình tự chọn hoàn toàn và không có môn nào bắt buộc."
+  ],
+  "a": 2,
+  "exp": "Cốt lõi mới (Adler, Boyer, Goodlad, Sizer): Boyer muốn hai phần ba, Goodlad khoảng 80%; tỉ lệ học sinh hoàn thành core tăng từ 14% lên hơn 44%.",
+  "src": "tr. 418–419"
+ },
+ {
+  "q": "Dewey nói gì về cân bằng giữa môn học và người học (1902)?",
+  "opts": [
+   "Giáo viên là trung tâm tuyệt đối, và người học chỉ cần quan sát và ghi chép.",
+   "Môn học là trung tâm tuyệt đối, và nhu cầu của người học không đáng kể gì.",
+   "Người học là trung tâm tuyệt đối, và môn học chỉ là phương tiện không cần chú ý, như một số nhà bình luận đương thời nhận định.",
+   "Người học không phải 'người nhận sự kiện ngoan ngoãn' cũng không phải 'điểm xuất phát, trung tâm và đích'."
+  ],
+  "a": 3,
+  "exp": "Dewey cố cân bằng; Kilpatrick thì cho thầy không thể đoán trước hứng thú trẻ nên không có chương trình soạn sẵn.",
+  "src": "tr. 420–421"
+ },
+ {
+  "q": "Trường thay thế/trường tự do thường có đặc điểm gì và bị phê phán ra sao?",
+  "opts": [
+   "Chỉ dạy môn nghề; bị phê phán là không có sự tham gia nào của phụ huynh.",
+   "Rất nhiều cấu trúc và kỷ luật quân sự; bị phê phán là học sinh học quá nhiều kiến thức, theo lối giải thích thường gặp ở các văn bản chính sách.",
+   "Nhiều tự do, ít cấu trúc, học sinh khám phá hứng thú; bị phê phán là học nhận thức ít, thiếu kỷ luật.",
+   "Do chính phủ liên bang quản lý chặt; bị phê phán là chương trình quá giống nhau."
+  ],
+  "a": 2,
+  "exp": "Freire, Giroux, Illich, Kohl, Kozol ủng hộ; một loại khác do hệ công chạy cho học sinh vấn đề kỷ luật và nhiều nơi là mẫu trường tái cấu trúc.",
+  "src": "tr. 422"
+ },
+ {
+  "q": "Thách thức chính của giáo dục nhân cách (character education) là gì?",
+  "opts": [
+   "Giáo viên và cộng đồng hiếm khi đồng thuận dạy giá trị nào, nhất là tình dục, tôn giáo, công bằng xã hội.",
+   "Chỉ có trường tư mới được dạy giá trị; trường công bị cấm tuyệt đối làm việc đó.",
+   "Mọi người đều đồng thuận ngay về mọi giá trị cần dạy nên không có gì cần bàn thêm.",
+   "Giá trị không bao giờ liên quan đến chương trình nên giáo viên không cần dạy chúng, ở một số trường và khu vực khi đó."
+  ],
+  "a": 0,
+  "exp": "Kevin Ryan: cần định nghĩa rõ, tìm điểm chung của giá trị công dân; Baltimore County có 'lõi giá trị chung' (Bảng 14.2).",
+  "src": "tr. 424"
+ },
+ {
+  "q": "Sách giáo khoa có ưu và nhược điểm nào theo chương?",
+  "opts": [
+   "Ưu: gây tranh cãi để học sinh tranh luận; nhược: quá rẻ và không có hình minh họa.",
+   "Ưu: thay thế hoàn toàn giáo viên; nhược: không có bất kỳ thông tin nào hữu ích.",
+   "Ưu: viết riêng cho từng địa phương; nhược: quá chuyên sâu và luôn cập nhật mỗi tuần, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Ưu: dàn bài, nguồn chung, hình ảnh; nhược: chung chung, nhạt, nhanh lạc hậu, bỏ qua vấn đề địa phương."
+  ],
+  "a": 3,
+  "exp": "Sách là công cụ chấp nhận được nếu chọn và dùng đúng, nhưng không nên là nguồn duy nhất hay định nghĩa toàn bộ chương trình.",
+  "src": "tr. 427–428"
+ },
+ {
+  "q": "Kiểm duyệt trong chương trình biểu hiện thế nào?",
+  "opts": [
+   "Chỉ lộ liễu qua lệnh cấm chính thức; không bao giờ có hình thức kiểm duyệt ngầm nào.",
+   "Chỉ xảy ra ở đại học; trường phổ thông không có vấn đề kiểm duyệt trong chương trình, theo cách nhìn khá phổ biến lúc ấy.",
+   "Lộ liễu (cấm sách) và ngầm (tránh chủ đề gây tranh cãi, sách bỏ chủ đề); câu hỏi thành 'tri thức của ai'.",
+   "Chỉ do học sinh đề xuất; người lớn và nhà xuất bản không bao giờ tham gia gì."
+  ],
+  "a": 2,
+  "exp": "Danh sách phản đối từng gồm Cô bé quàng khăn đỏ và Huckleberry Finn; Apple: chương trình có thể thành 'quả bóng chính trị'.",
+  "src": "tr. 428–429"
+ },
+ {
+  "q": "Học hợp tác theo Slavin (STAD, TAI) có đặc điểm gì?",
+  "opts": [
+   "Giáo viên dạy cả lớp một khối; không có việc kiểm tra hoặc giúp nhau trong lớp.",
+   "Nhóm bốn đến năm cân bằng năng lực, giới, sắc tộc; điểm nhóm; TAI đòi đạt 80% mới được thi cuối.",
+   "Mỗi em làm một mình; xếp hạng công khai để mọi người thi đua giành vị trí đầu tiên.",
+   "Nhóm hai mươi người chọn tự do; chỉ chấm điểm cá nhân; không có yêu cầu đạt mức nào, trong bối cảnh nước Anh thập niên 1980."
+  ],
+  "a": 1,
+  "exp": "Cạnh tranh vẫn có chỗ ở bài luyện đơn giản, tốc độ và trò chơi ít lo âu.",
+  "src": "tr. 430–432"
+ },
+ {
+  "q": "Dạy thành thạo (mastery learning) hoạt động và có hạn chế gì?",
+  "opts": [
+   "Dạy cả khóa như một khối lớn; không có kiểm tra giữa kỳ; dễ thực hiện ở mọi lớp học, như một số nhà bình luận đương thời nhận định.",
+   "Chỉ dùng máy tính; giáo viên không cần theo dõi từng học sinh và không phản hồi.",
+   "Chỉ dành cho học sinh giỏi; không có hiệu quả với học sinh nội thành hay khuyết tật.",
+   "Chia mô-đun nhỏ, đạt 80–90% mới sang bài sau; hiệu quả vừa đến mạnh nhưng khó thực hiện ở lớp đông."
+  ],
+  "a": 3,
+  "exp": "Câu hỏi còn lại: học bậc cao, cảm xúc, 'dạy để thi', chia nhỏ kỹ năng có thật là học.",
+  "src": "tr. 432–433"
+ },
+ {
+  "q": "Về công nghệ, chương nêu vấn đề chính của nhà giáo dục hiện nay là gì?",
+  "opts": [
+   "Truy cập (mọi học sinh có máy) và dùng máy tính tốt về mặt giáo dục, khi trường đã gần như đều nối Internet.",
+   "Máy tính quá ít: dưới 50.000 chiếc ở mọi trường Mỹ và hầu như không trường nào nối Internet, theo lối giải thích thường gặp ở các văn bản chính sách.",
+   "Máy tính chỉ dành cho giáo viên; học sinh bị cấm tiếp xúc với máy ở nhà và trường.",
+   "Máy tính quá nhiều: học sinh không thể ngừng dùng, nên cần cấm hẳn trong lớp."
+  ],
+  "a": 0,
+  "exp": "2005: 100% trường nối Internet (35% năm 1994); học sinh có máy ở nhà từ 36% (1993) lên 90% (2003); Suppes: CAI ba mức.",
+  "src": "tr. 434–436"
+ }
+]
