@@ -2,72 +2,72 @@
  {
   "q": "Faure điều chỉnh câu \"không thể dự đoán tương lai, chỉ có thể sáng chế các tương lai\" như thế nào?",
   "opts": [
-   "Có thể dự đoán nhiều tương lai, và phải chọn rồi muốn một tương lai; tương lai không phải số phận mờ mịt mà là một mục tiêu xác định cần nhận ra con đường dẫn tới",
+   "Chỉ có thể dự đoán một tương lai duy nhất bằng ngoại suy xu hướng quá khứ, vì tương lai luôn là sự tiếp nối tuyến tính chắc chắn của những gì đã diễn ra trong thập niên trước",
    "Không thể và không nên dự đoán bất cứ tương lai nào, vì mọi dự báo giáo dục đều không đáng tin cậy và chỉ nên dựa vào ứng biến từng ngày trong quá trình vận hành hệ thống",
-   "Chỉ các nhà khoa học mới có quyền chọn tương lai cho giáo dục, vì người dân và các nhà quản lý không đủ chuyên môn để đánh giá các kịch bản khác nhau về giáo dục",
-   "Chỉ có thể dự đoán một tương lai duy nhất bằng ngoại suy xu hướng quá khứ, vì tương lai luôn là sự tiếp nối tuyến tính chắc chắn của những gì đã diễn ra trong thập niên trước"
+   "Có thể dự đoán nhiều tương lai, và phải chọn rồi muốn một tương lai; tương lai không phải số phận mờ mịt mà là một mục tiêu xác định cần nhận ra con đường dẫn tới",
+   "Chỉ các nhà khoa học mới có quyền chọn tương lai cho giáo dục, vì người dân và các nhà quản lý không đủ chuyên môn để đánh giá các kịch bản khác nhau về giáo dục"
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Tr. 169: ông nói \"we can predict a plurality of futures; we must choose and want one future\", nghĩa là cần một tầm nhìn rộng về tương lai, không coi nó như số phận mờ mịt mà như mục tiêu xác định, và phải nhận ra con đường dẫn tới nó.",
   "src": "tr. 169"
  },
  {
   "q": "Ba pha của việc soạn và thực hiện một kế hoạch giáo dục theo Faure là gì, theo thứ tự?",
   "opts": [
+   "Chính sách (do cơ quan quốc tế quy định), kế hoạch (do các địa phương soạn thảo riêng), chiến lược (do từng nhà trường tự quyết định cho riêng mình theo điều kiện thực tế)",
    "Kế hoạch (liệt kê chỉ tiêu mong muốn), chiến lược (phân bổ ngân sách cho từng bộ), chính sách (ban hành văn bản pháp luật cuối cùng để áp dụng cho toàn quốc)",
    "Chính sách (lựa chọn căn bản), chiến lược (bộ quyết định có điều kiện cho các tình huống tương lai), kế hoạch (tính toán và tập hợp yếu tố để thực hiện)",
-   "Chính sách (do cơ quan quốc tế quy định), kế hoạch (do các địa phương soạn thảo riêng), chiến lược (do từng nhà trường tự quyết định cho riêng mình theo điều kiện thực tế)",
    "Chiến lược (đặt ra mục tiêu lớn của quốc gia), kế hoạch (chọn các phương tiện thực hiện), chính sách (đánh giá kết quả sau khi thực hiện xong chu kỳ của kế hoạch đã chọn)"
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Tr. 169–171: chính sách là pha chọn lựa căn bản; chiến lược biến chính sách thành bộ quyết định có điều kiện cho các tình huống tương lai; kế hoạch tính toán, lượng hoá và tập hợp yếu tố khi hành động. Chiến lược là mắt xích trung tâm.",
   "src": "tr. 169–171"
  },
  {
   "q": "Ba ý của khái niệm \"chiến lược\" theo báo cáo là gì?",
   "opts": [
-   "Tổ chức các yếu tố thành tổng thể mạch lạc, tính đến sự ngẫu nhiên trong diễn biến sự kiện, và ý chí đối mặt, kiểm soát sự ngẫu nhiên đó",
-   "Tính lịch sử của truyền thống, tính hiện đại của công nghệ và tính quốc tế của chuẩn mực, ba nguồn gốc mà chiến lược giáo dục phải kết hợp một cách cân bằng",
    "Tính tập trung của quyền lực, tính thống nhất của chương trình và tính bắt buộc của việc tuân thủ, ba yếu tố bảo đảm chiến lược giáo dục được thực hiện đúng ở mọi cấp",
-   "Quy mô lớn của hệ thống, tốc độ thực hiện nhanh và chi phí thấp nhất, ba tiêu chí mà mọi chiến lược giáo dục phải đáp ứng đầy đủ trước khi được thông qua"
+   "Tính lịch sử của truyền thống, tính hiện đại của công nghệ và tính quốc tế của chuẩn mực, ba nguồn gốc mà chiến lược giáo dục phải kết hợp một cách cân bằng",
+   "Quy mô lớn của hệ thống, tốc độ thực hiện nhanh và chi phí thấp nhất, ba tiêu chí mà mọi chiến lược giáo dục phải đáp ứng đầy đủ trước khi được thông qua",
+   "Tổ chức các yếu tố thành tổng thể mạch lạc, tính đến sự ngẫu nhiên trong diễn biến sự kiện, và ý chí đối mặt, kiểm soát sự ngẫu nhiên đó"
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Tr. 170: khái niệm chiến lược gồm ba ý: tổ chức các yếu tố thành tổng thể mạch lạc (yếu tố kết hợp); tính đến sự ngẫu nhiên (yếu tố xác suất); ý chí đối mặt và kiểm soát nó (yếu tố ý chí).",
   "src": "tr. 170"
  },
  {
   "q": "Vì sao Faure nói \"chiến lược mở rộng tuyến tính\" đã lỗi thời?",
   "opts": [
-   "Vì nó đã thất bại hoàn toàn về mặt số lượng ở mọi nước đang phát triển, nên không đạt được bất kỳ tiến bộ nào về nhập học trong thập niên 1960 như báo cáo ghi nhận",
    "Vì nó đòi hỏi quá nhiều giáo viên có trình độ cao mà các nước không thể đào tạo kịp, nên không thể áp dụng được ở bất kỳ quốc gia nào trong điều kiện hiện nay",
-   "Vì nó chỉ phù hợp cho các nước xã hội chủ nghĩa có kế hoạch tập trung, còn các nước tư bản thì không thể áp dụng được do cơ chế thị trường tự do trong giáo dục",
-   "Vì nó chỉ đúng cho hệ thống ổn định tiến bộ đều; tăng trưởng đo bằng chỉ số tổng thể che giấu và làm nặng thêm khiếm khuyết, và nguồn lực bỏ ra thường cho kết quả kém xa kỳ vọng"
+   "Vì nó đã thất bại hoàn toàn về mặt số lượng ở mọi nước đang phát triển, nên không đạt được bất kỳ tiến bộ nào về nhập học trong thập niên 1960 như báo cáo ghi nhận",
+   "Vì nó chỉ đúng cho hệ thống ổn định tiến bộ đều; tăng trưởng đo bằng chỉ số tổng thể che giấu và làm nặng thêm khiếm khuyết, và nguồn lực bỏ ra thường cho kết quả kém xa kỳ vọng",
+   "Vì nó chỉ phù hợp cho các nước xã hội chủ nghĩa có kế hoạch tập trung, còn các nước tư bản thì không thể áp dụng được do cơ chế thị trường tự do trong giáo dục"
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Tr. 173: các phương pháp thuần số lượng chỉ hợp lệ cho hệ thống ổn định; tăng trưởng đo bằng chỉ số tổng thể che cả sự xuất hiện lẫn trầm trọng thêm của khiếm khuyết, mất cân đối; nhiều nước thấy mở rộng số lượng không đi đôi hành động giáo dục hiệu quả. Báo cáo vẫn ghi nhận nó đem lại tiến bộ số lượng không chối cãi.",
   "src": "tr. 173"
  },
  {
   "q": "Chiến lược giáo dục \"phi tuyến\" phải dựa trên điều gì thay vì ngoại suy quá khứ?",
   "opts": [
-   "Các mô hình do nước công nghiệp phát triển đã áp dụng thành công, vì đó là những chiến lược đã được thử nghiệm và có thể nhân rộng sang các nước còn lại với chi phí rất thấp",
-   "Ý kiến của các nhà khoa học giáo dục quốc tế, vì họ có góc nhìn khách quan nhất, không bị ràng buộc bởi lợi ích của các nhóm trong từng quốc gia cụ thể mà họ nghiên cứu",
    "Số liệu thống kê nhập học của thập niên trước, vì xu hướng lịch sử là cơ sở chắc chắn nhất cho dự báo, và việc thay đổi phương pháp luận sẽ làm giảm độ tin cậy của kế hoạch",
-   "Phân tích cụ thể, cập nhật nhu cầu và khát vọng của cá nhân và nhóm, gồm mục tiêu ở các ngành liên quan như việc làm, sản xuất, điều kiện sống, truyền thông và mức sống"
+   "Các mô hình do nước công nghiệp phát triển đã áp dụng thành công, vì đó là những chiến lược đã được thử nghiệm và có thể nhân rộng sang các nước còn lại với chi phí rất thấp",
+   "Phân tích cụ thể, cập nhật nhu cầu và khát vọng của cá nhân và nhóm, gồm mục tiêu ở các ngành liên quan như việc làm, sản xuất, điều kiện sống, truyền thông và mức sống",
+   "Ý kiến của các nhà khoa học giáo dục quốc tế, vì họ có góc nhìn khách quan nhất, không bị ràng buộc bởi lợi ích của các nhóm trong từng quốc gia cụ thể mà họ nghiên cứu"
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Tr. 174: tìm chiến lược phi tuyến không dựa trên ngoại suy xu hướng quá khứ mà trên phân tích cụ thể, cập nhật nhu cầu và khát vọng của cá nhân và nhóm, gắn với mục tiêu ở việc làm, sản lượng công nghiệp, năng suất nông nghiệp, điều kiện sống và làm việc, đô thị hoá, truyền thông, mức sống và dự án phát triển.",
   "src": "tr. 174"
  },
  {
   "q": "Câu \"muốn biết cách định hình lại các bộ phận, phải có cái nhìn về cái toàn thể\" có hàm ý gì cho cải cách?",
   "opts": [
-   "Nên tránh mọi cải cách cho đến khi có đầy đủ dữ liệu về toàn bộ xã hội, vì mọi quyết định giáo dục đều không thể đưa ra nếu thiếu thông tin hoàn chỉnh về các lĩnh vực khác",
-   "Chỉ nên cải cách toàn diện một lần cho mọi thành phần của hệ thống, vì mọi cải cách từng phần đều làm hệ thống mất cân bằng và không bao giờ được phép thực hiện riêng lẻ",
+   "Không nên cải cách giáo dục vụn vặt khi chưa có khái niệm về toàn bộ mục tiêu và phương thức của quá trình giáo dục; cải cách từng phần hay tổng quát đều phải đặt trong tình hình chung",
    "Nên để cải cách xuất phát từ ý kiến của từng giáo viên ở cấp lớp học, vì chỉ họ mới có cái nhìn đầy đủ về toàn thể nhu cầu của người học trong thực tế giảng dạy",
-   "Không nên cải cách giáo dục vụn vặt khi chưa có khái niệm về toàn bộ mục tiêu và phương thức của quá trình giáo dục; cải cách từng phần hay tổng quát đều phải đặt trong tình hình chung"
+   "Nên tránh mọi cải cách cho đến khi có đầy đủ dữ liệu về toàn bộ xã hội, vì mọi quyết định giáo dục đều không thể đưa ra nếu thiếu thông tin hoàn chỉnh về các lĩnh vực khác",
+   "Chỉ nên cải cách toàn diện một lần cho mọi thành phần của hệ thống, vì mọi cải cách từng phần đều làm hệ thống mất cân bằng và không bao giờ được phép thực hiện riêng lẻ"
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Tr. 175–176: không còn nên cải cách vụn vặt không có khái niệm về toàn bộ mục tiêu và phương thức của quá trình giáo dục; cải cách từng phần hay tổng quát đều phải gắn tình hình chung và dự liệu hệ quả. Điều đó không có nghĩa không dám làm, mà phải suy nghĩ rõ ràng khi khám phá con đường mới.",
   "src": "tr. 175–176"
  }
