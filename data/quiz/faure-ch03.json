@@ -2,12 +2,12 @@
  {
   "q": "Bốn trường phái tư tưởng về quan hệ giữa giáo dục và xã hội mà Faure nêu gồm những gì, và quan điểm của chính các tác giả ra sao?",
   "opts": [
-   "Bảo thủ, cải lương, cách mạng và vô chính phủ; các tác giả đứng hẳn về phía cách mạng và coi cải lương là một dạng đồng loã với trật tự cũ của xã hội",
-   "Cổ điển, hiện đại, kỹ trị và nhân bản; các tác giả cho rằng bốn trường phái này thực ra giống nhau về căn bản nên không cần phân biệt chúng với nhau, như một số tài liệu nghiên cứu về giáo dục so sánh thời bấy giờ từng trình bày",
    "Duy tâm, ý chí luận, quyết định luận cơ giới và trường phái cho rằng chỉ đổi được xã hội mới đổi được giáo dục; các tác giả coi mỗi cái có phần đúng nhưng không cái nào đủ",
-   "Duy tâm, duy vật, thực dụng và nhân văn; các tác giả chọn thuyết duy vật làm nền tảng của mọi lập luận trong chương và bác ba trường phái còn lại hoàn toàn"
+   "Duy tâm, duy vật, thực dụng và nhân văn; các tác giả chọn thuyết duy vật làm nền tảng của mọi lập luận trong chương và bác ba trường phái còn lại hoàn toàn",
+   "Bảo thủ, cải lương, cách mạng và vô chính phủ; các tác giả đứng hẳn về phía cách mạng và coi cải lương là một dạng đồng loã với trật tự cũ của xã hội",
+   "Cổ điển, hiện đại, kỹ trị và nhân bản; các tác giả cho rằng bốn trường phái này thực ra giống nhau về căn bản nên không cần phân biệt chúng với nhau, như một số tài liệu nghiên cứu về giáo dục so sánh thời bấy giờ từng trình bày"
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Tr. 56: Faure nêu duy tâm, ý chí luận, quyết định luận cơ giới và một trường phái thứ tư kế thừa cả ba. Mỗi trường phái ít nhất có một phần lý lẽ hợp lôgic, nhưng không cái nào giải thích trọn vẹn thực tế; các tác giả đặt giáo dục trong một tương quan hai chiều với xã hội.",
   "src": "tr. 56"
  },
@@ -27,8 +27,8 @@
   "q": "Theo Faure, yếu tố quyết định để một hệ thống giáo dục vẫn mang tính \"tinh hoa\" là gì?",
   "opts": [
    "Mức học phí cao của các trường, vì tiền học phí cao luôn là rào cản cứng nhất khiến những người nghèo không thể bước vào hệ thống giáo dục",
-   "Số lượng người được tuyển vào hệ thống, vì chỉ khi số người được chọn đủ nhỏ thì hệ thống mới được gọi là tinh hoa theo đúng nghĩa của từ này",
    "Việc hệ thống chỉ nhận con em một đẳng cấp xã hội nhất định, vì đó là cách duy nhất để phân biệt giáo dục tinh hoa với giáo dục đại chúng",
+   "Số lượng người được tuyển vào hệ thống, vì chỉ khi số người được chọn đủ nhỏ thì hệ thống mới được gọi là tinh hoa theo đúng nghĩa của từ này",
    "Nguyên tắc chọn lọc và việc loại trừ mọi người khác theo tiêu chí do chính giới tinh hoa hiện có đặt ra, dù số người được chọn có tăng lên"
   ],
   "a": 3,
@@ -38,12 +38,12 @@
  {
   "q": "Ba \"lợi thế\" mà Faure nói cỗ máy thu nạp tinh hoa đem lại cho xã hội là gì?",
   "opts": [
-   "Cho người học cơ hội tự do chọn nghề, cho giáo viên sự ổn định công việc và bảo đảm chương trình giảng dạy luôn được cập nhật theo tiến bộ khoa học",
    "Cho kinh tế tăng trưởng nhanh, cho phụ huynh yên tâm về tương lai của con em họ và bảo đảm bằng cấp luôn giữ được giá trị cao trên thị trường lao động",
-   "Cho xã hội nguồn nhân lực rẻ, cho nhà nước thêm thu thuế và bảo đảm số lượng học sinh nhập học luôn đạt đúng chỉ tiêu đã đặt ra từ đầu năm",
-   "Cho xã hội một van an toàn, cho giai cấp thống trị lương tâm thanh thản và bảo đảm dòng máu mới cho giới tinh hoa"
+   "Cho người học cơ hội tự do chọn nghề, cho giáo viên sự ổn định công việc và bảo đảm chương trình giảng dạy luôn được cập nhật theo tiến bộ khoa học",
+   "Cho xã hội một van an toàn, cho giai cấp thống trị lương tâm thanh thản và bảo đảm dòng máu mới cho giới tinh hoa",
+   "Cho xã hội nguồn nhân lực rẻ, cho nhà nước thêm thu thuế và bảo đảm số lượng học sinh nhập học luôn đạt đúng chỉ tiêu đã đặt ra từ đầu năm"
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Tr. 59: giới tinh hoa tuyển người kế vị phần lớn từ chính con cái mình, kèm một số ít từ tầng lớp kém may mắn. Cỗ máy ấy giúp: van an toàn cho xã hội, lương tâm thanh thản cho giai cấp thống trị, và dòng máu mới cho giới tinh hoa.",
   "src": "tr. 59"
  },
@@ -52,34 +52,34 @@
   "opts": [
    "Hình ảnh và lời nói sẽ thay thế hoàn toàn chữ viết trong vài thập niên tới, nên các hệ thống giáo dục phải ngừng đầu tư vào việc dạy đọc và dạy viết ngay từ bây giờ",
    "Chữ viết phải được ưu tiên tuyệt đối vì chỉ chữ viết mới bảo đảm cấu trúc hoá tri thức, còn hình ảnh và lời nói chỉ nên dùng ở những vùng chưa phổ cập chữ",
-   "Mỗi phương tiện chỉ phù hợp với một cấp học riêng: lời nói cho mầm non, hình ảnh cho tiểu học, chữ viết cho trung học và đại học theo thứ tự cố định",
-   "Không đặt chúng đối đầu mà tích hợp: một nền giáo dục thực sự hiện đại phải hợp nhất từ, âm thanh và hình ảnh, từ bậc xoá mù sơ đẳng đến đại học"
+   "Không đặt chúng đối đầu mà tích hợp: một nền giáo dục thực sự hiện đại phải hợp nhất từ, âm thanh và hình ảnh, từ bậc xoá mù sơ đẳng đến đại học",
+   "Mỗi phương tiện chỉ phù hợp với một cấp học riêng: lời nói cho mầm non, hình ảnh cho tiểu học, chữ viết cho trung học và đại học theo thứ tự cố định"
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Tr. 62–63: báo cáo đồng ý với Tổng Giám đốc UNESCO: chữ viết không đặt đối lập với hình ảnh; giáo dục hiện đại tích hợp từ, âm thanh và hình ảnh. Với người chưa đọc viết được, hình ảnh và lời nói là \"đường tắt\" truyền thông tin, và còn có thể mở đường tới ham muốn học chữ.",
   "src": "tr. 62–63"
  },
  {
   "q": "Theo báo cáo, tại sao hiểu biết công nghệ phải là một phần của giáo dục cơ bản cho mọi người?",
   "opts": [
-   "Vì các nước đang phát triển bắt buộc phải nhập khẩu thiết bị công nghệ từ nước ngoài nên cần người sử dụng thiết bị hơn là người hiểu nguyên lý công nghệ",
    "Vì nghề nghiệp tương lai của mọi học sinh đều là kỹ thuật viên, nên giáo dục phổ thông nên bỏ bớt các môn nhân văn để dành thời gian cho công nghệ",
-   "Vì công nghệ sẽ sớm thay thế hoàn toàn các môn khoa học tự nhiên trong chương trình phổ thông và nhà trường cần chuẩn bị người học cho sự thay thế đó",
-   "Thiếu nó người ta ngày càng phụ thuộc người khác, thu hẹp khả năng việc làm và không kiểm soát nổi tác hại tiềm tàng của công nghệ như tha hoá hay ô nhiễm"
+   "Thiếu nó người ta ngày càng phụ thuộc người khác, thu hẹp khả năng việc làm và không kiểm soát nổi tác hại tiềm tàng của công nghệ như tha hoá hay ô nhiễm",
+   "Vì các nước đang phát triển bắt buộc phải nhập khẩu thiết bị công nghệ từ nước ngoài nên cần người sử dụng thiết bị hơn là người hiểu nguyên lý công nghệ",
+   "Vì công nghệ sẽ sớm thay thế hoàn toàn các môn khoa học tự nhiên trong chương trình phổ thông và nhà trường cần chuẩn bị người học cho sự thay thế đó"
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Tr. 66: không hiểu công nghệ khiến ta phụ thuộc, thu hẹp việc làm và tăng nguy cơ tác hại (tha hoá, ô nhiễm) thành áp đảo; đa số hưởng lợi từ công nghệ thụ động nên không kiểm soát được nó.",
   "src": "tr. 66"
  },
  {
   "q": "Câu \"bình đẳng tiếp cận không phải bình đẳng cơ hội\" của Faure có nghĩa gì?",
   "opts": [
-   "Cho mọi người vào trường là đủ để bảo đảm công bằng, vì ai vào rồi thì tự chịu trách nhiệm về kết quả học tập của mình theo nỗ lực cá nhân là chính",
-   "Bình đẳng cơ hội nghĩa là mọi học sinh phải được đối xử hoàn toàn giống nhau về chương trình, nhịp độ và phương pháp, không có bất cứ sự phân biệt nào",
    "Chỉ cần bảo đảm kết quả học tập bằng nhau cho mọi học sinh bằng cách hạ thấp chuẩn đánh giá, còn việc tiếp cận trường lớp thì không còn là vấn đề đáng quan tâm",
-   "Cho mọi người vào trường mới chỉ là điều kiện cần của công lý; cơ hội đích thực còn phải gồm cơ hội thành công ngang nhau, mà cơ hội này lại rất không đều"
+   "Cho mọi người vào trường mới chỉ là điều kiện cần của công lý; cơ hội đích thực còn phải gồm cơ hội thành công ngang nhau, mà cơ hội này lại rất không đều",
+   "Cho mọi người vào trường là đủ để bảo đảm công bằng, vì ai vào rồi thì tự chịu trách nhiệm về kết quả học tập của mình theo nỗ lực cá nhân là chính",
+   "Bình đẳng cơ hội nghĩa là mọi học sinh phải được đối xử hoàn toàn giống nhau về chương trình, nhịp độ và phương pháp, không có bất cứ sự phân biệt nào"
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Tr. 71–72: tiếp cận ngang nhau là điều kiện cần, không đủ; phải có cơ hội thành công ngang nhau. Và tr. 75: bình đẳng cơ hội không phải đối xử giống nhau với mọi người, mà bảo đảm mỗi người nhận giáo dục phù hợp với nhịp độ và phương pháp thích ứng với riêng họ.",
   "src": "tr. 71–72, 75"
  },
@@ -87,20 +87,20 @@
   "q": "Theo Bảng 6 của báo cáo, ở Áo, nhóm \"chuyên môn tự do và quản lý\" chiếm bao nhiêu phần trăm dân số hoạt động và bao nhiêu phần trăm tổng số sinh viên đại học?",
   "opts": [
    "Chiếm 32,4% dân số hoạt động nhưng chỉ chiếm 7,4% sinh viên đại học, trong khi công nhân chiếm 5,5% dân số hoạt động và tới 63,7% sinh viên đại học",
-   "Chiếm 62,9% dân số hoạt động và 21,5% sinh viên đại học, trong khi công nhân chiếm 27,2% dân số hoạt động và 71,5% tổng số sinh viên đại học",
+   "Chiếm 7,4% dân số hoạt động nhưng chiếm 32,4% sinh viên đại học, trong khi công nhân chiếm 63,7% dân số hoạt động mà chỉ có 5,5% sinh viên",
    "Chiếm 11,6% dân số hoạt động và 1,7% sinh viên đại học, trong khi công nhân chiếm 59,6% dân số hoạt động và 15,4% tổng số sinh viên đại học",
-   "Chiếm 7,4% dân số hoạt động nhưng chiếm 32,4% sinh viên đại học, trong khi công nhân chiếm 63,7% dân số hoạt động mà chỉ có 5,5% sinh viên"
+   "Chiếm 62,9% dân số hoạt động và 21,5% sinh viên đại học, trong khi công nhân chiếm 27,2% dân số hoạt động và 71,5% tổng số sinh viên đại học"
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Tr. 73, Bảng 6, dòng Áo: nhóm chuyên môn tự do và quản lý 32,4% sinh viên so với 7,4% dân số hoạt động; công nhân 5,5% sinh viên so với 63,7% dân số hoạt động. Hai phương án sai khác là số của Ý và Anh, còn phương án còn lại đảo ngược các cột.",
   "src": "tr. 73"
  },
  {
   "q": "Về vai trò của người giáo viên theo quan điểm giáo dục suốt đời, Faure đề nghị gì?",
   "opts": [
-   "Giáo viên chỉ nên đóng vai trò đánh giá và xếp loại học sinh một cách khách quan, còn việc truyền đạt tri thức thì giao cho các chuyên gia ngoài nhà trường",
-   "Giáo viên nên dần nhường toàn bộ việc giảng dạy cho máy móc và phương tiện nghe nhìn, và chỉ còn giữ vai trò quản lý hành chính trong cơ sở giáo dục",
    "Giáo viên phải giữ nguyên uy quyền tuyệt đối trong lớp học, vì chỉ có uy quyền như vậy mới bảo đảm kỷ luật và kết quả học tập của học sinh ở mọi cấp học",
+   "Giáo viên nên dần nhường toàn bộ việc giảng dạy cho máy móc và phương tiện nghe nhìn, và chỉ còn giữ vai trò quản lý hành chính trong cơ sở giáo dục",
+   "Giáo viên chỉ nên đóng vai trò đánh giá và xếp loại học sinh một cách khách quan, còn việc truyền đạt tri thức thì giao cho các chuyên gia ngoài nhà trường",
    "Bổn phận ngày càng ít là nhồi tri thức, ngày càng là khuyến khích tư duy, thành cố vấn và đối tác đối thoại giúp tìm các lập luận trái chiều thay vì phát chân lý làm sẵn"
   ],
   "a": 3,
