@@ -10,7 +10,7 @@ color: "#5b3f7a"
 weight: 3
 blurb: "Phân tích chính sách giáo dục ở Anh thập niên 1980: Cánh hữu mới, chủ nghĩa nghề nghiệp mới, Đạo luật Cải cách Giáo dục (ERA) và cuộc đấu tranh quanh Chương trình Quốc gia."
 plan:
-  - {key: preface, title: "Lời nói đầu và Giới thiệu", pages: "vii–2"}
+  - {key: preface, title: "Giới thiệu", pages: "1–2"}
   - {part: "Các chương", key: ch01, title: "Chương 1. Chính sách là điều quan trọng!", pages: "3–21"}
   - {key: ch02, title: "Chương 2. Kỷ luật và hỗn loạn: Cánh hữu mới và các diễn ngôn khinh miệt", pages: "22–42"}
   - {key: ch03, title: "Chương 3. Cánh hữu mới và chính sách giáo dục", pages: "43–69"}
