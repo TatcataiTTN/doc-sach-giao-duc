@@ -2,32 +2,32 @@
  {
   "q": "Theo Ball (dẫn Collins), chính sách giáo dục hiện ra như điều gì?",
   "opts": [
-   "Một phản ánh trực tiếp và đầy đủ của yêu cầu sản xuất tư bản, nên có thể suy ra mọi quyết định từ các điều kiện kinh tế.",
-   "Một nơi đấu tranh giữa các cộng đồng địa vị vì quyền thống trị, lợi thế kinh tế và uy tín, thấm đầy mâu thuẫn.",
    "Một quá trình kỹ thuật thuần túy do chuyên gia thực hiện, không bị ảnh hưởng bởi lợi ích chính trị hay các mâu thuẫn kinh tế.",
-   "Một sản phẩm của riêng ý thức hệ Cánh hữu mới, nên không cần xét đến lợi ích của công nghiệp hay các nhà giáo dục."
+   "Một sản phẩm của riêng ý thức hệ Cánh hữu mới, nên không cần xét đến lợi ích của công nghiệp hay các nhà giáo dục.",
+   "Một phản ánh trực tiếp và đầy đủ của yêu cầu sản xuất tư bản, nên có thể suy ra mọi quyết định từ các điều kiện kinh tế.",
+   "Một nơi đấu tranh giữa các cộng đồng địa vị vì quyền thống trị, lợi thế kinh tế và uy tín, thấm đầy mâu thuẫn."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Ball nói chính sách giáo dục thấm mâu thuẫn kinh tế, chính trị và ý thức hệ; không thể quy mọi thứ về yêu cầu sản xuất hay trò chơi ý thức hệ chính trị.",
   "src": "tr. 211"
  },
  {
   "q": "Vai trò của kinh tế trong chương trình, theo lời kết của Ball, là gì?",
   "opts": [
-   "Kinh tế hoàn toàn không liên quan đến cải cách giáo dục, và không có sự tái định vị hay tái cấu trúc nào so với sản xuất.",
+   "Kinh tế cung cấp bối cảnh và 'vốn từ động cơ' cho cải cách, nhưng về chương trình thì các sáng kiến nghề và kỹ thuật vẫn ở rìa.",
    "Kinh tế chỉ ảnh hưởng đến chương trình tiểu học, còn chương trình trung học hoàn toàn do giáo viên và công đoàn quyết định.",
    "Kinh tế quyết định toàn bộ nội dung chương trình, và các sáng kiến nghề chiếm vị trí trung tâm trong Chương trình Quốc gia, như nhiều tài liệu thời đó vẫn mô tả.",
-   "Kinh tế cung cấp bối cảnh và 'vốn từ động cơ' cho cải cách, nhưng về chương trình thì các sáng kiến nghề và kỹ thuật vẫn ở rìa."
+   "Kinh tế hoàn toàn không liên quan đến cải cách giáo dục, và không có sự tái định vị hay tái cấu trúc nào so với sản xuất."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Ball: sự tái định vị và tái cấu trúc giáo dục so với sản xuất là rõ, nhưng về chương trình, kinh tế (nghề, kỹ thuật) vẫn ở rìa; thỏa hiệp giữa các lợi ích khác nhau theo môn.",
   "src": "tr. 211"
  },
  {
   "q": "Bốn lập trường cạnh tranh trong đấu trường chương trình mà Ball nêu là gì?",
   "opts": [
-   "Tân tự do, xã hội chủ nghĩa, bảo thủ truyền thống và dân chủ-xã hội, mỗi lập trường do một đảng chính trị đại diện.",
    "Giáo viên, phụ huynh, học sinh và chủ thuê, mỗi nhóm có một đại diện chính thức trong Ủy ban Tuyển chọn của Nghị viện, theo cách nhìn khá phổ biến lúc ấy.",
+   "Tân tự do, xã hội chủ nghĩa, bảo thủ truyền thống và dân chủ-xã hội, mỗi lập trường do một đảng chính trị đại diện.",
    "Nhân văn kiểu cũ cải lương (DES), phục hồi văn hóa (Cánh hữu mới), đào tạo công nghiệp, và cấp tiến mới (trí thức giáo dục).",
    "Trường công, trường tư, trường tự quản và CTC, mỗi loại trường theo đuổi một chương trình riêng không liên quan nhau."
   ],
@@ -38,10 +38,10 @@
  {
   "q": "Ball hiểu 'quan niệm đối tác mới' ở cuối sách là gì?",
   "opts": [
-   "Giáo viên và chính quyền địa phương cùng soạn chương trình, và Bộ trưởng chỉ giữ vai trò quan sát và phê chuẩn cuối cùng, trong bối cảnh nước Anh thập niên 1980.",
-   "Giáo viên là 'người nhượng quyền' của Chương trình Quốc gia, chịu trách nhiệm chuyển giao và được kêu gọi biến hệ thống thành của mình.",
    "Các công đoàn giáo viên được trao ghế chính thức trong mọi cơ quan chương trình, như Schools Council trước năm 1984.",
-   "Phụ huynh trở thành đối tác bình đẳng của Bộ trưởng, trực tiếp quyết định nội dung các môn học ở từng trường."
+   "Giáo viên là 'người nhượng quyền' của Chương trình Quốc gia, chịu trách nhiệm chuyển giao và được kêu gọi biến hệ thống thành của mình.",
+   "Phụ huynh trở thành đối tác bình đẳng của Bộ trưởng, trực tiếp quyết định nội dung các môn học ở từng trường.",
+   "Giáo viên và chính quyền địa phương cùng soạn chương trình, và Bộ trưởng chỉ giữ vai trò quan sát và phê chuẩn cuối cùng, trong bối cảnh nước Anh thập niên 1980."
   ],
   "a": 1,
   "exp": "Ball nói đây là dạng đối tác rất khác với năm 1976: giáo viên như 'franchise holders', một số nhóm bị gạt ra lề hoặc loại hẳn khỏi 'cộng đồng chính sách'.",
@@ -50,36 +50,36 @@
  {
   "q": "Tại sao Ball nói các căng thẳng trong chính trị giáo dục là 'khúc xạ' của chủ nghĩa Thatcher?",
   "opts": [
-   "Chủ nghĩa Thatcher ủng hộ nhà nước phúc lợi mạnh và chương trình do giáo viên tự quyết, nên đối nghịch với Cánh hữu mới.",
    "Chủ nghĩa Thatcher hoàn toàn nhất quán và chỉ theo một ý thức hệ duy nhất, nên mọi chính sách giáo dục đều suy ra trực tiếp từ đó, như một số nhà bình luận đương thời nhận định.",
    "Chủ nghĩa Thatcher vừa đại diện hiện đại hóa, hướng tương lai (tân tự do) vừa truyền thống, hướng quá khứ (tân bảo thủ), nên giáo dục bị kéo hai phía.",
+   "Chủ nghĩa Thatcher ủng hộ nhà nước phúc lợi mạnh và chương trình do giáo viên tự quyết, nên đối nghịch với Cánh hữu mới.",
    "Chủ nghĩa Thatcher chỉ quan tâm tới kinh tế và không bao giờ bàn tới giáo dục, nên các mâu thuẫn đó không liên quan gì tới nó."
   ],
-  "a": 2,
+  "a": 1,
   "exp": "Ảnh hưởng tân tự do nhấn tương lai, thích nghi, không kiểm soát nhà nước; tân bảo thủ nhấn quá khứ, giá trị truyền thống, trung thành tập thể. Giáo dục bị tranh chấp ở vai trò vừa khôi phục thẩm quyền vừa đáp ứng logic phát triển tư bản.",
   "src": "tr. 213"
  },
  {
   "q": "ERA, theo Ball, còn về điều gì ngoài kiểm soát định nghĩa tri thức trường học?",
   "opts": [
-   "Kiểm soát giáo viên và công việc của họ, dựa trên sự ngờ vực sâu, tạo một hệ bị quy định quá mức với 'thắt lưng và dây đeo'.",
-   "Chỉ về việc phân bổ ngân sách giữa các vùng, mà không có tác động nào tới địa vị hay cách làm việc của giáo viên.",
+   "Chỉ về việc mở thêm đại học, mà không liên quan gì tới trường phổ thông, chương trình hay kiểm tra quốc gia.",
    "Mở rộng tự chủ nghề nghiệp của giáo viên, dựa trên niềm tin sâu rằng giáo viên sẽ tự cải thiện chất lượng mà không cần giám sát.",
-   "Chỉ về việc mở thêm đại học, mà không liên quan gì tới trường phổ thông, chương trình hay kiểm tra quốc gia."
+   "Chỉ về việc phân bổ ngân sách giữa các vùng, mà không có tác động nào tới địa vị hay cách làm việc của giáo viên.",
+   "Kiểm soát giáo viên và công việc của họ, dựa trên sự ngờ vực sâu, tạo một hệ bị quy định quá mức với 'thắt lưng và dây đeo'."
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Ball: ERA đóng nhiều vùng tùy nghi của giáo viên; Chương trình và Kiểm tra Quốc gia là 'thắt lưng và dây đeo', thị trường là cà rốt và gậy; LMS có thể khuyến khích coi giáo viên như hàng hóa.",
   "src": "tr. 214"
  },
  {
   "q": "Câu hỏi nào Ball nói vẫn bỏ ngỏ ở cuối sách?",
   "opts": [
-   "Việc thực thi và hiện thực hóa cải cách ở trường và lớp học, nơi những đấu tranh về diễn giải và dung hòa vẫn tiếp diễn.",
    "Việc Cánh hữu mới có tồn tại thật hay không, vì chưa có bằng chứng về các nhóm như CPS hay Hillgate Group.",
-   "Việc Đạo luật 1988 có hiệu lực pháp lý hay không, vì Nghị viện chưa bỏ phiếu thông qua chính thức các điều khoản cuối, theo lối giải thích thường gặp ở các văn bản chính sách.",
-   "Việc ai là tác giả thật của Đạo luật 1988, vì các văn bản gốc của Đạo luật đã bị thất lạc và chưa tìm lại được."
+   "Việc thực thi và hiện thực hóa cải cách ở trường và lớp học, nơi những đấu tranh về diễn giải và dung hòa vẫn tiếp diễn.",
+   "Việc ai là tác giả thật của Đạo luật 1988, vì các văn bản gốc của Đạo luật đã bị thất lạc và chưa tìm lại được.",
+   "Việc Đạo luật 1988 có hiệu lực pháp lý hay không, vì Nghị viện chưa bỏ phiếu thông qua chính thức các điều khoản cuối, theo lối giải thích thường gặp ở các văn bản chính sách."
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Ball: phân tích 'tiếng ồn và sức nóng của cải cách và làm chính sách quốc gia' vẫn để ngỏ câu hỏi về thực thi ở trường và lớp học; 'the struggles over interpretation and accommodation go on'.",
   "src": "tr. 214"
  }

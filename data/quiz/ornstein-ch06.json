@@ -2,24 +2,24 @@
  {
   "q": "Triết học và lý thuyết giáo dục khác nhau ở điểm nào theo chương?",
   "opts": [
-   "Triết học rộng, có hệ thống; lý thuyết tập trung vào giáo dục (chương trình, dạy, học).",
-   "Triết học chỉ là thực hành lớp học; lý thuyết chỉ bàn về chân lý và siêu hình.",
    "Hai khái niệm giống hệt nhau và không có sự phân biệt nào trong chương này.",
-   "Lý thuyết rộng, có hệ thống; triết học chỉ tập trung vào chương trình và dạy học, như nhiều tài liệu thời đó vẫn mô tả."
+   "Lý thuyết rộng, có hệ thống; triết học chỉ tập trung vào chương trình và dạy học, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Triết học rộng, có hệ thống; lý thuyết tập trung vào giáo dục (chương trình, dạy, học).",
+   "Triết học chỉ là thực hành lớp học; lý thuyết chỉ bàn về chân lý và siêu hình."
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Thiết yếu gần hiện thực; tiến bộ bắt nguồn từ thực dụng; lý thuyết có thể rút từ triết học hoặc từ thực hành.",
   "src": "tr. 160–161"
  },
  {
   "q": "Bốn nhánh của triết học tương ứng với mối bận tâm nào của giáo dục?",
   "opts": [
-   "Siêu hình: phương pháp; tri thức luận: chương trình; giá trị luận: tổ chức; logic: nhân cách.",
    "Siêu hình: chương trình; tri thức luận: phương pháp; giá trị luận: nhân cách; logic: tổ chức bài học.",
-   "Siêu hình: nhân cách; tri thức luận: tổ chức bài học; giá trị luận: chương trình; logic: phương pháp, theo cách nhìn khá phổ biến lúc ấy.",
-   "Siêu hình: tổ chức bài học; tri thức luận: nhân cách; giá trị luận: phương pháp; logic: chương trình."
+   "Siêu hình: phương pháp; tri thức luận: chương trình; giá trị luận: tổ chức; logic: nhân cách.",
+   "Siêu hình: tổ chức bài học; tri thức luận: nhân cách; giá trị luận: phương pháp; logic: chương trình.",
+   "Siêu hình: nhân cách; tri thức luận: tổ chức bài học; giá trị luận: chương trình; logic: phương pháp, theo cách nhìn khá phổ biến lúc ấy."
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Hình 6.2: tri thức đáng giá nhất, cách dạy và học, hành vi và nhân cách, cách tổ chức khóa học, bài, đơn vị.",
   "src": "tr. 161–162"
  },
@@ -27,68 +27,68 @@
   "q": "Theo chủ nghĩa duy tâm, 'biết' nghĩa là gì?",
   "opts": [
    "Hình thành khái niệm từ cảm giác và trừu tượng hóa các tính chất của vật thể, trong bối cảnh nước Anh thập niên 1980.",
-   "Nhận ra hay hồi tưởng các ý niệm đã nằm sẵn trong trí, nhờ câu hỏi thăm dò của thầy.",
    "Chọn tri thức mà cá nhân muốn đưa vào đời sống của mình bằng tự do tuyệt đối.",
+   "Nhận ra hay hồi tưởng các ý niệm đã nằm sẵn trong trí, nhờ câu hỏi thăm dò của thầy.",
    "Kiểm nghiệm giả thuyết trong kinh nghiệm và xét hệ quả để xác nhận chúng."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Phương pháp Socrates và làm gương; chương trình là thứ bậc môn học; mọi học sinh cùng một chương trình.",
   "src": "tr. 164–166"
  },
  {
   "q": "Theo chủ nghĩa hiện thực, biết có hai bước nào?",
   "opts": [
-   "Cảm giác về vật thể rồi trừu tượng hóa để hình thành khái niệm và xếp vào lớp.",
    "Giải cấu trúc văn bản rồi vạch ra quan hệ quyền lực ẩn trong văn bản đó.",
    "Hồi tưởng ý niệm tiên nghiệm rồi đối chiếu ý niệm đó với kinh điển chính thống.",
+   "Cảm giác về vật thể rồi trừu tượng hóa để hình thành khái niệm và xếp vào lớp.",
    "Đặt giả thuyết rồi kiểm nghiệm trong hành động để xét hệ quả của giả thuyết."
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Khái niệm đúng khi tương ứng với vật như chúng có thật; giáo viên cần tri thức chuyên sâu của môn.",
   "src": "tr. 167–168"
  },
  {
   "q": "Chức năng 'đơn giản hóa, thanh lọc, cân bằng' của nhà trường thuộc về triết học nào?",
   "opts": [
-   "Duy tâm (Plato): trường chỉ giữ ý niệm vĩnh cửu và loại bỏ mọi kinh nghiệm.",
-   "Thực dụng (Dewey): trường chọn, lọc và tích hợp di sản văn hóa cho trẻ.",
+   "Thiết yếu (Bagley): trường chỉ truyền kỹ năng cơ bản và loại bỏ môn khác.",
    "Hiện sinh (Sartre): trường để mỗi học sinh tự quyết, không có chức năng nào.",
-   "Thiết yếu (Bagley): trường chỉ truyền kỹ năng cơ bản và loại bỏ môn khác."
+   "Thực dụng (Dewey): trường chọn, lọc và tích hợp di sản văn hóa cho trẻ.",
+   "Duy tâm (Plato): trường chỉ giữ ý niệm vĩnh cửu và loại bỏ mọi kinh nghiệm."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Trường là cộng đồng học tập gắn với xã hội; học sinh học giải quyết vấn đề bằng phương pháp khoa học.",
   "src": "tr. 172"
  },
  {
   "q": "Câu 'hiện hữu có trước bản chất' của Sartre nghĩa là gì?",
   "opts": [
-   "Ta sinh ra không có bản chất sẵn, và tự tạo ra nó qua các lựa chọn.",
+   "Ta có bản chất tốt vốn có, và giáo dục chỉ cần bảo vệ nó khỏi xã hội.",
    "Ta sinh ra với bản chất cố định do thế giới ý niệm quy định từ trước.",
    "Ta được xếp vào các lớp xã hội theo năng lực trí tuệ ngay từ khi sinh.",
-   "Ta có bản chất tốt vốn có, và giáo dục chỉ cần bảo vệ nó khỏi xã hội."
+   "Ta sinh ra không có bản chất sẵn, và tự tạo ra nó qua các lựa chọn."
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Tự do và trách nhiệm tuyệt đối; giáo viên hiện sinh nhắm tạo ý thức về trách nhiệm tối hậu với việc tự định nghĩa.",
   "src": "tr. 173–175"
  },
  {
   "q": "Foucault và Derrida đóng góp gì cho chủ nghĩa hậu hiện đại trong giáo dục?",
   "opts": [
-   "Foucault: nên nhồi giá trị yêu nước; Derrida: nên cấm tranh luận về văn bản.",
    "Foucault: 'tri thức khách quan' che giấu quyền lực; Derrida: giải cấu trúc để lộ quyền lực trong văn bản.",
    "Foucault: chân lý phổ quát có thật; Derrida: nên học thuộc kinh điển cho đúng bản gốc, như một số nhà bình luận đương thời nhận định.",
+   "Foucault: nên nhồi giá trị yêu nước; Derrida: nên cấm tranh luận về văn bản.",
    "Foucault: cần chương trình thống nhất; Derrida: cần bài thi chuẩn hóa mọi học sinh."
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Hai khái niệm: thuộc quyền (subordination) và gạt ra lề (marginalization); ba câu hỏi để giải cấu trúc một văn bản.",
   "src": "tr. 177–178"
  },
  {
   "q": "Thuyết thiết yếu của Bagley và Bestor chủ trương điều gì?",
   "opts": [
-   "Trường nên giải cấu trúc chương trình chính thức và trao quyền cho nhóm yếu thế, theo lối giải thích thường gặp ở các văn bản chính sách.",
    "Trường nên theo Sách lớn và không cần dạy kỹ năng đọc, viết, tính toán.",
    "Trường nên để trẻ tự chọn hứng thú và dự án mở, thầy chỉ làm người hỗ trợ.",
+   "Trường nên giải cấu trúc chương trình chính thức và trao quyền cho nhóm yếu thế, theo lối giải thích thường gặp ở các văn bản chính sách.",
    "Trường truyền kỹ năng và môn cơ bản qua chương trình tuần tự, tích lũy, do thầy dẫn dắt."
   ],
   "a": 3,
@@ -98,32 +98,32 @@
  {
   "q": "Thuyết thường hằng khác thuyết thiết yếu ở điểm nào?",
   "opts": [
-   "Thường hằng nhấn chân lý bất biến qua Sách lớn và phản đối chia luồng học sinh.",
-   "Thường hằng nhấn hứng thú của trẻ và dự án mở, không có nội dung kinh điển.",
    "Thường hằng nhấn kỹ năng nghề thực dụng và ủng hộ chia luồng sớm cho học sinh.",
+   "Thường hằng nhấn hứng thú của trẻ và dự án mở, không có nội dung kinh điển.",
+   "Thường hằng nhấn chân lý bất biến qua Sách lớn và phản đối chia luồng học sinh.",
    "Thường hằng nhấn trách nhiệm xã hội và phê phán cơ cấu giai cấp của nhà trường, ở một số trường và khu vực khi đó."
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Đại diện: Hutchins, Maritain, Adler (Paideia); họ phản đối tương đối luận văn hóa (như Allan Bloom).",
   "src": "tr. 183–185"
  },
  {
   "q": "Phương pháp dự án của Kilpatrick có đặc điểm gì?",
   "opts": [
-   "Học sinh làm theo bài định sẵn, kết quả cố định và thầy kiểm soát từng bước, như nhiều tài liệu thời đó vẫn mô tả.",
    "Học sinh làm việc một mình và chỉ nộp bài khi đã đạt chuẩn đầu ra của bang.",
-   "Học sinh học thuộc nội dung cốt lõi rồi làm bài thi chuẩn hóa vào cuối kỳ.",
-   "Học sinh hợp tác theo hứng thú, kết quả không định trước, thầy dẫn dắt mà không chi phối."
+   "Học sinh hợp tác theo hứng thú, kết quả không định trước, thầy dẫn dắt mà không chi phối.",
+   "Học sinh làm theo bài định sẵn, kết quả cố định và thầy kiểm soát từng bước, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Học sinh học thuộc nội dung cốt lõi rồi làm bài thi chuẩn hóa vào cuối kỳ."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Bốn loại dự án; ví dụ trường Whitwell thu 6 triệu cái kẹp giấy làm đài tưởng niệm nạn nhân Holocaust.",
   "src": "tr. 187–191"
  },
  {
   "q": "Lý thuyết phê phán phân biệt hai tầng chương trình nào?",
   "opts": [
-   "Chương trình học thuật (các môn chính) và chương trình giải trí (hoạt động ngoại khóa), theo cách nhìn khá phổ biến lúc ấy.",
    "Chương trình cơ bản (cho học sinh yếu) và chương trình nâng cao (cho học sinh giỏi).",
+   "Chương trình học thuật (các môn chính) và chương trình giải trí (hoạt động ngoại khóa), theo cách nhìn khá phổ biến lúc ấy.",
    "Chương trình chính thức (có quy định) và chương trình 'ẩn' (thấm qua môi trường trường học).",
    "Chương trình của giáo viên (do thầy soạn) và chương trình của bang (do luật quy định)."
   ],
@@ -134,12 +134,12 @@
  {
   "q": "Ví dụ Freedom Writers của Erin Gruwell cho thấy điều gì?",
   "opts": [
-   "Dạy chương trình thiết yếu đúng bài bản giúp học sinh yếu đạt điểm cao vượt trội, trong bối cảnh nước Anh thập niên 1980.",
-   "Kiểm tra chuẩn hóa hằng năm giúp phát hiện sớm học sinh có nguy cơ bỏ học.",
    "Học Sách lớn phương Tây giúp học sinh nội thành hiểu văn hóa chính thống.",
-   "Viết tự truyện về bạo lực, băng đảng, nghèo giúp học sinh 'nguy cơ bỏ học' tự trao quyền và tốt nghiệp."
+   "Viết tự truyện về bạo lực, băng đảng, nghèo giúp học sinh 'nguy cơ bỏ học' tự trao quyền và tốt nghiệp.",
+   "Dạy chương trình thiết yếu đúng bài bản giúp học sinh yếu đạt điểm cao vượt trội, trong bối cảnh nước Anh thập niên 1980.",
+   "Kiểm tra chuẩn hóa hằng năm giúp phát hiện sớm học sinh có nguy cơ bỏ học."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Đây là ví dụ cho giáo dục phê phán: nối tự truyện tập thể với lịch sử rộng của nhóm giai cấp, chủng tộc.",
   "src": "tr. 193"
  }

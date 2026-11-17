@@ -2,48 +2,48 @@
  {
   "q": "Dạy học thường được xếp vào loại nào theo các đặc điểm của nghề chuyên môn?",
   "opts": [
-   "Một 'bán chuyên môn' hay nghề đang hình thành, chưa đủ như luật hoặc y.",
-   "Một nghề lao động thông thường, hầu như không có đặc điểm chuyên môn nào.",
    "Một nghề chuyên môn đầy đủ, hoàn toàn ngang hàng với luật và y.",
-   "Một nghề chỉ tồn tại ở trường công, không có ở trường tư hay tôn giáo."
+   "Một nghề chỉ tồn tại ở trường công, không có ở trường tư hay tôn giáo.",
+   "Một 'bán chuyên môn' hay nghề đang hình thành, chưa đủ như luật hoặc y.",
+   "Một nghề lao động thông thường, hầu như không có đặc điểm chuyên môn nào."
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Đồng thuận chung là dạy học chưa là nghề chuyên môn đầy đủ nhưng đang tiến tới; điều dưỡng và công tác xã hội cũng bị xếp vậy.",
   "src": "tr. 31"
  },
  {
   "q": "Dạy học tụt sau luật và y ở bốn điểm nào?",
   "opts": [
+   "Quy mô trường, thiết bị, thư viện, số lượng sách giáo khoa được xuất bản.",
    "Thời gian làm việc, số lượng hội viên, tính quốc tế, mức độ dùng công nghệ.",
-   "Hệ tri thức, kiểm soát cấp phép, quyền tự chủ, uy tín và vị thế kinh tế.",
    "Độ tuổi nhập nghề, giới tính của người học, địa điểm đào tạo, cơ sở vật chất.",
-   "Quy mô trường, thiết bị, thư viện, số lượng sách giáo khoa được xuất bản."
+   "Hệ tri thức, kiểm soát cấp phép, quyền tự chủ, uy tín và vị thế kinh tế."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Bốn điểm: hệ tri thức chưa rõ, quyền kiểm soát đầu vào hạn chế, ít tự chủ trong quyết định, uy tín và kinh tế thấp hơn.",
   "src": "tr. 31"
  },
  {
   "q": "Vì sao tác giả cho rằng giáo dục chưa có 'hệ tri thức được xác định' như các nghề khác?",
   "opts": [
-   "Giáo dục thiếu một hệ tri thức chuyên biệt được thừa nhận chung và thiếu quy trình chặt chẽ.",
-   "Giáo dục có hệ tri thức riêng, nhưng bị bí mật và chỉ nhà quản lý được biết.",
    "Giáo dục chỉ là kinh nghiệm cá nhân, không bao giờ có thể nghiên cứu bằng khoa học, như nhiều tài liệu thời đó vẫn mô tả.",
-   "Giáo dục đã có một hệ tri thức chuẩn hóa, nhưng giáo viên không chịu học."
+   "Giáo dục có hệ tri thức riêng, nhưng bị bí mật và chỉ nhà quản lý được biết.",
+   "Giáo dục đã có một hệ tri thức chuẩn hóa, nhưng giáo viên không chịu học.",
+   "Giáo dục thiếu một hệ tri thức chuyên biệt được thừa nhận chung và thiếu quy trình chặt chẽ."
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Vì thế người ngoài nghề cũng bàn về giáo dục như chuyên gia, và nội dung đào tạo giáo viên khác nhau giữa các bang.",
   "src": "tr. 32"
  },
  {
   "q": "NCATE là gì và vai trò của nó trong chương?",
   "opts": [
-   "Hội đồng trả lương cho giáo viên theo thành tích của học sinh trong từng bang.",
-   "Tổ chức phụ huynh vận động giảm bạo lực trên truyền hình và kiểm duyệt sách.",
+   "Hội đồng đặt chuẩn về môn học và giảng viên cho các cơ sở đào tạo giáo viên.",
    "Hội đồng của giáo viên đình công để đòi tăng lương và giảm sĩ số lớp học.",
-   "Hội đồng đặt chuẩn về môn học và giảng viên cho các cơ sở đào tạo giáo viên."
+   "Hội đồng trả lương cho giáo viên theo thành tích của học sinh trong từng bang.",
+   "Tổ chức phụ huynh vận động giảm bạo lực trên truyền hình và kiểm duyệt sách."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "NCATE là hội đồng kiểm định đào tạo giáo viên; đến 2006 ba mươi chín bang dùng chuẩn của nó để đánh giá chương trình.",
   "src": "tr. 32–33"
  },
@@ -51,9 +51,9 @@
   "q": "Câu 'kẻ thù tự nhiên của nghề chuyên môn' trong chương nói về điều gì?",
   "opts": [
    "Sự giám sát của các tổ chức nghề nghiệp, vì nó làm giảm quyền tự chủ của từng người, theo cách nhìn khá phổ biến lúc ấy.",
-   "Sự cạnh tranh giữa các thành viên cùng nghề, vì nó làm giảm uy tín chung.",
+   "Sự thương lượng tập thể của giáo viên, vì nó biến nghề thành công việc làm thuê.",
    "Sự kiểm soát của người ngoài nghề, vì nó hạn chế quyền lực nghề và mở cửa cho can thiệp.",
-   "Sự thương lượng tập thể của giáo viên, vì nó biến nghề thành công việc làm thuê."
+   "Sự cạnh tranh giữa các thành viên cùng nghề, vì nó làm giảm uy tín chung."
   ],
   "a": 2,
   "exp": "Giáo viên ít tiếng nói về chương trình, dễ bị nhóm gây áp lực công kích khi chọn sách hay bàn chủ đề tranh cãi.",
@@ -62,84 +62,84 @@
  {
   "q": "Theo nghiên cứu của NORC, giáo viên được xếp thế nào về uy tín nghề nghiệp?",
   "opts": [
-   "Giáo viên tiểu học 60, trung học 63, đều trên phân vị thứ 90 của hơn 500 nghề.",
    "Giáo viên tiểu học 9, trung học 12, gần như thấp nhất trong mọi nghề được khảo sát.",
+   "Giáo viên tiểu học 82, trung học 90, ngang với bác sĩ và bác sĩ phẫu thuật.",
    "Giáo viên tiểu học 30, trung học 35, dưới trung bình của các nghề được khảo sát.",
-   "Giáo viên tiểu học 82, trung học 90, ngang với bác sĩ và bác sĩ phẫu thuật."
+   "Giáo viên tiểu học 60, trung học 63, đều trên phân vị thứ 90 của hơn 500 nghề."
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Điểm cao nhất cho nghề lớn là 82 (bác sĩ), thấp nhất 9 (đánh giày); giáo viên ở giữa nhưng khá cao.",
   "src": "tr. 34"
  },
  {
   "q": "Vì sao thương lượng tập thể vừa bị coi là 'phi chuyên môn' vừa giúp nghề?",
   "opts": [
-   "Nó bị luật cấm ở mọi bang, nhưng giáo viên vẫn lén dùng để tăng lương.",
-   "Mọi nghề chuyên môn đều dùng nó, và nó chỉ liên quan đến lương cơ bản.",
    "Ít nghề chuyên môn khác dùng nó, nhưng nó cho giáo viên nhiều quyền hơn quyết định điều kiện làm việc.",
-   "Nó chỉ áp dụng cho trường tư, nên không ảnh hưởng đến giáo viên công lập, trong bối cảnh nước Anh thập niên 1980."
+   "Mọi nghề chuyên môn đều dùng nó, và nó chỉ liên quan đến lương cơ bản.",
+   "Nó chỉ áp dụng cho trường tư, nên không ảnh hưởng đến giáo viên công lập, trong bối cảnh nước Anh thập niên 1980.",
+   "Nó bị luật cấm ở mọi bang, nhưng giáo viên vẫn lén dùng để tăng lương."
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Đến 1980 đa số giáo viên công lập đã có đại diện thương lượng; nó còn mở rộng sang chuẩn, đánh giá đồng nghiệp, thang nghề nghiệp, lương theo thành tích.",
   "src": "tr. 36"
  },
  {
   "q": "'Nhập nghề có kèm cặp' (mediated entry) nghĩa là gì?",
   "opts": [
-   "Đưa người vào nghề qua các giai đoạn giám sát, như nội trú và thực tập của bác sĩ.",
    "Yêu cầu người mới nộp một bài thi viết dài thay cho thời gian thực tập.",
+   "Đưa người vào nghề qua các giai đoạn giám sát, như nội trú và thực tập của bác sĩ.",
    "Tuyển người vào nghề qua giới thiệu của người quen, không qua đào tạo nào, như một số nhà bình luận đương thời nhận định.",
    "Cho người mới vào nghề tự quyết hoàn toàn mọi việc ngay từ ngày đầu tiên."
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Dạy học thiếu điều này nên nhiều người học bằng thử và sai; khoảng 45% giáo viên mới bỏ nghề trước hết năm thứ năm.",
   "src": "tr. 37–38"
  },
  {
   "q": "Điểm nào khác nhau rõ nhất giữa NEA và AFT?",
   "opts": [
-   "NEA chỉ nhận quản lý, còn AFT chỉ nhận giáo viên của các trường tư và tôn giáo.",
    "NEA liên kết công đoàn AFL-CIO và mạnh ở thành phố lớn, còn AFT là hội nghề nghiệp, theo lối giải thích thường gặp ở các văn bản chính sách.",
+   "NEA là hội nghề nghiệp mạnh ở ngoại ô và nông thôn, còn AFT liên kết công đoàn AFL-CIO.",
    "NEA và AFT giống hệt nhau về hội viên, địa bàn, quan điểm và cách tổ chức.",
-   "NEA là hội nghề nghiệp mạnh ở ngoại ô và nông thôn, còn AFT liên kết công đoàn AFL-CIO."
+   "NEA chỉ nhận quản lý, còn AFT chỉ nhận giáo viên của các trường tư và tôn giáo."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Cả hai thường cạnh tranh; NEA phản đối đình công, AFT mở rộng nhanh trong thập niên 1960–1970 qua đình công và hành động chiến đấu.",
   "src": "tr. 45–46"
  },
  {
   "q": "Một phê phán chính của chương đối với lương theo thành tích là gì?",
   "opts": [
-   "Phần thưởng quá lớn nên mọi giáo viên đều đạt, làm mất hết giá trị khuyến khích, ở một số trường và khu vực khi đó.",
    "Nó chỉ phù hợp với trường tư vì trường công không có người đánh giá thành tích.",
+   "Thành tích khó đo, đánh giá chủ quan, và phần thưởng dồn cho ít người làm tổn hại đoàn kết.",
    "Nó bị luật cấm vì mọi bang đều quy định lương chỉ tính theo số năm kinh nghiệm.",
-   "Thành tích khó đo, đánh giá chủ quan, và phần thưởng dồn cho ít người làm tổn hại đoàn kết."
+   "Phần thưởng quá lớn nên mọi giáo viên đều đạt, làm mất hết giá trị khuyến khích, ở một số trường và khu vực khi đó."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Phía phản đối cũng nói kinh phí thường thiếu, và nhu cầu thật là tăng lương cho mọi giáo viên.",
   "src": "tr. 40–41"
  },
  {
   "q": "Giả định nền của quản lý dựa vào trường là gì?",
   "opts": [
+   "Người cùng chia sẻ trách nhiệm và quyết định sẽ tin vào việc mình làm và nỗ lực hơn.",
    "Giáo viên không đủ năng lực lập kế hoạch nên cần quản lý bên ngoài quyết định, như nhiều tài liệu thời đó vẫn mô tả.",
    "Mọi trường nên theo một chương trình thống nhất để tiết kiệm chi phí cho bang.",
-   "Người cùng chia sẻ trách nhiệm và quyết định sẽ tin vào việc mình làm và nỗ lực hơn.",
    "Giám đốc quận luôn hiểu rõ nhu cầu từng trường hơn giáo viên và phụ huynh."
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Cải cách còn coi giáo viên là chuyên gia có tài năng cần dùng; phê phán là mất thời gian vào việc vặt và khó có phụ huynh tham gia thật.",
   "src": "tr. 41, 43"
  },
  {
   "q": "Nhóm nào dưới đây là tổ chức phụ huynh–giáo viên lớn nhất được chương nêu?",
   "opts": [
+   "NACST (1978), hơn sáu triệu hội viên năm 2006, đa số là giáo viên công giáo.",
    "PTA (1897), hơn sáu triệu hội viên năm 2006, đa số là các bà mẹ.",
    "AFT (1916), hơn sáu triệu hội viên năm 2006, đa số là công nhân vận tải.",
-   "AERA, hơn sáu triệu hội viên năm 2006, đa số là các nhà nghiên cứu giáo dục.",
-   "NACST (1978), hơn sáu triệu hội viên năm 2006, đa số là giáo viên công giáo."
+   "AERA, hơn sáu triệu hội viên năm 2006, đa số là các nhà nghiên cứu giáo dục."
   ],
-  "a": 0,
+  "a": 1,
   "exp": "PTA là liên minh lỏng 54 chi nhánh và 23.000 đơn vị; là tổ chức vận động vì trẻ em lớn nhất nước.",
   "src": "tr. 47–48"
  }
