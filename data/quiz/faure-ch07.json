@@ -2,24 +2,24 @@
  {
   "q": "Faure điều chỉnh câu \"không thể dự đoán tương lai, chỉ có thể sáng chế các tương lai\" như thế nào?",
   "opts": [
-   "Không thể và không nên dự đoán bất cứ tương lai nào, vì mọi dự báo giáo dục đều không đáng tin cậy và chỉ nên dựa vào ứng biến từng ngày trong quá trình vận hành hệ thống",
    "Có thể dự đoán nhiều tương lai, và phải chọn rồi muốn một tương lai; tương lai không phải số phận mờ mịt mà là một mục tiêu xác định cần nhận ra con đường dẫn tới",
-   "Chỉ các nhà khoa học mới có quyền chọn tương lai cho giáo dục, vì người dân và các nhà quản lý không đủ chuyên môn để đánh giá các kịch bản khác nhau về giáo dục",
-   "Chỉ có thể dự đoán một tương lai duy nhất bằng ngoại suy xu hướng quá khứ, vì tương lai luôn là sự tiếp nối tuyến tính chắc chắn của những gì đã diễn ra trong thập niên trước"
+   "Không thể và không nên dự đoán bất cứ tương lai nào, vì mọi dự báo giáo dục đều không đáng tin cậy và chỉ nên dựa vào ứng biến từng ngày trong quá trình vận hành hệ thống",
+   "Chỉ có thể dự đoán một tương lai duy nhất bằng ngoại suy xu hướng quá khứ, vì tương lai luôn là sự tiếp nối tuyến tính chắc chắn của những gì đã diễn ra trong thập niên trước",
+   "Chỉ các nhà khoa học mới có quyền chọn tương lai cho giáo dục, vì người dân và các nhà quản lý không đủ chuyên môn để đánh giá các kịch bản khác nhau về giáo dục"
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Tr. 169: ông nói \"we can predict a plurality of futures; we must choose and want one future\", nghĩa là cần một tầm nhìn rộng về tương lai, không coi nó như số phận mờ mịt mà như mục tiêu xác định, và phải nhận ra con đường dẫn tới nó.",
   "src": "tr. 169"
  },
  {
   "q": "Ba pha của việc soạn và thực hiện một kế hoạch giáo dục theo Faure là gì, theo thứ tự?",
   "opts": [
-   "Chiến lược (đặt ra mục tiêu lớn của quốc gia), kế hoạch (chọn các phương tiện thực hiện), chính sách (đánh giá kết quả sau khi thực hiện xong chu kỳ của kế hoạch đã chọn)",
-   "Kế hoạch (liệt kê chỉ tiêu mong muốn), chiến lược (phân bổ ngân sách cho từng bộ), chính sách (ban hành văn bản pháp luật cuối cùng để áp dụng cho toàn quốc)",
    "Chính sách (lựa chọn căn bản), chiến lược (bộ quyết định có điều kiện cho các tình huống tương lai), kế hoạch (tính toán và tập hợp yếu tố để thực hiện)",
-   "Chính sách (do cơ quan quốc tế quy định), kế hoạch (do các địa phương soạn thảo riêng), chiến lược (do từng nhà trường tự quyết định cho riêng mình theo điều kiện thực tế)"
+   "Chiến lược (đặt ra mục tiêu lớn của quốc gia), kế hoạch (chọn các phương tiện thực hiện), chính sách (đánh giá kết quả sau khi thực hiện xong chu kỳ của kế hoạch đã chọn)",
+   "Chính sách (do cơ quan quốc tế quy định), kế hoạch (do các địa phương soạn thảo riêng), chiến lược (do từng nhà trường tự quyết định cho riêng mình theo điều kiện thực tế)",
+   "Kế hoạch (liệt kê chỉ tiêu mong muốn), chiến lược (phân bổ ngân sách cho từng bộ), chính sách (ban hành văn bản pháp luật cuối cùng để áp dụng cho toàn quốc)"
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Tr. 169–171: chính sách là pha chọn lựa căn bản; chiến lược biến chính sách thành bộ quyết định có điều kiện cho các tình huống tương lai; kế hoạch tính toán, lượng hoá và tập hợp yếu tố khi hành động. Chiến lược là mắt xích trung tâm.",
   "src": "tr. 169–171"
  },
@@ -27,11 +27,11 @@
   "q": "Ba ý của khái niệm \"chiến lược\" theo báo cáo là gì?",
   "opts": [
    "Tính lịch sử của truyền thống, tính hiện đại của công nghệ và tính quốc tế của chuẩn mực, ba nguồn gốc mà chiến lược giáo dục phải kết hợp một cách cân bằng",
+   "Quy mô lớn của hệ thống, tốc độ thực hiện nhanh và chi phí thấp nhất, ba tiêu chí mà mọi chiến lược giáo dục phải đáp ứng đầy đủ trước khi được thông qua",
    "Tổ chức các yếu tố thành tổng thể mạch lạc, tính đến sự ngẫu nhiên trong diễn biến sự kiện, và ý chí đối mặt, kiểm soát sự ngẫu nhiên đó",
-   "Tính tập trung của quyền lực, tính thống nhất của chương trình và tính bắt buộc của việc tuân thủ, ba yếu tố bảo đảm chiến lược giáo dục được thực hiện đúng ở mọi cấp",
-   "Quy mô lớn của hệ thống, tốc độ thực hiện nhanh và chi phí thấp nhất, ba tiêu chí mà mọi chiến lược giáo dục phải đáp ứng đầy đủ trước khi được thông qua"
+   "Tính tập trung của quyền lực, tính thống nhất của chương trình và tính bắt buộc của việc tuân thủ, ba yếu tố bảo đảm chiến lược giáo dục được thực hiện đúng ở mọi cấp"
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Tr. 170: khái niệm chiến lược gồm ba ý: tổ chức các yếu tố thành tổng thể mạch lạc (yếu tố kết hợp); tính đến sự ngẫu nhiên (yếu tố xác suất); ý chí đối mặt và kiểm soát nó (yếu tố ý chí).",
   "src": "tr. 170"
  },
@@ -50,9 +50,9 @@
  {
   "q": "Chiến lược giáo dục \"phi tuyến\" phải dựa trên điều gì thay vì ngoại suy quá khứ?",
   "opts": [
-   "Số liệu thống kê nhập học của thập niên trước, vì xu hướng lịch sử là cơ sở chắc chắn nhất cho dự báo, và việc thay đổi phương pháp luận sẽ làm giảm độ tin cậy của kế hoạch",
-   "Phân tích cụ thể, cập nhật nhu cầu và khát vọng của cá nhân và nhóm, gồm mục tiêu ở các ngành liên quan như việc làm, sản xuất, điều kiện sống, truyền thông và mức sống",
    "Ý kiến của các nhà khoa học giáo dục quốc tế, vì họ có góc nhìn khách quan nhất, không bị ràng buộc bởi lợi ích của các nhóm trong từng quốc gia cụ thể mà họ nghiên cứu",
+   "Phân tích cụ thể, cập nhật nhu cầu và khát vọng của cá nhân và nhóm, gồm mục tiêu ở các ngành liên quan như việc làm, sản xuất, điều kiện sống, truyền thông và mức sống",
+   "Số liệu thống kê nhập học của thập niên trước, vì xu hướng lịch sử là cơ sở chắc chắn nhất cho dự báo, và việc thay đổi phương pháp luận sẽ làm giảm độ tin cậy của kế hoạch",
    "Các mô hình do nước công nghiệp phát triển đã áp dụng thành công, vì đó là những chiến lược đã được thử nghiệm và có thể nhân rộng sang các nước còn lại với chi phí rất thấp"
   ],
   "a": 1,
