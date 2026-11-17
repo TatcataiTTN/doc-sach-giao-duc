@@ -2,36 +2,36 @@
  {
   "q": "Ba loại lực chính ảnh hưởng đến mục đích giáo dục là gì?",
   "opts": [
-   "Xã hội nói chung, phát triển của tri thức, và quan niệm về bản chất người học.",
    "Kinh phí nhà trường, quy mô lớp học, và trình độ của giáo viên trong trường, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Xã hội nói chung, phát triển của tri thức, và quan niệm về bản chất người học.",
    "Cha mẹ, bạn bè đồng trang lứa, và truyền thông đại chúng đối với trẻ nhỏ.",
    "Chính phủ liên bang, hội đồng trường địa phương, và các hiệp hội giáo viên."
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Ý tưởng gốc từ Bode và Dewey, được Tyler phổ biến (1949); các lực này cùng triết lý, lý thuyết giáo dục định hình mục tiêu.",
   "src": "tr. 395"
  },
  {
   "q": "Goals và objectives khác nhau thế nào?",
   "opts": [
+   "Goals chỉ do học sinh đặt ra; objectives chỉ do bộ trưởng giáo dục đặt ra.",
    "Goals cụ thể và đo được ngay; objectives rộng và chỉ dùng ở cấp quốc gia.",
    "Goals rộng, dài hạn, khó đo trực tiếp; objectives cụ thể hơn, ngắn hạn, dễ quan sát và đo hơn.",
-   "Hai thuật ngữ hoàn toàn giống nhau và không phân biệt giữa các tầng mục đích, theo cách nhìn khá phổ biến lúc ấy.",
-   "Goals chỉ do học sinh đặt ra; objectives chỉ do bộ trưởng giáo dục đặt ra."
+   "Hai thuật ngữ hoàn toàn giống nhau và không phân biệt giữa các tầng mục đích, theo cách nhìn khá phổ biến lúc ấy."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Goals thường viết phi hành vi để làm hướng dẫn lâu dài; objectives viết ở môn/lớp, đơn vị, bài.",
   "src": "tr. 395–396"
  },
  {
   "q": "Bốn câu hỏi nền của Ralph Tyler về mục tiêu trường học là gì?",
   "opts": [
-   "Học sinh nào; môn nào; sách nào; bài thi nào để xếp loại học sinh.",
    "Triết lý nào; ngân sách nào; giáo viên nào; trường nào được ưu tiên, trong bối cảnh nước Anh thập niên 1980.",
-   "Mục đích nào; trải nghiệm nào để đạt; tổ chức ra sao; làm sao xác định đã đạt.",
-   "Ai dạy; dạy ở đâu; dạy khi nào; ai trả tiền cho việc dạy."
+   "Ai dạy; dạy ở đâu; dạy khi nào; ai trả tiền cho việc dạy.",
+   "Học sinh nào; môn nào; sách nào; bài thi nào để xếp loại học sinh.",
+   "Mục đích nào; trải nghiệm nào để đạt; tổ chức ra sao; làm sao xác định đã đạt."
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Tyler đưa ra cuối thập niên 1940; Goodlad sau đó nhóm danh sách mục tiêu của các hội đồng địa phương thành mười hai mục tiêu.",
   "src": "tr. 396–397"
  },
@@ -50,12 +50,12 @@
  {
   "q": "Đâu là một mục tiêu hành vi (behavioral objective) cho bài học theo Mager?",
   "opts": [
+   "Học sinh sẽ mô tả bằng văn bản ba lý do người thuộc địa nêu ủng hộ việc tách khỏi Anh.",
    "Học sinh sẽ biết nhiều điều về lịch sử Mỹ và phát triển năng lực tư duy phê phán, ở một số trường và khu vực khi đó.",
-   "Học sinh sẽ hiểu vì sao người thuộc địa muốn tách khỏi Anh trong những năm 1770.",
    "Học sinh sẽ trân trọng lịch sử Mỹ và tự hào về các giá trị dân chủ của đất nước.",
-   "Học sinh sẽ mô tả bằng văn bản ba lý do người thuộc địa nêu ủng hộ việc tách khỏi Anh."
+   "Học sinh sẽ hiểu vì sao người thuộc địa muốn tách khỏi Anh trong những năm 1770."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Mục tiêu hành vi dùng từ hành động, gắn nội dung cụ thể, có tiêu chí (ba lý do), để thầy và trò đều đánh giá được.",
   "src": "tr. 399–400"
  },
@@ -63,9 +63,9 @@
   "q": "Trước thế kỷ XX, 'kỷ luật trí óc' (mental discipline) nghĩa là gì?",
   "opts": [
    "Trí óc được tăng cường qua hoạt động trí tuệ như cơ thể qua tập luyện; môn càng khó càng có giá trị.",
-   "Giáo viên không cần dạy kiến thức vì trẻ tự khám phá thế giới qua trải nghiệm.",
+   "Trường tập trung dạy nghề thực tế để chuẩn bị học sinh làm việc ngay sau tốt nghiệp, như nhiều tài liệu thời đó vẫn mô tả.",
    "Học sinh học tốt nhất khi được chơi tự do và tự chọn môn theo hứng thú riêng.",
-   "Trường tập trung dạy nghề thực tế để chuẩn bị học sinh làm việc ngay sau tốt nghiệp, như nhiều tài liệu thời đó vẫn mô tả."
+   "Giáo viên không cần dạy kiến thức vì trẻ tự khám phá thế giới qua trải nghiệm."
   ],
   "a": 0,
   "exp": "Môn quý: Latin, Hy Lạp, ngoại ngữ, toán, sử, tiếng Anh, lý, hóa...; đó là giai đoạn thuyết thường hằng thống trị.",
@@ -74,12 +74,12 @@
  {
   "q": "Từ Thế chiến I đến sau Thế chiến II, mục đích giáo dục nổi bật nhất là gì?",
   "opts": [
-   "Chỉ đo kết quả đầu ra bằng bài thi chuẩn hóa hằng năm do liên bang quy định.",
-   "Phát triển đứa trẻ toàn diện và thích nghi đời sống, theo thuyết tiến bộ và tâm lý học trẻ em.",
+   "Chỉ rèn trí tuệ qua các môn cổ điển như Latin và Hy Lạp, theo thuyết thường hằng, theo cách nhìn khá phổ biến lúc ấy.",
    "Chỉ chuẩn bị nhân tài khoa học và kỹ thuật để cạnh tranh với Liên Xô.",
-   "Chỉ rèn trí tuệ qua các môn cổ điển như Latin và Hy Lạp, theo thuyết thường hằng, theo cách nhìn khá phổ biến lúc ấy."
+   "Phát triển đứa trẻ toàn diện và thích nghi đời sống, theo thuyết tiến bộ và tâm lý học trẻ em.",
+   "Chỉ đo kết quả đầu ra bằng bài thi chuẩn hóa hằng năm do liên bang quy định."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Hai tuyên bố tiêu biểu: Nguyên tắc Cốt lõi (1918) và Mười nhu cầu cấp thiết của thanh niên (1944).",
   "src": "tr. 400–401"
  },
@@ -98,36 +98,36 @@
  {
   "q": "Các số liệu 'suy giảm' trong các báo cáo thập niên 1980 gồm điều gì?",
   "opts": [
-   "Điểm SAT tăng đều từ 1963 đến 1990; chỉ 2% người lớn mù chữ chức năng.",
    "Điểm SAT trung bình giảm từ 1963 đến 1990; khoảng 20% người lớn mù chữ chức năng.",
+   "Chi tiêu mỗi học sinh ở Mỹ thấp nhất thế giới trong các nước công nghiệp, như một số nhà bình luận đương thời nhận định.",
    "Tỉ lệ học sinh/giáo viên ở Mỹ cao hơn 25/1, cao hơn Nhật và Hàn Quốc.",
-   "Chi tiêu mỗi học sinh ở Mỹ thấp nhất thế giới trong các nước công nghiệp, như một số nhà bình luận đương thời nhận định."
+   "Điểm SAT tăng đều từ 1963 đến 1990; chỉ 2% người lớn mù chữ chức năng."
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Chi mỗi học sinh K–12 của Mỹ cao thứ hai thế giới (sau Phần Lan), tỉ lệ học sinh/giáo viên khoảng 16; vấn đề không chỉ do thiếu nguồn lực.",
   "src": "tr. 405–406"
  },
  {
   "q": "A Nation at Risk (1983) khẳng định điều gì và kêu gọi gì?",
   "opts": [
+   "Chỉ vấn đề kinh phí; kêu gọi liên bang tiếp quản toàn bộ các khu học chánh địa phương.",
    "Trường nên chấm dứt mọi kiểm tra và nhường toàn bộ cho giáo viên và học sinh tự quyết.",
    "Giáo dục Mỹ đang đứng đầu thế giới; kêu gọi giữ nguyên mọi chuẩn và chương trình hiện có, theo lối giải thích thường gặp ở các văn bản chính sách.",
-   "Một 'làn sóng tầm thường hóa' xói mòn quốc gia; kêu gọi chuẩn khó hơn, 'cơ bản mới', ngày và năm học dài hơn.",
-   "Chỉ vấn đề kinh phí; kêu gọi liên bang tiếp quản toàn bộ các khu học chánh địa phương."
+   "Một 'làn sóng tầm thường hóa' xói mòn quốc gia; kêu gọi chuẩn khó hơn, 'cơ bản mới', ngày và năm học dài hơn."
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Tác động: tăng yêu cầu tốt nghiệp, thêm toán và khoa học, quay về cơ bản, nâng yêu cầu vào đại học, phần lớn ở cấp khu.",
   "src": "tr. 407"
  },
  {
   "q": "Tám mục tiêu của Goals 2000 có số phận ra sao?",
   "opts": [
-   "Các mục tiêu bị Tòa án Tối cao tuyên là vi hiến ngay sau khi Quốc hội thông qua.",
-   "Cả nước không đạt các mục tiêu năm 2000 (như đứng đầu thế giới về toán, khoa học); NCLB thay bằng mục tiêu cụ thể hơn.",
    "Chỉ mục tiêu về biết chữ người lớn bị bỏ, còn bảy mục tiêu khác được đạt trọn vẹn, ở một số trường và khu vực khi đó, trong bối cảnh nước Anh thập niên 1980.",
-   "Cả nước đạt toàn bộ tám mục tiêu đúng hạn vào năm 2000 và Hội đồng được mở rộng."
+   "Các mục tiêu bị Tòa án Tối cao tuyên là vi hiến ngay sau khi Quốc hội thông qua.",
+   "Cả nước đạt toàn bộ tám mục tiêu đúng hạn vào năm 2000 và Hội đồng được mở rộng.",
+   "Cả nước không đạt các mục tiêu năm 2000 (như đứng đầu thế giới về toán, khoa học); NCLB thay bằng mục tiêu cụ thể hơn."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Hội đồng Mục tiêu Giáo dục Quốc gia bị đình chỉ năm 2002; kỳ vọng chuyển sang đọc, toán, giáo viên đạt chuẩn.",
   "src": "tr. 409–410"
  },
@@ -135,8 +135,8 @@
   "q": "'Con lắc' trong lịch sử mục đích giáo dục có nghĩa là gì?",
   "opts": [
    "Có nhiều thay đổi nhưng nhiều ý tưởng cũ (như rèn trí tuệ nghiêm ngặt) quay lại dưới dạng cập nhật.",
-   "Mục đích giáo dục chỉ do một hội đồng duy nhất quyết định và không thay đổi.",
    "Mục đích giáo dục luôn đứng yên và không chịu ảnh hưởng của lực xã hội nào.",
+   "Mục đích giáo dục chỉ do một hội đồng duy nhất quyết định và không thay đổi.",
    "Mục đích giáo dục thay đổi tuyến tính và không bao giờ quay lại bất kỳ ý tưởng nào, theo cách nhìn khá phổ biến lúc ấy."
   ],
   "a": 0,
@@ -146,9 +146,9 @@
  {
   "q": "Vì sao chương nhắc rằng trường có thể bị 'đòi quá nhiều'?",
   "opts": [
+   "Vì trường có quá nhiều nguồn lực và không biết dùng vào việc gì có ích.",
    "Vì phụ huynh và cộng đồng luôn tham gia quá mức và gây khó cho nhà trường.",
    "Vì giáo viên có quyền quyết định mọi mục tiêu và không chịu sự giám sát nào, trong bối cảnh nước Anh thập niên 1980.",
-   "Vì trường có quá nhiều nguồn lực và không biết dùng vào việc gì có ích.",
    "Trường thường được coi là giải pháp cho mọi vấn đề quốc gia, dù nhiều nhóm khác từ chối nhận phần trách nhiệm."
   ],
   "a": 3,

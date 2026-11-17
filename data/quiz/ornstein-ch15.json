@@ -1,0 +1,170 @@
+[
+ {
+  "q": "Hai lớp học Sudan và Nhật cho thấy điều gì về giáo dục thế giới?",
+  "opts": [
+   "Các hệ thống giống hệt nhau về điều kiện nên không cần phân tích so sánh gì thêm.",
+   "Điều kiện lớp học không ảnh hưởng gì đến kết quả mà chỉ do sách giáo khoa quyết định, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Chỉ nước giàu mới có lớp học, nước nghèo không có trường dạy học sinh nào cả.",
+   "Khác biệt rất lớn về điều kiện, nhưng vẫn có những điểm chung đáng kể giữa các hệ thống."
+  ],
+  "a": 3,
+  "exp": "Sudan: không điện, sàn đất, học thuộc; Nhật: trường hiện đại, giáo viên có bằng đại học và được kính trọng.",
+  "src": "tr. 447–448"
+ },
+ {
+  "q": "Điểm chung nào về giai tầng xã hội xuất hiện ở nhiều nước?",
+  "opts": [
+   "Học sinh thu nhập thấp chịu thiệt thòi về giáo dục dù xã hội giàu hay nghèo, tự do hay bảo thủ.",
+   "Giai tầng chỉ ảnh hưởng ở nước nghèo; nước công nghiệp đã xóa hết khác biệt này.",
+   "Học sinh thu nhập thấp luôn đạt điểm cao hơn học sinh giàu ở mọi nước công nghiệp, theo cách nhìn khá phổ biến lúc ấy.",
+   "Giai tầng chỉ ảnh hưởng ở Mỹ; ở các nước khác không có mối liên hệ nào đáng kể."
+  ],
+  "a": 0,
+  "exp": "Ngân hàng Thế giới và Treiman: nền kinh tế xã hội gia đình là yếu tố dự báo thành tích ở cả nước công nghiệp lẫn đang phát triển.",
+  "src": "tr. 448"
+ },
+ {
+  "q": "Nghiên cứu mười nước về dạy toán, xã hội, khoa học (lớp 5–9) tìm thấy gì?",
+  "opts": [
+   "Mọi nước đều dùng dạy học theo dự án và thảo luận nhóm là hoạt động chính trong lớp, trong bối cảnh nước Anh thập niên 1980.",
+   "Tương đồng đáng kể: hoạt động chính là thầy giảng hoặc làm mẫu cộng với học sinh làm bài tại chỗ.",
+   "Học sinh ở mọi nước chủ yếu học qua máy tính, thầy chỉ giám sát các em ngồi học.",
+   "Mỗi nước dạy bằng một cách hoàn toàn khác, không có hai nước nào giống nhau cả."
+  ],
+  "a": 1,
+  "exp": "Giáo viên cũng chung nguồn chán nản (thiếu thời gian, đòi hỏi vai trò xung đột, thiếu hỗ trợ) và hứng khởi (quan hệ với học sinh).",
+  "src": "tr. 450"
+ },
+ {
+  "q": "Chi công cho giáo dục theo % GDP khác nhau thế nào giữa các nước?",
+  "opts": [
+   "Nước nghèo chi nhiều hơn nước giàu vì họ cần giáo dục nhiều hơn để phát triển.",
+   "Chi cho giáo dục luôn thấp hơn 1% GDP ở mọi nước, giàu hay nghèo, trên toàn thế giới, như một số nhà bình luận đương thời nhận định.",
+   "Mọi nước đều chi chính xác 5% GDP cho giáo dục và không có khác biệt giữa các nước.",
+   "Từ khoảng 3–4,5% ở nước thu nhập thấp hoặc ít ưu tiên đến hơn 7% ở nước giàu hoặc coi trọng giáo dục."
+  ],
+  "a": 3,
+  "exp": "Ở nước nghèo nhất, chi quân sự bình quân đầu người cao hơn chi giáo dục gần một phần ba.",
+  "src": "tr. 450–451"
+ },
+ {
+  "q": "Mỹ đứng thế nào về chi công cho giáo dục K–12 (theo % GDP) trong 12 nước công nghiệp?",
+  "opts": [
+   "Thứ năm trong mười hai, nên không phải 'không ai sánh' như phê phán trường công nói.",
+   "Thứ nhất trong mười hai, đúng như phê phán trường công nói rằng chi tiêu không ai sánh.",
+   "Thứ mười hai, thấp nhất trong nhóm, thấp hơn cả Nhật và Tây Ban Nha trong bảng so sánh.",
+   "Thứ ba, chỉ sau Thụy Sĩ và Anh, và vượt trội rõ rệt so với Thụy Điển và Hàn Quốc."
+  ],
+  "a": 0,
+  "exp": "Smeeding thêm: chi hỗ trợ thu nhập gia đình của Mỹ chưa bằng một nửa mức trung bình của năm nước so sánh.",
+  "src": "tr. 452–453"
+ },
+ {
+  "q": "Mô hình tập trung hóa của Mỹ khác Pháp, Hy Lạp, Nhật thế nào?",
+  "opts": [
+   "Mỹ tập trung cao theo chuẩn toàn quốc; Pháp, Hy Lạp, Nhật phi tập trung qua khu học chánh, theo lối giải thích thường gặp ở các văn bản chính sách.",
+   "Cả bốn nước đều phi tập trung hoàn toàn và không có chuẩn nào ở cấp trung ương cả.",
+   "Mỹ phi tập trung qua hàng ngàn khu học chánh; Pháp, Hy Lạp, Nhật tập trung cao theo chuẩn toàn quốc.",
+   "Cả bốn nước đều do một bộ duy nhất quyết định mọi bài học trong từng lớp từng ngày."
+  ],
+  "a": 2,
+  "exp": "Khung 'Đưa ra vấn đề' về chương trình quốc gia chia: ủng hộ nêu Nhật, Hàn Quốc; phản đối nêu tự chủ giáo viên và đa dạng của Mỹ.",
+  "src": "tr. 454–455"
+ },
+ {
+  "q": "Điểm nào được cho là giúp thành tích cao của Phần Lan?",
+  "opts": [
+   "Giữ nhóm học sinh yếu ở lớp riêng và không có hỗ trợ cho các em trong cả cấp học.",
+   "Chỉ dạy học thuộc lòng tôn giáo và không dùng phòng thí nghiệm hay máy tính trong lớp.",
+   "Phân luồng học sinh rất sớm, bỏ qua giáo viên chất lượng và không có can thiệp sớm nào, ở một số trường và khu vực khi đó.",
+   "Chương trình quốc gia nhấn tư duy, gần như không phân luồng, giáo viên chất lượng cao, can thiệp sớm."
+  ],
+  "a": 3,
+  "exp": "Cũng nổi: New Zealand dạy đọc bằng 'học ngôn ngữ tự nhiên'; một số nước Hồi giáo nhấn học thuộc nội dung tôn giáo.",
+  "src": "tr. 454"
+ },
+ {
+  "q": "Hệ thống lưỡng phân (bipartite) là gì và ảnh hưởng gì đến đại học?",
+  "opts": [
+   "Chia lớp theo giới nam và nữ; nước theo mô hình này có tỉ lệ vào đại học cao nhất thế giới.",
+   "Chia theo tôn giáo; nước theo mô hình này không có người nào học lên đại học sau phổ thông.",
+   "Chia học sinh vào đường học thuật hoặc nghề sau 4–8 năm; nước đẩy nhiều em vào nghề ít người vào đại học.",
+   "Một trường chung cho mọi học sinh suốt đời; nước theo mô hình này có rất ít người vào đại học, như nhiều tài liệu thời đó vẫn mô tả."
+  ],
+  "a": 2,
+  "exp": "Đan Mạch và Mỹ dưới 1/10 học sinh trung học học nghề; Đức trên 1/5. Mỹ và Canada giữ trường 'tổng hợp'.",
+  "src": "tr. 455–456"
+ },
+ {
+  "q": "Về tỉ lệ người trẻ có bằng sau phổ thông, Mỹ thay đổi ra sao?",
+  "opts": [
+   "Đến thập niên 1990 thường dẫn đầu; nay nhiều nước vượt Mỹ và nhiều nước khác tăng nhanh.",
+   "Không thay đổi gì từ thập niên 1960 vì mọi nước giữ nguyên tỉ lệ vào đại học suốt từ đó, theo cách nhìn khá phổ biến lúc ấy.",
+   "Vẫn dẫn đầu rõ rệt và mọi nước khác đều thấp hơn Mỹ đáng kể trong cả hai thập kỷ qua.",
+   "Luôn đứng cuối trong mọi nước công nghiệp và chưa bao giờ ở nhóm đầu trong lịch sử."
+  ],
+  "a": 0,
+  "exp": "Bảng 15.1: từ 13% ở Ý đến hơn một nửa ở Nhật và Canada; nghiên cứu cảnh báo Mỹ sẽ tụt xa thêm nếu xu hướng giữ nguyên.",
+  "src": "tr. 456–457"
+ },
+ {
+  "q": "Kết quả quốc tế (IEA, PISA, PIRLS, TIMSS) cho Mỹ thế nào, và lý giải nào được nêu?",
+  "opts": [
+   "Không nghiên cứu nào so Mỹ với nước khác nên chưa có dữ liệu nào để bàn thêm về Mỹ.",
+   "Luôn đứng cuối ở mọi môn; lý giải duy nhất là học sinh Mỹ lười hơn học sinh nước khác.",
+   "Luôn đứng nhất ở mọi môn; lý giải là chương trình hẹp và sâu, ít phân hóa giữa học sinh, trong bối cảnh nước Anh thập niên 1980.",
+   "Mức trung bình, đang tụt; có độ chênh lớn, và chương trình toán 'rộng một dặm, sâu một inch', phân hóa sớm."
+  ],
+  "a": 3,
+  "exp": "Học sinh Mỹ giỏi nhất ngang học sinh giỏi nhất nước khác; sĩ số, thời lượng, bài tập về nhà nói chung không tương quan với điểm.",
+  "src": "tr. 458–460"
+ },
+ {
+  "q": "Lập luận bênh vực hệ thống giáo dục Mỹ trong tranh luận quốc tế là gì?",
+  "opts": [
+   "Mọi chỉ số quốc tế đều cho Mỹ đứng đầu nên không cần cải cách thêm điều gì ở bất kỳ cấp nào, như một số nhà bình luận đương thời nhận định.",
+   "Chỉ số quốc tế vô nghĩa vì không bao giờ được thu thập ở bất kỳ nước nào ngoài nước Mỹ.",
+   "Học sinh đọc khá đến lớp bốn, yếu tố văn hóa giải thích nhiều, và thành tích đã cải thiện nhiều thập kỷ qua.",
+   "Thành tích Mỹ đã giảm liên tục từ thập niên 1960 và không có dấu hiệu cải thiện nào."
+  ],
+  "a": 2,
+  "exp": "Văn hóa toán ở Hungary, Nhật, Hàn Quốc và hỗ trợ gia đình mạnh có thể giải thích phần lớn; giáo dục bù đắp, bỏ phân biệt trường góp phần.",
+  "src": "tr. 460"
+ },
+ {
+  "q": "Ba khó khăn lớn của giáo dục ở nước đang phát triển theo chương là gì?",
+  "opts": [
+   "Học sinh quá ít trong lớp, máy tính quá nhiều, và không có trẻ em gái nào đi học.",
+   "Thiếu tiền (dưới 100 đô la mỗi em tiểu học ở Rwanda), nhiều ngôn ngữ, và chảy máu chất xám.",
+   "Thừa giáo viên, quá nhiều việc làm lương cao, và nhà nước cấm hoàn toàn trường tư.",
+   "Thừa tiền, chỉ một ngôn ngữ quốc gia, và quá ít người muốn xuất cư sang nước giàu, theo lối giải thích thường gặp ở các văn bản chính sách."
+  ],
+  "a": 1,
+  "exp": "Bảy bước đề xuất gồm: đầu tư tiểu học, đưa trường tư vào kế hoạch, ưu tiên giáo viên, giáo dục nữ, dùng công nghệ.",
+  "src": "tr. 461"
+ },
+ {
+  "q": "Cải cách đọc và toán tiểu học ở Anh gồm gì và đạt kết quả nào?",
+  "opts": [
+   "Bỏ hẳn giờ đọc và toán, giảm nguồn lực cho trường yếu; tỉ lệ đạt mức 4 đọc giảm xuống còn một nửa, ở một số trường và khu vực khi đó.",
+   "Chỉ bổ sung sách mà không có tư vấn hay giám sát nào; tỉ lệ đạt mức 4 đọc không thay đổi gì.",
+   "Chuyển sang hoàn toàn trường tư; tỉ lệ đạt mức 4 đọc tăng từ 10% lên 20% trong cùng giai đoạn.",
+   "Giờ đọc viết và giờ toán hằng ngày, tư vấn, can thiệp sớm; tỉ lệ đạt mức 4 đọc tăng 48% lên 79% (1996–2006)."
+  ],
+  "a": 3,
+  "exp": "Toán: 44% lên 76%; ảnh hưởng khoảng ba triệu học sinh ở khoảng hai mươi ngàn trường; chương trình ngoài hai môn cốt lõi giảm 'rất nhiều'.",
+  "src": "tr. 463"
+ },
+ {
+  "q": "Giáo dục Nhật có những điểm mạnh và mặt tối nào?",
+  "opts": [
+   "Mạnh: 240 ngày học, cha mẹ tham gia, giáo viên uy tín; tối: thi cử căng thẳng, ít sáng tạo, bất bình đẳng.",
+   "Mạnh: dưới 150 ngày học, ít tham gia của cha mẹ; tối: không có vấn đề gì đáng nêu cả.",
+   "Mạnh: sáng tạo tối đa, không có thi cử; tối: giáo viên có địa vị rất thấp trong xã hội, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Mạnh: nhiều máy tính nhất thế giới; tối: học sinh quá ít việc làm bài tập về nhà."
+  ],
+  "a": 0,
+  "exp": "Harvard: 'tấm gương' và 'thước đo', không nên bỏ qua hay bắt chước; nên nhìn vào gương trong khi độc lập sửa trường mình.",
+  "src": "tr. 464–467"
+ }
+]
