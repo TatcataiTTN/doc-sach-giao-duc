@@ -2,34 +2,34 @@
  {
   "q": "Theo Faure, điều gì làm cho một khoản viện trợ giáo dục thực sự hiệu quả?",
   "opts": [
+   "Nó tạo ra điều kiện để chính nó không còn cần thiết, bằng cách phát triển tiềm năng mà nước nhận cần để tự làm không cần trợ giúp; nội dung thật của viện trợ quan trọng không kém khối lượng",
    "Nó cung cấp càng nhiều tiền càng tốt và kéo dài vô thời hạn, vì chỉ có khối lượng viện trợ lớn và liên tục mới bảo đảm hệ giáo dục của nước nhận được duy trì ổn định về lâu dài, như một số báo cáo chuyên ngành lúc đó từng nêu ra",
    "Nó được cấp kèm các điều kiện nghiêm ngặt về mua hàng từ nước cho, vì điều kiện ràng buộc là cách duy nhất bảo đảm nước nhận sử dụng tiền đúng mục đích mà nhà tài trợ đã đặt ra",
-   "Nó tạo ra điều kiện để chính nó không còn cần thiết, bằng cách phát triển tiềm năng mà nước nhận cần để tự làm không cần trợ giúp; nội dung thật của viện trợ quan trọng không kém khối lượng",
    "Nó do các chuyên gia nước ngoài quản lý trực tiếp từ đầu đến cuối, vì nước nhận thường thiếu năng lực quản lý và chuyên gia nước ngoài mới bảo đảm được chất lượng thực hiện dự án"
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Tr. 235: nội dung thật, cụ thể của viện trợ quan trọng không kém khối lượng; viện trợ hiệu quả tạo điều kiện để chính nó không còn cần thiết; phát triển phải bản địa, dù một nước có thể cần kích thích từ ngoài.",
   "src": "tr. 235"
  },
  {
   "q": "Báo cáo nêu hai lý do chính biện minh cho viện trợ quốc tế về giáo dục. Đó là gì?",
   "opts": [
-   "Viện trợ tạo thị trường cho các sản phẩm giáo dục của nước công nghiệp, và viện trợ giúp các nước cho duy trì ảnh hưởng chính trị đối với các nước nhận trong thời kỳ phi thực dân hoá",
-   "Viện trợ giúp đào tạo giáo viên cho các nước nhận theo mô hình thống nhất của nước cho, và viện trợ thay thế hoàn toàn ngân sách quốc gia dành cho giáo dục trong giai đoạn đầu",
    "Viện trợ làm giảm số học sinh bỏ học trong các trường tiểu học, và viện trợ giúp các nước nhận thống nhất chương trình giáo dục với các nước cho để thuận tiện cho di chuyển sinh viên",
-   "Viện trợ bổ sung nguồn lực quốc gia khi nhu cầu giáo dục vượt hẳn nguồn lực, và viện trợ thúc đẩy đổi mới vì nhiều nước ngại thử cái mới nếu thiếu tài trợ bên ngoài"
+   "Viện trợ giúp đào tạo giáo viên cho các nước nhận theo mô hình thống nhất của nước cho, và viện trợ thay thế hoàn toàn ngân sách quốc gia dành cho giáo dục trong giai đoạn đầu",
+   "Viện trợ bổ sung nguồn lực quốc gia khi nhu cầu giáo dục vượt hẳn nguồn lực, và viện trợ thúc đẩy đổi mới vì nhiều nước ngại thử cái mới nếu thiếu tài trợ bên ngoài",
+   "Viện trợ tạo thị trường cho các sản phẩm giáo dục của nước công nghiệp, và viện trợ giúp các nước cho duy trì ảnh hưởng chính trị đối với các nước nhận trong thời kỳ phi thực dân hoá"
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Tr. 237: (1) nhu cầu giáo dục tăng vượt xa nguồn lực nên viện trợ tài chính bổ sung có thể rất quý; (2) viện trợ có thể tạo thuận lợi lớn cho đổi mới, như Cách mạng Xanh nhờ viện trợ bền bỉ của các quỹ tư.",
   "src": "tr. 237"
  },
  {
   "q": "Báo cáo nói gì về mối quan hệ giữa tương đương văn bằng và chương trình đại học?",
   "opts": [
-   "Văn bằng nên tương đương ngay lập tức trên toàn thế giới bằng một thoả thuận duy nhất, vì chỉ như vậy sinh viên và giáo viên mới được di chuyển thật sự tự do giữa các nước",
+   "Văn bằng chỉ tương đương được khi chương trình đại học ở mọi nước hoàn toàn thống nhất, vì sự khác biệt dù nhỏ về nội dung đào tạo đều làm mất cơ sở so sánh bằng cấp",
    "Văn bằng nên dần tương đương, theo giai đoạn và trước hết ở cấp khu vực, nhưng điều đó không có nghĩa chương trình đại học phải giống hệt nhau, vì sẽ làm chậm đổi mới",
    "Văn bằng không bao giờ nên tương đương, vì mỗi nước có truyền thống riêng và việc công nhận lẫn nhau sẽ làm mất bản sắc của hệ thống giáo dục đại học quốc gia",
-   "Văn bằng chỉ tương đương được khi chương trình đại học ở mọi nước hoàn toàn thống nhất, vì sự khác biệt dù nhỏ về nội dung đào tạo đều làm mất cơ sở so sánh bằng cấp"
+   "Văn bằng nên tương đương ngay lập tức trên toàn thế giới bằng một thoả thuận duy nhất, vì chỉ như vậy sinh viên và giáo viên mới được di chuyển thật sự tự do giữa các nước"
   ],
   "a": 1,
   "exp": "Tr. 240: tương đương văn bằng không nên dẫn đến suy ra chương trình đại học phải giống hệt hay đồng nhất, vì như vậy sẽ làm chậm đổi mới và cản khả năng thích ứng địa phương; chỉ làm được theo giai đoạn, trước hết ở cấp khu vực.",
@@ -38,60 +38,60 @@
  {
   "q": "Về chuyên gia nước ngoài làm việc ở nước đang phát triển, báo cáo kết luận gì?",
   "opts": [
-   "Chuyên gia nên đông hơn nhiều, vì số lượng lớn chuyên gia nước ngoài là cách nhanh nhất chuyển giao kỹ thuật, và họ nên làm việc tách biệt để giữ được tiêu chuẩn chuyên môn của mình",
-   "Chuyên gia nên giỏi hơn, ít hơn, biết tự thay thế mình, sống gần đồng nghiệp và dân địa phương hơn, và nhiều người nên đến từ nước có điều kiện kinh tế–xã hội tương tự",
+   "Chuyên gia nên chỉ đến từ các nước công nghiệp phát triển nhất, vì chỉ các nước ấy mới có kinh nghiệm đủ để giúp các nước đang phát triển cải cách giáo dục của mình",
    "Chuyên gia nên được thay thế hoàn toàn bằng học bổng, vì gửi sinh viên đi học ở nước ngoài luôn tốt hơn mọi hình thức khác của hợp tác kỹ thuật về giáo dục quốc tế",
-   "Chuyên gia nên chỉ đến từ các nước công nghiệp phát triển nhất, vì chỉ các nước ấy mới có kinh nghiệm đủ để giúp các nước đang phát triển cải cách giáo dục của mình"
+   "Chuyên gia nên giỏi hơn, ít hơn, biết tự thay thế mình, sống gần đồng nghiệp và dân địa phương hơn, và nhiều người nên đến từ nước có điều kiện kinh tế–xã hội tương tự",
+   "Chuyên gia nên đông hơn nhiều, vì số lượng lớn chuyên gia nước ngoài là cách nhanh nhất chuyển giao kỹ thuật, và họ nên làm việc tách biệt để giữ được tiêu chuẩn chuyên môn của mình"
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Tr. 242: tóm lại, chuyên gia nên giỏi hơn, ít hơn, biết tự thay thế mình, sống gần đồng nghiệp và dân địa phương hơn, và nhiều người hơn đến từ các nước có điều kiện kinh tế–xã hội tương tự nơi họ tới.",
   "src": "tr. 242"
  },
  {
   "q": "Theo báo cáo, nguồn gốc sâu xa của chảy máu chất xám, ngoài lương cao và điều kiện tốt hơn, là gì?",
   "opts": [
-   "Khuynh hướng hình thành từ thuở nhỏ: hệ giáo dục dựa trên mô hình nhập khẩu làm người học xa lạ với môi trường, nuôi tham vọng khó thực hiện ở quê và đẩy họ từ làng ra thành thị rồi ra nước ngoài",
-   "Sự thiếu hụt hoàn toàn các trường đại học ở các nước đang phát triển, nên chỉ cần xây thêm đại học là người học giỏi sẽ không còn muốn học và làm việc ở nước ngoài nữa",
+   "Sự cạnh tranh giữa các nhà khoa học trong nước với nhau, nên chỉ cần giảm số lượng nhà khoa học là mức di cư tự nhiên giảm xuống mà không cần thay đổi bất kỳ điều gì khác",
    "Quy định pháp luật của các nước nhận người di cư quá dễ dãi, nên chỉ cần siết chặt hạn ngạch di cư hay buộc hoàn trả chi phí đào tạo là giải quyết được toàn bộ vấn đề, theo cách nhiều nhà quan sát ngành giáo dục thời ấy vẫn nhắc đến",
-   "Sự cạnh tranh giữa các nhà khoa học trong nước với nhau, nên chỉ cần giảm số lượng nhà khoa học là mức di cư tự nhiên giảm xuống mà không cần thay đổi bất kỳ điều gì khác"
+   "Khuynh hướng hình thành từ thuở nhỏ: hệ giáo dục dựa trên mô hình nhập khẩu làm người học xa lạ với môi trường, nuôi tham vọng khó thực hiện ở quê và đẩy họ từ làng ra thành thị rồi ra nước ngoài",
+   "Sự thiếu hụt hoàn toàn các trường đại học ở các nước đang phát triển, nên chỉ cần xây thêm đại học là người học giỏi sẽ không còn muốn học và làm việc ở nước ngoài nữa"
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Tr. 246–247: quyết định di cư thường do khuynh hướng hình thành thuở nhỏ; hệ giáo dục dựa trên mô hình trường nhập khẩu truyền giá trị làm người học xa lạ, nuôi tham vọng khó thực hiện ở nông thôn, đẩy người trẻ ra thành thị; biện pháp cưỡng chế chỉ có hiệu quả hạn chế.",
   "src": "tr. 246–247"
  },
  {
   "q": "Mục tiêu mà Hội nghị Liên Hợp Quốc về Thương mại và Phát triển (1968) khuyến nghị, và tình hình thực tế năm 1970 ra sao?",
   "opts": [
-   "Các nước công nghiệp dành 1% GNP cho chuyển giao tài chính ròng cho nước đang phát triển, nhưng năm 1970 chỉ đạt 0,78%, thiếu 4.000 triệu USD; chỉ năm nước (Úc, Bỉ, Pháp, Hà Lan, Anh) vượt 1%",
+   "Các nước công nghiệp dành 5% GNP cho viện trợ, và năm 1970 đã đạt 4,8% vì hầu hết các nước đều thực hiện đúng cam kết, chỉ riêng Mỹ là chưa đạt mức yêu cầu của hội nghị, điều mà không ít chuyên gia thời đó cũng đồng tình khi bàn về chủ đề này",
    "Các nước đang phát triển dành 1% GNP của mình để trả cho viện trợ, và năm 1970 họ đã trả đủ vì hầu hết đều có thu nhập đủ lớn nhờ vào việc xuất khẩu nguyên liệu thô sang các nước giàu",
    "Các nước công nghiệp dành 0,1% GNP cho viện trợ giáo dục, và năm 1970 đạt 0,08%, thiếu một khoản không đáng kể, vì chỉ một nước duy nhất là Mỹ không đạt được mục tiêu đã định",
-   "Các nước công nghiệp dành 5% GNP cho viện trợ, và năm 1970 đã đạt 4,8% vì hầu hết các nước đều thực hiện đúng cam kết, chỉ riêng Mỹ là chưa đạt mức yêu cầu của hội nghị, điều mà không ít chuyên gia thời đó cũng đồng tình khi bàn về chủ đề này"
+   "Các nước công nghiệp dành 1% GNP cho chuyển giao tài chính ròng cho nước đang phát triển, nhưng năm 1970 chỉ đạt 0,78%, thiếu 4.000 triệu USD; chỉ năm nước (Úc, Bỉ, Pháp, Hà Lan, Anh) vượt 1%"
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Tr. 256: UNCTAD II (1968) khuyến nghị 1% GNP chuyển giao tài chính ròng; năm 1970 tổng đóng góp 0,78% GNP (thiếu 4.000 triệu USD); Mỹ 0,55%; chỉ Úc, Bỉ, Pháp, Hà Lan, Anh vượt 1%; Đan Mạch, CHLB Đức, Ý đạt năm 1969 nhưng không đạt năm 1970.",
   "src": "tr. 256"
  },
  {
   "q": "\"Viện trợ ràng buộc\" (tied aid) có ưu và nhược điểm gì theo báo cáo?",
   "opts": [
-   "Làm giảm tham nhũng trong khâu thực hiện dự án nhờ giám sát chặt của nước cho, và vì thế giúp nước nhận mua thiết bị với giá thấp hơn mức thế giới trong hầu hết trường hợp",
-   "Giúp nước cần trợ giúp có nhiều người giúp và nhận viện trợ lớn hơn, nhưng chi tiêu quay về công ty nước cho, thường buộc nước nhận trả giá cao hơn mức thế giới và thu hẹp biên độ xoay xở",
    "Chỉ áp dụng cho viện trợ song phương giữa các nước đang phát triển với nhau, và báo cáo cho rằng hình thức này không có nhược điểm nào đáng kể về mặt kinh tế hay chính trị",
-   "Cho phép nước nhận tự do dùng viện trợ cho mọi mục đích mình muốn, nhưng làm giảm uy tín quốc tế của nước nhận vì dư luận cho rằng họ không đủ năng lực tự quản lý tiền, như một vài nghiên cứu so sánh của thập niên trước từng gợi ý"
+   "Làm giảm tham nhũng trong khâu thực hiện dự án nhờ giám sát chặt của nước cho, và vì thế giúp nước nhận mua thiết bị với giá thấp hơn mức thế giới trong hầu hết trường hợp",
+   "Cho phép nước nhận tự do dùng viện trợ cho mọi mục đích mình muốn, nhưng làm giảm uy tín quốc tế của nước nhận vì dư luận cho rằng họ không đủ năng lực tự quản lý tiền, như một vài nghiên cứu so sánh của thập niên trước từng gợi ý",
+   "Giúp nước cần trợ giúp có nhiều người giúp và nhận viện trợ lớn hơn, nhưng chi tiêu quay về công ty nước cho, thường buộc nước nhận trả giá cao hơn mức thế giới và thu hẹp biên độ xoay xở"
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Tr. 254–255: viện trợ ràng buộc có ích vì giúp nước cần trợ giúp có nhiều người giúp và nhìn chung nhận viện trợ lớn hơn, đôi khi là cách duy nhất có thiết bị từ nước có tiền không chuyển đổi; nhược điểm là chi tiêu quay về công ty nước cho, giá cao hơn mức thế giới, thu hẹp biên độ xoay xở. Báo cáo đề nghị dần bỏ.",
   "src": "tr. 254–255"
  },
  {
   "q": "Về Chương trình Quốc tế về Đổi mới Giáo dục, các ủy viên của Ủy ban có quan điểm thế nào?",
   "opts": [
-   "Không thống nhất: một số cho là không cần lập chương trình hay quỹ mới mà tổ chức lại phương tiện hiện có; số khác đề xuất lập chương trình hỗ trợ khoa học, kỹ thuật, tài chính, không can thiệp nội dung",
    "Toàn thể ủy viên nhất trí lập ngay chương trình này dưới sự quản lý của UNESCO, và đã xác định đầy đủ nguồn tài chính từ ngân sách quân sự của các nước thành viên",
    "Các ủy viên chỉ tranh luận về tên gọi của chương trình, còn nội dung và cách vận hành thì đã được tất cả ủy viên thống nhất ngay từ phiên họp đầu tiên của Ủy ban",
+   "Không thống nhất: một số cho là không cần lập chương trình hay quỹ mới mà tổ chức lại phương tiện hiện có; số khác đề xuất lập chương trình hỗ trợ khoa học, kỹ thuật, tài chính, không can thiệp nội dung",
    "Toàn thể ủy viên nhất trí bác bỏ ý tưởng lập chương trình này vì cho rằng viện trợ song phương đã đủ để đáp ứng mọi nhu cầu đổi mới giáo dục của các nước đang phát triển"
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Tr. 261–263: một số ủy viên cho rằng không cần chương trình, trung tâm hay quỹ mới; số khác đề xuất Chương trình Quốc tế hỗ trợ khoa học, kỹ thuật, tài chính và không có tiếng nói về nội dung chương trình giáo dục. Báo cáo cuối cùng chỉ đề nghị một số ủy viên nghiên cứu chi tiết điều kiện lập chương trình đó.",
   "src": "tr. 261–263"
  }
