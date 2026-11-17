@@ -1,0 +1,260 @@
+---
+title: "Bảng chú giải thuật ngữ của sách"
+short: "Bảng chú giải"
+title_en: "Glossary"
+pages: "509–516"
+weight: 100
+nomna: "Bảng chú giải cuối sách gom hơn hai trăm năm mươi thuật ngữ của giáo dục Mỹ: triết học, luật, tài chính, chương trình, xã hội. Mỗi mục dưới đây có tiếng Anh, tiếng Việt và phần giải thích bằng lời của người viết site, dựa theo định nghĩa trong sách."
+terms:
+  - {en: "A Nation at Risk", vi: "Một quốc gia lâm nguy", def: "Báo cáo quốc gia nổi tiếng phê phán giáo dục công Mỹ, dẫn đến nâng yêu cầu tốt nghiệp trung học ở đa số bang. (tr. 509–516)"}
+  - {en: "apperceptive mass", vi: "khối thống giác", def: "Quan niệm của Herbart: dạy học tạo mạng ý tưởng trong đầu thành bản đồ nhận thức để gắn thêm ý tưởng mới, nhất là ý tưởng phù hợp. (tr. 509–516)"}
+  - {en: "a priori ideas", vi: "ý niệm tiên nghiệm", def: "Ý niệm rút ra từ nguyên lý tự hiển nhiên, chỉ bằng lý trí; gắn với chủ nghĩa hiện thực, Thomas và thường hằng; Dewey phê phán vì không dựa trên kinh nghiệm. (tr. 509–516)"}
+  - {en: "academic freedom", vi: "tự do học thuật", def: "Quyền của giáo viên dạy nội dung và chọn tài liệu phù hợp môn học mà không bị quản lý hay người ngoài lớp hạn chế. (tr. 509–516)"}
+  - {en: "academy", vi: "học viện (trường trung học tư)", def: "Loại trường trung học tư hoặc bán công thống trị ở Mỹ từ 1830 đến 1870, tiền thân của trường trung học. (tr. 509–516)"}
+  - {en: "accountability", vi: "trách nhiệm giải trình", def: "Buộc giáo viên, quản lý, thành viên hội đồng trường chịu trách nhiệm về thành tích học sinh hoặc việc dùng tiền giáo dục hợp lý. (tr. 509–516)"}
+  - {en: "activity-centered curriculum", vi: "chương trình lấy hoạt động làm trung tâm", def: "Chương trình lấy người học làm trung tâm nhấn trải nghiệm có mục đích, gần đời thực, gần đây thêm học sinh tham gia hoạt động trường và cộng đồng. (tr. 509–516)"}
+  - {en: "adequate yearly progress", vi: "tiến bộ hằng năm đủ mức (AYP)", def: "Mức tăng thành tích đều đặn mà trường và khu phải đạt để mọi học sinh thành thạo vào năm 2013–2014. (tr. 509–516)"}
+  - {en: "aesthetics", vi: "mỹ học", def: "Nhánh của giá trị học xét câu hỏi về cái đẹp và nghệ thuật. (tr. 509–516)"}
+  - {en: "alternative certification", vi: "cấp chứng chỉ thay thế", def: "Chứng chỉ giáo viên lấy không qua chương trình đào tạo sư phạm truyền thống ở trường hay khoa giáo dục. (tr. 509–516)"}
+  - {en: "alternative school", vi: "trường thay thế", def: "Trường công hoặc tư cung cấp cơ hội học khác trường công địa phương; một số theo chương trình lấy người học làm trung tâm, nhiều tự do, ít cấu trúc. (tr. 509–516)"}
+  - {en: "American Federation of Teachers (AFT)", vi: "Liên đoàn Giáo viên Mỹ", def: "Tổ chức giáo viên lớn thứ hai ở Mỹ, liên kết với AFL-CIO, thường gắn với đại diện công đoàn. (tr. 509–516)"}
+  - {en: "Americanization", vi: "Mỹ hóa", def: "Tư tưởng thống trị trong trường công thế kỷ XIX, đầu XX với trẻ nhập cư và thiểu số: dạy bằng tiếng Anh thay vì tiếng ở nhà và bác bỏ giá trị của em để theo 'giá trị Mỹ'. (tr. 509–516)"}
+  - {en: "axiology", vi: "giá trị học", def: "Ngành triết học nghiên cứu vấn đề giá trị, nhất là đạo đức, luân lý và thẩm mỹ. (tr. 509–516)"}
+  - {en: "back-to-basics curriculum", vi: "chương trình quay về cơ bản", def: "Chương trình theo môn học nhấn ba R ở tiểu học và các môn học thuật ở trung học, kèm mức chuẩn học thuật tối thiểu xác định. (tr. 509–516)"}
+  - {en: "basic skills testing", vi: "kiểm tra kỹ năng cơ bản", def: "Kiểm tra kỹ năng cơ bản của người sắp làm giáo viên về đọc, toán và giao tiếp. (tr. 509–516)"}
+  - {en: "bilingual education", vi: "giáo dục song ngữ", def: "Dạy bằng tiếng mẹ đẻ cho học sinh có ngôn ngữ thứ nhất không phải tiếng Anh. (tr. 509–516)"}
+  - {en: "bipartite system", vi: "hệ thống lưỡng phân", def: "Hệ thống hai đường gồm trường học thuật và trường nghề. (tr. 509–516)"}
+  - {en: "block grants", vi: "trợ cấp khối", def: "Quỹ đa dụng của liên bang, cho mỗi bang khá nhiều tự do chọn chương trình cụ thể để chi. (tr. 509–516)"}
+  - {en: "boarding schools", vi: "trường nội trú", def: "Cơ sở học sinh sống và học tại chỗ; từng dùng để đồng hóa trẻ da đỏ vào văn hóa da trắng, bắt chỉ nói tiếng Anh, học chương trình huấn nghệ bắt buộc, cấm tiếng mẹ đẻ và tập tục bộ lạc. (tr. 509–516)"}
+  - {en: "brain drain", vi: "chảy máu chất xám", def: "Người có học vấn xuất cư sang nước giàu hơn. (tr. 509–516)"}
+  - {en: "breach of contract", vi: "vi phạm hợp đồng", def: "Khi một bên không thực hiện đúng điều đã thỏa thuận trong hợp đồng. (tr. 509–516)"}
+  - {en: "categorical grants", vi: "trợ cấp có mục tiêu", def: "Quỹ dành cho nhóm và mục đích cụ thể; cách tài trợ liên bang chuẩn trước thập niên 1980 và gần đây lại dùng. (tr. 509–516)"}
+  - {en: "central office staff", vi: "nhân viên văn phòng trung ương (khu)", def: "Nhóm giám sát và chuyên gia làm việc sát với giám đốc khu để thi hành chính sách hội đồng trường. (tr. 509–516)"}
+  - {en: "certification", vi: "cấp chứng chỉ hành nghề", def: "Chính quyền bang xem xét và chấp thuận cho ứng viên được dạy học. (tr. 509–516)"}
+  - {en: "character education", vi: "giáo dục nhân cách", def: "Xem chương trình lấy giá trị làm trung tâm. (tr. 509–516)"}
+  - {en: "charter school", vi: "trường bán công (charter)", def: "Trường công do nhóm cộng đồng quản lý theo hợp đồng (điều lệ) do bang hoặc hội đồng trường địa phương cấp; thường lập để cung cấp lựa chọn mà trường công thường không có. (tr. 509–516)"}
+  - {en: "chief state school officer", vi: "giám đốc giáo dục bang", def: "Người đứng đầu điều hành của hội đồng giáo dục bang; còn gọi là giám đốc bang hoặc ủy viên giáo dục. (tr. 509–516)"}
+  - {en: "child benefit theory", vi: "thuyết lợi ích của trẻ", def: "Thuyết cho rằng viện trợ chính phủ trực tiếp có lợi cho trẻ chứ không cho cơ sở ngoài công mà em theo học. (tr. 509–516)"}
+  - {en: "child depravity theory", vi: "thuyết trẻ em suy đồi", def: "Thuyết cho rằng trẻ có bản tính tội lỗi nên hay mất trật tự và lười, cần kỷ luật nghiêm để có ý thức trật tự và lễ độ. (tr. 509–516)"}
+  - {en: "classical humanists", vi: "nhân văn cổ điển", def: "Lý thuyết và phương pháp giáo dục chủ đạo thời Phục hưng: học văn bản Hy Lạp, La Mã cổ điển, nhấn ý nghĩa nhân văn (lấy con người làm trung tâm). (tr. 509–516)"}
+  - {en: "collective bargaining", vi: "thương lượng tập thể", def: "Thủ tục giải quyết bất đồng giữa chủ và người làm công qua đàm phán; với giáo viên liên quan nhiều mặt công việc, lương, quan hệ với học sinh, quản lý, cộng đồng. (tr. 509–516)"}
+  - {en: "Commission on the Reorganization of Secondary Education", vi: "Ủy ban Tổ chức lại Giáo dục Trung học", def: "Ủy ban do NEA lập để nghiên cứu cải cách giáo dục trung học Mỹ; báo cáo 1918 Cardinal Principles đề xuất chương trình dựa trên nhu cầu cá nhân, xã hội, văn hóa, kinh tế cơ bản trong trường tổng hợp. (tr. 509–516)"}
+  - {en: "Committee of Ten", vi: "Ủy ban Mười", def: "Ủy ban do Charles Eliot chủ tọa, NEA lập năm 1892 để tăng mạch lạc cho giáo dục trung học; đề xuất chương trình bốn năm nhấn các môn học thuật cho mọi học sinh. (tr. 509–516)"}
+  - {en: "common school", vi: "trường chung", def: "Trường tiểu học do công quỹ hỗ trợ và địa phương quản lý. (tr. 509–516)"}
+  - {en: "community control", vi: "kiểm soát của cộng đồng", def: "Hội đồng cộng đồng được bầu chia sẻ quyền quyết định với hội đồng trường địa phương. (tr. 509–516)"}
+  - {en: "community education", vi: "giáo dục cộng đồng", def: "Trường là đối tác hoặc cơ quan điều phối cung cấp hoạt động giáo dục, y tế, xã hội, pháp lý, giải trí, văn hóa trong cộng đồng. (tr. 509–516)"}
+  - {en: "community participation", vi: "tham gia của cộng đồng", def: "Ủy ban cố vấn của công dân ở cấp trường hoặc hội đồng trường. (tr. 509–516)"}
+  - {en: "compensatory education", vi: "giáo dục bù đắp", def: "Nỗ lực khắc phục tác động của bất lợi môi trường bằng chương trình làm giàu giáo dục. (tr. 509–516)"}
+  - {en: "Comprehensive School Reform Demonstration (CSRD) Program", vi: "Chương trình Trình diễn Cải cách Trường học Toàn diện", def: "Chương trình liên bang cấp quỹ ba năm giúp trường Title 1 áp dụng mô hình cải cách toàn trường. (tr. 509–516)"}
+  - {en: "concrete-operational period", vi: "giai đoạn thao tác cụ thể", def: "Giai đoạn phát triển của Piaget từ 7 đến 11 tuổi: trẻ tổ chức khái niệm khi thực hiện các thao tác trí óc ngày càng phức tạp. (tr. 509–516)"}
+  - {en: "Confucius (551–478 B.C.)", vi: "Khổng Tử (551–478 TCN)", def: "Triết gia và quan chức Trung Hoa, lập hệ thống đạo đức vẫn dùng ở Trung Quốc và nhiều nơi ngày nay. (tr. 509–516)"}
+  - {en: "consolidation", vi: "sáp nhập khu học chánh", def: "Gộp các khu học chánh nhỏ hoặc nông thôn thành khu lớn hơn. (tr. 509–516)"}
+  - {en: "constructivism", vi: "thuyết kiến tạo", def: "Thuyết học nhấn người học chủ động tạo ý nghĩa bằng dựng và dựng lại ý tưởng về thực tại. (tr. 509–516)"}
+  - {en: "continuing contract", vi: "hợp đồng tiếp tục", def: "Hợp đồng lao động tự động gia hạn mỗi năm, không cần giáo viên ký. (tr. 509–516)"}
+  - {en: "controlled choice", vi: "chọn trường có kiểm soát", def: "Hệ thống cho học sinh chọn trường miễn là lựa chọn không dẫn đến phân biệt. (tr. 509–516)"}
+  - {en: "cooperative learning", vi: "học hợp tác", def: "Dạy học trong đó các nhóm học sinh hợp tác làm nhiệm vụ hoặc dự án cụ thể. (tr. 509–516)"}
+  - {en: "critical theory (critical pedagogy)", vi: "lý thuyết phê phán (sư phạm phê phán)", def: "Cách diễn giải coi hệ trường công có chức năng hạn chế cơ hội của học sinh bị thiệt vì thiên kiến chủng tộc, giai tầng, giới; chủ trương giáo viên là 'trí thức chuyển hóa' thay đổi hệ thống. (tr. 509–516)"}
+  - {en: "critical thinking", vi: "tư duy phê phán", def: "Giải quyết vấn đề bằng khái niệm chung hoặc quan hệ bậc cao; thường nhấn kỹ năng phân tích cơ bản dùng được trong nhiều loại trải nghiệm trí tuệ. (tr. 509–516)"}
+  - {en: "cultural pluralism", vi: "đa nguyên văn hóa", def: "Chấp nhận và khuyến khích đa dạng văn hóa, sắc tộc, tôn giáo trong xã hội lớn hơn. (tr. 509–516)"}
+  - {en: "cultural relativism", vi: "thuyết tương đối văn hóa", def: "Cho rằng ý tưởng và giá trị là sản phẩm của nhóm văn hóa cụ thể trong thời kỳ lịch sử nhất định, phụ thuộc nơi, thời, hoàn cảnh; phủ nhận chân lý, giá trị phổ quát và vĩnh cửu; gắn với thực dụng, tiến bộ, cải tạo xã hội, lý thuyết phê phán. (tr. 509–516)"}
+  - {en: "culture", vi: "văn hóa", def: "Các khuôn mẫu hành vi và thái độ tiếp thu được, truyền giữa các thành viên xã hội. (tr. 509–516)"}
+  - {en: "curriculum", vi: "chương trình (curriculum)", def: "Những trải nghiệm có kế hoạch qua giảng dạy để nhà trường đạt mục tiêu. (tr. 509–516)"}
+  - {en: "curriculum alignment", vi: "đồng bộ chương trình", def: "Phối hợp lập kế hoạch dạy, phương pháp, tài liệu và kiểm tra để đạt mục tiêu học quan trọng. (tr. 509–516)"}
+  - {en: "deconstruction", vi: "giải cấu trúc", def: "Xem xét phê phán văn bản hay quy điển để tìm quan hệ quyền lực nằm trong việc tạo và dùng chúng; thường do nhà giáo dục theo hậu hiện đại dùng. (tr. 509–516)"}
+  - {en: "deductive logic", vi: "lôgic suy diễn", def: "Quá trình nghĩ rút hệ quả, ứng dụng từ nguyên lý hoặc giả định chung; kết luận theo từ tiền đề. (tr. 509–516)"}
+  - {en: "de facto segregation", vi: "phân biệt trên thực tế", def: "Phân biệt gắn với và do mô hình nhà ở. (tr. 509–516)"}
+  - {en: "de jure segregation", vi: "phân biệt theo luật", def: "Phân biệt do luật hoặc hành động của chính quyền. (tr. 509–516)"}
+  - {en: "deprofessionalization", vi: "phi chuyên nghiệp hóa", def: "Quá trình bỏ đi địa vị chuyên nghiệp. (tr. 509–516)"}
+  - {en: "desegregation", vi: "bỏ phân biệt (hòa trường)", def: "Học sinh nhiều chủng tộc học cùng trường và lớp. (tr. 509–516)"}
+  - {en: "direct instruction", vi: "dạy trực tiếp", def: "Phương pháp dạy có hệ thống nhấn dạy do giáo viên chỉ đạo theo bước nhỏ, thường theo chuỗi bài sáu đến tám phần. (tr. 509–516)"}
+  - {en: "distance education", vi: "giáo dục từ xa", def: "Dạy bởi người hoặc tài liệu xa người học về không gian hoặc thời gian; nhiều dự án dùng truyền hình tương tác, Internet và công nghệ truyền thông hiện đại. (tr. 509–516)"}
+  - {en: "dual-track system of schools", vi: "hệ thống trường hai đường", def: "Mô hình truyền thống châu Âu: trường tiểu học riêng cho đại chúng, trường dự bị và trung học cho nam giới tầng lớp kinh tế xã hội cao. (tr. 509–516)"}
+  - {en: "due process", vi: "thủ tục tố tụng hợp pháp", def: "Thủ tục pháp lý chính thức có quy tắc và nguyên tắc chi tiết cụ thể để bảo vệ quyền cá nhân. (tr. 509–516)"}
+  - {en: "due process clause", vi: "điều khoản thủ tục tố tụng", def: "Điều khoản Tu chính án 14: chính quyền không được tước sinh mạng, tự do, tài sản của ai mà không có thủ tục pháp lý hợp pháp. (tr. 509–516)"}
+  - {en: "Ebonics", vi: "Ebonics (Anh ngữ da đen)", def: "Thường dùng đồng nghĩa với Black English; còn là phân tích phương ngữ nhiều người Mỹ gốc Phi dùng và vai trò của nó trong dạy tiếng Anh chuẩn. (tr. 509–516)"}
+  - {en: "ecological intervention", vi: "can thiệp sinh thái", def: "Nỗ lực toàn diện cải thiện môi trường sống của trẻ nhỏ. (tr. 509–516)"}
+  - {en: "Education for All Handicapped Children Act (Public Law 94–142)", vi: "Đạo luật Giáo dục cho mọi trẻ khuyết tật (Luật công 94–142)", def: "Luật 1975 bắt buộc trẻ khuyết tật được tiếp cận giáo dục công đầy đủ trong môi trường giáo dục ít hạn chế nhất. (tr. 509–516)"}
+  - {en: "educational ladder", vi: "thang giáo dục", def: "Hệ thống trường công Mỹ bắt đầu ở mẫu giáo, qua tiểu học, trung học và dẫn đến cao đẳng hoặc đại học. (tr. 509–516)"}
+  - {en: "educational voucher", vi: "phiếu học phí", def: "Khoản tiền cố định đại diện chi phí học ước tính hay một phần; phụ huynh hay trẻ chọn trường công hoặc tư, trường được trả tiền khi nhận em. (tr. 509–516)"}
+  - {en: "effective schools", vi: "trường hiệu quả", def: "Trường đặc biệt thành công trong tạo thành tích học sinh cao so với trường khác có học sinh nền tương tự; đôi khi định nghĩa là trường nơi học sinh lao động đạt như học sinh trung lưu. (tr. 509–516)"}
+  - {en: "empiricism", vi: "chủ nghĩa kinh nghiệm", def: "Nhận thức luận dựa vào kinh nghiệm người, nhất là cảm giác và quan sát, làm nguồn tri thức về thực tại; nhấn thí nghiệm và phương pháp khoa học. (tr. 509–516)"}
+  - {en: "enculturation", vi: "văn hóa hóa (tiếp nhận văn hóa)", def: "Quá trình từ lúc sơ sinh, con người thu nhận văn hóa của xã hội mình. (tr. 509–516)"}
+  - {en: "environmentalist view of intelligence", vi: "quan điểm môi trường về trí thông minh", def: "Niềm tin rằng trí thông minh chủ yếu do môi trường quyết định. (tr. 509–516)"}
+  - {en: "epistemology", vi: "nhận thức luận", def: "Ngành triết học nghiên cứu việc biết và các lý thuyết về tri thức. (tr. 509–516)"}
+  - {en: "equal protection clause", vi: "điều khoản bảo vệ ngang nhau", def: "Điều khoản Tu chính án 14: chính quyền không được từ chối bất kỳ ai sự bảo vệ ngang nhau của pháp luật. (tr. 509–516)"}
+  - {en: "essentialism", vi: "thuyết thiết yếu", def: "Lý thuyết giáo dục nhấn kỹ năng cơ bản và các ngành môn học: ba R ở tiểu học, năm ngành lớn (tiếng Anh, toán, khoa học, sử, ngoại ngữ) ở trung học; nhấn cạnh tranh học thuật và sự xuất sắc. (tr. 509–516)"}
+  - {en: "essentialist approach to curriculum", vi: "cách tiếp cận thiết yếu về chương trình", def: "Lý thuyết theo môn học dựa trên sáu ngành chính: tiếng Anh, toán, khoa học, sử, ngoại ngữ, địa lý; người thiết yếu hiện đại thêm tin học. (tr. 509–516)"}
+  - {en: "establishment clause", vi: "điều khoản không thiết lập tôn giáo", def: "Điều khoản hiến pháp cấm thiết lập tôn giáo do chính quyền chuẩn y. (tr. 509–516)"}
+  - {en: "ethics", vi: "đạo đức học", def: "Nhánh của giá trị học xét câu hỏi đúng sai, tốt xấu. (tr. 509–516)"}
+  - {en: "ethnic group", vi: "nhóm sắc tộc", def: "Nhóm người có lịch sử, văn hóa và ngôn ngữ đặc trưng. (tr. 509–516)"}
+  - {en: "ethnicity", vi: "tính sắc tộc", def: "Nền văn hóa chung dựa trên sự đồng nhất và tư cách thành viên của một nhóm sắc tộc. (tr. 509–516)"}
+  - {en: "exclusive product rights", vi: "quyền sản phẩm độc quyền", def: "Đặc quyền cho doanh nghiệp trả phí để độc quyền bán sản phẩm của mình (như Pepsi) trong khu học chánh. (tr. 509–516)"}
+  - {en: "existentialism", vi: "chủ nghĩa hiện sinh", def: "Triết học xem con người tự xác định mình bằng lựa chọn cá nhân. (tr. 509–516)"}
+  - {en: "experience", vi: "kinh nghiệm (theo Dewey)", def: "Theo John Dewey: sự tương tác của một người với môi trường. (tr. 509–516)"}
+  - {en: "explicit comprehension instruction", vi: "dạy hiểu tường minh", def: "Kỹ thuật trong lớp dành riêng cho dạy việc hiểu. (tr. 509–516)"}
+  - {en: "explicit teaching", vi: "dạy tường minh", def: "Xem dạy trực tiếp. (tr. 509–516)"}
+  - {en: "fair use", vi: "sử dụng hợp lý", def: "Nguyên tắc cho phép dùng tài liệu có bản quyền không cần phép tác giả, trong điều kiện hạn chế cụ thể. (tr. 509–516)"}
+  - {en: "Family Educational Rights and Privacy Act (Buckley Amendment)", vi: "Đạo luật Quyền giáo dục và riêng tư của gia đình (Tu chính án Buckley)", def: "Luật 1974 nhằm ngăn lạm dụng có thể xảy ra ở cơ sở nhận quỹ liên bang. (tr. 509–516)"}
+  - {en: "first-language maintenance", vi: "duy trì ngôn ngữ thứ nhất", def: "Tiếp tục dạy bằng một ngôn ngữ trong khi đưa vào dạy ngôn ngữ khác. (tr. 509–516)"}
+  - {en: "Follow Through", vi: "Follow Through (Tiếp nối)", def: "Chương trình tập trung cải thiện thành tích trẻ thu nhập thấp ở các lớp đầu tiểu học. (tr. 509–516)"}
+  - {en: "formal-operational period", vi: "giai đoạn thao tác hình thức", def: "Giai đoạn phát triển của Piaget từ 11 tuổi đến đầu tuổi trưởng thành: hình thành khái quát trừu tượng và học thực hiện quá trình giải quyết vấn đề phức tạp. (tr. 509–516)"}
+  - {en: "free exercise clause", vi: "điều khoản tự do thực hành", def: "Điều khoản hiến pháp bảo vệ quyền tự do ngôn luận và biểu đạt (tôn giáo). (tr. 509–516)"}
+  - {en: "gender roles", vi: "vai trò giới", def: "Khuôn mẫu hành vi xã hội mong đợi ở bé gái và bé trai, nam và nữ. (tr. 509–516)"}
+  - {en: "goals", vi: "mục tiêu (rộng)", def: "Phát biểu rộng về mục đích giáo dục. (tr. 509–516)"}
+  - {en: "Goals 2000", vi: "Goals 2000 (Mục tiêu 2000)", def: "Bản sửa đổi 1994 của Mục tiêu Giáo dục Quốc gia, thêm hai mục tiêu và cập nhật tiến bộ của các bang, đồng thời cung cấp dịch vụ, chương trình, lớp học khi cần. (tr. 509–516)"}
+  - {en: "Head Start", vi: "Head Start", def: "Chương trình liên bang cung cấp giáo dục mầm non cho trẻ bốn, năm tuổi thiệt thòi kinh tế. (tr. 509–516)"}
+  - {en: "hereditarian view of intelligence", vi: "quan điểm di truyền về trí thông minh", def: "Niềm tin rằng trí thông minh chủ yếu do di truyền quyết định. (tr. 509–516)"}
+  - {en: "hidden curriculum", vi: "chương trình ngầm", def: "Điều học sinh học được ngoài nội dung học thuật, từ môi trường và bầu không khí nhà trường. (tr. 509–516)"}
+  - {en: "high school", vi: "trường trung học (phổ thông)", def: "Trường cho học sinh các lớp trên, thường lớp 9 hoặc 10 đến 12. (tr. 509–516)"}
+  - {en: "highly qualified teachers", vi: "giáo viên đủ trình độ cao", def: "Khía cạnh của NCLB: giáo viên phải có (1) bằng cử nhân; (2) chứng chỉ và giấy phép đầy đủ do bang quy định; (3) chứng minh năng lực theo bang ở từng môn học thuật cốt lõi mình dạy. (tr. 509–516)"}
+  - {en: "homogeneous grouping", vi: "xếp nhóm đồng nhất", def: "Xếp chung những học sinh có mức thành tích hoặc năng lực tương tự. (tr. 509–516)"}
+  - {en: "hornbook", vi: "hornbook (bảng sừng)", def: "Tờ giấy da ghi Kinh Lạy Cha, bảng chữ cái, nguyên âm, phủ sừng bò dẹt trong mờ gắn trên bảng gỗ phẳng; dùng ở trường tiểu học thời thuộc địa. (tr. 509–516)"}
+  - {en: "humanistic approach to curriculum", vi: "cách tiếp cận nhân văn về chương trình", def: "Cách tiếp cận lấy người học làm trung tâm nhấn mặt cá nhân và xã hội của sự phát triển; nhấn quá trình tự thực hiện và các miền tư duy đạo đức, thẩm mỹ, bậc cao. (tr. 509–516)"}
+  - {en: "hurried children", vi: "trẻ bị thúc ép", def: "Trẻ chịu áp lực lớn phải xuất sắc từ rất sớm. (tr. 509–516)"}
+  - {en: "hypermedia", vi: "siêu phương tiện", def: "Cách tiếp cận máy tính cho người học duyệt kho thông tin để tự dựng quan hệ và liên kết tri thức. (tr. 509–516)"}
+  - {en: "idealism", vi: "chủ nghĩa duy tâm", def: "Triết học coi thực tại là tinh thần hoặc phi vật chất về bản chất. (tr. 509–516)"}
+  - {en: "inclusion", vi: "hòa nhập", def: "Dạy học sinh khuyết tật trong lớp thường ở trường khu phố, kèm dịch vụ hỗ trợ cộng tác khi cần. (tr. 509–516)"}
+  - {en: "individualized education program (IEP)", vi: "kế hoạch giáo dục cá nhân (IEP)", def: "Kế hoạch gồm mục tiêu dài hạn và ngắn hạn để dạy học sinh khuyết tật. (tr. 509–516)"}
+  - {en: "individualized instruction", vi: "dạy cá nhân hóa", def: "Nội dung chương trình, tài liệu và hoạt động thiết kế cho học cá nhân, tính đến nhịp độ, hứng thú và năng lực người học. (tr. 509–516)"}
+  - {en: "Individuals with Disabilities Education Act (IDEA)", vi: "Đạo luật Giáo dục người khuyết tật (IDEA)", def: "Luật ban hành năm 1990. (tr. 509–516)"}
+  - {en: "Individuals with Disabilities Education Improvement Act (IDEIA)", vi: "Đạo luật Cải thiện Giáo dục người khuyết tật (IDEIA)", def: "Luật 2004: nếu trẻ được xác định khuyết tật, quan chức trường phải đánh giá chức năng và xây dựng chiến lược can thiệp phù hợp. (tr. 509–516)"}
+  - {en: "inductive logic", vi: "lôgic quy nạp", def: "Suy luận từ cái riêng đến cái chung, từ bộ phận đến toàn thể, từ cá nhân đến khái quát; nền của phương pháp khoa học mà Dewey và thực dụng nhấn. (tr. 509–516)"}
+  - {en: "in loco parentis", vi: "thay mặt cha mẹ (in loco parentis)", def: "Ý rằng trường nên hành động 'thay cho cha mẹ'. (tr. 509–516)"}
+  - {en: "integration", vi: "hòa nhập chủng tộc (tích hợp)", def: "Bước vượt xa hơn bỏ phân biệt, gồm hành động hiệu quả để phát triển tiếp xúc liên chủng tộc tích cực và cải thiện thành tích học sinh thiểu số yếu. (tr. 509–516)"}
+  - {en: "intelligent design", vi: "thiết kế thông minh", def: "Lập luận rằng sự sống quá phức tạp để hình thành qua chọn lọc tự nhiên như Darwin mô tả, nên phải do một 'nhà thiết kế thông minh' dẫn dắt. (tr. 509–516)"}
+  - {en: "intermediate unit", vi: "đơn vị trung gian", def: "Đơn vị hay cơ quan giáo dục ở giữa sở giáo dục bang và khu học chánh địa phương, thường do bang lập để cung cấp dịch vụ bổ sung và nhân viên hỗ trợ cho khu; còn gọi là cơ quan dịch vụ giáo dục khu vực (RESA). (tr. 509–516)"}
+  - {en: "International Association for the Evaluation of Educational Achievement (IEA)", vi: "Hiệp hội Quốc tế Đánh giá Thành tựu Giáo dục (IEA)", def: "Nhóm nghiên cứu bắt đầu làm nghiên cứu xuyên quốc gia từ thập niên 1960. (tr. 509–516)"}
+  - {en: "Islam", vi: "Hồi giáo", def: "Tôn giáo do Mohammed (569–632) sáng lập; hiện ở nhiều nước Trung Đông và nơi khác. (tr. 509–516)"}
+  - {en: "Judeo-Christian Culture", vi: "văn hóa Do Thái – Kitô giáo", def: "Niềm tin rằng văn minh phương Tây, kể cả văn hóa Mỹ, phần lớn do đạo đức trong Do Thái giáo và Kitô giáo hình thành. (tr. 509–516)"}
+  - {en: "junior high school", vi: "trường trung học cơ sở (junior high)", def: "Trường hai hoặc ba năm giữa tiểu học và trung học, thường lớp 7–9. (tr. 509–516)"}
+  - {en: "Koran", vi: "Kinh Koran", def: "Cuốn sách thiêng liêng nhất của tôn giáo và văn hóa Hồi giáo. (tr. 509–516)"}
+  - {en: "land grant", vi: "cấp đất", def: "Cách dùng để lập nhiều đại học bang ngày nay; Đạo luật Morrill 1862 cấp 30.000 acre đất công cho mỗi thượng nghị sĩ và hạ nghị sĩ, thu nhập dùng hỗ trợ ít nhất một trường cao đẳng bang dạy nông nghiệp và cơ khí. (tr. 509–516)"}
+  - {en: "land-grant college", vi: "trường đại học cấp đất", def: "Trường cao đẳng hoặc đại học bang dạy chương trình nông nghiệp và cơ khí, ban đầu do Đạo luật Morrill 1862 tài trợ. (tr. 509–516)"}
+  - {en: "latchkey children", vi: "trẻ giữ chìa khóa (trẻ tự trông)", def: "Trẻ không được giám sát sau giờ học. (tr. 509–516)"}
+  - {en: "Latin grammar school", vi: "trường ngữ pháp Latin", def: "Trường dự bị đại học thời thuộc địa nhấn các ngôn ngữ và môn học Latin, Hy Lạp. (tr. 509–516)"}
+  - {en: "learning styles", vi: "phong cách học", def: "Những cách học khác biệt rõ của học sinh, như nhấn hoạt động nói hoặc nhìn. (tr. 509–516)"}
+  - {en: "least restrictive environment", vi: "môi trường ít hạn chế nhất", def: "Thuật ngữ dùng khi dạy học sinh khuyết tật, chỉ bối cảnh càng bình thường càng tốt; luật liên bang chỉ cho xếp trẻ khuyết tật vào lớp riêng trong khoảng thời gian cần thiết để cung cấp dịch vụ phù hợp. (tr. 509–516)"}
+  - {en: "liberation pedagogy", vi: "sư phạm giải phóng", def: "Lý thuyết giáo dục của Paulo Freire khuyến khích học sinh phát triển ý thức phê phán về những điều kiện áp bức mình và tự giải phóng. (tr. 509–516)"}
+  - {en: "litigants", vi: "các bên tranh tụng", def: "Các bên trong một vụ kiện. (tr. 509–516)"}
+  - {en: "local school board", vi: "hội đồng trường địa phương", def: "Nhóm công dân được bổ nhiệm hoặc bầu để đặt chính sách về trường trong khu học chánh. (tr. 509–516)"}
+  - {en: "macrocosm", vi: "đại vũ trụ", def: "Toàn thể phổ quát; trong chủ nghĩa duy tâm, đó là ý niệm phổ quát, đầy đủ, trừu tượng nhất mà mọi ý niệm phụ thuộc đều suy ra. (tr. 509–516)"}
+  - {en: "magnet school", vi: "trường nam châm", def: "Loại trường thay thế thu hút ghi danh tự nguyện từ nhiều khu phố bằng chương trình đặc biệt; thường một phần lập để bỏ phân biệt. (tr. 509–516)"}
+  - {en: "mainstreaming", vi: "hòa nhập từng phần (mainstreaming)", def: "Đưa học sinh khuyết tật vào lớp thường phần lớn hoặc cả ngày, đồng thời cung cấp thêm dịch vụ, chương trình, lớp khi cần. (tr. 509–516)"}
+  - {en: "mastery instruction", vi: "dạy thành thạo", def: "Cách tiếp cận kiểm tra học sinh sau lần dạy đầu; em chưa thành thạo mục tiêu thì được dạy sửa và kiểm tra lại; nhấn đơn vị ngắn và kỹ năng xác định. (tr. 509–516)"}
+  - {en: "mediated entry", vi: "vào nghề có kèm cặp", def: "Cách đưa người vào nghề qua các giai đoạn được giám sát kỹ. (tr. 509–516)"}
+  - {en: "mental discipline approach", vi: "phương pháp rèn trí", def: "Làm mạnh trí óc bằng hoạt động trí tuệ, như rèn cơ thể bằng tập luyện. (tr. 509–516)"}
+  - {en: "merit pay", vi: "lương theo thành tích", def: "Kế hoạch thưởng giáo viên một phần hoặc chủ yếu theo hiệu suất hay tiêu chuẩn khách quan. (tr. 509–516)"}
+  - {en: "metaphysics", vi: "siêu hình học", def: "Ngành triết học xét các vấn đề mang tính suy đoán về thực tại tối hậu. (tr. 509–516)"}
+  - {en: "microcosm", vi: "tiểu vũ trụ", def: "Phiên bản thu nhỏ của bộ phận lớn hơn (đại vũ trụ) mà nó bắt nguồn. (tr. 509–516)"}
+  - {en: "middle class", vi: "tầng lớp trung lưu", def: "Chuyên gia, chủ doanh nghiệp nhỏ, kỹ thuật viên, nhân viên bán hàng và văn phòng. (tr. 509–516)"}
+  - {en: "middle school", vi: "trường trung học cơ sở (middle school)", def: "Trường hai đến bốn năm giữa tiểu học và trung học, thường lớp 6–8. (tr. 509–516)"}
+  - {en: "mill", vi: "mill (đơn vị thuế)", def: "Đơn vị của thuế suất địa phương bằng một phần nghìn đô la. (tr. 509–516)"}
+  - {en: "monitorial method", vi: "phương pháp trợ giảng", def: "Phương pháp dạy còn gọi dạy hỗ tương, do Andrew Bell và Joseph Lancaster thiết kế độc lập đầu thế kỷ XIX, tạo giáo dục cơ bản đại chúng rẻ bằng cách dùng học sinh giỏi hơn (trợ giảng) dạy học sinh kém hơn. (tr. 509–516)"}
+  - {en: "Montessori schools", vi: "trường Montessori", def: "Cơ sở mầm non theo triết lý và phương pháp của Maria Montessori: trẻ học bằng phát triển kỹ năng giác quan, vận động, trí tuệ, dùng tài liệu sư phạm trong môi trường có cấu trúc. (tr. 509–516)"}
+  - {en: "multicultural education", vi: "giáo dục đa văn hóa", def: "Giáo dục chú trọng cơ hội bình đẳng cho học sinh có khuôn mẫu văn hóa hoặc ngôn ngữ làm khó em thành công ở chương trình trường truyền thống; nhiều chương trình còn nhấn thái độ và tiếp xúc liên nhóm, liên chủng tích cực. (tr. 509–516)"}
+  - {en: "municipal overburden", vi: "gánh nặng đô thị", def: "Khó khăn tài chính nặng do mật độ dân và tỉ lệ cao nhóm thiệt thòi, thu nhập thấp. (tr. 509–516)"}
+  - {en: "National Assessment of Educational Progress (NAEP)", vi: "Đánh giá Quốc gia về Tiến bộ Giáo dục (NAEP)", def: "Đánh giá định kỳ về thành tích giáo dục thuộc quyền Educational Testing Service, dùng mẫu đại diện quốc gia học sinh tiểu học và trung học. (tr. 509–516)"}
+  - {en: "National Board for Professional Teaching Standards (NBPTS)", vi: "Hội đồng Quốc gia về Chuẩn Dạy học Chuyên nghiệp", def: "Tổ chức phi lợi nhuận quốc gia cấp chứng nhận cho giáo viên đạt chuẩn về năng lực và kiến thức chuyên môn. (tr. 509–516)"}
+  - {en: "National Council for Accreditation of Teacher Education (NCATE)", vi: "Hội đồng Quốc gia Kiểm định Đào tạo Giáo viên", def: "Tổ chức quốc gia uy tín phối hợp chặt với sở giáo dục bang để xem xét và đánh giá chương trình đào tạo giáo viên ở cao đẳng, đại học. (tr. 509–516)"}
+  - {en: "National Education Association (NEA)", vi: "Hiệp hội Giáo dục Quốc gia (NEA)", def: "Tổ chức đại diện giáo viên lớn nhất ở Hoa Kỳ. (tr. 509–516)"}
+  - {en: "The National Education Goals", vi: "Các Mục tiêu Giáo dục Quốc gia", def: "Báo cáo 1990 của Hội nghị Thống đốc Quốc gia nêu sáu hướng dẫn giáo dục cho cơ quan giáo dục bang và địa phương; sửa 1994. (tr. 509–516)"}
+  - {en: "National Education Goals Panel Report", vi: "Báo cáo của Ban Mục tiêu Giáo dục Quốc gia", def: "Báo cáo 1998 xem xét tiến bộ của tám mục tiêu và 26 chỉ báo trong Goals 2000. (tr. 509–516)"}
+  - {en: "national reports", vi: "các báo cáo quốc gia", def: "Các báo cáo lớn thập niên 1980 và 1990 thúc đẩy cải cách bằng cách coi thành tích thấp của học sinh và vấn đề khác là khiếm khuyết của hệ giáo dục. (tr. 509–516)"}
+  - {en: "naturalistic theory", vi: "thuyết tự nhiên", def: "Lý thuyết giáo dục cho rằng các giai đoạn phát triển tự nhiên của con người nên là nền tảng của dạy và giáo dục. (tr. 509–516)"}
+  - {en: "new core curriculum (core subjects approach)", vi: "chương trình cốt lõi mới (tiếp cận các môn cốt lõi)", def: "Chương trình các môn chung mọi học sinh bắt buộc học; thường nhấn thành tích học thuật và nội dung truyền thống. (tr. 509–516)"}
+  - {en: "No Child Left Behind Act (NCLB)", vi: "Đạo luật Không để đứa trẻ nào bị bỏ lại (NCLB)", def: "Đạo luật giáo dục tiểu học và trung học liên bang 2001: bang và khu nhận quỹ liên bang phải cho thấy tiến bộ hằng năm đủ mức qua bài thi chuẩn hóa lớp 3–8 và bảo đảm giáo viên 'đủ trình độ cao' cho mọi học sinh. (tr. 509–516)"}
+  - {en: "normal school", vi: "trường sư phạm (normal school)", def: "Cơ sở đào tạo giáo viên hai năm phổ biến ở thế kỷ XIX. (tr. 509–516)"}
+  - {en: "norms", vi: "chuẩn mực", def: "Quy tắc hành vi của một thực thể xã hội. (tr. 509–516)"}
+  - {en: "nuclear family", vi: "gia đình hạt nhân", def: "Cha và mẹ sống với con cái. (tr. 509–516)"}
+  - {en: "object lesson", vi: "bài học vật thật", def: "Phương pháp do Johann Heinrich Pestalozzi phát triển, dùng vật cụ thể làm nền cho các bài về hình, số và tên. (tr. 509–516)"}
+  - {en: "objectives", vi: "mục tiêu (cụ thể)", def: "Phát biểu cụ thể về mục đích giáo dục, thường viết cho một môn, lớp, đơn vị hay bài; thường định nghĩa theo hành vi để quan sát và đo được trải nghiệm và thành tích. (tr. 509–516)"}
+  - {en: "occupational prestige", vi: "uy tín nghề nghiệp", def: "Địa vị đặc biệt dành cho một số nghề và không dành cho nghề khác. (tr. 509–516)"}
+  - {en: "outcomes-based education (OBE)", vi: "giáo dục dựa trên kết quả (OBE)", def: "Giáo dục theo nguyên tắc thành công phải đánh giá bằng 'kết quả' của học sinh (thường là năng lực hoạt động trong bối cảnh đời thực) chứ không bằng 'đầu vào' như chương trình, môn học, kinh phí; nhiều người ủng hộ muốn sửa chương trình truyền thống không tạo ra kết quả mong muốn. (tr. 509–516)"}
+  - {en: "overloaded schools", vi: "trường quá tải", def: "Trường có tỉ lệ cao vấn đề nghiêm trọng, làm nhà giáo dục khó hoạt động hiệu quả. (tr. 509–516)"}
+  - {en: "The Paideia Proposal", vi: "Đề xuất Paideia", def: "Do Mortimer J. Adler phát triển; dùng từ Hy Lạp paideia (sự hình thành giáo dục toàn diện, nuôi dưỡng trẻ trong di sản văn hóa) để khẳng định mọi học sinh nên theo cùng chương trình gồm kỹ năng trí tuệ và tri thức có tổ chức về ngôn ngữ, văn học, nghệ thuật, khoa học và xã hội học; là dạng hiện đại của thuyết thường hằng. (tr. 509–516)"}
+  - {en: "Parent Teacher Association (PTA)", vi: "Hội Phụ huynh – Giáo viên (PTA)", def: "Tổ chức quốc gia của phụ huynh, giáo viên và học sinh thúc đẩy phúc lợi trẻ em và thanh thiếu niên, có các nhóm địa phương liên kết trong cộng đồng trường. (tr. 509–516)"}
+  - {en: "parent-teacher group", vi: "nhóm phụ huynh – giáo viên", def: "Tổ chức phụ huynh và giáo viên trong cộng đồng trường địa phương. (tr. 509–516)"}
+  - {en: "peer culture", vi: "văn hóa bạn bè", def: "Hành vi và thái độ của trẻ em hoặc thanh thiếu niên cùng tuổi trong một thể chế hay xã hội. (tr. 509–516)"}
+  - {en: "perennialism", vi: "thuyết thường hằng", def: "Lý thuyết giáo dục nhấn lý trí là mục đích chính của giáo dục, khẳng định các chân lý thiết yếu tái diễn và đúng phổ quát; thường ủng hộ chương trình ba R ở tiểu học và kinh điển, nhất là 'sách lớn' ở trung học. (tr. 509–516)"}
+  - {en: "perennialist approach to curriculum", vi: "cách tiếp cận thường hằng về chương trình", def: "Lý thuyết về cơ bản theo môn học: mục đích chính của giáo dục là vun đắp cái tốt nhất của quá khứ, tức các kinh điển. (tr. 509–516)"}
+  - {en: "personal income tax", vi: "thuế thu nhập cá nhân", def: "Thuế tính theo phần trăm thu nhập cá nhân. (tr. 509–516)"}
+  - {en: "philosophies", vi: "các triết học", def: "Những khối tư tưởng phát triển đầy đủ, mỗi khối đại diện một thế giới quan khái quát. (tr. 509–516)"}
+  - {en: "plaintiffs", vi: "nguyên đơn", def: "Những người khởi kiện. (tr. 509–516)"}
+  - {en: "Plato's Republic", vi: "Nhà nước (Cộng hòa) của Plato", def: "Phát biểu triết học có hệ thống nhất của Plato về chính trị và giáo dục; dùng hình thức đối thoại, vẽ ra một thành bang hoàn hảo do các triết gia–vua cai trị theo nguyên tắc công lý. (tr. 509–516)"}
+  - {en: "postmodernism", vi: "chủ nghĩa hậu hiện đại", def: "Triết học rất hoài nghi chân lý của các đại tự sự, các quy điển được cho là phát biểu có thẩm quyền về chân lý phổ quát hay khách quan; coi chúng là phát biểu lịch sử hợp lý hóa sự thống trị của nhóm này với nhóm khác. (tr. 509–516)"}
+  - {en: "pragmatism", vi: "chủ nghĩa thực dụng", def: "Triết học đánh giá giá trị của ý tưởng qua hệ quả khi hành động. (tr. 509–516)"}
+  - {en: "preoperational stage", vi: "giai đoạn tiền thao tác", def: "Giai đoạn phát triển của Piaget từ 2 đến 7 tuổi: trẻ tạo phạm trù, phân loại, bổ sung và dựng lại quan niệm về thực tại qua khám phá môi trường có hệ thống. (tr. 509–516)"}
+  - {en: "principal", vi: "hiệu trưởng", def: "Quan chức điều hành chính của trường, chịu trách nhiệm vận hành trường. (tr. 509–516)"}
+  - {en: "profession", vi: "nghề chuyên nghiệp", def: "Nghề có uy tín cao, đòi học vấn chính thức sâu rộng và thành thạo một khối tri thức xác định vượt ngoài tầm hiểu của người ngoài nghề; thành viên nhiều nghề kiểm soát chuẩn cấp phép và có tự chủ trong môi trường làm việc. (tr. 509–516)"}
+  - {en: "professional development school (PDS)", vi: "trường phát triển nghề nghiệp (PDS)", def: "Trường tiểu học hay trung học do khu học chánh và cơ sở đào tạo giáo viên cùng vận hành, nhấn phân tích sâu việc dạy và học; thường có cả giáo sinh, giáo viên đang dạy, quản lý và người đào tạo giáo viên. (tr. 509–516)"}
+  - {en: "professional practice board", vi: "hội đồng hành nghề chuyên nghiệp", def: "Ủy ban bang hoặc quốc gia cho phép nhà giáo dục đặt chuẩn nghề nghiệp và yêu cầu năng lực tối thiểu. (tr. 509–516)"}
+  - {en: "progressive taxes", vi: "thuế lũy tiến", def: "Thuế dựa vào khả năng chi trả của người nộp, như thuế thu nhập hoặc tài sản. (tr. 509–516)"}
+  - {en: "progressivism", vi: "thuyết tiến bộ", def: "Lý thuyết phản truyền thống trong giáo dục Mỹ gắn với học lấy trẻ làm trung tâm qua hoạt động, giải quyết vấn đề, dự án; Hội Giáo dục Tiến bộ thúc đẩy như một phong trào giáo dục. (tr. 509–516)"}
+  - {en: "property tax", vi: "thuế bất động sản", def: "Nguồn thu chính của khu học chánh địa phương, dựa trên giá trị bất động sản (đất và công trình trên đất). (tr. 509–516)"}
+  - {en: "pullout approach", vi: "cách tách riêng học sinh", def: "Đưa học sinh yếu ra khỏi lớp thường để dạy thêm đọc và toán. (tr. 509–516)"}
+  - {en: "race", vi: "chủng tộc", def: "Nhóm người có tổ tiên và đặc điểm thể chất chung. (tr. 509–516)"}
+  - {en: "realism", vi: "chủ nghĩa hiện thực", def: "Triết học bắt nguồn từ Aristotle, coi thực tại khách quan và nhị nguyên: có cả thành phần vật chất lẫn thành phần hình thức hay cấu trúc. (tr. 509–516)"}
+  - {en: "reflective teaching", vi: "dạy học suy ngẫm", def: "Phong cách dạy nhấn tìm hiểu suy ngẫm và tự nhận thức; giáo viên suy ngẫm phân tích hành vi dạy của mình và xét các yếu tố làm việc dạy hiệu quả hay không. (tr. 509–516)"}
+  - {en: "regional educational service agency (RESA)", vi: "cơ quan dịch vụ giáo dục khu vực (RESA)", def: "Xem đơn vị trung gian. (tr. 509–516)"}
+  - {en: "regressive taxes", vi: "thuế lũy thoái", def: "Thuế buộc nhóm thu nhập thấp trả tương đối nhiều phần thu nhập hơn nhóm thu nhập cao. (tr. 509–516)"}
+  - {en: "relevant curriculum", vi: "chương trình liên quan", def: "Chương trình giải quyết thay đổi xã hội, nhấn kiến thức, kỹ năng và thái độ phù hợp xã hội hiện đại. (tr. 509–516)"}
+  - {en: "reminiscence", vi: "hồi tưởng (theo Plato)", def: "Việc nhớ lại những ý tưởng mà Plato cho là tiềm ẩn trong trí óc; qua đặt câu hỏi khéo, giáo viên kích thích học sinh đưa chúng lên ý thức. (tr. 509–516)"}
+  - {en: "resistance theory", vi: "thuyết kháng cự", def: "Quan điểm cho rằng học sinh lao động chống lại trường một phần vì chương trình truyền thống thống trị gạt kiến thức đời thường của các em ra bên lề. (tr. 509–516)"}
+  - {en: "restructuring", vi: "tái cấu trúc", def: "Nhiều thay đổi nhằm cải thiện có hệ thống một trường hay nhóm trường. (tr. 509–516)"}
+  - {en: "revisionist view of schools", vi: "quan điểm xét lại về trường học", def: "Niềm tin rằng các nhóm ưu tú đã đẩy học sinh thiệt thòi vào trường hạng hai và việc làm kém. (tr. 509–516)"}
+  - {en: "rhetoric", vi: "tu từ học", def: "Lý thuyết và thực hành diễn thuyết, hùng biện ở Hy Lạp cổ; thời Trung cổ nhấn cả văn viết lẫn nói; cùng ngữ pháp và lôgic là một phần của trivium trong bảy môn khai phóng. (tr. 509–516)"}
+  - {en: "sales tax", vi: "thuế bán hàng", def: "Thuế dựa trên việc mua hàng chịu thuế (thường không gồm thực phẩm hay dịch vụ). (tr. 509–516)"}
+  - {en: "Scholasticism", vi: "triết học kinh viện", def: "Cách tiếp cận trí tuệ và giáo dục của các nhà giáo dục ở đại học thời Trung cổ, nghiên cứu các thẩm quyền thần học và triết học. (tr. 509–516)"}
+  - {en: "school-based management", vi: "quản lý dựa vào trường", def: "Hệ thống quản trị trong đó từng trường, thay vì giám đốc hay hội đồng giáo dục, tự ra nhiều quyết định quan trọng; thường trao cho giáo viên nhiều trách nhiệm quyết định. (tr. 509–516)"}
+  - {en: "school choice", vi: "chọn trường", def: "Hệ thống cho học sinh hay phụ huynh chọn trường mình theo học. (tr. 509–516)"}
+  - {en: "school infrastructure", vi: "hạ tầng trường học", def: "Cơ sở vật chất cơ bản của trường (ống nước, cống, sưởi, điện, mái, cửa sổ…). (tr. 509–516)"}
+  - {en: "scientific method", vi: "phương pháp khoa học", def: "Cách tiếp cận tìm hiểu có hệ thống: kiểm giả thuyết bằng kiểm chứng thực nghiệm có thể lặp lại; thường đồng nhất với phương pháp phòng thí nghiệm trong khoa học tự nhiên, nhưng cũng dùng trong triết học, gắn với chủ nghĩa thực dụng. (tr. 509–516)"}
+  - {en: "sensorimotor stage", vi: "giai đoạn cảm giác – vận động", def: "Giai đoạn phát triển trẻ của Piaget từ sơ sinh đến 2 tuổi: trẻ phát triển khái niệm đầu tiên qua khám phá môi trường. (tr. 509–516)"}
+  - {en: "Social Darwinism", vi: "thuyết Darwin xã hội", def: "Ý thức hệ áp dụng nguyên lý sinh học 'kẻ thích nghi nhất sống sót' và cạnh tranh của Darwin vào cá nhân trong xã hội; cuối thế kỷ XIX là lý lẽ ảnh hưởng cho chủ nghĩa tư bản không điều tiết là hệ kinh tế tốt nhất thúc đẩy tiến bộ. (tr. 509–516)"}
+  - {en: "social reconstructionism", vi: "thuyết cải tạo xã hội", def: "Nhóm nhà giáo dục tiến bộ tin trường nên chủ động hoạt động vì cải cách và thay đổi xã hội. (tr. 509–516)"}
+  - {en: "socialization", vi: "xã hội hóa", def: "Quá trình chuẩn bị con người cho môi trường xã hội. (tr. 509–516)"}
+  - {en: "socialized education", vi: "giáo dục xã hội hóa", def: "Triết lý giáo dục do Jane Addams phát triển, chủ trương trường nhấn dạy về đô thị hóa, công nghiệp hóa, công nghệ và đa dạng văn hóa. (tr. 509–516)"}
+  - {en: "socioeconomic status (SES)", vi: "địa vị kinh tế – xã hội (SES)", def: "Xếp hạng tương đối của cá nhân theo uy tín và quyền lực kinh tế, xã hội, nghề nghiệp; thường đo bằng nghề, học vấn, thu nhập và nhìn theo tầng lớp từ lao động đến thượng lưu. (tr. 509–516)"}
+  - {en: "Socratic method", vi: "phương pháp Socrates", def: "Phương pháp giáo dục gán cho Socrates: giáo viên khuyến khích học sinh tự khám phá chân lý bằng đặt câu hỏi dẫn dắt và kích thích. (tr. 509–516)"}
+  - {en: "Sophists", vi: "các nhà ngụy biện (Sophist)", def: "Nhóm nhà giáo dục lang thang ở Hy Lạp cổ 470–370 TCN, nhấn tu từ, diễn thuyết và kỹ năng thực tế; trái với cách tiếp cận của các triết gia suy biện Plato và Aristotle. (tr. 509–516)"}
+  - {en: "staff development", vi: "phát triển đội ngũ", def: "Giáo dục hoặc đào tạo liên tục cho đội ngũ giáo viên của khu học chánh; thường nhấn ý kiến giáo viên và hợp tác giữa khu với cao đẳng hay đại học. (tr. 509–516)"}
+  - {en: "state board of education", vi: "hội đồng giáo dục bang", def: "Cơ quan giáo dục bang có ảnh hưởng, cố vấn cho cơ quan lập pháp bang và đặt chính sách thi hành luật liên quan giáo dục. (tr. 509–516)"}
+  - {en: "state department of education", vi: "sở giáo dục bang", def: "Cơ quan hoạt động dưới sự chỉ đạo của hội đồng giáo dục bang; chức năng gồm kiểm định trường, cấp chứng chỉ giáo viên, phân bổ quỹ trường học của bang, nghiên cứu, ra báo cáo và phối hợp chính sách giáo dục bang với khu địa phương. (tr. 509–516)"}
+  - {en: "state school code", vi: "bộ luật trường học của bang", def: "Tập hợp luật bang đặt cách thức và phương tiện vận hành trường và tiến hành giáo dục. (tr. 509–516)"}
+  - {en: "state standards", vi: "chuẩn của bang", def: "Chỉ báo hiệu suất cho thấy học sinh đạt thành thạo học thuật ở mức do hội đồng giáo dục bang đặt. (tr. 509–516)"}
+  - {en: "student-centered curricula", vi: "chương trình lấy người học làm trung tâm", def: "Chương trình tập trung vào nhu cầu và thái độ của từng học sinh; nhấn tự biểu đạt và động cơ nội tại. (tr. 509–516)"}
+  - {en: "subject-area curriculum", vi: "chương trình theo lĩnh vực môn học", def: "Loại chương trình theo môn học trong đó mỗi môn là khối tri thức phần lớn tự chủ; nhấn các môn truyền thống thống trị giáo dục Mỹ từ cuối thế kỷ XIX, gồm tiếng Anh, sử, khoa học và toán. (tr. 509–516)"}
+  - {en: "subject-centered curricula", vi: "chương trình lấy môn học làm trung tâm", def: "Chương trình định nghĩa theo các khối nội dung hay môn học; thành tích đánh giá theo kết quả xác định như điểm thi, đáp án đúng hay câu trả lời được coi là phù hợp. (tr. 509–516)"}
+  - {en: "superintendent of schools", vi: "giám đốc khu học chánh", def: "Quan chức điều hành chính của khu học chánh địa phương, thi hành chính sách do hội đồng trường thông qua. (tr. 509–516)"}
+  - {en: "supply and demand", vi: "cung và cầu", def: "Điều kiện thị trường ảnh hưởng lương: lương giảm khi có nhiều giáo viên, tăng khi giáo viên khan hiếm và được cầu cao. (tr. 509–516)"}
+  - {en: "synthesizers' view of intelligence", vi: "quan điểm tổng hợp về trí thông minh", def: "Niềm tin rằng trí thông minh do tương tác giữa môi trường và di truyền quyết định. (tr. 509–516)"}
+  - {en: "systemic improvement", vi: "cải thiện hệ thống", def: "Nỗ lực cải cách giải quyết đồng thời hầu hết các thành phần chính của toàn bộ hệ giáo dục. (tr. 509–516)"}
+  - {en: "tax base", vi: "cơ sở thuế", def: "Cơ sở để đánh thuế hỗ trợ trường công ở cấp bang và địa phương, ví dụ thuế bất động sản, bán hàng, giao thông, phí đặc biệt. (tr. 509–516)"}
+  - {en: "taxpayer resistance", vi: "sự kháng cự của người nộp thuế", def: "Khi người nộp thuế tỏ ra miễn cưỡng tiếp tục trả thuế tăng để hỗ trợ trường công. (tr. 509–516)"}
+  - {en: "teacher empowerment", vi: "trao quyền cho giáo viên", def: "Quá trình tăng quyền lực của giáo viên và vai trò của họ trong việc quyết định chính sách và thực hành của trường. (tr. 509–516)"}
+  - {en: "tenure", vi: "biên chế (tenure)", def: "Sự bảo đảm vị trí lâu dài cho nhà giáo dục sau thời gian thử việc, ngăn việc sa thải trừ lý do pháp luật quy định và qua thủ tục tố tụng hợp pháp chính thức. (tr. 509–516)"}
+  - {en: "theories", vi: "các lý thuyết", def: "Tập ý tưởng hoặc niềm tin, thường dựa trên kết quả nghiên cứu hay khái quát từ thực tiễn, hướng dẫn chính sách và thủ tục giáo dục. (tr. 509–516)"}
+  - {en: "Third International Mathematics and Science Study (TIMSS)", vi: "Nghiên cứu Quốc tế lần thứ ba về Toán và Khoa học (TIMSS)", def: "Nhóm nghiên cứu làm nghiên cứu xuyên quốc gia từ 1996. (tr. 509–516)"}
+  - {en: "time-on-task", vi: "thời gian học thực sự", def: "Thời gian trong lớp mà học sinh tham gia hoạt động học. (tr. 509–516)"}
+  - {en: "Title 1", vi: "Title 1 (Điều khoản 1)", def: "Phần của Đạo luật Giáo dục Tiểu học và Trung học liên bang cấp quỹ cải thiện giáo dục học sinh thiệt thòi kinh tế. (tr. 509–516)"}
+  - {en: "torts", vi: "sai phạm dân sự (tort)", def: "Những sai trái dân sự liên quan những cá nhân kiện vì hành vi không đúng của người khác. (tr. 509–516)"}
+  - {en: "town school", vi: "trường thị trấn", def: "Trường tiểu học ở New England thế kỷ XVIII, đầu XIX dạy trẻ sống trong khu vực chỉ định. (tr. 509–516)"}
+  - {en: "traditional view of schools", vi: "quan điểm truyền thống về trường học", def: "Niềm tin rằng hệ giáo dục cho học sinh thiệt thòi kinh tế những cơ hội có ý nghĩa. (tr. 509–516)"}
+  - {en: "transitional bilingual education (TBE)", vi: "giáo dục song ngữ chuyển tiếp (TBE)", def: "Dạng giáo dục song ngữ trong đó học sinh chỉ được dạy bằng tiếng mẹ đẻ cho đến khi học được bằng tiếng Anh. (tr. 509–516)"}
+  - {en: "tuition tax credits", vi: "giảm thuế học phí", def: "Khoản giảm thuế cho phụ huynh hay người giám hộ để bù một phần học phí con trả. (tr. 509–516)"}
+  - {en: "21st Century Learning Centers", vi: "Trung tâm Học tập Thế kỷ 21", def: "Trung tâm do NCLB hỗ trợ, cung cấp gia sư, lớp sau giờ, trường hè và hoạt động làm giàu học thuật khác cho học sinh trường thành tích thấp. (tr. 509–516)"}
+  - {en: "underclass", vi: "tầng lớp dưới cùng", def: "Bộ phận của tầng lớp lao động thấp chịu sự truyền nghèo liên thế hệ. (tr. 509–516)"}
+  - {en: "upper class", vi: "tầng lớp thượng lưu", def: "Người giàu có với nhiều tài sản và đầu tư. (tr. 509–516)"}
+  - {en: "U.S. Department of Education", vi: "Bộ Giáo dục Hoa Kỳ", def: "Bộ cấp nội các trong ngành hành pháp liên bang, phụ trách chính sách giáo dục liên bang và thúc đẩy chương trình giáo dục. (tr. 509–516)"}
+  - {en: "user fees", vi: "phí người dùng", def: "Phí đặc biệt tính riêng cho người dùng một cơ sở hay dịch vụ (ví dụ cơ sở giải trí, xe buýt, trung tâm sau giờ). (tr. 509–516)"}
+  - {en: "utilitarian education", vi: "giáo dục thực dụng (vị lợi)", def: "Dạy kỹ năng và môn áp dụng được trong đời sống hằng ngày, công việc và xã hội; Herbert Spencer cho rằng môn có ích nhất là khoa học; thường đối lập với chương trình cổ điển Hy Lạp và Latin. (tr. 509–516)"}
+  - {en: "values-centered curriculum", vi: "chương trình lấy giá trị làm trung tâm", def: "Đặc biệt nhấn vấn đề đạo đức và luân lý; thường được biết đến hơn với tên giáo dục nhân cách. (tr. 509–516)"}
+  - {en: "vernacular schools", vi: "trường dùng tiếng bản ngữ", def: "Cơ sở sơ cấp dạy bằng ngôn ngữ thông thường của học sinh, đối lập với trường dạy bằng ngôn ngữ cổ điển như Hy Lạp hay Latin. (tr. 509–516)"}
+  - {en: "whole-child concept", vi: "khái niệm toàn diện về trẻ", def: "Quan điểm cho rằng trường phải quan tâm mọi mặt của sự tăng trưởng và phát triển của học sinh, không chỉ kỹ năng nhận thức hay học tập học thuật. (tr. 509–516)"}
+  - {en: "working class", vi: "tầng lớp lao động", def: "Thợ thủ công có tay nghề và lao động chân tay không có tay nghề. (tr. 509–516)"}
+  - {en: "year-round schools", vi: "trường quanh năm", def: "Lịch luân phiên cho học sinh đến trường ba trong bốn quý trong một năm theo lịch. (tr. 509–516)"}
+---
+
+Bảng chú giải ở cuối sách (tr. 509–516) tập hợp các thuật ngữ dùng suốt 16 chương. Bảng dưới đây xếp theo thứ tự chữ cái của sách; các thuật ngữ này cũng có mặt trong [bảng thuật ngữ chung của cả ba cuốn](../../thuat-ngu/) để lọc và tìm.
+
+Khi một mục chỉ ghi "xem" một mục khác (như *character education*, *explicit teaching*, *RESA*), mục đó chỉ là lối tắt đến thuật ngữ chính trong sách.

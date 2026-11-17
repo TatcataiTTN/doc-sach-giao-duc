@@ -35,4 +35,6 @@ plan:
 
 Phần lớn ví dụ, số liệu và án lệ trong sách là của **Hoa Kỳ**. Khi đọc, hãy coi đó là một trường hợp để suy nghĩ, không phải chuẩn chung cho mọi quốc gia.
 
-Các chương chưa viết hiện là mục "Sắp có" trong mục lục. Xem trang [Học để làm người](../faure/) để thấy cấu trúc đầy đủ của một chương đã hoàn chỉnh.
+Cả 16 chương và bảng chú giải đã có đủ, theo cùng khuôn: mỗi chương có trang "vấn đề", các mục đọc có trích số trang bản in, một trang "góc nhìn" (thuật ngữ, trích dẫn nguyên văn đã đối chiếu, câu hỏi suy ngẫm) và bộ trắc nghiệm tự kiểm tra. Phần mở đầu sách, ảnh, biểu đồ và danh mục tài liệu tham khảo không được đưa lên; các bảng và khung tổng quan được tóm lại thành bảng chữ.
+
+Đây là giáo trình thương mại; site chỉ tóm lược và diễn giải bằng tiếng Việt để đọc và tự kiểm tra, không thay cho sách gốc.

@@ -2,46 +2,46 @@
  {
   "q": "Theo Ball, vì sao chính sách giáo dục không thể tách khỏi lợi ích, xung đột và công lý?",
   "opts": [
-   "Chính sách chỉ là các quyết định kỹ thuật về ngân sách, nhưng người ta thường diễn giải chúng một cách chính trị để gây tranh cãi.",
    "Chính sách là phân bổ giá trị có thẩm quyền, nên phải hỏi giá trị của ai được công nhận, và điều đó đặt quyền lực vào trung tâm.",
-   "Chính sách luôn do một giai cấp duy nhất soạn ra để phục vụ lợi ích của giai cấp đó, và mọi chi tiết đều phản ánh trực tiếp lợi ích ấy.",
-   "Chính sách giáo dục luôn là bản sao của chương trình chính trị toàn quốc, nên không có chỗ nào cho các đứt quãng hay ngoại lệ."
+   "Chính sách giáo dục luôn là bản sao của chương trình chính trị toàn quốc, nên không có chỗ nào cho các đứt quãng hay ngoại lệ.",
+   "Chính sách chỉ là các quyết định kỹ thuật về ngân sách, nhưng người ta thường diễn giải chúng một cách chính trị để gây tranh cãi.",
+   "Chính sách luôn do một giai cấp duy nhất soạn ra để phục vụ lợi ích của giai cấp đó, và mọi chi tiết đều phản ánh trực tiếp lợi ích ấy."
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Ball dựa vào Kogan và Prunty: chính sách là phân bổ giá trị có thẩm quyền, nên khái niệm này đưa quyền lực và kiểm soát vào trung tâm. Ông còn cảnh báo không nên coi nó là sự mở rộng tất yếu của chủ nghĩa Thatcher, vì có đứt quãng, thỏa hiệp và ngoại lệ.",
   "src": "tr. 3"
  },
  {
   "q": "Ba nhóm tư tưởng giáo dục mà Raymond Williams nêu ra, được Ball mượn làm điểm xuất phát, là gì?",
   "opts": [
-   "Nhà quản lý nhà nước, nhà chuyên môn và phụ huynh, được xếp theo mức độ ảnh hưởng của mỗi nhóm lên việc ra chính sách.",
-   "Nhà thực nghiệm, nhà sư phạm truyền thống và nhà cải cách chương trình, được xếp theo cách họ nhìn việc đổi mới trường học.",
    "Nhà đào tạo công nghiệp, nhân văn kiểu cũ và nhà giáo dục đại chúng, theo cách Williams phân loại các ảnh hưởng thế kỷ 19.",
-   "Nhà tân tự do, nhà tân bảo thủ và nhà xã hội chủ nghĩa, được xếp theo quan điểm về vai trò của thị trường trong giáo dục."
+   "Nhà thực nghiệm, nhà sư phạm truyền thống và nhà cải cách chương trình, được xếp theo cách họ nhìn việc đổi mới trường học.",
+   "Nhà tân tự do, nhà tân bảo thủ và nhà xã hội chủ nghĩa, được xếp theo quan điểm về vai trò của thị trường trong giáo dục.",
+   "Nhà quản lý nhà nước, nhà chuyên môn và phụ huynh, được xếp theo mức độ ảnh hưởng của mỗi nhóm lên việc ra chính sách."
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Williams (1962) gọi ba nhóm là industrial trainers, old humanists và public educators. Chúng tranh nhau định nghĩa chính khái niệm giáo dục từ thế kỷ 19.",
   "src": "tr. 4"
  },
  {
   "q": "Thuật ngữ 'cultural restorationists' của Ball chỉ ai?",
   "opts": [
-   "Những đại diện công nghiệp muốn gắn nhà trường chặt hơn với thị trường lao động, và có căn cứ quyền lực ở Bộ Thương mại.",
    "Người nhân văn kiểu cũ cứng rắn của Cánh hữu mới, muốn trở về các 'chuẩn mực' truyền thống, ảnh hưởng mạnh lên chính trị gia.",
    "Những viên chức DES chủ trương cải cách từng bước chương trình và sư phạm, và giữ khoảng cách với các nhà vận động của Cánh hữu mới.",
-   "Những nhà giáo dục toán và khoa học đề xuất đổi mới đánh giá theo quá trình, và được báo cáo Cockcroft ủng hộ mạnh mẽ."
+   "Những nhà giáo dục toán và khoa học đề xuất đổi mới đánh giá theo quá trình, và được báo cáo Cockcroft ủng hộ mạnh mẽ.",
+   "Những đại diện công nghiệp muốn gắn nhà trường chặt hơn với thị trường lao động, và có căn cứ quyền lực ở Bộ Thương mại."
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Cultural restorationists là nhân văn kiểu cũ cứng rắn của Cánh hữu mới. Quan chức DES là 'reformist old humanism', nhà giáo dục toán và khoa học là 'new progressives', còn đại diện công nghiệp là 'industrial trainers'.",
   "src": "tr. 6"
  },
  {
   "q": "Mô tả nào đúng về chính sách giáo dục Anh đến giữa thập niên 1970, theo Ball?",
   "opts": [
-   "Một hệ thống tập quyền nghiêm ngặt, nơi Bộ trưởng quyết định trực tiếp chương trình từng trường và phụ huynh có quyền chọn trường.",
+   "Một hệ thống do giới công nghiệp điều khiển, nơi CBI quyết định chương trình dạy nghề và DES chỉ thi hành các quyết định ấy.",
    "Hệ thống thân chủ: DES cùng công đoàn giáo viên và LEA tạo 'tam giác căng thẳng', chính sách đi theo lối gia tăng rời rạc.",
    "Một hệ thống thị trường tự do, nơi các trường cạnh tranh nhau để thu hút học sinh và chính phủ gần như không can thiệp.",
-   "Một hệ thống do giới công nghiệp điều khiển, nơi CBI quyết định chương trình dạy nghề và DES chỉ thi hành các quyết định ấy."
+   "Một hệ thống tập quyền nghiêm ngặt, nơi Bộ trưởng quyết định trực tiếp chương trình từng trường và phụ huynh có quyền chọn trường."
   ],
   "a": 1,
   "exp": "Ball dẫn Ashford (hệ thống thân chủ), Briault (tam giác căng thẳng) và Fowler (gia tăng rời rạc). Xung lực chính sách từ DES yếu, và trách nhiệm về chương trình thuộc LEA và giáo viên.",
@@ -50,60 +50,60 @@
  {
   "q": "Từ năm 1976, hệ thống chính sách cũ thay đổi như thế nào?",
   "opts": [
-   "Quyền lực chuyển hẳn từ DES sang các LEA, và Bộ trưởng chỉ còn đóng vai điều phối mà không tự khởi xướng chính sách nào.",
-   "Mọi nhóm trong Đảng Bảo thủ thống nhất về giáo dục, và Ủy ban Tuyển chọn ngừng phê phán cách chính phủ quản lý giáo dục.",
    "Đồng thuận cấp tiến tan rã; thay bằng xung đột, kiểm soát tập trung và hướng về người tiêu dùng là cha mẹ, nhà công nghiệp.",
-   "Đồng thuận được củng cố hơn nhờ các nhóm lợi ích hợp tác chặt chẽ, và nhóm của người cung ứng càng nắm quyền ảnh hưởng nhiều hơn."
+   "Quyền lực chuyển hẳn từ DES sang các LEA, và Bộ trưởng chỉ còn đóng vai điều phối mà không tự khởi xướng chính sách nào.",
+   "Đồng thuận được củng cố hơn nhờ các nhóm lợi ích hợp tác chặt chẽ, và nhóm của người cung ứng càng nắm quyền ảnh hưởng nhiều hơn.",
+   "Mọi nhóm trong Đảng Bảo thủ thống nhất về giáo dục, và Ủy ban Tuyển chọn ngừng phê phán cách chính phủ quản lý giáo dục."
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Ball nói tam giác căng thẳng bị phá, nhóm của người cung ứng gần như bị loại, Bộ trưởng chủ động hơn. Ông cũng cảnh báo không đánh giá quá cao sự nhất trí trong chính phủ và đảng.",
   "src": "tr. 7–8"
  },
  {
   "q": "Ba tầng phân tích Ball dùng, và chiến lược lý thuyết tương ứng với mỗi tầng, là gì?",
   "opts": [
-   "Kinh tế với phân tích cấu trúc; chính trị với phân tích hiện thực/tương tác; ý thức hệ với phân tích diễn ngôn.",
-   "Kinh tế với phân tích tương tác; chính trị với phân tích diễn ngôn; ý thức hệ với phân tích cấu trúc thuần túy.",
    "Kinh tế với phân tích diễn ngôn; chính trị với phân tích cấu trúc; ý thức hệ với phân tích hiện thực/tương tác, theo thứ tự hoàn toàn ngược lại.",
-   "Kinh tế, chính trị và ý thức hệ đều được phân tích theo cùng một chiến lược duy nhất là chiến lược cấu trúc."
+   "Kinh tế, chính trị và ý thức hệ đều được phân tích theo cùng một chiến lược duy nhất là chiến lược cấu trúc.",
+   "Kinh tế với phân tích cấu trúc; chính trị với phân tích hiện thực/tương tác; ý thức hệ với phân tích diễn ngôn.",
+   "Kinh tế với phân tích tương tác; chính trị với phân tích diễn ngôn; ý thức hệ với phân tích cấu trúc thuần túy."
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Trong Hình 1.3: tầng kinh tế gắn với chiến lược cấu trúc (chương 4, 5), tầng chính trị gắn với hiện thực/tương tác (chương 6, 7), tầng ý thức hệ gắn với diễn ngôn (chương 2, 3).",
   "src": "tr. 10–11"
  },
  {
   "q": "Khái niệm 'tự chủ tương đối' trong cách dùng của Ball (theo Hargreaves và Wright) nhấn điều gì?",
   "opts": [
+   "Cái chính trị và ý thức hệ hoàn toàn độc lập với cái kinh tế, và có thể được giải thích mà không cần nhắc đến các điều kiện kinh tế.",
    "Cấu trúc kinh tế đặt giới hạn cho các hình thức chính trị và ý thức hệ có thể có, chứ không quyết định cứng nhắc hình thức nào.",
-   "Cái kinh tế quyết định cơ giới từng chi tiết của chính sách giáo dục, nên chỉ cần biết cơ cấu kinh tế là suy ra được mọi quyết định, như cách tân-Marxist thô vẫn làm.",
    "Chính sách giáo dục luôn phản ánh trực tiếp những đòi hỏi của các nhà công nghiệp, được truyền qua các tổ chức như CBI.",
-   "Cái chính trị và ý thức hệ hoàn toàn độc lập với cái kinh tế, và có thể được giải thích mà không cần nhắc đến các điều kiện kinh tế."
+   "Cái kinh tế quyết định cơ giới từng chi tiết của chính sách giáo dục, nên chỉ cần biết cơ cấu kinh tế là suy ra được mọi quyết định, như cách tân-Marxist thô vẫn làm."
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Wright phân biệt giới hạn với quyết định. Ball cũng nhấn khái niệm phải có sức nặng phân tích thực nghiệm, không chỉ là lời khấn bí ẩn.",
   "src": "tr. 13–14"
  },
  {
   "q": "Với Ball, 'diễn ngôn' (theo Foucault) có nghĩa là gì, và vì sao quan trọng với phân tích chính sách?",
   "opts": [
-   "Là tập hợp từ vựng chuyên ngành mà các nhà nghiên cứu dùng với nhau, và không có tác động nào lên chính sách thực tế.",
    "Là bản tường thuật trung lập về các sự kiện chính sách, được viết ra sau khi các quyết định đã được thi hành xong.",
    "Sự kết hợp quyền lực và tri thức, quyết định điều có thể nói và nghĩ cùng ai được nói với thẩm quyền nào; nghĩa từ đổi theo vị trí.",
+   "Là tập hợp từ vựng chuyên ngành mà các nhà nghiên cứu dùng với nhau, và không có tác động nào lên chính sách thực tế.",
    "Là phần lời lẽ hoa mỹ mà chính trị gia thêm vào để che giấu các mục tiêu thật, mà phân tích khoa học luôn có thể gạt bỏ."
   ],
-  "a": 2,
+  "a": 1,
   "exp": "Ball dẫn Foucault: quyền lực và tri thức là hai mặt của một quá trình; diễn ngôn kiến tạo đối tượng mà nó nói tới. Vì thế các từ như 'tự do', 'lựa chọn' của Cánh hữu mới mang nghĩa khác trong diễn ngôn khác.",
   "src": "tr. 17–18"
  },
  {
   "q": "Trong cách nhìn của Ball, 'nhà nước giáo dục' là gì?",
   "opts": [
-   "Một cái tên khác của Bộ Giáo dục và Khoa học (DES), vì chỉ có DES mới có quyền điều tiết hệ giáo dục ở nước Anh.",
-   "Tập hợp vị trí và cơ quan điều tiết hệ giáo dục, có luật và mục đích riêng, hay xung đột nhau; chỉ tự chủ tương đối.",
    "Một bộ máy hoàn toàn trung lập và độc lập, đứng trên mọi lợi ích bộ phận và chỉ thi hành các quyết định kỹ thuật thuần túy.",
-   "Một thực thể thống nhất có ý chí chung, luôn phục vụ trực tiếp một giai cấp nhất định, và không bao giờ mâu thuẫn trong nội bộ."
+   "Một thực thể thống nhất có ý chí chung, luôn phục vụ trực tiếp một giai cấp nhất định, và không bao giờ mâu thuẫn trong nội bộ.",
+   "Một cái tên khác của Bộ Giáo dục và Khoa học (DES), vì chỉ có DES mới có quyền điều tiết hệ giáo dục ở nước Anh.",
+   "Tập hợp vị trí và cơ quan điều tiết hệ giáo dục, có luật và mục đích riêng, hay xung đột nhau; chỉ tự chủ tương đối."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Ball dẫn McLennan, Held và Hall, Grace: nhà nước không phải một khối, nhưng cũng không trung lập; mâu thuẫn giữa DES, HMI, DTI, các bộ khác, chính quyền địa phương và các quango chính là chủ đề trung tâm.",
   "src": "tr. 19–21"
  }

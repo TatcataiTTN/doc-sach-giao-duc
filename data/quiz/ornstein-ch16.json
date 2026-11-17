@@ -1,0 +1,242 @@
+[
+ {
+  "q": "Hai áp lực chính buộc trường Mỹ phải cải thiện theo chương là gì?",
+  "opts": [
+   "Giảm số học sinh trong nước và bỏ hẳn các chương trình bù đắp cho học sinh nghèo, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Đưa mọi trường về quản lý của liên bang và bỏ hẳn các chuẩn kiểm tra của bang.",
+   "Cạnh tranh kinh tế quốc tế (kỹ năng làm việc) và nâng thành tích học sinh thiệt thòi để công bằng hơn.",
+   "Giảm chi tiêu cho giáo dục và bỏ chương trình hỗ trợ cho học sinh có nguy cơ cao."
+  ],
+  "a": 2,
+  "exp": "Khảo sát nhà tuyển dụng: gần một nửa người lao động thiếu kỹ năng cơ bản; công bằng được gắn với cạnh tranh kinh tế.",
+  "src": "tr. 472"
+ },
+ {
+  "q": "CCSSO đề xuất biện pháp mạnh nào cho khu và trường có nguy cơ?",
+  "opts": [
+   "Bỏ yêu cầu tốt nghiệp trung học để học sinh có nguy cơ không phải thi cuối cấp nữa, theo cách nhìn khá phổ biến lúc ấy.",
+   "Bang bảo đảm chương trình giúp mọi người tốt nghiệp; có thể bang tiếp quản khu gặp khó, hỗ trợ chuyển trường.",
+   "Đóng hẳn các trường có nhiều học sinh thu nhập thấp và chuyển học sinh về nhà học.",
+   "Cấm mọi học sinh chuyển trường để giữ ổn định cho từng khu học chánh ở các bang."
+  ],
+  "a": 1,
+  "exp": "Cũng giảm sự tập trung học sinh ở trường thu nhập thấp.",
+  "src": "tr. 472"
+ },
+ {
+  "q": "Về quản lý lớp học hiệu quả, chương liệt kê điều nào?",
+  "opts": [
+   "Ba thực hành duy nhất: phạt nặng, ngồi theo hàng cố định và không cho học sinh hỏi bài, trong bối cảnh nước Anh thập niên 1980.",
+   "Chỉ một thực hành: giữ lớp im lặng tuyệt đối từ đầu đến cuối tiết học mỗi ngày.",
+   "Mười hai thực hành, như nêu rõ kỳ vọng, chuyển hoạt động trơn tru, tránh làm học sinh xấu hổ, chú ý văn hóa.",
+   "Không có thực hành chung nào vì quản lý lớp hoàn toàn tùy theo tính cách giáo viên."
+  ],
+  "a": 2,
+  "exp": "Có cả giúp học sinh rèn tự quản và bảo đảm mọi em thuộc cộng đồng học tập của lớp.",
+  "src": "tr. 473"
+ },
+ {
+  "q": "Thời gian chờ (wait time) và câu hỏi bậc cao có vai trò gì?",
+  "opts": [
+   "Thời gian chờ không ảnh hưởng gì và học sinh chỉ cần trả lời đúng ngay lập tức.",
+   "Chờ lâu hơn sau khi hỏi và hỏi bậc cao giúp tăng tham gia và việc học, hơn câu hỏi nhớ dữ kiện.",
+   "Chờ ngắn hơn giúp học sinh trả lời nhanh và câu hỏi nhớ dữ kiện hiệu quả hơn mọi loại, như một số nhà bình luận đương thời nhận định.",
+   "Câu hỏi bậc cao chỉ dành cho đại học và không dùng được ở tiểu học hay trung học."
+  ],
+  "a": 1,
+  "exp": "Thời gian học thực sự (time-on-task) cũng quan trọng nhưng còn phụ thuộc mức phù hợp của hoạt động.",
+  "src": "tr. 474"
+ },
+ {
+  "q": "Sáu chức năng của dạy trực tiếp theo Rosenshine bắt đầu và kết thúc bằng gì?",
+  "opts": [
+   "Mở bằng ôn bài cũ, xem trước và nêu mục tiêu; kết thúc bằng ôn tập và kiểm tra hằng tuần, hằng tháng.",
+   "Mở bằng kiểm tra cuối kỳ; kết thúc bằng việc giao học sinh tự học mà không phản hồi, theo lối giải thích thường gặp ở các văn bản chính sách.",
+   "Mở bằng giao bài tập khó nhất; kết thúc bằng việc bỏ qua mọi lỗi sai của học sinh.",
+   "Mở bằng thảo luận tự do; kết thúc bằng việc học sinh tự chấm điểm cho nhau."
+  ],
+  "a": 0,
+  "exp": "Ở giữa: trình bày từng bước, hướng dẫn thực hành, phản hồi sửa lỗi, giám sát luyện tập độc lập.",
+  "src": "tr. 475"
+ },
+ {
+  "q": "Phê phán chính của dạy trực tiếp và đáp lại của dạy hiểu tường minh là gì?",
+  "opts": [
+   "Dạy trực tiếp quá nhiều sáng tạo; dạy hiểu tường minh bỏ hẳn các bước ôn tập và phản hồi, ở một số trường và khu vực khi đó.",
+   "Dạy trực tiếp không có bước nào; dạy hiểu tường minh chỉ cho học sinh tự học hoàn toàn.",
+   "Dạy trực tiếp chỉ dành học sinh giỏi; dạy hiểu tường minh chỉ dành học sinh khuyết tật.",
+   "Dạy trực tiếp dễ nghiêng học thuộc mức thấp; dạy hiểu tường minh thêm làm mẫu, nối kiến thức, siêu nhận thức."
+  ],
+  "a": 3,
+  "exp": "Kỹ thuật: dự đoán, dạy tương hỗ, bản đồ ngữ nghĩa, mô phỏng, chiến lược siêu nhận thức. Rosenshine gọi đó là 'thành tựu to lớn'.",
+  "src": "tr. 475–476"
+ },
+ {
+  "q": "Bảy đặc điểm trường hiệu quả của Edmonds gồm những gì?",
+  "opts": [
+   "Hiệu trưởng ít can thiệp, không đặt mục tiêu chung, không kiểm tra tiến bộ của học sinh.",
+   "Trường rất lớn, nhiều tòa nhà, nhiều bài thi, ít bài tập, ít họp phụ huynh và lương cao, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Môi trường an toàn, sứ mệnh rõ, lãnh đạo giảng dạy, kỳ vọng cao, thời gian học cao, theo dõi tiến bộ, quan hệ nhà–trường.",
+   "Sĩ số lớp rất đông, ít sách, giáo viên thay đổi liên tục, ít liên hệ với phụ huynh."
+  ],
+  "a": 2,
+  "exp": "Thêm: đồng bộ chương trình; NWREL nêu hơn 100 thực hành thành 18 nhóm.",
+  "src": "tr. 477–478"
+ },
+ {
+  "q": "Ở trung học, những cách nào thường hiệu quả?",
+  "opts": [
+   "Trường trong trường cho học sinh yếu, học viện nghề, và đơn vị nhỏ cá nhân hóa; tránh luồng cố định.",
+   "Trường rất lớn, phân luồng cố định ngay từ lớp đầu cấp và không có hỗ trợ cho học sinh yếu, theo cách nhìn khá phổ biến lúc ấy.",
+   "Bỏ hẳn lớp đầu cấp và dồn mọi hỗ trợ vào năm cuối trước kỳ thi tốt nghiệp.",
+   "Chỉ dạy toàn bộ bằng video và không có tiếp xúc cá nhân với học sinh trong trường."
+  ],
+  "a": 0,
+  "exp": "Trường trong trường: 80–100 em đọc kém hơn lớp hai, ba năm, giáo viên được chọn.",
+  "src": "tr. 479"
+ },
+ {
+  "q": "Những hạn chế nào của nghiên cứu trường hiệu quả được nêu?",
+  "opts": [
+   "Định nghĩa rất thống nhất, nghiên cứu đủ mọi cấp học và phương pháp hoàn hảo.",
+   "Định nghĩa lẫn lộn, ít nghiên cứu trung học, phương pháp yếu (kiểm soát giai tầng), và bỏ lửng việc phải làm.",
+   "Nghiên cứu luôn kiểm soát đầy đủ giai tầng và chỉ rõ từng bước hiệu trưởng phải làm, trong bối cảnh nước Anh thập niên 1980.",
+   "Không có nghiên cứu nào về trường hiệu quả nên chương chỉ dựa vào trực giác."
+  ],
+  "a": 1,
+  "exp": "Ví dụ trường nam châm có thể cao điểm vì thu hút học sinh có động cơ, không phải do đặc điểm trường.",
+  "src": "tr. 479–480"
+ },
+ {
+  "q": "'Khả năng thực hiện' và 'nhất quán' là hai trong bảy bài học cải cách. Chúng nói gì?",
+  "opts": [
+   "Cải cách càng khó, càng ít người dùng càng tốt; mỗi lớp nên dùng chương trình riêng của mình, như một số nhà bình luận đương thời nhận định.",
+   "Cải cách chỉ cần thay sách giáo khoa; thay đổi lịch hay cách ra quyết định là không cần.",
+   "Cải cách chỉ cần lệnh từ trên xuống; giáo viên không cần tham gia hay được tập huấn.",
+   "Cải cách phải tương thích, dễ tiếp cận, làm được; và nhất quán giữa các lớp và giữa các chương trình trong trường."
+  ],
+  "a": 3,
+  "exp": "Levine và Levine: nhiều cách có 'tiềm năng gây rắc rối' vì quá khó thực hiện.",
+  "src": "tr. 481–482"
+ },
+ {
+  "q": "Các chương trình nào được nêu cho cải thiện qua nhiều lớp?",
+  "opts": [
+   "HOTS, Success for All, DRP, Comer, Equity 2000 và Algebra Project, KIPP, AVID.",
+   "Chỉ các chương trình dành cho đại học; trường tiểu học và trung học không có chương trình.",
+   "Chỉ có một chương trình duy nhất do liên bang áp dụng bắt buộc cho mọi trường học.",
+   "Chỉ các chương trình tư thục tính phí, không có chương trình nào cho trường công."
+  ],
+  "a": 0,
+  "exp": "KIPP: 7:30–5:30, thứ bảy cách tuần, ba tuần hè; AVID: hơn 2.700 trường.",
+  "src": "tr. 483–486"
+ },
+ {
+  "q": "Cải cách toàn trường theo CSRD (từ 1998) là gì?",
+  "opts": [
+   "Chỉ cấp cho trường tư; trường công không được nhận quỹ theo chương trình này.",
+   "Các bang tự trả toàn bộ chi phí và liên bang không tham gia vào chương trình nào.",
+   "Liên bang cấp tới 75.000 đô la mỗi năm trong ba năm cho trường Title I áp dụng mô hình toàn diện có bằng chứng.",
+   "Liên bang cấm mọi trường áp dụng mô hình cải cách và đóng cửa trường Title I yếu, theo lối giải thích thường gặp ở các văn bản chính sách."
+  ],
+  "a": 2,
+  "exp": "Ban đầu 27 mô hình, 2007 hơn 50; Quốc hội chi hàng tỉ đô la từ 1999.",
+  "src": "tr. 486–487"
+ },
+ {
+  "q": "Điều kiện để công nghệ giúp cải cách trường thành công theo chương là gì?",
+  "opts": [
+   "Một máy mỗi lớp là đủ, tập huấn vài phút là đủ, và chỉ dùng cho luyện tập lặp đi lặp lại, ở một số trường và khu vực khi đó.",
+   "Không cần tập huấn; càng nhiều trò chơi giải trí thì học sinh càng học tốt hơn.",
+   "Chỉ cần mua máy đắt tiền nhất; cách dùng và đào tạo không ảnh hưởng đến học sinh.",
+   "Đủ máy tập trung (từ ba máy), tập huấn hơn mười giờ, dùng cho giải quyết vấn đề, và phối hợp lịch, kiểm tra."
+  ],
+  "a": 3,
+  "exp": "Hoài nghi: Stoll, Healy cho nhiều lớp chỉ 'lướt vô bổ'; điều kiện tiên quyết là tập huấn giáo viên đủ lớn.",
+  "src": "tr. 489–492"
+ },
+ {
+  "q": "Boston Compact (1982) là mô hình hợp tác gì?",
+  "opts": [
+   "Doanh nghiệp tiếp quản và đóng cửa các trường công Boston, thay bằng trường tư vì lợi nhuận, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Hợp đồng giữa các trường đại học Boston mà doanh nghiệp không tham gia gì cả.",
+   "Doanh nghiệp tuyển học sinh tốt nghiệp; đổi lại, trường đặt chuẩn tốt nghiệp, tăng vào đại học, giảm bỏ học.",
+   "Chính phủ liên bang ép doanh nghiệp đóng thuế giáo dục mà không có cam kết việc làm nào."
+  ],
+  "a": 2,
+  "exp": "Đầu những năm 2000: hơn 400 công ty, hơn 20 đại học; các quỹ MacArthur, Gates, Annenberg cũng đầu tư lớn.",
+  "src": "tr. 488–489"
+ },
+ {
+  "q": "Trường nông thôn có điểm mạnh và khó khăn nào theo chương?",
+  "opts": [
+   "Quy mô nhỏ giúp biết từng em và làm việc với cộng đồng; khó thu hút giáo viên đủ chuẩn; giáo dục từ xa giúp.",
+   "Giáo dục từ xa không dùng được ở nông thôn; nên phải sáp nhập mọi trường lại thành lớn, theo cách nhìn khá phổ biến lúc ấy.",
+   "Nông thôn đồng nhất, không đa dạng; nên một giải pháp chung dùng được cho tất cả.",
+   "Quy mô nhỏ là bất lợi duy nhất; trường nông thôn rất dễ thu hút giáo viên chuyên môn."
+  ],
+  "a": 0,
+  "exp": "Khoảng 20% học sinh và 30% trường ở nông thôn; khoảng nửa số khu học chánh.",
+  "src": "tr. 493–494"
+ },
+ {
+  "q": "Với học sinh năng khiếu, chương nêu hướng tiếp cận và mối lo nào?",
+  "opts": [
+   "Bỏ hẳn chương trình riêng; học sinh năng khiếu học lại chương trình giống mọi em khác.",
+   "Chỉ có tăng tốc; và không có mối lo nào về học sinh thiểu số hay thiệt thòi trong tuyển chọn, trong bối cảnh nước Anh thập niên 1980.",
+   "Chỉ có làm giàu; và mọi học sinh thiểu số đều đã được tuyển chọn đầy đủ vào chương trình.",
+   "Tăng tốc, làm giàu hoặc kết hợp (hợp lưu); lo là học sinh thiểu số và thiệt thòi bị bỏ sót khi tuyển chọn."
+  ],
+  "a": 3,
+  "exp": "Ba mô hình hợp lưu: nội dung (tăng tốc), quá trình–sản phẩm (làm giàu), nhận thức luận.",
+  "src": "tr. 494"
+ },
+ {
+  "q": "Thêm thời gian học: các hình thức và tranh luận chính là gì?",
+  "opts": [
+   "Chỉ bãi bỏ kỳ nghỉ hè hoàn toàn; không chương trình sau giờ nào được liên bang hỗ trợ.",
+   "Chỉ cho học sinh giỏi học thêm; học sinh yếu bị miễn trừ hoàn toàn khỏi mọi chương trình, như một số nhà bình luận đương thời nhận định.",
+   "Năm dài, ngày dài, trường quanh năm, chương trình sau giờ và hè; tranh luận: thêm thời gian hay chất lượng.",
+   "Chỉ rút ngắn năm học; không có tranh luận vì mọi người đều đồng ý với việc rút ngắn."
+  ],
+  "a": 2,
+  "exp": "Hơn hai triệu học sinh học trường quanh năm; 21st Century Community Learning Centers do liên bang hỗ trợ.",
+  "src": "tr. 495–496"
+ },
+ {
+  "q": "Các hình thức chọn trường chương liệt kê là gì?",
+  "opts": [
+   "Chỉ duy nhất phiếu công ở Milwaukee và mọi hình thức khác bị cấm ở mọi bang.",
+   "Nam châm và thay thế, bán công, ghi danh mở, học bổng tư, tín dụng thuế, và phiếu công (Milwaukee).",
+   "Chỉ trường bán công và bị cấm hoàn toàn ở mọi bang, bao gồm cả Arizona và Colorado.",
+   "Chỉ duy nhất trường công theo khu và không cho phép chuyển trường dưới bất kỳ hình thức nào, theo lối giải thích thường gặp ở các văn bản chính sách."
+  ],
+  "a": 1,
+  "exp": "Hơn 1.000 trường nam châm, hơn 4.000 trường bán công; Milwaukee 2007: 125 trường tư (hơn 80 tôn giáo).",
+  "src": "tr. 497–499"
+ },
+ {
+  "q": "Người phê phán chọn trường lo điều gì, và bằng chứng về thành tích ra sao?",
+  "opts": [
+   "Chọn trường làm giảm mọi bất bình đẳng ngay lập tức; bằng chứng cho thấy thành tích tăng mạnh, ở một số trường và khu vực khi đó.",
+   "Không có nghiên cứu nào; mọi so sánh trường công và tư chưa từng được thực hiện.",
+   "Chọn trường là bắt buộc ở mọi bang; không ai nêu lo ngại nào về phân biệt hay hợp hiến.",
+   "Phân tầng, giảm ủng hộ trường công, vấn đề hợp hiến, trách nhiệm giải trình giảm; thành tích tăng nhỏ và không nhất quán."
+  ],
+  "a": 3,
+  "exp": "Coleman, Chubb và Moe thấy trường ngoài công cao hơn; nhiều nhà giáo dục phản bác khi kiểm soát gia đình và đầu vào.",
+  "src": "tr. 499–502"
+ },
+ {
+  "q": "Hai ví dụ cải cách hệ thống cấp bang là gì, và có điểm chung nào?",
+  "opts": [
+   "Kentucky (KERA, 1989, sau phán quyết tòa án) và Texas (TAAS); thi theo chuẩn, tập trung vào trường yếu.",
+   "Florida và Ohio; chỉ đóng cửa trường kém mà không có hỗ trợ hay thay đổi chương trình.",
+   "Alaska và Hawaii; không có chuẩn hay bài thi nào và không tập trung hỗ trợ trường yếu, như nhiều tài liệu thời đó vẫn mô tả.",
+   "California và New York; chỉ giảm thuế giáo dục và bỏ hết yêu cầu về chuẩn thành tích."
+  ],
+  "a": 0,
+  "exp": "Brazosport: học sinh thu nhập thấp qua toán từ 55% (1992) lên 96% (2001). Baltimore: lớp ba đọc thành thạo từ 39% lên 65% (2003–06).",
+  "src": "tr. 503–505"
+ }
+]

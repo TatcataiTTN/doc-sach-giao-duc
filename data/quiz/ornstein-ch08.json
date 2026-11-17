@@ -3,9 +3,9 @@
   "q": "Ba nguồn thu chính của trường công Mỹ thay đổi thế nào từ 1929–30 đến nay?",
   "opts": [
    "Phần của bang và liên bang tăng, phần của địa phương giảm từ hơn 80% xuống khoảng 43%.",
-   "Phần của liên bang vượt 50% và phần của bang giảm xuống gần như bằng không.",
    "Cả ba nguồn giữ nguyên tỉ lệ gần như không đổi trong suốt hơn bảy mươi năm qua.",
-   "Phần của địa phương tăng, phần của bang và liên bang giảm xuống dưới 10% mỗi nơi, như nhiều tài liệu thời đó vẫn mô tả."
+   "Phần của địa phương tăng, phần của bang và liên bang giảm xuống dưới 10% mỗi nơi, như nhiều tài liệu thời đó vẫn mô tả.",
+   "Phần của liên bang vượt 50% và phần của bang giảm xuống gần như bằng không."
   ],
   "a": 0,
   "exp": "Bang từ dưới 17% lên gần 50%; liên bang từ dưới 0,5% lên 8,5% (đỉnh gần 10% năm 1979–80).",
@@ -27,19 +27,19 @@
   "q": "Vì sao thuế bất động sản bị coi là không công bằng?",
   "opts": [
    "Thuế chỉ áp dụng cho người thuê nhà, còn chủ nhà được miễn hoàn toàn khỏi thuế.",
-   "Định giá không đồng đều, không theo khả năng nộp, và phản ứng chậm với kinh tế.",
+   "Thuế thay đổi mỗi tháng theo giá hàng hóa, nên người nộp không thể dự đoán được.",
    "Thuế quá dễ thu nên người dân không phản đối, và đẩy mọi gánh nặng cho doanh nghiệp.",
-   "Thuế thay đổi mỗi tháng theo giá hàng hóa, nên người nộp không thể dự đoán được."
+   "Định giá không đồng đều, không theo khả năng nộp, và phản ứng chậm với kinh tế."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Ví dụ cặp vợ chồng về hưu, nhà tăng giá và thuế tăng nhưng thu nhập cố định; 25 mill là 25 đô-la mỗi 1.000 đô-la giá định thuế.",
   "src": "tr. 227–228"
  },
  {
   "q": "'Gánh nặng đô thị' (municipal overburden) nghĩa là gì?",
   "opts": [
-   "Thành phố có quá ít học sinh nên mỗi trường phải tự lo toàn bộ chi phí cố định.",
    "Thành phố có nền thuế quá rộng nên trường dư tiền mà không biết dùng cho việc gì, trong bối cảnh nước Anh thập niên 1980.",
+   "Thành phố có quá ít học sinh nên mỗi trường phải tự lo toàn bộ chi phí cố định.",
    "Chi dịch vụ xã hội lớn khiến thành phố dành ít thuế cho trường hơn ngoại ô, nông thôn.",
    "Thành phố bị buộc nộp phần lớn thuế địa phương cho liên bang để chi quốc phòng."
   ],
@@ -50,22 +50,22 @@
  {
   "q": "Vì sao chi mỗi học sinh khác nhau giữa các bang, ví dụ Mississippi so với trung bình cả nước?",
   "opts": [
+   "Do khả năng chi trả: Mississippi chi ít hơn nhưng bằng 3,8% thu nhập bình quân, cao hơn mức 2,9% cả nước.",
    "Do luật: Mississippi bị cấm chi quá một nửa mức trung bình toàn quốc cho giáo dục công.",
-   "Do ưu tiên: Mississippi coi giáo dục ít quan trọng hơn và chi ít hơn mức mà bang có thể chi, như một số nhà bình luận đương thời nhận định.",
    "Do dân số: Mississippi có quá nhiều học sinh nên tiền chi cho mỗi em mới thấp như vậy.",
-   "Do khả năng chi trả: Mississippi chi ít hơn nhưng bằng 3,8% thu nhập bình quân, cao hơn mức 2,9% cả nước."
+   "Do ưu tiên: Mississippi coi giáo dục ít quan trọng hơn và chi ít hơn mức mà bang có thể chi, như một số nhà bình luận đương thời nhận định."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Năm 2003: 6.512 đô-la so với trung bình 9.053; mười lăm bang chi trên 10.000, Utah dưới 6.000.",
   "src": "tr. 232"
  },
  {
   "q": "Mô hình 'nền tảng' (foundation plan) làm gì?",
   "opts": [
-   "Chia tiền theo số học sinh nhân hệ số cao hơn cho các em khuyết tật hay song ngữ, theo lối giải thích thường gặp ở các văn bản chính sách.",
-   "Bảo đảm một mức chi tối thiểu mỗi học sinh cho mọi khu, bất kể nền thuế địa phương.",
    "Để khu tự đặt mức chi và bang trả phần tương ứng nhiều hơn cho khu giàu hơn.",
-   "Cấp một khoản cố định theo đầu học sinh, không xét độ giàu hay học sinh đặc biệt."
+   "Bảo đảm một mức chi tối thiểu mỗi học sinh cho mọi khu, bất kể nền thuế địa phương.",
+   "Cấp một khoản cố định theo đầu học sinh, không xét độ giàu hay học sinh đặc biệt.",
+   "Chia tiền theo số học sinh nhân hệ số cao hơn cho các em khuyết tật hay song ngữ, theo lối giải thích thường gặp ở các văn bản chính sách."
   ],
   "a": 1,
   "exp": "Phổ biến nhất, nhưng mức tối thiểu bị coi quá thấp và khu giàu dễ vượt; ba mô hình còn lại: cấp cố định, cân bằng sức mạnh, có trọng số.",
@@ -74,60 +74,60 @@
  {
   "q": "Vụ Serrano v. Priest (1971) và San Antonio v. Rodriguez (1973) khác nhau thế nào?",
   "opts": [
-   "Cả hai đều phán rằng mọi chênh lệch chi tiêu đều vi hiến và liên bang phải san bằng.",
    "Cả hai đều bác nguyên đơn và khẳng định cách tài trợ bằng thuế bất động sản là đúng luật.",
    "Serrano: không vi hiến theo Hiến pháp liên bang; Rodriguez: vi hiến theo hiến pháp bang California, ở một số trường và khu vực khi đó.",
-   "Serrano: chênh lệch vi hiến theo hiến pháp bang California; Rodriguez: không vi hiến theo Hiến pháp liên bang."
+   "Serrano: chênh lệch vi hiến theo hiến pháp bang California; Rodriguez: không vi hiến theo Hiến pháp liên bang.",
+   "Cả hai đều phán rằng mọi chênh lệch chi tiêu đều vi hiến và liên bang phải san bằng."
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Rodriguez đưa vấn đề về tòa án và cơ quan lập pháp bang; sau Rose (Kentucky 1989), vụ kiện tương tự nộp ở ba mươi bang.",
   "src": "tr. 234–236"
  },
  {
   "q": "'Thỏa đáng' (adequacy) và 'công bằng' (equity) trong phán quyết gần đây là gì?",
   "opts": [
+   "Thỏa đáng: mức đóng góp tối đa của bang; công bằng: mỗi khu phải nhận cùng một số tiền, như nhiều tài liệu thời đó vẫn mô tả.",
    "Thỏa đáng: mức học phí của trường tư; công bằng: phụ huynh được chọn trường cho con.",
    "Thỏa đáng: mức đóng góp tối thiểu của bang; công bằng: học sinh nghèo có quyền cơ hội như tiền mua cho người khác.",
-   "Thỏa đáng: mức đóng góp tối đa của bang; công bằng: mỗi khu phải nhận cùng một số tiền, như nhiều tài liệu thời đó vẫn mô tả.",
    "Thỏa đáng: điểm thi tối thiểu của học sinh; công bằng: giáo viên có cùng mức lương."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Bang cần thu hẹp khoảng cách giữa hệ thống được tài trợ tốt nhất và kém nhất.",
   "src": "tr. 236"
  },
  {
   "q": "Từ NCLB (2002), tài trợ liên bang thay đổi thế nào?",
   "opts": [
+   "Tiền liên bang chỉ dành cho đại học và không liên quan đến trường phổ thông nữa.",
    "Viện trợ khối bị bỏ, thay bằng tiền gắn với thành tích học sinh và chất lượng giáo viên.",
    "Viện trợ khối được mở rộng và bang được tự do dùng tiền mà không cần chứng minh gì, theo cách nhìn khá phổ biến lúc ấy.",
-   "Tiền liên bang chỉ dành cho đại học và không liên quan đến trường phổ thông nữa.",
    "Tiền liên bang bị cắt hoàn toàn và giáo dục chỉ do địa phương tự lo mọi chi phí."
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Bang phải chứng minh tăng thành tích mỗi năm; nhiều người gọi NCLB là 'mệnh lệnh không kinh phí'.",
   "src": "tr. 238"
  },
  {
   "q": "Proposition 13 (California, 1978) quy định gì?",
   "opts": [
-   "Miễn hoàn toàn thuế bất động sản cho mọi người dân California, nên khu bỏ thu thuế.",
    "Cho phép khu học chánh tự đặt thuế suất không giới hạn để trường có đủ tiền chi.",
    "Thuế tối thiểu 10% giá thị trường tài sản và tăng giá định thuế ít nhất 5% mỗi năm.",
-   "Thuế tối đa 1% giá thị trường tài sản và tăng giá định thuế không quá 2% mỗi năm."
+   "Thuế tối đa 1% giá thị trường tài sản và tăng giá định thuế không quá 2% mỗi năm.",
+   "Miễn hoàn toàn thuế bất động sản cho mọi người dân California, nên khu bỏ thu thuế."
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Cuộc nổi dậy thuế lan sang bốn mươi lăm bang khác; ba mươi lăm bang lập chương trình 'cầu dao ngắt' giảm thuế cho người già, người mua nhà lần đầu.",
   "src": "tr. 239"
  },
  {
   "q": "Lập luận chính của người ủng hộ phiếu học bổng là gì?",
   "opts": [
-   "Phiếu giúp giảm hỗ trợ cho trường công và chia xã hội theo kinh tế, đúng như dự kiến.",
    "Mở rộng lựa chọn tăng cạnh tranh và nâng chất lượng chung theo 'luật thị trường'.",
+   "Phiếu làm mọi trường tư thục đóng cửa vì hết nguồn thu từ học phí của phụ huynh.",
    "Phiếu giúp liên bang kiểm soát chặt chương trình của mọi trường công và tư thục.",
-   "Phiếu làm mọi trường tư thục đóng cửa vì hết nguồn thu từ học phí của phụ huynh."
+   "Phiếu giúp giảm hỗ trợ cho trường công và chia xã hội theo kinh tế, đúng như dự kiến."
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Phía phản đối (NEA, AFT) nói phiếu làm tăng phân biệt, rút tiền công, và có thể vi hiến nếu hỗ trợ trường giáo xứ; Cleveland (2003) được chấp thuận.",
   "src": "tr. 241–242"
  },
@@ -136,8 +136,8 @@
   "opts": [
    "Chi phí sửa tích lũy ước 1.120 tỉ đô-la; khu lớn báo toàn bộ trường cần xây mới, trong bối cảnh nước Anh thập niên 1980.",
    "Chi phí sửa tích lũy ước 112 tỉ đô-la; khu lớn báo trung bình 85% trường cần sửa.",
-   "Chi phí sửa đã được liên bang trả hết và không còn trường nào xuống cấp nữa.",
-   "Chi phí sửa tích lũy ước 12 tỉ đô-la; khu lớn báo trung bình 5% trường cần sửa."
+   "Chi phí sửa tích lũy ước 12 tỉ đô-la; khu lớn báo trung bình 5% trường cần sửa.",
+   "Chi phí sửa đã được liên bang trả hết và không còn trường nào xuống cấp nữa."
   ],
   "a": 1,
   "exp": "Thêm amiăng (ước 3,1 tỉ đô-la cho khoảng 45.000 trường), radon, sơn chì, nâng cấp chống động đất.",

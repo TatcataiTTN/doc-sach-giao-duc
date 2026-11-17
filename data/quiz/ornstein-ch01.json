@@ -2,10 +2,10 @@
  {
   "q": "Trong khảo sát bảy mươi sáu trường sư phạm, lý do chọn nghề được nêu nhiều nhất là gì?",
   "opts": [
-   "Thích điều kiện làm việc của nghề dạy (54% người trả lời).",
    "Có vẻ là lĩnh vực nhiều thử thách (63% người trả lời).",
+   "Được thầy cô yêu thích truyền cảm hứng (53% người trả lời).",
    "Giúp trẻ lớn lên và học được (90% người trả lời).",
-   "Được thầy cô yêu thích truyền cảm hứng (53% người trả lời)."
+   "Thích điều kiện làm việc của nghề dạy (54% người trả lời)."
   ],
   "a": 2,
   "exp": "90% nêu 'giúp trẻ lớn lên và học được'; các lý do sau theo thứ tự 63%, 54%, 53%, 52%.",
@@ -14,46 +14,46 @@
  {
   "q": "Theo Giáo sư Johnson trong khung mở đầu, điều gì đáng nhớ về những người vào nghề?",
   "opts": [
+   "Chỉ người dạy trường tư mới có xu hướng bỏ nghề sớm.",
    "Phần lớn rời nghề ngay sau kỳ thi cấp chứng chỉ đầu tiên.",
    "Khoảng một nửa số người vào nghề rời đi trong vài năm đầu.",
-   "Chỉ người dạy trường tư mới có xu hướng bỏ nghề sớm.",
    "Gần như mọi người vào nghề ở lại suốt đời với một trường, như nhiều tài liệu thời đó vẫn mô tả."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Giáo sư nhắc rằng thách thức của nghề thường thành áp lực, và khoảng một nửa số người vào nghề rời đi trong vài năm.",
   "src": "tr. 4"
  },
  {
   "q": "Vì sao sách coi việc tăng đa dạng đội ngũ giáo viên là mục tiêu quan trọng?",
   "opts": [
-   "Giáo viên thiểu số luôn đạt điểm thi chuẩn hóa cao hơn mọi nhóm khác.",
-   "Giáo viên thiểu số thường làm hình mẫu tốt hơn và hiểu kỳ vọng, cách học của học sinh thiểu số.",
+   "Luật liên bang cấm tuyển giáo viên không thuộc nhóm thiểu số ở trường đô thị.",
    "Giáo viên thiểu số có thể nhận lương thấp hơn nên quận tiết kiệm được kinh phí, theo cách nhìn khá phổ biến lúc ấy.",
-   "Luật liên bang cấm tuyển giáo viên không thuộc nhóm thiểu số ở trường đô thị."
+   "Giáo viên thiểu số thường làm hình mẫu tốt hơn và hiểu kỳ vọng, cách học của học sinh thiểu số.",
+   "Giáo viên thiểu số luôn đạt điểm thi chuẩn hóa cao hơn mọi nhóm khác."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Sách nêu vai trò hình mẫu, sự hiểu biết về kỳ vọng và cách học, và nhu cầu giáo viên gốc Á, Latinh cho học sinh hạn chế tiếng Anh.",
   "src": "tr. 5"
  },
  {
   "q": "Năm 1968 và 1982, tỉ lệ sinh viên đại học năm nhất muốn làm giáo viên thay đổi thế nào?",
   "opts": [
-   "Giữ ổn định quanh 23% cả hai năm, không thay đổi đáng kể.",
-   "Giảm từ 23% (1968) xuống 5% (1982) rồi hồi phục sau đó.",
+   "Giảm từ 50% xuống 23% rồi tiếp tục giảm trong thập niên sau.",
    "Tăng từ 5% (1968) lên 23% (1982) rồi giảm mạnh sau đó.",
-   "Giảm từ 50% xuống 23% rồi tiếp tục giảm trong thập niên sau."
+   "Giảm từ 23% (1968) xuống 5% (1982) rồi hồi phục sau đó.",
+   "Giữ ổn định quanh 23% cả hai năm, không thay đổi đáng kể."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Tỉ lệ giảm từ 23% xuống 5%, rồi từ đó tăng gần 100% vào cuối thập niên 1980–1990.",
   "src": "tr. 6–7"
  },
  {
   "q": "Yếu tố nào tạo biến thiên lớn nhất trong bảng lương của một quận?",
   "opts": [
-   "Khoảng cách từ nhà giáo viên đến trường nơi họ làm việc.",
+   "Số học sinh đạt điểm cao trong lớp của từng giáo viên.",
    "Số năm kinh nghiệm và trình độ học vấn của giáo viên.",
-   "Môn học mà giáo viên đảm nhận ở trường trong năm học.",
-   "Số học sinh đạt điểm cao trong lớp của từng giáo viên."
+   "Khoảng cách từ nhà giáo viên đến trường nơi họ làm việc.",
+   "Môn học mà giáo viên đảm nhận ở trường trong năm học."
   ],
   "a": 1,
   "exp": "Ví dụ St. Mary's 2007: 40.055 đô-la năm đầu (cử nhân) đến 77.354 đô-la ở mức cao nhất về kinh nghiệm và học vấn.",
@@ -62,22 +62,22 @@
  {
   "q": "Chứng chỉ giáo viên ở Mỹ thay đổi thế nào so với thời thuộc địa?",
   "opts": [
-   "Từ chỗ do chính quyền liên bang cấp, nay do hội mục sư địa phương cấp, trong bối cảnh nước Anh thập niên 1980.",
-   "Từ chỗ yêu cầu cử nhân, nay chỉ cần biết đọc, viết và đánh vần.",
    "Từ chỗ chỉ cần được mục sư chấp thuận, nay mọi giáo viên công lập phải có chứng chỉ của bang.",
-   "Từ chỗ mỗi bang một chuẩn, nay có một chứng chỉ chung cho cả nước."
+   "Từ chỗ do chính quyền liên bang cấp, nay do hội mục sư địa phương cấp, trong bối cảnh nước Anh thập niên 1980.",
+   "Từ chỗ mỗi bang một chuẩn, nay có một chứng chỉ chung cho cả nước.",
+   "Từ chỗ yêu cầu cử nhân, nay chỉ cần biết đọc, viết và đánh vần."
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Thời xưa biết đọc, viết, đánh vần và có đạo đức là dạy được; nay mọi giáo viên công lập đều phải có chứng chỉ, và yêu cầu khác nhau theo bang.",
   "src": "tr. 10"
  },
  {
   "q": "Một phê phán chính đối với chứng chỉ thay thế là gì?",
   "opts": [
-   "Chương trình chỉ nhận người có bằng sư phạm truyền thống từ các trường lớn.",
+   "Chương trình chỉ đưa người tham gia vào trường ngoại ô giàu có, ít khó khăn, như một số nhà bình luận đương thời nhận định.",
    "Nhiều người không được huấn luyện hay giám sát như đã hứa và có thể bỏ nghề sớm.",
    "Chương trình tốn quá nhiều năm học trước khi người mới được đứng lớp.",
-   "Chương trình chỉ đưa người tham gia vào trường ngoại ô giàu có, ít khó khăn, như một số nhà bình luận đương thời nhận định."
+   "Chương trình chỉ nhận người có bằng sư phạm truyền thống từ các trường lớn."
   ],
   "a": 1,
   "exp": "Sách ghi nhận nhiều người nhận rất ít hoặc không nhận huấn luyện, giám sát; một số mang nợ; và phía phản đối nói họ bỏ nghề trong hoặc sau năm đầu.",
@@ -86,12 +86,12 @@
  {
   "q": "Ở Massachusetts năm 1998, kỳ thi giáo viên đầu tiên của bang cho thấy điều gì?",
   "opts": [
-   "63% trượt bài đọc viết và 30% ứng viên chứng chỉ toán trượt bài kiến thức môn.",
-   "30% trượt bài đọc viết và 63% ứng viên chứng chỉ toán trượt bài kiến thức môn.",
+   "Hầu hết ứng viên đạt, và bang quyết định bỏ hẳn yêu cầu kiểm tra giáo viên.",
    "Chỉ ứng viên từ chứng chỉ thay thế trượt, còn người học sư phạm truyền thống đều đạt.",
-   "Hầu hết ứng viên đạt, và bang quyết định bỏ hẳn yêu cầu kiểm tra giáo viên."
+   "30% trượt bài đọc viết và 63% ứng viên chứng chỉ toán trượt bài kiến thức môn.",
+   "63% trượt bài đọc viết và 30% ứng viên chứng chỉ toán trượt bài kiến thức môn."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Kết quả này gây tranh luận quốc gia về mức điểm phù hợp để vào, ra khỏi đào tạo và để lấy, giữ chứng chỉ.",
   "src": "tr. 18"
  },
@@ -110,24 +110,24 @@
  {
   "q": "'Dạy để thi' (teaching to the test) là gì và vì sao gây lo ngại?",
   "opts": [
+   "Cho học sinh tự thiết kế bài kiểm tra, nên điểm số không còn đáng tin.",
    "Giáo viên bỏ hẳn sách giáo khoa, nên học sinh thiếu nền tảng kiến thức, theo lối giải thích thường gặp ở các văn bản chính sách.",
    "Dùng điểm thi để quyết định lương, nên giáo viên cạnh tranh gay gắt.",
-   "Dành phần lớn năm học để ôn thi, nên việc dạy thu hẹp vào các kỹ năng được kiểm tra.",
-   "Cho học sinh tự thiết kế bài kiểm tra, nên điểm số không còn đáng tin."
+   "Dành phần lớn năm học để ôn thi, nên việc dạy thu hẹp vào các kỹ năng được kiểm tra."
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Sách mô tả đây là hệ quả của kiểm tra hệ trọng; còn tranh cãi là chuẩn giúp hay cản trở kết quả khi việc dạy bị thu hẹp.",
   "src": "tr. 19"
  },
  {
   "q": "Ba điều kiện để là 'giáo viên đạt chuẩn cao' theo NCLB là gì?",
   "opts": [
+   "Cử nhân, chứng chỉ tạm thời của bang, và giới thiệu từ hiệu trưởng, ở một số trường và khu vực khi đó.",
    "Điểm SAT cao, chứng chỉ thay thế, và tốt nghiệp từ một trường công.",
    "Thạc sĩ, chứng chỉ quốc gia NBPTS, và ba năm dạy ở trường nghèo.",
-   "Cử nhân, chứng chỉ đầy đủ của bang, và năng lực chứng minh ở từng môn cốt lõi đang dạy.",
-   "Cử nhân, chứng chỉ tạm thời của bang, và giới thiệu từ hiệu trưởng, ở một số trường và khu vực khi đó."
+   "Cử nhân, chứng chỉ đầy đủ của bang, và năng lực chứng minh ở từng môn cốt lõi đang dạy."
   ],
-  "a": 2,
+  "a": 3,
   "exp": "Giáo viên mới chứng minh bằng bài thi hoặc ngành học tương đương; giáo viên đang dạy có thể dùng chuẩn HOUSSE.",
   "src": "tr. 22"
  },

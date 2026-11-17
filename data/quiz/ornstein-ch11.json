@@ -2,24 +2,24 @@
  {
   "q": "Warner dùng bốn biến nào để phân loại tầng lớp xã hội thập niên 1940?",
   "opts": [
+   "Chủng tộc, tôn giáo, nơi sinh và số năm cư trú ở một cộng đồng.",
    "Nghề nghiệp, học vấn, thu nhập và giá trị nhà ở.",
-   "Điểm thi, số năm đi học, nghề của cha mẹ và quy mô của trường.",
    "Địa chỉ, tuổi tác, giới tính và tình trạng hôn nhân của chủ hộ.",
-   "Chủng tộc, tôn giáo, nơi sinh và số năm cư trú ở một cộng đồng."
+   "Điểm thi, số năm đi học, nghề của cha mẹ và quy mô của trường."
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Từ đó có năm nhóm: thượng lưu, trung lưu trên, trung lưu dưới, lao động trên, lao động dưới; người cao ở các biến này có SES cao.",
   "src": "tr. 322"
  },
  {
   "q": "Dữ liệu NAEP cho thấy quan hệ nào giữa học vấn cha mẹ và điểm của học sinh?",
   "opts": [
-   "Điểm giảm khi cha mẹ học cao hơn vì họ có ít thời gian để chăm sóc con.",
-   "Điểm toán và đọc tăng đều theo học vấn cha mẹ; con cha mẹ từng học đại học điểm cao hơn hẳn.",
    "Con của cha mẹ chưa tốt nghiệp phổ thông có điểm cao nhất và vượt các nhóm khác, như nhiều tài liệu thời đó vẫn mô tả.",
-   "Điểm không liên quan học vấn cha mẹ và chỉ phụ thuộc vào quy mô của trường."
+   "Điểm không liên quan học vấn cha mẹ và chỉ phụ thuộc vào quy mô của trường.",
+   "Điểm toán và đọc tăng đều theo học vấn cha mẹ; con cha mẹ từng học đại học điểm cao hơn hẳn.",
+   "Điểm giảm khi cha mẹ học cao hơn vì họ có ít thời gian để chăm sóc con."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Chỉ 27% học sinh lớp tám trung tâm thành phố đạt trình độ thành thạo đọc năm 2003; trường nghèo tập trung thấp hơn mức quốc gia hơn hai năm.",
   "src": "tr. 323–324"
  },
@@ -40,8 +40,8 @@
   "opts": [
    "Không nhiều: tầng lớp xã hội giải thích phần lớn chênh lệch theo chủng tộc và sắc tộc.",
    "Không, vì chủng tộc và tầng lớp đều không liên quan gì đến thành tích học tập.",
-   "Có, chủng tộc giải thích gần như toàn bộ và tầng lớp không còn ảnh hưởng nào.",
-   "Có, sắc tộc giải thích một nửa và tầng lớp giải thích phần còn lại một cách đều nhau, theo cách nhìn khá phổ biến lúc ấy."
+   "Có, sắc tộc giải thích một nửa và tầng lớp giải thích phần còn lại một cách đều nhau, theo cách nhìn khá phổ biến lúc ấy.",
+   "Có, chủng tộc giải thích gần như toàn bộ và tầng lớp không còn ảnh hưởng nào."
   ],
   "a": 0,
   "exp": "Học sinh da trắng lao động nói chung thấp; học sinh thiểu số trung lưu tương đối cao. Nhưng thiểu số thiệt thòi vẫn chiếm không cân xứng ở nhóm lao động, hạ lưu.",
@@ -63,20 +63,20 @@
   "q": "Thuyết bất lợi môi trường nhấn điều gì về các năm đầu đời?",
   "opts": [
    "Các năm đầu không quan trọng vì trẻ có thể bù mọi thiếu hụt ở trung học dễ dàng, như một số nhà bình luận đương thời nhận định.",
+   "Các năm sau mười tuổi quan trọng hơn vì não mới bắt đầu hình thành các kết nối.",
    "Các năm đầu, cả trước sinh, quan trọng hơn: phát triển nhận thức nhanh nhất ở tuổi mầm non.",
-   "Chỉ thời kỳ trung học mới quyết định thành tích, còn mầm non không có ảnh hưởng.",
-   "Các năm sau mười tuổi quan trọng hơn vì não mới bắt đầu hình thành các kết nối."
+   "Chỉ thời kỳ trung học mới quyết định thành tích, còn mầm non không có ảnh hưởng."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Từ đó có giáo dục bù đắp; thần kinh học củng cố kết luận của Bloom về hai ba năm đầu, nhưng chưa đủ để cải cách mạnh chương trình.",
   "src": "tr. 335"
  },
  {
   "q": "Jencks tổng hợp tranh luận di truyền–môi trường thế nào?",
   "opts": [
+   "Di truyền 35% biến thiên IQ, môi trường 45% và tương tác giữa hai bên 20%.",
    "Di truyền 80% biến thiên IQ, môi trường 20% và không có tương tác giữa hai bên, theo lối giải thích thường gặp ở các văn bản chính sách.",
    "Di truyền 0% biến thiên IQ, môi trường 100% và tương tác không đáng kể gì.",
-   "Di truyền 35% biến thiên IQ, môi trường 45% và tương tác giữa hai bên 20%.",
    "Di truyền khoảng 45% biến thiên IQ, môi trường 35% và tương tác giữa hai bên 20%."
   ],
   "a": 3,
@@ -87,59 +87,59 @@
   "q": "Ray Rist thấy gì khi nghiên cứu nhóm theo năng lực ở một lớp mẫu giáo trường lao động St. Louis?",
   "opts": [
    "Nhóm 'chậm' nhận nhiều thời gian dạy và chú ý hơn nên đuổi kịp nhóm 'nhanh' cuối năm, ở một số trường và khu vực khi đó.",
-   "Thầy không chia nhóm và mọi trẻ học chung, nên không có khác biệt nào về chuẩn bị.",
+   "Nhóm 'nhanh' nhận nhiều thời gian dạy, thưởng, chú ý; nhóm 'chậm' ít, và khác biệt kéo dài sang lớp một.",
    "Cả hai nhóm nhận cùng một lượng thời gian và học đạt kết quả hoàn toàn giống nhau.",
-   "Nhóm 'nhanh' nhận nhiều thời gian dạy, thưởng, chú ý; nhóm 'chậm' ít, và khác biệt kéo dài sang lớp một."
+   "Thầy không chia nhóm và mọi trẻ học chung, nên không có khác biệt nào về chuẩn bị."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Một ví dụ của lời tiên tri tự ứng nghiệm; giải pháp là nhóm nhỏ do giáo viên rất giỏi dạy, hoặc lớp hỗn hợp có dạy cá nhân hóa.",
   "src": "tr. 340"
  },
  {
   "q": "Nghiên cứu ở Tennessee về sĩ số lớp cho thấy điều gì?",
   "opts": [
-   "Lớp nhỏ chỉ có lợi cho trường giàu và gây hại cho trường nghèo, thiểu số.",
-   "Lớp nhỏ không tạo khác biệt nào, và học sinh lớp đông học tốt như học sinh lớp nhỏ, như nhiều tài liệu thời đó vẫn mô tả.",
    "Lớp nhỏ làm điểm giảm vì học sinh mất cơ hội cạnh tranh với nhiều bạn trong lớp.",
-   "Lớp nhỏ ở mẫu giáo, lớp một có điểm đọc, toán cao hơn đáng kể và giữ lợi thế, nhất là ở trường nghèo thiểu số."
+   "Lớp nhỏ chỉ có lợi cho trường giàu và gây hại cho trường nghèo, thiểu số.",
+   "Lớp nhỏ ở mẫu giáo, lớp một có điểm đọc, toán cao hơn đáng kể và giữ lợi thế, nhất là ở trường nghèo thiểu số.",
+   "Lớp nhỏ không tạo khác biệt nào, và học sinh lớp đông học tốt như học sinh lớp nhỏ, như nhiều tài liệu thời đó vẫn mô tả."
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Trở ngại thứ tám trong mười hai trở ngại; các nghiên cứu nhỏ sau đó có kết luận tương tự.",
   "src": "tr. 341–342"
  },
  {
   "q": "Ogbu và Fordham mô tả áp lực bạn bè tiêu cực nào ở học sinh da đen lao động?",
   "opts": [
-   "Học sinh nhận học bổng bị thầy cô nghi ngờ và bị yêu cầu thi lại toàn bộ.",
-   "Học sinh lười học bị cả lớp tẩy chay và bị buộc phải đổi trường ngay lập tức, theo cách nhìn khá phổ biến lúc ấy.",
    "Học sinh giỏi toán được bạn khen thưởng bằng quà và được bầu làm lớp trưởng.",
-   "Học sinh chăm học bị chế giễu là 'mọt sách' và bị buộc tội 'bắt chước người da trắng'."
+   "Học sinh chăm học bị chế giễu là 'mọt sách' và bị buộc tội 'bắt chước người da trắng'.",
+   "Học sinh lười học bị cả lớp tẩy chay và bị buộc phải đổi trường ngay lập tức, theo cách nhìn khá phổ biến lúc ấy.",
+   "Học sinh nhận học bổng bị thầy cô nghi ngờ và bị yêu cầu thi lại toàn bộ."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Thái độ này ít ở học sinh trung lưu hoặc trường xóa phân biệt; Weis: áp lực giảm khi học sinh thấy giáo dục có ích cho việc làm tay nghề.",
   "src": "tr. 342–343"
  },
  {
   "q": "Báo cáo Coleman (1966) kết luận gì về chi tiêu và thành tích?",
   "opts": [
-   "Chi cho sĩ số, phòng thí nghiệm, thư viện gần như không liên quan thành tích sau khi tính nền tảng gia đình và bạn học.",
-   "Trường nghèo nhận nhiều kinh phí hơn trường trung lưu, nhưng điểm vẫn thấp hơn.",
    "Chi tiêu là yếu tố duy nhất giải thích thành tích và nền tảng gia đình không quan trọng, trong bối cảnh nước Anh thập niên 1980.",
+   "Trường nghèo nhận nhiều kinh phí hơn trường trung lưu, nhưng điểm vẫn thấp hơn.",
+   "Chi cho sĩ số, phòng thí nghiệm, thư viện gần như không liên quan thành tích sau khi tính nền tảng gia đình và bạn học.",
    "Chi nhiều tiền hơn cho mọi trường luôn nâng mạnh thành tích của học sinh nghèo."
   ],
-  "a": 0,
+  "a": 2,
   "exp": "Hai kết luận: chỉ chi thêm khó cải thiện mạnh; chuyển học sinh sang trường trung lưu có thể cải thiện. Jencks: gia đình giải thích gần nửa biến thiên về nghề.",
   "src": "tr. 345–346"
  },
  {
   "q": "Quan điểm xét lại (revisionist) về nhà trường là gì?",
   "opts": [
-   "Nhà trường chỉ hỗ trợ học sinh giàu và đóng cửa với mọi học sinh thiệt thòi.",
    "Nhà trường không ảnh hưởng gì đến địa vị xã hội nên không cần cải cách gì.",
    "Giới tinh hoa kiểm soát trường và dồn học sinh thiệt thòi vào các lối đi hạng thấp, tạo công nhân có kỷ luật.",
-   "Nhà trường cho mọi học sinh cơ hội ngang nhau và không có sự sàng lọc theo giai tầng nào, như một số nhà bình luận đương thời nhận định."
+   "Nhà trường cho mọi học sinh cơ hội ngang nhau và không có sự sàng lọc theo giai tầng nào, như một số nhà bình luận đương thời nhận định.",
+   "Nhà trường chỉ hỗ trợ học sinh giàu và đóng cửa với mọi học sinh thiệt thòi."
   ],
-  "a": 2,
+  "a": 1,
   "exp": "Truyền thống: nhiều thanh niên lao động đi lên qua trường; trung gian (Levine): trường không hoàn toàn duy trì giai tầng nhưng chưa đủ cơ hội phá khuôn mẫu.",
   "src": "tr. 347–349"
  }

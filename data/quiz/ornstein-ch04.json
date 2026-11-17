@@ -2,12 +2,12 @@
  {
   "q": "'Thuyết trẻ bản chất xấu' (child depravity) mà các nhà tiên phong đầu bác bỏ là gì?",
   "opts": [
+   "Trẻ sinh ra có xu hướng ác, và giáo viên độc đoán có thể trừ nó đi.",
    "Trẻ sinh ra vốn tốt, và nhà trường chỉ cần để mặc chúng tự phát triển.",
    "Trẻ có các giai đoạn phát triển riêng, nên cần xếp lớp theo tuổi sinh học.",
-   "Trẻ học tốt nhất khi được chơi, nên cần bỏ hoàn toàn mọi môn học bắt buộc.",
-   "Trẻ sinh ra có xu hướng ác, và giáo viên độc đoán có thể trừ nó đi."
+   "Trẻ học tốt nhất khi được chơi, nên cần bỏ hoàn toàn mọi môn học bắt buộc."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Comenius, Rousseau, Pestalozzi thay nó bằng thuyết tự nhiên: trẻ vốn tốt và tự nhiên gợi ý cho giáo dục.",
   "src": "tr. 92"
  },
@@ -15,11 +15,11 @@
   "q": "Comenius bị ảnh hưởng bởi điều gì và đề xuất điều gì cho giáo dục?",
   "opts": [
    "Phong trào nữ quyền; giáo dục mầm non cần được tách khỏi giáo dục tiểu học, như nhiều tài liệu thời đó vẫn mô tả.",
-   "Chiến tranh tôn giáo; tri thức chung và dạy bằng giác quan có thể góp phần hòa bình.",
    "Cách mạng công nghiệp; học thuộc lòng có thể làm tăng năng suất lao động.",
+   "Chiến tranh tôn giáo; tri thức chung và dạy bằng giác quan có thể góp phần hòa bình.",
    "Thuyết tiến hóa Darwin; cạnh tranh giữa các trường có thể nâng chất lượng."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Ông viết Orbis Pictus (một trong những sách tranh đầu tiên) và 7 nguyên tắc dạy: vật hoặc tranh, trình tự, sẵn sàng.",
   "src": "tr. 93–95"
  },
@@ -27,11 +27,11 @@
   "q": "Trong Emile, vì sao Rousseau nghi ngờ nhà trường?",
   "opts": [
    "Nhà trường dạy quá nhiều thí nghiệm khoa học tự nhiên cho trẻ nhỏ tuổi.",
-   "Nhà trường chỉ cho trẻ nam đi học nên làm trẻ nữ mất cơ hội phát triển.",
    "Nhà trường cho trẻ quá nhiều tự do nên khiến chúng thiếu kỷ luật cá nhân, theo cách nhìn khá phổ biến lúc ấy.",
-   "Nhà trường dạy trẻ theo quy tắc giả tạo của xã hội thay vì sống theo tự nhiên."
+   "Nhà trường dạy trẻ theo quy tắc giả tạo của xã hội thay vì sống theo tự nhiên.",
+   "Nhà trường chỉ cho trẻ nam đi học nên làm trẻ nữ mất cơ hội phát triển."
   ],
-  "a": 3,
+  "a": 2,
   "exp": "Trẻ nên học bằng giác quan và hệ quả trực tiếp; năm giai đoạn: sơ sinh, thơ ấu, thiếu niên, vị thành niên, thanh niên.",
   "src": "tr. 99"
  },
@@ -39,8 +39,8 @@
   "q": "Pestalozzi khác Rousseau ở điểm nào?",
   "opts": [
    "Pestalozzi tin trường học tổ chức tốt có thể hiệu quả và chuyển sang dạy nhóm.",
-   "Pestalozzi cho rằng nhà trường luôn gây hại và nên đóng cửa mọi trường học, trong bối cảnh nước Anh thập niên 1980.",
    "Pestalozzi cho rằng trẻ chỉ nên học qua sách chứ không qua đồ vật cụ thể.",
+   "Pestalozzi cho rằng nhà trường luôn gây hại và nên đóng cửa mọi trường học, trong bối cảnh nước Anh thập niên 1980.",
    "Pestalozzi cho rằng trẻ vốn xấu và cần kỷ luật nghiêm thay vì tình thương."
   ],
   "a": 0,
@@ -50,84 +50,84 @@
  {
   "q": "Năm bước dạy của Herbart theo thứ tự là gì?",
   "opts": [
-   "Hỏi, trả lời, ghi nhớ, nhắc lại, kiểm tra vào cuối kỳ.",
    "Trình bày, chuẩn bị, khái quát, liên tưởng, áp dụng.",
-   "Quan sát, giả thuyết, thí nghiệm, kết luận, trình bày.",
-   "Chuẩn bị, trình bày, liên tưởng, khái quát, áp dụng."
+   "Chuẩn bị, trình bày, liên tưởng, khái quát, áp dụng.",
+   "Hỏi, trả lời, ghi nhớ, nhắc lại, kiểm tra vào cuối kỳ.",
+   "Quan sát, giả thuyết, thí nghiệm, kết luận, trình bày."
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Phương pháp phổ biến ở Mỹ và Nhật, nhưng bị chê biến học sinh thành người nhận thông tin thụ động.",
   "src": "tr. 102"
  },
  {
   "q": "Kindergarten của Froebel dựa trên niềm tin nào?",
   "opts": [
-   "Mỗi đứa trẻ là tờ giấy trắng để người lớn viết lên những giá trị đúng.",
+   "Mỗi đứa trẻ có một tinh thần bên trong cần được đưa lên qua hoạt động tự thân.",
    "Mỗi đứa trẻ phải cạnh tranh với bạn để người giỏi nhất được chọn lên.",
    "Mỗi đứa trẻ cần học đọc và viết sớm để chuẩn bị cho các môn học thuật, như một số nhà bình luận đương thời nhận định.",
-   "Mỗi đứa trẻ có một tinh thần bên trong cần được đưa lên qua hoạt động tự thân."
+   "Mỗi đứa trẻ là tờ giấy trắng để người lớn viết lên những giá trị đúng."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Nhà trẻ đầu tiên mở năm 1837 ở Blankenburg, với trò chơi, bài hát, chuyện, 'quà tặng' và 'công việc'.",
   "src": "tr. 103–104"
  },
  {
   "q": "Spencer chủ trương chương trình học thế nào?",
   "opts": [
-   "Dựa vào dự án nhóm và hợp tác để giải quyết vấn đề dân chủ cộng đồng.",
+   "Thực dụng, nhiều khoa học và công nghệ, dựa trên các hoạt động cần cho sinh tồn.",
    "Thiên về văn chương và tiếng cổ điển như Latin và Hy Lạp là cốt lõi.",
    "Giao hoàn toàn cho trẻ tự chọn theo hứng thú, không có hoạt động bắt buộc, theo lối giải thích thường gặp ở các văn bản chính sách.",
-   "Thực dụng, nhiều khoa học và công nghệ, dựa trên các hoạt động cần cho sinh tồn."
+   "Dựa vào dự án nhóm và hợp tác để giải quyết vấn đề dân chủ cộng đồng."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Năm loại hoạt động: tự bảo tồn, nghề nghiệp, nuôi con, tham gia xã hội–chính trị, giải trí; ý tưởng này vang trong Cardinal Principles (1918).",
   "src": "tr. 105–106"
  },
  {
   "q": "Với Dewey, tri thức là gì?",
   "opts": [
-   "Thông tin hoàn chỉnh cần được giáo viên truyền lại nguyên vẹn cho học sinh.",
-   "Một công cụ để giải quyết vấn đề, liên tục được tái cấu trúc theo nhu cầu.",
+   "Một kho chân lý bất biến chỉ có thể đạt được qua suy ngẫm thuần túy.",
    "Thành quả cạnh tranh của những cá nhân thích nghi tốt nhất với xã hội.",
-   "Một kho chân lý bất biến chỉ có thể đạt được qua suy ngẫm thuần túy."
+   "Thông tin hoàn chỉnh cần được giáo viên truyền lại nguyên vẹn cho học sinh.",
+   "Một công cụ để giải quyết vấn đề, liên tục được tái cấu trúc theo nhu cầu."
   ],
-  "a": 1,
+  "a": 3,
   "exp": "Phương pháp khoa học năm bước: trải nghiệm thật, xác định vấn đề, thu thông tin, dựng giải pháp, kiểm nghiệm.",
   "src": "tr. 107"
  },
  {
   "q": "Jane Addams đưa ra ý tưởng nào cho trường học?",
   "opts": [
-   "Trường nên theo chương trình cố định do giáo hội đặt cho từng giai đoạn tuổi, ở một số trường và khu vực khi đó.",
    "Trường nên như nhà định cư: đa chức năng, kết nối cộng đồng và đưa văn hóa nhập cư vào.",
+   "Trường chỉ nên dạy kỹ năng sinh tồn khoa học và công nghệ, không dạy xã hội.",
    "Trường nên tách khỏi dân nhập cư để giữ thuần văn hóa Mỹ ở mọi lớp học.",
-   "Trường chỉ nên dạy kỹ năng sinh tồn khoa học và công nghệ, không dạy xã hội."
+   "Trường nên theo chương trình cố định do giáo hội đặt cho từng giai đoạn tuổi, ở một số trường và khu vực khi đó."
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Hull-House (1889) ở Chicago: người nhập cư được dạy việc làm, nhà ở, y tế, giáo dục con và dạy lại nhân viên.",
   "src": "tr. 109–111"
  },
  {
   "q": "Điểm nào là nền của 'môi trường chuẩn bị' của Montessori?",
   "opts": [
-   "Trẻ chỉ làm việc khi có phần thưởng hoặc hình phạt rõ ràng từ giáo viên.",
-   "Trẻ có nhu cầu nội tại làm điều mình quan tâm, nên có vật liệu sẵn để tự luyện tập.",
+   "Trẻ nên chơi tự do hoàn toàn, không có thiết bị hay quy trình quy định.",
    "Trẻ học tốt nhất khi nghe thầy giảng dài và ghi chép lại cẩn thận bài học, như nhiều tài liệu thời đó vẫn mô tả.",
-   "Trẻ nên chơi tự do hoàn toàn, không có thiết bị hay quy trình quy định."
+   "Trẻ có nhu cầu nội tại làm điều mình quan tâm, nên có vật liệu sẵn để tự luyện tập.",
+   "Trẻ chỉ làm việc khi có phần thưởng hoặc hình phạt rõ ràng từ giáo viên."
   ],
-  "a": 1,
+  "a": 2,
   "exp": "Casa dei Bambini (1908) ở Rome; người dạy là 'directress'; ba loại kỹ năng: thực hành, giác quan, hình thức.",
   "src": "tr. 111–112"
  },
  {
   "q": "Bốn giai đoạn nhận thức của Piaget theo thứ tự là gì?",
   "opts": [
-   "Chuẩn bị, trình bày, liên tưởng, khái quát (Herbart).",
-   "Tiền thao tác, cảm giác–vận động, thao tác hình thức, thao tác cụ thể, theo cách nhìn khá phổ biến lúc ấy.",
+   "Cảm giác–vận động, tiền thao tác, thao tác cụ thể, thao tác hình thức.",
    "Thơ ấu, thiếu niên, vị thành niên, thanh niên (Rousseau).",
-   "Cảm giác–vận động, tiền thao tác, thao tác cụ thể, thao tác hình thức."
+   "Tiền thao tác, cảm giác–vận động, thao tác hình thức, thao tác cụ thể, theo cách nhìn khá phổ biến lúc ấy.",
+   "Chuẩn bị, trình bày, liên tưởng, khái quát (Herbart)."
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Các độ tuổi: 0–2, 2–7, 7–11, từ 11; trẻ dựng chứ không sao chép thực tại: tiền đề của thuyết kiến tạo.",
   "src": "tr. 113–114"
  },
