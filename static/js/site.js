@@ -10,6 +10,12 @@
   document.addEventListener("click", function (e) {
     var b = e.target.closest("[data-act]"); if (!b) return;
     var act = b.getAttribute("data-act"), html = document.documentElement;
+    if (act === "ff") {
+      var FF = { georgia: ['Georgia,"Times New Roman",Times,serif', "Georgia"], times: ['"Times New Roman",Times,serif', "Times"], sans: ['-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif', "Sans"] };
+      var order = ["georgia", "times", "sans"], now = store("dsgd-ff") || "georgia";
+      var nx = order[(order.indexOf(now) + 1) % order.length];
+      html.style.setProperty("--serif", FF[nx][0]); store("dsgd-ff", nx); paintFF(); return;
+    }
     if (act === "theme") {
       var dark = html.getAttribute("data-theme") ? html.getAttribute("data-theme") === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
       var t = dark ? "light" : "dark"; html.setAttribute("data-theme", t); store("dsgd-theme", t);
@@ -19,6 +25,8 @@
       html.style.setProperty("--fs", n + "px"); store("dsgd-font", n);
     }
   });
+  function paintFF() { var L = { georgia: "Georgia", times: "Times", sans: "Sans" }, v = L[store("dsgd-ff") || "georgia"] || "Georgia"; document.querySelectorAll('[data-act="ff"]').forEach(function (b) { b.textContent = v; }); }
+  paintFF();
   var side = document.getElementById("side"), menuBtn = document.getElementById("menuBtn");
   if (menuBtn && side) {
     menuBtn.addEventListener("click", function () { side.classList.toggle("show"); });
