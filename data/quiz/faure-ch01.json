@@ -2,22 +2,22 @@
  {
   "q": "Theo Faure, vì sao con người hiện đại sống được trong một môi trường ô nhiễm mà lẽ ra không thể giữ sức khoẻ?",
   "opts": [
-   "Nhờ khả năng thích nghi sinh học của con người đã tăng đáng kể qua các thế hệ kể từ thời tiền sử, giúp cơ thể chống chịu tốt hơn, nhờ đó họ chịu đựng được các tác nhân độc hại trong không khí và nguồn nước ngày nay",
-   "Nhờ thuốc men và công nghệ y tế thay thế phần lớn vai trò của giáo dục trong việc bảo vệ con người khỏi các tác nhân có hại",
    "Nhờ tri thức được truyền lại và làm giàu qua các thế hệ, tức nhờ giáo dục ngày càng rộng, chứ không phải nhờ khả năng thích nghi sinh học tăng lên",
-   "Nhờ các chủng người đã có những thay đổi tiến hoá lớn từ thời tiền sử nên cơ thể hiện đại vốn bền bỉ hơn tổ tiên rất nhiều, cho nên ngày nay họ chịu được ô nhiễm mà tổ tiên xa xưa của họ chắc chắn không thể chịu nổi"
+   "Nhờ các chủng người đã có những thay đổi tiến hoá lớn từ thời tiền sử nên cơ thể hiện đại vốn bền bỉ hơn tổ tiên rất nhiều, cho nên ngày nay họ chịu được ô nhiễm mà tổ tiên xa xưa của họ chắc chắn không thể chịu nổi",
+   "Nhờ khả năng thích nghi sinh học của con người đã tăng đáng kể qua các thế hệ kể từ thời tiền sử, giúp cơ thể chống chịu tốt hơn, nhờ đó họ chịu đựng được các tác nhân độc hại trong không khí và nguồn nước ngày nay",
+   "Nhờ thuốc men và công nghệ y tế thay thế phần lớn vai trò của giáo dục trong việc bảo vệ con người khỏi các tác nhân có hại"
   ],
-  "a": 2,
+  "a": 0,
   "exp": "Báo cáo gọi niềm tin vào sự thích nghi sinh học ngày càng tăng là \"ảo tưởng\" (mere illusion): các chủng người hầu như ít đổi về sinh học từ thời tiền sử. Con người tự bảo vệ được là nhờ tri thức truyền và làm giàu qua các thế hệ.",
   "src": "tr. 4"
  },
  {
   "q": "Theo báo cáo, điều gì gắn chặt với việc hình thành cấu trúc nhà trường?",
   "opts": [
-   "Việc phát minh máy in ở châu Âu, vốn làm sách phổ biến đến mức bắt buộc phải lập trường để dạy mọi người đọc, nên nhà trường ra đời như một phản ứng trực tiếp trước những nhu cầu sản xuất đó",
+   "Nhu cầu đào tạo công nhân cho các nhà máy trong cách mạng công nghiệp, khi sản xuất hàng loạt cần lao động có kỷ luật",
    "Sự ra đời của nhà nước dân tộc hiện đại, vốn cần một bộ máy riêng để đào tạo công chức và quân nhân cho mình, nên ngay từ đầu nó gắn với bộ máy hành chính của nhà nước chứ không gắn với chữ viết",
    "Việc hệ thống hoá và ngày càng dùng nhiều chữ viết, vì học đọc đòi hỏi một người thầy cùng nhóm học trò trong một lớp học",
-   "Nhu cầu đào tạo công nhân cho các nhà máy trong cách mạng công nghiệp, khi sản xuất hàng loạt cần lao động có kỷ luật"
+   "Việc phát minh máy in ở châu Âu, vốn làm sách phổ biến đến mức bắt buộc phải lập trường để dạy mọi người đọc, nên nhà trường ra đời như một phản ứng trực tiếp trước những nhu cầu sản xuất đó"
   ],
   "a": 2,
   "exp": "Báo cáo nói nhà trường hình thành dần ở mọi loại xã hội, qua các giai đoạn tương tự, gắn với việc hệ thống hoá và dùng nhiều chữ viết. Máy in và công nghiệp hoá là các giai đoạn muộn hơn, chỉ làm giáo dục lan rộng.",
@@ -26,72 +26,72 @@
  {
   "q": "Mặt trái nào của sách và chữ viết đối với giáo dục được Faure chỉ ra?",
   "opts": [
-   "Làm giảm vai trò của người thầy, vì học trò có thể tự học qua sách mà không cần đến người hướng dẫn trong lớp học nữa",
    "Nuôi định kiến rằng chữ viết là hiện thân của mọi tri thức đáng gọi là tri thức, cao hơn nhiều so với bài học từ đời sống hằng ngày",
-   "Làm cho tri thức của người xưa bị thất truyền nhanh hơn, vì sách in khiến việc ghi nhớ bằng lời không còn được coi trọng nữa, đặc biệt ở những cộng đồng vốn dựa nhiều vào truyền khẩu và trí nhớ tập thể",
-   "Khiến giáo dục trở nên quá đắt đỏ, vì chi phí in ấn sách vở khiến chỉ những gia đình giàu có mới cho con đi học được, nên giáo dục dần chỉ còn là đặc quyền của những tầng lớp có đủ tiền để mua sách"
+   "Làm giảm vai trò của người thầy, vì học trò có thể tự học qua sách mà không cần đến người hướng dẫn trong lớp học nữa",
+   "Khiến giáo dục trở nên quá đắt đỏ, vì chi phí in ấn sách vở khiến chỉ những gia đình giàu có mới cho con đi học được, nên giáo dục dần chỉ còn là đặc quyền của những tầng lớp có đủ tiền để mua sách",
+   "Làm cho tri thức của người xưa bị thất truyền nhanh hơn, vì sách in khiến việc ghi nhớ bằng lời không còn được coi trọng nữa, đặc biệt ở những cộng đồng vốn dựa nhiều vào truyền khẩu và trí nhớ tập thể"
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Báo cáo ghi nhận quyền năng lớn của chữ viết và sách in, nhưng chỉ ra rằng chúng thay thế cách truyền trực tiếp với sự vật và con người, và nuôi định kiến đề cao chữ viết hơn bài học đời sống. Định kiến ấy còn ăn sâu trong hầu hết hệ thống trường hôm nay.",
   "src": "tr. 6"
  },
  {
   "q": "\"Giáo dục đi trước\" (education precedes) trong báo cáo có nghĩa là gì?",
   "opts": [
-   "Trẻ em ở các nước phát triển được bắt đầu đi học sớm hơn so với trẻ em ở các nước đang phát triển trong cùng một thời kỳ",
    "Lần đầu tiên, phát triển giáo dục trên quy mô toàn thế giới có xu hướng đi trước phát triển kinh tế, thay vì theo sau tăng trưởng",
+   "Trẻ em ở các nước phát triển được bắt đầu đi học sớm hơn so với trẻ em ở các nước đang phát triển trong cùng một thời kỳ",
    "Giáo dục luôn phải hoàn thành trước thì nền kinh tế mới có thể bắt đầu phát triển, và điều này đã đúng từ hàng thế kỷ nay, điều mà lịch sử giáo dục của các nước công nghiệp đầu tiên đã luôn xác nhận",
    "Giáo dục đại học của một nước phải được xây dựng xong trước khi nước đó có thể mở rộng hệ thống giáo dục tiểu học của mình, theo một trình tự mà người ta coi là quy luật chung của mọi hệ thống giáo dục"
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Faure nói hàng thế kỷ giáo dục thường đi sau tăng trưởng kinh tế; nay lần đầu tiên xu hướng đảo ngược, xuất hiện trước ở Nhật, Liên Xô và Mỹ rồi nhiều nước đang phát triển theo.",
   "src": "tr. 12"
  },
  {
   "q": "Năm 1968, chi tiêu quân sự toàn thế giới là 182.000 triệu USD. Chi công cho khu vực giáo dục riêng năm đó (số báo cáo nêu) là bao nhiêu?",
   "opts": [
-   "132.000 triệu USD, và tổng chi cho giáo dục tính cả các khoản khác còn cao hơn nhiều",
-   "92.000 triệu USD, tức chưa bằng một nửa chi quân sự toàn cầu, kể cả khi cộng thêm các khoản chi ngoài ngân sách",
    "182.000 triệu USD, bằng đúng với chi quân sự toàn cầu cùng năm theo số liệu thống kê của Văn phòng Thống kê UNESCO",
-   "232.000 triệu USD, tức vượt xa chi quân sự toàn cầu ngay trong phần chi công cho khu vực giáo dục riêng"
+   "132.000 triệu USD, và tổng chi cho giáo dục tính cả các khoản khác còn cao hơn nhiều",
+   "232.000 triệu USD, tức vượt xa chi quân sự toàn cầu ngay trong phần chi công cho khu vực giáo dục riêng",
+   "92.000 triệu USD, tức chưa bằng một nửa chi quân sự toàn cầu, kể cả khi cộng thêm các khoản chi ngoài ngân sách"
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Chú thích tr. 12: chi công cho khu vực giáo dục riêng là 132.000 triệu USD; cộng thêm đào tạo ở ngành khác, truyền thông giáo dục, chi tư nhân... thì tổng chi cho giáo dục \"cao hơn nhiều\".",
   "src": "tr. 12"
  },
  {
   "q": "Báo cáo nói gì về các mô hình giáo dục ở những vùng từng là thuộc địa?",
   "opts": [
-   "Các nước thực dân thích ứng mô hình giáo dục châu Âu rất kỹ với từng vùng bản địa, nhờ đó phần lớn hệ thống hiện nay vẫn phù hợp, vì thế phần lớn hệ thống giáo dục ngày nay hầu như không mang dấu vết của nước đô hộ cũ",
    "Các nước thực dân cấy và phân phát nguyên trạng những mô hình giáo dục châu Âu tới mọi vùng đất, nên nhiều hệ thống hiện nay còn phản chiếu di sản đó",
+   "Các dân tộc bị đô hộ đã chủ động bác bỏ mọi thành tố của giáo dục châu Âu ngay khi giành độc lập và xây hệ thống hoàn toàn mới, rồi dựa vào đó dựng nên những hệ thống mang bản sắc riêng hoàn toàn của chính mình",
    "Chỉ riêng ở Ấn Độ mới có chính sách giáo dục thực dân rõ ràng, còn các vùng khác thì nhà trường phát triển hoàn toàn tự nhiên",
-   "Các dân tộc bị đô hộ đã chủ động bác bỏ mọi thành tố của giáo dục châu Âu ngay khi giành độc lập và xây hệ thống hoàn toàn mới, rồi dựa vào đó dựng nên những hệ thống mang bản sắc riêng hoàn toàn của chính mình"
+   "Các nước thực dân thích ứng mô hình giáo dục châu Âu rất kỹ với từng vùng bản địa, nhờ đó phần lớn hệ thống hiện nay vẫn phù hợp, vì thế phần lớn hệ thống giáo dục ngày nay hầu như không mang dấu vết của nước đô hộ cũ"
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Faure coi dấu ấn thực dân lên giáo dục là có hậu quả lớn nhất: mô hình châu Âu được cấy nguyên trạng. Báo cáo cũng ghi nhận nhiều nước từng bị đô hộ vẫn tự hào tiếp nhận phần tốt nhất của văn hoá cổ điển.",
   "src": "tr. 10–11"
  },
  {
   "q": "Ai được báo cáo gọi là người cổ xuý nổi tiếng nhất cho việc \"phi trường học hoá\" xã hội?",
   "opts": [
+   "Paul Lengrand, tác giả cuốn nhập môn giáo dục suốt đời mà báo cáo trích khi nói về lỗ hổng do phong trào sinh viên mở ra",
    "Ivan Illich, người gặp các nhà phê phán khác tại trung tâm CIDOC ở Cuernavaca, Mexico",
-   "Margaret Mead, nhà nhân học mà báo cáo trích để nói rằng tương lai đã ở đây và cần được nuôi dưỡng ngay hôm nay",
    "Julius Nyerere, nhà lãnh đạo mà báo cáo cũng dẫn nhiều lần để nói về giáo dục phi chính quy ở châu Phi tiền thuộc địa",
-   "Paul Lengrand, tác giả cuốn nhập môn giáo dục suốt đời mà báo cáo trích khi nói về lỗ hổng do phong trào sinh viên mở ra"
+   "Margaret Mead, nhà nhân học mà báo cáo trích để nói rằng tương lai đã ở đây và cần được nuôi dưỡng ngay hôm nay"
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Báo cáo ghi Illich là người truyền bá nổi tiếng nhất của luận điểm này. Nyerere, Mead và Lengrand được dẫn ở các chỗ khác trong chương, với nội dung không phải phi trường học hoá.",
   "src": "tr. 20"
  },
  {
   "q": "Từ phần điểm lại lịch sử, Faure kết luận lịch sử giáo dục đề ra cho tương lai nhiệm vụ kép nào?",
   "opts": [
-   "Xoá bỏ hoàn toàn di sản thực dân, đồng thời thay mọi hệ thống giáo dục cũ bằng một mô hình duy nhất dùng chung toàn cầu",
    "Giữ nguyên các cấu trúc truyền thống đã được thử thách qua nhiều thế kỷ, đồng thời mở rộng quy mô cho số đông người học",
    "Phục hồi những giá trị bị lãng quên hoặc bị phá huỷ, đồng thời đổi mới giáo dục, cả hai cùng một lúc",
-   "Phổ cập giáo dục tiểu học cho mọi trẻ em, đồng thời rút ngắn giáo dục đại học để tập trung nguồn lực vào cấp thấp hơn"
+   "Phổ cập giáo dục tiểu học cho mọi trẻ em, đồng thời rút ngắn giáo dục đại học để tập trung nguồn lực vào cấp thấp hơn",
+   "Xoá bỏ hoàn toàn di sản thực dân, đồng thời thay mọi hệ thống giáo dục cũ bằng một mô hình duy nhất dùng chung toàn cầu"
   ],
-  "a": 2,
+  "a": 1,
   "exp": "Câu kết phần Findings ở tr. 12: lịch sử giáo dục \"dường như đề ra nhiệm vụ kép cho tương lai: phục hồi và đổi mới, cùng một lúc\".",
   "src": "tr. 12"
  },
@@ -99,8 +99,8 @@
   "q": "Ba câu hỏi lớn Faure rút ra ở cuối chương xoay quanh điều gì?",
   "opts": [
    "Khả năng của hệ thống trường đáp ứng nhu cầu toàn cầu, khả năng cấp nguồn lực khổng lồ, và khả năng tiếp tục phát triển theo đường lối và nhịp độ cũ",
-   "Sự khác nhau giữa nước giàu và nước nghèo về chương trình học, về trình độ giáo viên, và về cách trường học được quản lý hằng ngày",
    "Vai trò của giáo hội trong giáo dục, ảnh hưởng của chủ nghĩa thực dân với chương trình, và cách đo tác động của phong trào sinh viên, cùng với việc xã hội phải điều chỉnh lại cách trả lương cho giáo viên",
+   "Sự khác nhau giữa nước giàu và nước nghèo về chương trình học, về trình độ giáo viên, và về cách trường học được quản lý hằng ngày",
    "Mức độ cần thiết của việc xoá bỏ nhà trường, khả năng thay thế giáo viên bằng máy móc, và cách xã hội thay giáo dục chính quy bằng tự học, cùng với những thay đổi cần có ở bậc đại học"
   ],
   "a": 0,
