@@ -14,10 +14,10 @@
  {
   "q": "Mối quan hệ giữa 'quá trình' và 'ca' trong thiết kế nghiên cứu là gì?",
   "opts": [
-   "Quá trình là phần lịch sử của thập niên 1970, còn ca là phần phân tích các cuộc phỏng vấn, và hai phần được đọc riêng rẽ.",
+   "Ca là toàn bộ chính sách giáo dục Anh thế kỷ 20, còn quá trình là các thủ tục nghị viện thông qua Đạo luật 1988.",
    "Đạo luật 1988 là ca làm tiêu điểm cho việc nghiên cứu quá trình làm chính sách; hai phân tích cùng giúp lý thuyết hóa.",
-   "Quá trình và ca là hai cách gọi khác nhau cho cùng một việc, nên không cần phân tích riêng bằng các phương pháp khác nhau.",
-   "Ca là toàn bộ chính sách giáo dục Anh thế kỷ 20, còn quá trình là các thủ tục nghị viện thông qua Đạo luật 1988."
+   "Quá trình là phần lịch sử của thập niên 1970, còn ca là phần phân tích các cuộc phỏng vấn, và hai phần được đọc riêng rẽ.",
+   "Quá trình và ca là hai cách gọi khác nhau cho cùng một việc, nên không cần phân tích riêng bằng các phương pháp khác nhau."
   ],
   "a": 1,
   "exp": "Phần tập trung vào Đạo luật cung cấp một 'ca' (một tiêu điểm) cho việc điều tra 'quá trình' làm chính sách; cùng nhau chúng cho phép một số lý thuyết hóa.",
@@ -26,21 +26,21 @@
  {
   "q": "Câu 'tháo rời các thứ' của Kogan được Ball dùng để nói điều gì về định hướng nghiên cứu?",
   "opts": [
-   "Định hướng thực nghiệm thuần túy: nhà nghiên cứu chỉ chấp nhận số liệu định lượng và loại bỏ mọi tư liệu định tính.",
    "Định hướng phê phán và giải cấu trúc: tháo rời các thứ, và nhận xét hệ quả xã hội của chính sách đó khi có thể.",
+   "Định hướng mô tả trung lập: nhà nghiên cứu chỉ ghi lại các sự kiện mà không đưa ra bất kỳ nhận xét hay đánh giá nào.",
    "Định hướng ủng hộ chính phủ: nhà nghiên cứu giúp làm rõ các chính sách để người dân dễ hiểu và dễ tuân thủ hơn.",
-   "Định hướng mô tả trung lập: nhà nghiên cứu chỉ ghi lại các sự kiện mà không đưa ra bất kỳ nhận xét hay đánh giá nào."
+   "Định hướng thực nghiệm thuần túy: nhà nghiên cứu chỉ chấp nhận số liệu định lượng và loại bỏ mọi tư liệu định tính."
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Ball nói định hướng phê phán và giải cấu trúc, theo Kogan; ông cũng dẫn Walker để nhấn việc đánh giá tác động phân phối của chính sách.",
   "src": "tr. 1"
  },
  {
   "q": "Ball mô tả cách tiếp cận lý thuyết của sách như thế nào?",
   "opts": [
-   "Hoàn toàn theo thuyết đa nguyên: chính sách là kết quả đàm phán giữa các nhóm lợi ích có quyền lực ngang nhau.",
-   "Không dùng lý thuyết nào, chỉ ghi lại phỏng vấn nguyên văn và để người đọc tự rút ra kết luận cho mình, như một tư liệu thô chưa qua diễn giải.",
    "Theo trọn một lý thuyết duy nhất là chủ nghĩa Marx cổ điển, và áp dụng nhất quán cho mọi chương của sách.",
+   "Không dùng lý thuyết nào, chỉ ghi lại phỏng vấn nguyên văn và để người đọc tự rút ra kết luận cho mình, như một tư liệu thô chưa qua diễn giải.",
+   "Hoàn toàn theo thuyết đa nguyên: chính sách là kết quả đàm phán giữa các nhóm lợi ích có quyền lực ngang nhau.",
    "Chiết trung hoặc thực dụng: thử nhiều cách diễn giải xem cái nào đủ; các chương là tiểu luận riêng mà liên quan."
   ],
   "a": 3,
@@ -50,12 +50,12 @@
  {
   "q": "'Đa quyền lực méo mó' (deformed polyarchy) mà Ball nhắc có nghĩa là gì?",
   "opts": [
-   "Một hệ thống hành chính quá phức tạp làm giảm tốc độ ra quyết định, nhưng không liên quan tới quyền lực kinh tế.",
    "Sau mặt tiền chính trị công khai, nhà nước đáp ứng trực tiếp áp lực kinh tế doanh nghiệp, nên dân chủ đại diện bị bóp méo.",
+   "Một hệ thống hành chính quá phức tạp làm giảm tốc độ ra quyết định, nhưng không liên quan tới quyền lực kinh tế.",
    "Một chế độ độc tài trong đó quyền lực tập trung vào một người và các thể chế đại diện đã bị bãi bỏ hoàn toàn.",
    "Một chế độ trong đó mọi nhóm lợi ích có tiếng nói ngang nhau và nhà nước chỉ đóng vai trò trọng tài hoàn toàn trung lập."
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Ball dẫn Dunleavy và O'Leary (1987) và gắn với 'chính thể kép': vai trò của thể chế đại diện bị ràng buộc và bóp méo bởi bất bình đẳng quyền lực vốn có của chủ nghĩa tư bản.",
   "src": "tr. 2"
  },
@@ -63,11 +63,11 @@
   "q": "Định nghĩa 'phân tích chính sách phê phán' của Prunty mà Ball dẫn nhấn điều gì?",
   "opts": [
    "Việc tối đa hóa hiệu quả kinh tế của hệ thống giáo dục, với con người được xem là nguồn lực để phục vụ tăng trưởng.",
-   "Việc ủng hộ chính phủ đương nhiệm để bảo đảm ổn định chính sách, và hạn chế tranh luận công khai về các quyết định.",
    "Tầm nhìn trật tự đạo đức nơi công lý, bình đẳng, tự do cá nhân không bị số ít tham lam làm hại, con người là mục đích tự thân.",
-   "Việc nhà phân tích phải tuyệt đối trung lập về giá trị, và loại bỏ mọi cam kết chính trị cá nhân khỏi công việc của mình."
+   "Việc nhà phân tích phải tuyệt đối trung lập về giá trị, và loại bỏ mọi cam kết chính trị cá nhân khỏi công việc của mình.",
+   "Việc ủng hộ chính phủ đương nhiệm để bảo đảm ổn định chính sách, và hạn chế tranh luận công khai về các quyết định."
   ],
-  "a": 2,
+  "a": 1,
   "exp": "Prunty (1985): giá trị cá nhân và cam kết chính trị của nhà phân tích phê phán neo vào tầm nhìn đó; họ tán thành các sắp xếp nơi con người không bao giờ chỉ bị coi là phương tiện.",
   "src": "tr. 2"
  }

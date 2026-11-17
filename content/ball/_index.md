@@ -27,4 +27,4 @@ Stephen J. Ball phân tích cách chính sách giáo dục ở **Anh** được 
 
 Đây là sách khó đọc đối với người chưa quen xã hội học chính trị, nên mỗi chương sẽ có phần "Nói nôm na" ở đầu để dẫn vào lập luận chính.
 
-Các chương chưa viết hiện là mục "Sắp có" trong mục lục. Xem trang [Học để làm người](../faure/) để thấy cấu trúc đầy đủ của một chương đã hoàn chỉnh.
+Cuốn này đã có đủ phần Giới thiệu (tr. 1–2) và 8 chương. Mỗi chương gồm trang *Vấn đề*, các mục đánh số theo số trang in, và trang *Góc nhìn* với thuật ngữ, trích dẫn đã đối chiếu, câu hỏi suy ngẫm và trắc nghiệm. Lời nói đầu (tr. vii–viii) không có trong văn bản nguồn nên không được diễn giải.

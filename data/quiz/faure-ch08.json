@@ -2,70 +2,70 @@
  {
   "q": "Báo cáo đề xuất điều gì làm \"khái niệm chủ đạo\" của chính sách giáo dục trong những năm tới?",
   "opts": [
+   "Giáo dục suốt đời, không phải một hệ thống giáo dục mà là nguyên lý làm nền cho toàn bộ tổ chức của hệ thống và cho sự phát triển từng thành phần của nó",
    "Tập trung hoàn toàn nguồn lực vào giáo dục tiểu học, vì chỉ cấp tiểu học mới tạo nền tảng chung cho mọi cá nhân và phải xong xuôi trước mọi cấp học khác",
    "Xoá bỏ toàn bộ hệ thống trường chính quy, vì trường học là tàn dư của quá khứ và không còn khả năng đáp ứng nhu cầu của xã hội công nghiệp đang biến đổi",
-   "Phổ cập giáo dục đại học cho mọi công dân, vì đại học là cấp cao nhất và chỉ khi mọi người đều học đại học thì xã hội học tập mới thực sự hình thành đầy đủ",
-   "Giáo dục suốt đời, không phải một hệ thống giáo dục mà là nguyên lý làm nền cho toàn bộ tổ chức của hệ thống và cho sự phát triển từng thành phần của nó"
+   "Phổ cập giáo dục đại học cho mọi công dân, vì đại học là cấp cao nhất và chỉ khi mọi người đều học đại học thì xã hội học tập mới thực sự hình thành đầy đủ"
   ],
-  "a": 3,
+  "a": 0,
   "exp": "Tr. 181–182: lời khuyến nghị là \"lifelong education as the master concept for educational policies in the years to come for both developed and developing countries\"; giáo dục suốt đời không phải hệ thống mà là nguyên lý làm nền cho tổ chức tổng thể và cho từng bộ phận.",
   "src": "tr. 181–182"
  },
  {
   "q": "Theo báo cáo, \"phi hình thức hoá\" và \"phi thể chế hoá\" có nghĩa là gì?",
   "opts": [
-   "Mọi con đường học, chính quy hay không, thể chế hoá hay không, được thừa nhận về nguyên tắc là hợp lệ ngang nhau, và chỉ kết quả cuối cùng mới đáng kể",
    "Bỏ hoàn toàn các trường chính quy và thay bằng học tại nhà, vì giáo dục thể chế hoá không còn đáp ứng nhu cầu của người học trong thời đại có nhiều phương tiện thông tin",
+   "Giảm số năm giáo dục bắt buộc xuống còn tối thiểu, vì việc kéo dài thời gian đi học là nguyên nhân chính của hao phí và chi phí giáo dục quá cao ở nhiều nước",
    "Chỉ công nhận các chương trình học ngoài trường, vì các thiết chế trường là những hệ thống bảo thủ và không có khả năng tự đổi mới theo hướng cá nhân hoá",
-   "Giảm số năm giáo dục bắt buộc xuống còn tối thiểu, vì việc kéo dài thời gian đi học là nguyên nhân chính của hao phí và chi phí giáo dục quá cao ở nhiều nước"
+   "Mọi con đường học, chính quy hay không, thể chế hoá hay không, được thừa nhận về nguyên tắc là hợp lệ ngang nhau, và chỉ kết quả cuối cùng mới đáng kể"
   ],
-  "a": 0,
+  "a": 3,
   "exp": "Tr. 186: các thiết chế trường có thể mất vẻ thiêng liêng nhưng vẫn song song với cấu trúc trường chặt chẽ; mọi con đường, chính quy hay phi chính quy, thể chế hoá hay không, được thừa nhận về nguyên tắc là hợp lệ ngang nhau; đó là nghĩa của \"deformalization\" và \"de-institutionalization\".",
   "src": "tr. 186"
  },
  {
   "q": "Ví dụ Ceylon (Sri Lanka) minh hoạ \"giáo dục luân phiên\" như thế nào?",
   "opts": [
-   "Chỉ người có điểm cao nhất ở kỳ thi cuối cấp mới được học tiếp, và việc tuyển chọn hoàn toàn dựa trên kết quả chứng chỉ ban đầu mà không xét kinh nghiệm làm việc",
    "Mọi học sinh học xong giáo dục ban đầu đều vào thẳng tiền đại học theo thứ tự điểm, và những người không đủ điểm thì không còn được quay lại học trong suốt cuộc đời",
-   "Mọi học sinh bắt buộc đi làm ngay sau giáo dục ban đầu và không có quyền học tiếp sau này, để tập trung nguồn lực của quốc gia vào giáo dục tiểu học, như một số báo cáo chuyên ngành lúc đó từng nêu ra",
-   "Chỉ ít người có chứng chỉ vào ngay tiền đại học, mọi người đều có quyền xin vào tiền đại học sau hai, ba năm, tuyển chọn bằng kiểm tra năng khiếu cho người đã có đào tạo nghề hay kỹ năng"
+   "Chỉ ít người có chứng chỉ vào ngay tiền đại học, mọi người đều có quyền xin vào tiền đại học sau hai, ba năm, tuyển chọn bằng kiểm tra năng khiếu cho người đã có đào tạo nghề hay kỹ năng",
+   "Chỉ người có điểm cao nhất ở kỳ thi cuối cấp mới được học tiếp, và việc tuyển chọn hoàn toàn dựa trên kết quả chứng chỉ ban đầu mà không xét kinh nghiệm làm việc",
+   "Mọi học sinh bắt buộc đi làm ngay sau giáo dục ban đầu và không có quyền học tiếp sau này, để tập trung nguồn lực của quốc gia vào giáo dục tiểu học, như một số báo cáo chuyên ngành lúc đó từng nêu ra"
   ],
-  "a": 3,
+  "a": 1,
   "exp": "Tr. 190: (a) cấp chứng chỉ cuối học cho đa số; (b) chỉ số ít được vào ngay tiền đại học; (c) hướng số còn lại sang đời hoạt động hay giáo dục kỹ thuật, nghề; (d) mọi người có quyền xin vào tiền đại học sau hai, ba năm, tuyển chọn bằng kiểm tra năng khiếu cho người đã có đào tạo nghề hay kỹ năng làm việc.",
   "src": "tr. 190"
  },
  {
   "q": "Khuyến nghị của báo cáo về đa dạng hoá giáo dục sau trung học là gì?",
   "opts": [
-   "Giữ nguyên mô hình đại học truyền thống nhưng tăng mạnh số chỗ học trong từng khoa, vì đa dạng hoá sẽ làm giảm uy tín và chất lượng của hệ thống giáo dục đại học",
    "Đa dạng hoá rất rộng cấu trúc, nội dung và các nhóm sinh viên: nhiều chương trình, chu kỳ ngắn song song dài, cơ sở nhỏ, tiêu chí nhập học thoáng, và mở cửa cho nhiều loại người",
-   "Thay toàn bộ đại học bằng các trường nghề ngắn hạn, vì thị trường lao động chỉ cần kỹ thuật viên trung cấp và không cần các cơ sở nghiên cứu cao cấp",
-   "Thu hẹp đầu vào của đại học để chỉ giữ nhóm sinh viên xuất sắc, vì chỉ như vậy chất lượng quốc tế mới được duy trì và nguồn lực không bị phân tán, theo cách nhiều nhà quan sát ngành giáo dục thời ấy vẫn nhắc đến"
+   "Thu hẹp đầu vào của đại học để chỉ giữ nhóm sinh viên xuất sắc, vì chỉ như vậy chất lượng quốc tế mới được duy trì và nguồn lực không bị phân tán, theo cách nhiều nhà quan sát ngành giáo dục thời ấy vẫn nhắc đến",
+   "Giữ nguyên mô hình đại học truyền thống nhưng tăng mạnh số chỗ học trong từng khoa, vì đa dạng hoá sẽ làm giảm uy tín và chất lượng của hệ thống giáo dục đại học",
+   "Thay toàn bộ đại học bằng các trường nghề ngắn hạn, vì thị trường lao động chỉ cần kỹ thuật viên trung cấp và không cần các cơ sở nghiên cứu cao cấp"
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Tr. 200–201: nhân số chương trình, chu kỳ ngắn song song dài, cơ sở nhỏ cho mục tiêu cụ thể hay địa phương, đào tạo bán chuyên nghiệp, tiêu chí nhập học thoáng, trung tâm xuất sắc đạt chuẩn quốc tế, và mở cho cựu sinh viên, công nhân, người hành nghề.",
   "src": "tr. 200–201"
  },
  {
   "q": "Về thi cử và cấp bằng, báo cáo khuyến nghị điều gì khi hệ giáo dục đa dạng hơn?",
   "opts": [
-   "Thi cử nên chủ yếu so sánh kỹ năng thu được trong điều kiện khác nhau và đo cả tiến bộ cá nhân, như một điểm bắt đầu chứ không phải kết thúc; bằng cấp ngày càng ít gắn chặt với khoá học định sẵn",
-   "Nên bỏ hoàn toàn mọi hình thức đánh giá, vì mọi kiểm tra đều gây áp lực xấu và không thể phản ánh đúng năng lực thực sự của người học trong thực tế, điều mà không ít chuyên gia thời đó cũng đồng tình khi bàn về chủ đề này",
    "Thi cử nên được tăng cường thành một kỳ thi cuối cấp duy nhất trên toàn quốc, vì chỉ một kỳ thi tập trung mới bảo đảm sự công bằng và khách quan cho mọi thí sinh",
-   "Bằng cấp nên gắn chặt hơn với số năm học chính quy, vì thời gian học là thước đo khách quan nhất cho mức độ thành thạo của người học ở mọi lĩnh vực"
+   "Thi cử nên chủ yếu so sánh kỹ năng thu được trong điều kiện khác nhau và đo cả tiến bộ cá nhân, như một điểm bắt đầu chứ không phải kết thúc; bằng cấp ngày càng ít gắn chặt với khoá học định sẵn",
+   "Bằng cấp nên gắn chặt hơn với số năm học chính quy, vì thời gian học là thước đo khách quan nhất cho mức độ thành thạo của người học ở mọi lĩnh vực",
+   "Nên bỏ hoàn toàn mọi hình thức đánh giá, vì mọi kiểm tra đều gây áp lực xấu và không thể phản ánh đúng năng lực thực sự của người học trong thực tế, điều mà không ít chuyên gia thời đó cũng đồng tình khi bàn về chủ đề này"
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Tr. 203–204: bằng cấp ngày càng ít gắn chặt với khoá học định sẵn; thi cử là phương tiện so sánh kỹ năng thu trong điều kiện khác nhau, điểm bắt đầu hơn là kết thúc; đánh giá đo tiến bộ cá nhân không kém mức tuân chuẩn bên ngoài.",
   "src": "tr. 203–204"
  },
  {
   "q": "Theo báo cáo, mối quan hệ giữa giáo dục người lớn và giáo dục trẻ em nên được hiểu thế nào?",
   "opts": [
-   "Giáo dục người lớn nên thay thế hoàn toàn giáo dục trẻ em ở những nước có tỉ lệ mù chữ cao, vì người lớn có thể ngay lập tức tham gia vào sản xuất và phát triển kinh tế",
+   "Giáo dục người lớn chỉ nên mang tính văn hoá cho thiểu số có điều kiện, vì mục tiêu thực dụng của nó không phù hợp với các chính sách giáo dục cơ bản của nhà nước, như một vài nghiên cứu so sánh của thập niên trước từng gợi ý",
    "Không nên đặt đối lập: giáo dục toàn diện cho phép cả hai cùng được huy động; tiểu học của trẻ không tách khỏi trình độ cha mẹ, nên giáo dục người lớn phải có chỗ trong chính sách và ngân sách",
    "Giáo dục người lớn là khu vực phụ, chỉ nên tiến hành sau khi mọi trẻ em đã được học đầy đủ, để không chia sẻ nguồn lực khan hiếm của quốc gia với những người đã quá tuổi đi học",
-   "Giáo dục người lớn chỉ nên mang tính văn hoá cho thiểu số có điều kiện, vì mục tiêu thực dụng của nó không phù hợp với các chính sách giáo dục cơ bản của nhà nước, như một vài nghiên cứu so sánh của thập niên trước từng gợi ý"
+   "Giáo dục người lớn nên thay thế hoàn toàn giáo dục trẻ em ở những nước có tỉ lệ mù chữ cao, vì người lớn có thể ngay lập tức tham gia vào sản xuất và phát triển kinh tế"
   ],
   "a": 1,
   "exp": "Tr. 205: giáo dục tiểu học của trẻ không thể tách khỏi trình độ giáo dục của cha mẹ; thế hệ đang lên không thể được đào tạo đúng trong môi trường mù chữ; không bao giờ nên đặt giáo dục người lớn đối lập với giáo dục trẻ em; giáo dục người lớn phải có chỗ đúng trong chính sách và ngân sách.",
@@ -74,24 +74,24 @@
  {
   "q": "Về tài chính giáo dục, báo cáo khuyến nghị điều gì?",
   "opts": [
-   "Chính phủ nên giảm dần chi giáo dục, vì chi tiêu công đã vượt quá khả năng chi trả của hầu hết nước và sẽ chỉ gây thêm áp lực lạm phát trong nền kinh tế, theo nhận định quen thuộc của nhiều cơ quan quản lý giáo dục",
    "Tài chính giáo dục không thể xác định bằng \"ngưỡng cần đạt\" hay \"trần không được vượt\"; cần căn chỉnh theo ba mục tiêu: chi thêm, đa dạng hoá nguồn lực và giảm chi phí đơn vị",
-   "Chi cho giáo dục chỉ nên lấy từ ngân sách nhà nước và không được huy động từ địa phương hay doanh nghiệp, vì như vậy sẽ làm mất tính công bằng của giáo dục công",
-   "Chi cho giáo dục nên được cố định ở một tỉ lệ nhất định của GNP cho mọi nước, vì chỉ một chuẩn chung mới bảo đảm sự công bằng giữa các nước trong chính sách giáo dục"
+   "Chính phủ nên giảm dần chi giáo dục, vì chi tiêu công đã vượt quá khả năng chi trả của hầu hết nước và sẽ chỉ gây thêm áp lực lạm phát trong nền kinh tế, theo nhận định quen thuộc của nhiều cơ quan quản lý giáo dục",
+   "Chi cho giáo dục nên được cố định ở một tỉ lệ nhất định của GNP cho mọi nước, vì chỉ một chuẩn chung mới bảo đảm sự công bằng giữa các nước trong chính sách giáo dục",
+   "Chi cho giáo dục chỉ nên lấy từ ngân sách nhà nước và không được huy động từ địa phương hay doanh nghiệp, vì như vậy sẽ làm mất tính công bằng của giáo dục công"
   ],
-  "a": 1,
+  "a": 0,
   "exp": "Tr. 228: vấn đề tài chính không xác định được bằng ngưỡng hay trần, và càng không bằng ngoại suy quá khứ; căn chỉnh theo ba mục tiêu: chi thêm, đa dạng nguồn lực, giảm chi phí đơn vị.",
   "src": "tr. 228"
  },
  {
   "q": "Ví dụ Bờ Biển Ngà (dạy tiểu học qua truyền hình) minh hoạ điều gì về chi phí giáo dục?",
   "opts": [
-   "Chi phí đơn vị mỗi học sinh có thể tăng (60 lên 80 USD mỗi năm) nhưng chi phí cho mỗi người học xong giảm (từ 900 xuống 640 USD) nhờ thăng cấp tự động và giảm bỏ học, và Ngân hàng Thế giới ước hệ truyền thống đắt hơn 44%",
    "Chi phí đơn vị mỗi học sinh giảm mạnh ngay từ năm đầu nhờ thay thế hoàn toàn giáo viên bằng truyền hình, và hệ truyền hình rẻ hơn hệ truyền thống khoảng 44% theo ước tính",
-   "Chi phí đơn vị mỗi học sinh giữ nguyên ở mức 60 USD vì truyền hình do các nước công nghiệp tài trợ miễn phí, và vì thế không có nhu cầu đổi cách đào tạo giáo viên",
-   "Chi phí cho mỗi người học xong tăng từ 640 lên 900 USD vì thiết bị truyền hình đắt, và Ngân hàng Thế giới khuyến nghị không nên áp dụng mô hình này ở nước khác"
+   "Chi phí đơn vị mỗi học sinh có thể tăng (60 lên 80 USD mỗi năm) nhưng chi phí cho mỗi người học xong giảm (từ 900 xuống 640 USD) nhờ thăng cấp tự động và giảm bỏ học, và Ngân hàng Thế giới ước hệ truyền thống đắt hơn 44%",
+   "Chi phí cho mỗi người học xong tăng từ 640 lên 900 USD vì thiết bị truyền hình đắt, và Ngân hàng Thế giới khuyến nghị không nên áp dụng mô hình này ở nước khác",
+   "Chi phí đơn vị mỗi học sinh giữ nguyên ở mức 60 USD vì truyền hình do các nước công nghiệp tài trợ miễn phí, và vì thế không có nhu cầu đổi cách đào tạo giáo viên"
   ],
-  "a": 0,
+  "a": 1,
   "exp": "Tr. 214 và chú thích tr. 229–230: chi phí đơn vị từ 60 lên 80 USD/năm, nhưng chi phí cho mỗi người học xong tiểu học dự kiến từ 15 × 60 = 900 xuống 8 × 80 = 640 USD; Ngân hàng Thế giới ước giữ hệ truyền thống đắt hơn 44%.",
   "src": "tr. 214, 229–230"
  }

@@ -2,10 +2,10 @@
  {
   "q": "Theo Lời nói đầu, vì sao tình hình giáo dục hiện nay \"hoàn toàn mới\" chứ không phải chuyện muôn thuở bị kịch hoá?",
   "opts": [
-   "Vì các nước đang phát triển lần đầu tiên có hệ giáo dục riêng của mình, nên những vấn đề của họ không còn giống với bất kỳ nước công nghiệp nào trong lịch sử",
+   "Vì số học sinh ngày nay đông hơn hẳn các thế hệ trước, nên mọi vấn đề cũ đều chỉ cần mở rộng thêm quy mô trường lớp là có thể giải quyết được mà không cần đổi gì khác",
    "Vì nó không chỉ là tăng trưởng về lượng mà là một biến đổi về chất chạm tới đặc tính sâu nhất của con người, đến từ cuộc cách mạng khoa học–kỹ thuật",
    "Vì các nhà giáo dục ngày nay có nhiều lý thuyết mới hơn hẳn thế hệ trước, và các lý thuyết ấy cho thấy mọi mô hình giáo dục cũ đều sai lầm ngay từ nền tảng",
-   "Vì số học sinh ngày nay đông hơn hẳn các thế hệ trước, nên mọi vấn đề cũ đều chỉ cần mở rộng thêm quy mô trường lớp là có thể giải quyết được mà không cần đổi gì khác"
+   "Vì các nước đang phát triển lần đầu tiên có hệ giáo dục riêng của mình, nên những vấn đề của họ không còn giống với bất kỳ nước công nghiệp nào trong lịch sử"
   ],
   "a": 1,
   "exp": "Tr. xxiii–xxiv: tình huống \"không có tiền lệ\", vì không phát sinh từ tăng trưởng lượng mà từ biến đổi về chất, theo một nghĩa là làm mới thiên tài của con người.",
@@ -14,10 +14,10 @@
  {
   "q": "Cuộc cách mạng khoa học–kỹ thuật khác cách mạng công nghiệp thế kỷ XVIII ở điểm nào theo Faure?",
   "opts": [
-   "Cách mạng công nghiệp diễn ra rất nhanh và đồng đều, còn cuộc cách mạng này diễn ra chậm và chỉ chạm tới một nhóm nhỏ các nhà khoa học làm việc trong phòng thí nghiệm",
    "Cách mạng công nghiệp chỉ tác động tới các nước giàu, còn cuộc cách mạng này chỉ tác động tới các nước nghèo, vì chỉ các nước nghèo mới cần học các kỹ thuật mới của thời đại",
+   "Cách mạng công nghiệp không cần giáo dục, còn cuộc cách mạng này đòi mọi người phải có bằng đại học thì mới được tham gia vào các hoạt động sản xuất của xã hội",
    "Cách mạng công nghiệp thay và nhân lên sức cơ bắp, còn cuộc này chinh phục luôn thế giới tinh thần, truyền thông tin tức thời và lần đầu thực sự phổ quát với mọi người",
-   "Cách mạng công nghiệp không cần giáo dục, còn cuộc cách mạng này đòi mọi người phải có bằng đại học thì mới được tham gia vào các hoạt động sản xuất của xã hội"
+   "Cách mạng công nghiệp diễn ra rất nhanh và đồng đều, còn cuộc cách mạng này diễn ra chậm và chỉ chạm tới một nhóm nhỏ các nhà khoa học làm việc trong phòng thí nghiệm"
   ],
   "a": 2,
   "exp": "Tr. xxv: cách mạng công nghiệp và thời máy đầu tiên thay thế và nhân lên khả năng thể chất, cơ bắp; cách mạng khoa học–kỹ thuật chinh phục cả thế giới tinh thần, ảnh hưởng mọi người ở mọi nơi, và lần đầu tiên thực sự phổ quát.",
@@ -26,9 +26,9 @@
  {
   "q": "Về động cơ học tập, Faure phê phán điều gì ở hệ giáo dục truyền thống?",
   "opts": [
-   "Nó dựa quá nhiều vào các cuộc thi và xếp hạng giữa các trường, nên học sinh luôn bị căng thẳng và không dám thử nghiệm các phương pháp mới trong lớp học, như một số báo cáo chuyên ngành lúc đó từng nêu ra",
-   "Nó chủ yếu dựa vào động cơ tìm việc làm tương xứng văn bằng và bỏ quên ham hiểu biết, nên người có bằng mà thiếu việc thấy bị lừa và nhiều trẻ nản ngay từ tiểu học",
    "Nó cho phép học sinh chọn mọi môn học theo ý thích riêng, nên chương trình bị chia nhỏ và không còn bảo đảm kiến thức chung tối thiểu cho tất cả người học",
+   "Nó chủ yếu dựa vào động cơ tìm việc làm tương xứng văn bằng và bỏ quên ham hiểu biết, nên người có bằng mà thiếu việc thấy bị lừa và nhiều trẻ nản ngay từ tiểu học",
+   "Nó dựa quá nhiều vào các cuộc thi và xếp hạng giữa các trường, nên học sinh luôn bị căng thẳng và không dám thử nghiệm các phương pháp mới trong lớp học, như một số báo cáo chuyên ngành lúc đó từng nêu ra",
    "Nó chỉ dựa vào ham hiểu biết thuần tuý và bỏ qua mọi nhu cầu việc làm, nên người học không có động lực chuẩn bị gì cho đời sống nghề nghiệp sau khi tốt nghiệp"
   ],
   "a": 1,
@@ -38,9 +38,9 @@
  {
   "q": "Lập trường của Ủy ban về nhà trường là gì?",
   "opts": [
-   "Bỏ hẳn nhà trường và thay bằng học ngoài trường, vì nhà trường đã lỗi thời hoàn toàn và mọi cải cách từng phần đều không có tác dụng thực sự đối với người học",
    "Thay nhà trường hoàn toàn bằng máy tính và truyền hình, vì công nghệ giáo dục đã đủ sức đảm nhận mọi chức năng giáo dục mà trường học từng làm trong lịch sử, theo cách nhiều nhà quan sát ngành giáo dục thời ấy vẫn nhắc đến",
    "Giữ nguyên nhà trường như hiện nay mà không cần thay đổi, vì các hệ thống đã được thử thách qua thời gian và chỉ cần vài điều chỉnh nhỏ về mặt hành chính là đủ",
+   "Bỏ hẳn nhà trường và thay bằng học ngoài trường, vì nhà trường đã lỗi thời hoàn toàn và mọi cải cách từng phần đều không có tác dụng thực sự đối với người học",
    "Lập trường biện chứng: giữ nhà trường là yếu tố thiết yếu, cải thiện hệ thống hiện có và đồng thời đề xuất các lựa chọn thay thế, không bị trói trong cấu trúc cũ cũng không đòi xoá bỏ trường"
   ],
   "a": 3,
